@@ -3,10 +3,11 @@ RecountDB = {
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Orran - Thrall",
 		["Khanen - Thrall"] = "Khanen - Thrall",
+		["Jains - Thrall"] = "Jains - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
 		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Brimtok - Thrall"] = "Brimtok - Thrall",
-		["Jains - Thrall"] = "Jains - Thrall",
+		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 	},
 	["profiles"] = {
 		["Orran - Thrall"] = {
@@ -55,6 +56,35 @@ RecountDB = {
 			["MainWindowVis"] = false,
 			["CurDataSet"] = "OverallData",
 			["GraphWindowX"] = 0,
+		},
+		["Jains - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 402.4357299804688,
+					["h"] = 164.0282135009766,
+					["w"] = 340.0937194824219,
+					["x"] = -689.0865859985352,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Razorfen Downs",
+			["CurDataSet"] = "LastFightData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowHeight"] = 164.0281829833984,
+			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 340.0936889648438,
+			["MainWindowVis"] = false,
 		},
 		["Orstout - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -110,10 +140,10 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 402.4354248046875,
+					["y"] = 402.4353637695313,
 					["h"] = 200.0001373291016,
 					["w"] = 139.9999847412109,
-					["x"] = -789.1334609985352,
+					["x"] = -789.1334838867188,
 				},
 			},
 			["Colors"] = {
@@ -127,23 +157,20 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
 		},
-		["Jains - Thrall"] = {
+		["Cajamarca - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 402.4357299804688,
-					["h"] = 164.0282135009766,
-					["w"] = 340.0937194824219,
-					["x"] = -689.0865859985352,
+					["y"] = -378.8292236328125,
+					["h"] = 193.2554168701172,
+					["w"] = 310.8664245605469,
+					["x"] = 676.721435546875,
 				},
 			},
-			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Razorfen Downs",
-			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -155,10 +182,13 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["MainWindowHeight"] = 164.0281829833984,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 310.8664245605469,
 			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 340.0936889648438,
+			["MainWindowHeight"] = 193.2554168701172,
 			["MainWindowVis"] = false,
+			["LastInstanceName"] = "Mogu'shan Vaults",
+			["CurDataSet"] = "LastFightData",
 		},
 	},
 }

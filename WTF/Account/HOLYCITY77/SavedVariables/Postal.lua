@@ -4,21 +4,23 @@ Postal3DB = {
 		["BlackBook"] = {
 			["alts"] = {
 				"Brimtok|Thrall|Horde|90|DRUID", -- [1]
-				"Eammiran|Thrall|Horde|87|MAGE", -- [2]
-				"Jains|Thrall|Horde|36|MONK", -- [3]
-				"Khanen|Thrall|Horde|90|DEATHKNIGHT", -- [4]
-				"Orran|Thrall|Horde|90|PALADIN", -- [5]
-				"Orstout|Thrall|Horde|90|MONK", -- [6]
+				"Cajamarca|Thrall|Horde|90|PRIEST", -- [2]
+				"Eammiran|Thrall|Horde|87|MAGE", -- [3]
+				"Jains|Thrall|Horde|36|MONK", -- [4]
+				"Khanen|Thrall|Horde|90|DEATHKNIGHT", -- [5]
+				"Orran|Thrall|Horde|90|PALADIN", -- [6]
+				"Orstout|Thrall|Horde|90|MONK", -- [7]
 			},
 		},
 	},
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Orran - Thrall",
 		["Khanen - Thrall"] = "Khanen - Thrall",
+		["Jains - Thrall"] = "Jains - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
 		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Brimtok - Thrall"] = "Brimtok - Thrall",
-		["Jains - Thrall"] = "Jains - Thrall",
+		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 	},
 	["profiles"] = {
 		["Orran - Thrall"] = {
@@ -35,6 +37,8 @@ Postal3DB = {
 				},
 			},
 		},
+		["Jains - Thrall"] = {
+		},
 		["Orstout - Thrall"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -47,7 +51,7 @@ Postal3DB = {
 		},
 		["Brimtok - Thrall"] = {
 		},
-		["Jains - Thrall"] = {
+		["Cajamarca - Thrall"] = {
 		},
 	},
 }

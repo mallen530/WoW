@@ -1,11 +1,11 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" what cha up to", -- [1]
-		" what kind?", -- [2]
-		" gross", -- [3]
-		" playin my dk", -- [4]
-		" talking abuot server changing", -- [5]
+		" what kind?", -- [1]
+		" gross", -- [2]
+		" playin my dk", -- [3]
+		" talking abuot server changing", -- [4]
+		"/reload ui", -- [5]
 	},
 	["ChatLog"] = {
 		["1366685477.24"] = {
@@ -133,6 +133,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366842850.769"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:523:050000000359A31E:1:4:24:13:4294967295:4294967295:4294967295:4294967295|h[5 Exalted Reputations]|h|r!", -- [1]
+			"Khanen", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khanen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"0x050000000359A31E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1366685562.175"] = {
 			"i have 3", -- [1]
@@ -638,6 +656,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
+		["1366842497.495"] = {
+			" |cffa335ee|Hitem:94292:0:0:0:0:0:0:464214784:90:0:0|h[Reins of the Black Primal Raptor]|h|r pretty", -- [1]
+			"Pyreth", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pyreth", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			185, -- [11]
+			"0x05000000034D7315", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1366685777.662"] = {
 			"ok", -- [1]
 			"|Kf70|k00000000000|k", -- [2]
@@ -674,9 +710,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366686733.837"] = {
-			"why?", -- [1]
-			"|Kf70|k00000000000|k", -- [2]
+		["1366758253.063"] = {
+			"what about you?", -- [1]
+			"|Kf104|k000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -685,12 +721,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			717, -- [11]
+			669, -- [11]
 			false, -- [12]
-			70, -- [13]
+			104, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366685703.239"] = {
 			"ask kloros", -- [1]
@@ -728,23 +764,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366758253.063"] = {
-			"what about you?", -- [1]
-			"|Kf104|k000000000000|k", -- [2]
+		["1366685446.809"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7294:050000000359A31E:1:4:22:13:4294967295:4294967295:4294967295:4294967295|h[A Taste of Things to Come]|h|r!", -- [1]
+			"Khanen", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Khanen", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			669, -- [11]
-			false, -- [12]
-			104, -- [13]
+			429, -- [11]
+			"0x050000000359A31E", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1366685473.076"] = {
 			"kloros said quit", -- [1]
@@ -782,9 +818,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366685785.224"] = {
-			"can you meet me in halfhill?", -- [1]
-			"|Kf62|k0000000|k", -- [2]
+		["1366758325.53"] = {
+			"fun fun", -- [1]
+			"|Kf104|k000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -793,12 +829,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			515, -- [11]
+			673, -- [11]
 			false, -- [12]
-			62, -- [13]
+			104, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366685701.817"] = {
 			"hey", -- [1]
@@ -836,9 +872,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366758325.53"] = {
-			"fun fun", -- [1]
-			"|Kf104|k000000000000|k", -- [2]
+		["1366685785.224"] = {
+			"can you meet me in halfhill?", -- [1]
+			"|Kf62|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -847,12 +883,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			673, -- [11]
+			515, -- [11]
 			false, -- [12]
-			104, -- [13]
+			62, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366758169.344"] = {
 			"finishing up some homework", -- [1]
@@ -890,26 +926,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366686802.518"] = {
-			"if we actually had people that would help recruit we could prob build it back up but i havnt had time to do recruiting lately", -- [1]
-			"|Kf70|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			753, -- [11]
-			false, -- [12]
-			70, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366685855.584"] = {
-			"oh u", -- [1]
+		["1366685698.114"] = {
+			"k", -- [1]
 			"|Kf62|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -919,9 +937,27 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			545, -- [11]
+			506, -- [11]
 			false, -- [12]
 			62, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366756585.74"] = {
+			"hello sir?", -- [1]
+			"|Kf120|k00000000000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			385, -- [11]
+			false, -- [12]
+			120, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
@@ -980,9 +1016,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366756585.74"] = {
-			"hello sir?", -- [1]
-			"|Kf120|k00000000000000000|k", -- [2]
+		["1366758332.741"] = {
+			"talking abuot server changing", -- [1]
+			"|Kf104|k000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -991,12 +1027,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
+			674, -- [11]
 			false, -- [12]
-			120, -- [13]
+			104, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366685626.234"] = {
 			"in guild", -- [1]
@@ -1016,9 +1052,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366758332.741"] = {
-			"talking abuot server changing", -- [1]
-			"|Kf104|k000000000000|k", -- [2]
+		["1366685855.584"] = {
+			"oh u", -- [1]
+			"|Kf62|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1027,12 +1063,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			674, -- [11]
+			545, -- [11]
 			false, -- [12]
-			104, -- [13]
+			62, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366685611.953"] = {
 			"bloodspirits", -- [1]
@@ -1070,9 +1106,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366685624.285"] = {
-			"i have been in the guild bank in months", -- [1]
-			"|Kf62|k0000000|k", -- [2]
+		["1366756368.144"] = {
+			"on this guy", -- [1]
+			"|Kf112|k000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1081,9 +1117,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			496, -- [11]
+			340, -- [11]
 			false, -- [12]
-			62, -- [13]
+			112, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -1124,9 +1160,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366756368.144"] = {
-			"on this guy", -- [1]
-			"|Kf112|k000000000000|k", -- [2]
+		["1366758222.781"] = {
+			"gross", -- [1]
+			"|Kf104|k000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1135,9 +1171,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			340, -- [11]
+			668, -- [11]
 			false, -- [12]
-			112, -- [13]
+			104, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -1214,9 +1250,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366686383.616"] = {
-			"hit by what?", -- [1]
-			"|Kf70|k00000000000|k", -- [2]
+		["1366685606.203"] = {
+			"do they keep them in gb?", -- [1]
+			"|Kf62|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1225,16 +1261,16 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			667, -- [11]
+			490, -- [11]
 			false, -- [12]
-			70, -- [13]
+			62, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366758222.781"] = {
-			"gross", -- [1]
-			"|Kf104|k000000000000|k", -- [2]
+		["1366685624.285"] = {
+			"i have been in the guild bank in months", -- [1]
+			"|Kf62|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1243,9 +1279,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			668, -- [11]
+			496, -- [11]
 			false, -- [12]
-			104, -- [13]
+			62, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -1484,24 +1520,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366685564.597"] = {
-			"when i get on my mage in a few ill link what i have", -- [1]
-			"|Kf62|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			487, -- [11]
-			false, -- [12]
-			62, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
 		["1366758058.481"] = {
 			"What up killa", -- [1]
 			"|Kf104|k000000000000|k", -- [2]
@@ -1516,6 +1534,24 @@ ElvCharacterDB = {
 			653, -- [11]
 			false, -- [12]
 			104, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366685564.597"] = {
+			"when i get on my mage in a few ill link what i have", -- [1]
+			"|Kf62|k0000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			487, -- [11]
+			false, -- [12]
+			62, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -1736,9 +1772,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366685606.203"] = {
-			"do they keep them in gb?", -- [1]
-			"|Kf62|k0000000|k", -- [2]
+		["1366686383.616"] = {
+			"hit by what?", -- [1]
+			"|Kf70|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1747,9 +1783,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			490, -- [11]
+			667, -- [11]
 			false, -- [12]
-			62, -- [13]
+			70, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
@@ -1862,6 +1898,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
+		["1366686802.518"] = {
+			"if we actually had people that would help recruit we could prob build it back up but i havnt had time to do recruiting lately", -- [1]
+			"|Kf70|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			753, -- [11]
+			false, -- [12]
+			70, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
 		["1366685616.867"] = {
 			"idk you can look", -- [1]
 			"|Kf62|k0000000|k", -- [2]
@@ -1879,24 +1933,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366685698.114"] = {
-			"k", -- [1]
-			"|Kf62|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			506, -- [11]
-			false, -- [12]
-			62, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366685405.489"] = {
 			"yeah", -- [1]
@@ -1952,23 +1988,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366685446.809"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:7294:050000000359A31E:1:4:22:13:4294967295:4294967295:4294967295:4294967295|h[A Taste of Things to Come]|h|r!", -- [1]
-			"Khanen", -- [2]
+		["1366686733.837"] = {
+			"why?", -- [1]
+			"|Kf70|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Khanen", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			429, -- [11]
-			"0x050000000359A31E", -- [12]
-			0, -- [13]
+			717, -- [11]
+			false, -- [12]
+			70, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 	},
 }

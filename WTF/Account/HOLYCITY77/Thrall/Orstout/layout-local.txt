@@ -27,10 +27,3 @@ X: -7
 Y: 29
 W: 271
 H: 159
-Frame: DBM_GUI_OptionsFrame
-FrameLevel: 5
-Anchor: CENTER
-X: 133
-Y: -43
-W: 800
-H: 500

@@ -3,10 +3,11 @@ Omen3DB = {
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Orran - Thrall",
 		["Khanen - Thrall"] = "Khanen - Thrall",
+		["Jains - Thrall"] = "Jains - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
 		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Brimtok - Thrall"] = "Brimtok - Thrall",
-		["Jains - Thrall"] = "Jains - Thrall",
+		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 	},
 	["profiles"] = {
 		["Orran - Thrall"] = {
@@ -25,9 +26,9 @@ Omen3DB = {
 			["PositionH"] = 82.00001525878906,
 		},
 		["Khanen - Thrall"] = {
+			["PositionY"] = 1017.013854980469,
 			["PositionW"] = 200.0000152587891,
 			["PositionH"] = 82.00001525878906,
-			["PositionY"] = 1017.013854980469,
 			["Background"] = {
 				["EdgeSize"] = 1,
 				["BarInset"] = 2,
@@ -37,6 +38,23 @@ Omen3DB = {
 			["Bar"] = {
 				["Spacing"] = 1,
 			},
+		},
+		["Jains - Thrall"] = {
+			["PositionY"] = 268.3487243652344,
+			["PositionW"] = 200.0000152587891,
+			["Bar"] = {
+				["Spacing"] = 1,
+			},
+			["PositionX"] = 1293.214599609375,
+			["Background"] = {
+				["EdgeSize"] = 1,
+				["BarInset"] = 2,
+				["Texture"] = "ElvUI Blank",
+			},
+			["MinimapIcon"] = {
+				["hide"] = true,
+			},
+			["PositionH"] = 82.00001525878906,
 		},
 		["Orstout - Thrall"] = {
 			["PositionY"] = 623.5714721679688,
@@ -74,33 +92,30 @@ Omen3DB = {
 		["Brimtok - Thrall"] = {
 			["PositionY"] = 837.1546020507813,
 			["PositionW"] = 200.0000152587891,
-			["PositionH"] = 82.00001525878906,
+			["Bar"] = {
+				["Spacing"] = 1,
+			},
 			["Background"] = {
 				["EdgeSize"] = 1,
 				["BarInset"] = 2,
 				["Texture"] = "ElvUI Blank",
 			},
 			["PositionX"] = -0,
-			["Bar"] = {
-				["Spacing"] = 1,
-			},
+			["PositionH"] = 82.00001525878906,
 		},
-		["Jains - Thrall"] = {
-			["PositionY"] = 268.3487243652344,
+		["Cajamarca - Thrall"] = {
 			["PositionW"] = 200.0000152587891,
-			["Bar"] = {
-				["Spacing"] = 1,
-			},
-			["PositionX"] = 1293.214599609375,
+			["PositionH"] = 82.00001525878906,
+			["PositionY"] = 178.4190216064453,
 			["Background"] = {
 				["EdgeSize"] = 1,
 				["BarInset"] = 2,
 				["Texture"] = "ElvUI Blank",
 			},
-			["MinimapIcon"] = {
-				["hide"] = true,
+			["PositionX"] = 1311.200439453125,
+			["Bar"] = {
+				["Spacing"] = 1,
 			},
-			["PositionH"] = 82.00001525878906,
 		},
 	},
 }

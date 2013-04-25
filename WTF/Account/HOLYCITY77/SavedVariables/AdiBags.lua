@@ -4,6 +4,18 @@ AdiBagsDB = {
 		["FilterOverride"] = {
 		},
 		["ItemCategory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["splitBySubclass"] = {
+						["Recipe"] = false,
+						["Consumable"] = false,
+						["Gem"] = false,
+						["Trade Goods"] = false,
+						["Glyph"] = false,
+						["Miscellaneous"] = false,
+					},
+				},
+			},
 		},
 		["NewItem"] = {
 			["profiles"] = {
@@ -60,10 +72,11 @@ AdiBagsDB = {
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Default",
 		["Khanen - Thrall"] = "Default",
+		["Jains - Thrall"] = "Default",
 		["Orstout - Thrall"] = "Default",
 		["Eammiran - Thrall"] = "Default",
 		["Brimtok - Thrall"] = "Default",
-		["Jains - Thrall"] = "Default",
+		["Cajamarca - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -78,6 +91,9 @@ AdiBagsDB = {
 					["xOffset"] = -31.9998779296875,
 					["yOffset"] = 199.9999542236328,
 				},
+			},
+			["filterPriorities"] = {
+				["ItemCategory"] = 20,
 			},
 			["rightClickConfig"] = false,
 			["sectionFont"] = {
