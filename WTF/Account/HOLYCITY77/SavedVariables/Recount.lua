@@ -3,10 +3,12 @@ RecountDB = {
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Orran - Thrall",
 		["Khanen - Thrall"] = "Khanen - Thrall",
+		["Brimtok - Thrall"] = "Brimtok - Thrall",
 		["Jains - Thrall"] = "Jains - Thrall",
+		["Orranstout - Aerie Peak"] = "Orranstout - Aerie Peak",
 		["Orstout - Thrall"] = "Orstout - Thrall",
 		["Eammiran - Thrall"] = "Eammiran - Thrall",
-		["Brimtok - Thrall"] = "Brimtok - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 	},
 	["profiles"] = {
@@ -52,10 +54,35 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["MainWindowVis"] = false,
-			["CurDataSet"] = "OverallData",
 			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["MainWindowVis"] = false,
+			["DetailWindowX"] = 0,
+		},
+		["Brimtok - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 402.4352416992188,
+					["h"] = 200.0001373291016,
+					["w"] = 139.9999847412109,
+					["x"] = -789.1334838867188,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 		["Jains - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -81,19 +108,19 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["MainWindowHeight"] = 164.0281829833984,
+			["MainWindowVis"] = false,
 			["GraphWindowX"] = 0,
 			["MainWindowWidth"] = 340.0936889648438,
-			["MainWindowVis"] = false,
+			["MainWindowHeight"] = 164.0281829833984,
 		},
-		["Orstout - Thrall"] = {
+		["Orranstout - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -186.6045227050781,
-					["x"] = 568.8060302734375,
-					["w"] = 140.0000762939453,
-					["h"] = 200.0000305175781,
+					["y"] = -265.2929077148438,
+					["h"] = 200.0000762939453,
+					["w"] = 139.9999847412109,
+					["x"] = 782.3887939453125,
 				},
 			},
 			["Colors"] = {
@@ -107,6 +134,32 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
+		},
+		["Orstout - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -440.1426887512207,
+					["x"] = 714.5716552734375,
+					["w"] = 270.7140808105469,
+					["h"] = 159.1428375244141,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Gate of the Setting Sun",
 			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "LastFightData",
@@ -132,18 +185,15 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
 		},
-		["Brimtok - Thrall"] = {
+		["Orstout - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 402.4353637695313,
-					["h"] = 200.0001373291016,
-					["w"] = 139.9999847412109,
-					["x"] = -789.1334838867188,
+					["h"] = 200.0000305175781,
 				},
 			},
 			["Colors"] = {
@@ -157,20 +207,23 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 		["Cajamarca - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -378.8292236328125,
-					["h"] = 193.2554168701172,
-					["w"] = 310.8664245605469,
+					["y"] = -378.8292293548584,
+					["h"] = 193.2554016113281,
+					["w"] = 310.8662414550781,
 					["x"] = 676.721435546875,
 				},
 			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Mogu'shan Vaults",
+			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -182,13 +235,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["MainWindowWidth"] = 310.8664245605469,
 			["GraphWindowX"] = 0,
-			["MainWindowHeight"] = 193.2554168701172,
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "Mogu'shan Vaults",
-			["CurDataSet"] = "LastFightData",
+			["MainWindowWidth"] = 310.8664245605469,
+			["MainWindowHeight"] = 193.2554168701172,
 		},
 	},
 }

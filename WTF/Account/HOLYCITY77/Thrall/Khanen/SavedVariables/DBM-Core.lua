@@ -93,7 +93,7 @@ DBM_SavedOptions = {
 	["HealthFrameLocked"] = false,
 	["RangeFrameFrames"] = "radar",
 	["ShowPizzaMessage"] = true,
-	["AdvancedAutologBosses"] = false,
+	["RangeFrameSound2"] = "none",
 	["ShowLHFrame"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
@@ -107,7 +107,7 @@ DBM_SavedOptions = {
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},
-	["RangeFrameSound2"] = "none",
+	["AdvancedAutologBosses"] = false,
 	["ShowWipeMessage"] = true,
 	["LogOnlyRaidBosses"] = false,
 	["StripServerName"] = true,

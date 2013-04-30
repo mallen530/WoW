@@ -1,10 +1,31 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/m", -- [1]
-		"/g grats!", -- [2]
+		" Aerie Peak as Ally", -- [1]
+		" don't mind at all we are trying to join the Convert To Raid guild", -- [2]
+		" there is one day left for the app process for the month", -- [3]
+		" okay", -- [4]
+		" lvl 15 is the minimum to apply", -- [5]
 	},
 	["ChatLog"] = {
+		["1367286874.468"] = {
+			"okay", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			413, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
 		["1366847448.131"] = {
 			"{rt8} Cajamarca, Tipheroun got |cff71d5ff|Hspell:116281|h[Cobalt Mine Blast]|h|r!", -- [1]
 			"Yssupa-Area52", -- [2]
@@ -76,6 +97,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367286749.325"] = {
+			"gay", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366847472.291"] = {
 			"{rt8} Allygriper, Dontevenlift, Liukangg, Nyxaman, Timeywimey, Ztank got |cff71d5ff|Hspell:116281|h[Cobalt Mine Blast]|h|r!", -- [1]
@@ -167,6 +206,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
+		["1367286884.015"] = {
+			"brb'", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			417, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
 		["1366847508.674"] = {
 			"{rt8} Allygriper, Dontevenlift, Ebiler, Gidrim, Hdsmurfy, Liukangg, Luvsopossum, Strîke, Timeywimey, Ztank got |cff71d5ff|Hspell:116281|h[Cobalt Mine Blast]|h|r!", -- [1]
 			"Yssupa-Area52", -- [2]
@@ -220,6 +277,42 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367286869.062"] = {
+			"well i would be leveling new", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			406, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1367286803.342"] = {
+			"Aerie Peak as Ally", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			258, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366847694.671"] = {
 			"Pull now!", -- [1]
@@ -329,6 +422,42 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1367286884.531"] = {
+			"lvl 15 is the minimum to apply", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			418, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1367286883.922"] = {
+			"might as well make one now", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			416, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
 		["1366847880.7"] = {
 			"Wildfire Spark on Zuris!", -- [1]
 			"Zuris-Area52", -- [2]
@@ -346,6 +475,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
+		},
+		["1367286843.218"] = {
+			"there is one day left for the app process for the month", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			360, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366847436.906"] = {
 			"{rt8} Cajamarca, Tipheroun got |cff71d5ff|Hspell:116281|h[Cobalt Mine Blast]|h|r!", -- [1]
@@ -401,6 +548,42 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
+		["1367286829.077"] = {
+			"don't mind at all we are trying to join the Convert To Raid guild", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1367286790.389"] = {
+			"what server?", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
 		["1366847857.719"] = {
 			"Wildfire Spark on Kritss!", -- [1]
 			"Kritss", -- [2]
@@ -419,6 +602,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
+		["1367286812.139"] = {
+			"mind if i join ya guys?", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			279, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
 		["1366847927.907"] = {
 			"Wildfire Spark on Strîke!", -- [1]
 			"Strîke-Area52", -- [2]
@@ -436,6 +637,42 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
+		},
+		["1367286774.967"] = {
+			"what?", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			207, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1367286763.966"] = {
+			"well we are switching servers", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			200, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366848044.911"] = {
 			"{rt7} Not evaded ticks under |cff71d5ff|Hspell:115856|h[Nullification Barrier]|h|r (total): Tanius (25), Thetick (25), Woretrim (25), Hdsmurfy (25), Timeywimey (25), Allygriper (25), Kritss (25),...", -- [1]
@@ -473,6 +710,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
+		["1367286740.231"] = {
+			"We wont have a team tomorrow", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			184, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
 		["1366847460.268"] = {
 			"{rt8} Thetick, Timebolt got |cff71d5ff|Hspell:116281|h[Cobalt Mine Blast]|h|r!", -- [1]
 			"Yssupa-Area52", -- [2]
@@ -491,23 +746,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1366847868.653"] = {
-			"Wildfire Spark on Kritss!", -- [1]
-			"Kritss", -- [2]
-			"Orcish", -- [3]
+		["1367286727.341"] = {
+			"y", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kritss", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1730, -- [11]
-			"0x05000000058B3ECF", -- [12]
+			178, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1367286721.762"] = {
+			"We won't have a team tomorrow", -- [1]
+			"|Kf138|k0000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			175, -- [11]
+			false, -- [12]
+			138, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366847684.765"] = {
+			"Pull in 10 sec", -- [1]
+			"Cyriusblack-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Cyriusblack", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1720, -- [11]
+			"0x0700000001775E4B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1366847961.763"] = {
 			"Arcane Resonance on Cajamarca!", -- [1]
@@ -527,41 +818,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1366848243.599"] = {
-			"PS Died: Strîke > 11.3k, |cff71d5ff|Hspell:116510|h[Explosion]|h|r (O: 65k) [Troll Explosives] (Fire)", -- [1]
-			"Yssupa-Area52", -- [2]
+		["1366848029.58"] = {
+			"Arcane Resonance on Greatoz!", -- [1]
+			"Greatoz-Zuluhed", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yssupa", -- [5]
+			"Greatoz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1784, -- [11]
-			"0x07000000052ED774", -- [12]
+			1748, -- [11]
+			"0x050000000435A724", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_SAY",
+		},
+		["1366848062.627"] = {
+			"instance is full?", -- [1]
+			"Chocoheim-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chocoheim", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1766, -- [11]
+			"0x0500000005992D02", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1366846761.204"] = {
-			"grats!", -- [1]
-			"Cajamarca", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cajamarca", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1360, -- [11]
-			"0x0500000002946918", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
 		},
 		["1366848301.361"] = {
 			"Burnnin-Archimonde prepares a |cff71d5ff|Hspell:105193|h[Great Pandaren Banquet]|h|r!", -- [1]
@@ -599,59 +890,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1366848062.627"] = {
-			"instance is full?", -- [1]
-			"Chocoheim-Mal'Ganis", -- [2]
+		["1366846761.204"] = {
+			"grats!", -- [1]
+			"Cajamarca", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Chocoheim", -- [5]
+			"Cajamarca", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1766, -- [11]
-			"0x0500000005992D02", -- [12]
+			1360, -- [11]
+			"0x0500000002946918", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1366848243.599"] = {
+			"PS Died: Strîke > 11.3k, |cff71d5ff|Hspell:116510|h[Explosion]|h|r (O: 65k) [Troll Explosives] (Fire)", -- [1]
+			"Yssupa-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yssupa", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1784, -- [11]
+			"0x07000000052ED774", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1366848029.58"] = {
-			"Arcane Resonance on Greatoz!", -- [1]
-			"Greatoz-Zuluhed", -- [2]
+		["1366847868.653"] = {
+			"Wildfire Spark on Kritss!", -- [1]
+			"Kritss", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Greatoz", -- [5]
+			"Kritss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1748, -- [11]
-			"0x050000000435A724", -- [12]
+			1730, -- [11]
+			"0x05000000058B3ECF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
-		},
-		["1366847684.765"] = {
-			"Pull in 10 sec", -- [1]
-			"Cyriusblack-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cyriusblack", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1720, -- [11]
-			"0x0700000001775E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 	},
 }
