@@ -40,7 +40,7 @@
 
 
 
-local revision =("$Revision: 9299 $"):sub(12, -3)
+local revision =("$Revision: 9413 $"):sub(12, -3)
 local FrameTitle = "DBM_GUI_Option_"	-- all GUI frames get automatically a name FrameTitle..ID
 
 local PanelPrototype = {}
@@ -1994,6 +1994,7 @@ local function CreateOptionsMenu()
 
 		local spamArea = spamPanel:CreateArea(L.Area_SpamFilter, nil, 150, true)
 		spamArea:CreateCheckButton(L.HideBossEmoteFrame, true, nil, "HideBossEmoteFrame")
+		spamArea:CreateCheckButton(L.HideWatchFrame, true, nil, "HideWatchFrame")
 		spamArea:CreateCheckButton(L.StripServerName, true, nil, "StripServerName")
 		spamArea:CreateCheckButton(L.SpamBlockBossWhispers, true, nil, "SpamBlockBossWhispers")
 		spamArea:CreateCheckButton(L.SpamBlockSayYell, true, nil, "FilterSayAndYell")
@@ -2013,8 +2014,14 @@ local function CreateOptionsMenu()
 	end
 
 	-- Set Revision // please don't translate this!
-	DBM_GUI_OptionsFrameRevision:SetText("Version: "..DBM.DisplayVersion.." - Core: r"..DBM.Revision.." - Gui: r"..revision)
-	DBM_GUI_OptionsFrameTranslation:SetText("Translated by: "..L.TranslationBy)
+	DBM_GUI_OptionsFrameRevision:SetText("Deadly Boss Mods "..DBM.DisplayVersion.." (r"..DBM.Revision..")")
+	if L.TranslationBy then
+		DBM_GUI_OptionsFrameTranslation:SetText(L.TranslationByPrefix .. L.TranslationBy)
+	end
+	DBM_GUI_OptionsFrameWebsite:SetText(L.Website)
+	local frame = CreateFrame("Frame", nil, DBM_GUI_OptionsFrame)
+	frame:SetAllPoints(DBM_GUI_OptionsFrameWebsite)
+	frame:SetScript("OnMouseUp", function(...) DBM:ShowUpdateReminder(nil, nil, DBM_FORUMS_COPY_URL_DIALOG) end)
 end
 DBM:RegisterOnGuiLoadCallback(CreateOptionsMenu, 1)
 
@@ -2386,8 +2393,24 @@ do
 			elseif	i == 8 then		icon:SetTexCoord(0.75,	1,		0.25,	0.5)
 			end
 		end
-
-		local reset  = panel:CreateButton(L.Mod_Reset, 300)--button ugly.
+		
+		--[[IsQuestFlaggedCompleted() is throttled by the server and will only get a response every 2-3 minutes.
+		It's cached internally by the client during that time.
+		If you reload, the client probably loses its cache and is unable to refresh it for a few minutes
+		In other words, if you reloadui often or log in and out a bunch, the checks will be all wrong.
+		--]]
+		if mod.questId then
+			local icon = panel.frame:CreateTexture()
+			if IsQuestFlaggedCompleted(mod.questId) then
+				icon:SetTexture(READY_CHECK_READY_TEXTURE)--Already complete for week. (ie, recieved LFR loot, legendary quest chance, and rep off boss for week)
+			else
+				icon:SetTexture(READY_CHECK_NOT_READY_TEXTURE)--Not yet completed for week  (ie, has not yet recieved LFR loot, legendary quest chance, and rep off boss for week)
+			end
+			icon:SetPoint("TOPLEFT", panel.frame, "TOPRIGHT", -14, -20)--Meh, it's not ugly, but probably not right place or even coordinates for it, i plugged in random numbers and it looked ok!
+			icon:SetWidth(16)
+			icon:SetHeight(16)
+		end
+		local reset  = panel:CreateButton(L.Mod_Reset, 150, nil, nil, GameFontNormalSmall)
 		reset:SetPoint('TOPRIGHT', panel.frame, "TOPRIGHT", -14, -2)
 		reset:SetScript("OnClick", function(self)
 			local savedOptions = _G[mod.modId:gsub("-", "").."_SavedVars"][mod.id] or {}
@@ -2398,9 +2421,9 @@ do
 						savedOptions[option] = optionValue
 					end
 					v.Options = savedOptions or {}
+					break
 				end
 			end
-			_G[mod.modId:gsub("-", "").."_SavedVars"][mod.id] = savedOptions
 		end)
 		local button = panel:CreateCheckButton(L.Mod_Enabled, true)
 		button:SetScript("OnShow",  function(self) self:SetChecked(mod.Options.Enabled) end)

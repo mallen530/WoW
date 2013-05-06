@@ -12,7 +12,7 @@
 ## X-Curse-Project-Name: clcInfo_Monk
 ## X-Curse-Project-ID: clcinfo_monk
 ## X-Curse-Repository-ID: wow/clcinfo_monk/mainline
-## X-Curse-Packaged-Version: r83
+## X-Curse-Packaged-Version: r84
 ## X-Curse-Project-Name: clcInfo_Monk
 ## X-Curse-Project-ID: clcinfo_monk
 ## X-Curse-Repository-ID: wow/clcinfo_monk/mainline

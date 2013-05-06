@@ -11,7 +11,7 @@ L:SetWarningLocalization({
 
 L:SetOptionLocalization({
 	specWarnWaterMove	= "Show special warning if you standing in $spell:138470\n(Warns at $spell:137313 pre-cast or $spell:138732 debuff fades shortly)",
-	RangeFrame			= "Show range frame"
+	RangeFrame			= "Show range frame (8/4)"
 })
 
 --------------
@@ -80,7 +80,7 @@ L:SetOptionLocalization({
 	InfoFrame				= "Show info frame for players without $spell:137633",
 	SetIconOnTurtles		= "Set icons on $journal:7129",
 	ClearIconOnTurtles		= "Clear icons on $journal:7129 when affected by $spell:133971",
-	AnnounceCooldowns		= "Count (up to 4) out which $spell:134920 cast it is for raid cooldowns"
+	AnnounceCooldowns		= "Count out which $spell:134920 cast it is for raid cooldowns"
 })
 
 L:SetMiscLocalization({
@@ -119,9 +119,10 @@ L:SetMiscLocalization({
 L= DBM:GetModLocalization(828)
 
 L:SetWarningLocalization({
-	warnFlock		= "%s %s %s",
-	specWarnFlock	= "%s %s %s",
-	specWarnBigBird	= "Nest Guardian: %s"
+	warnFlock			= "%s %s %s",
+	specWarnFlock		= "%s %s %s",
+	specWarnBigBird		= "Nest Guardian: %s",
+	specWarnBigBirdSoon	= "Nest Guardian Soon: %s"
 })
 
 L:SetTimerLocalization({
@@ -129,11 +130,12 @@ L:SetTimerLocalization({
 })
 
 L:SetOptionLocalization({
-	warnFlock		= DBM_CORE_AUTO_ANNOUNCE_OPTIONS.count:format("ej7348"),
-	specWarnFlock	= DBM_CORE_AUTO_SPEC_WARN_OPTIONS.switch:format("ej7348"),
-	specWarnBigBird	= DBM_CORE_AUTO_SPEC_WARN_OPTIONS.switch:format("ej7827"),
-	timerFlockCD	= DBM_CORE_AUTO_TIMER_OPTIONS.nextcount:format("ej7348"),
-	RangeFrame		= "Show range frame (10) for $spell:138923"
+	warnFlock			= DBM_CORE_AUTO_ANNOUNCE_OPTIONS.count:format("ej7348"),
+	specWarnFlock		= DBM_CORE_AUTO_SPEC_WARN_OPTIONS.switch:format("ej7348"),
+	specWarnBigBird		= DBM_CORE_AUTO_SPEC_WARN_OPTIONS.switch:format("ej7827"),
+	specWarnBigBirdSoon	= DBM_CORE_AUTO_SPEC_WARN_OPTIONS.soon:format("ej7827"),
+	timerFlockCD		= DBM_CORE_AUTO_TIMER_OPTIONS.nextcount:format("ej7348"),
+	RangeFrame			= "Show range frame (10) for $spell:138923"
 })
 
 L:SetMiscLocalization({
@@ -189,7 +191,8 @@ L:SetWarningLocalization({
 
 L:SetOptionLocalization({
 	warnDebuffCount				= "Show debuff count warnings when you absorb pools",
-	RangeFrame					= "Show range frame (5/2)"
+	RangeFrame					= "Show range frame (5/2)",
+	SetIconOnBigOoze			= "Set icon on $journal:6969"
 })
 
 -----------------
@@ -219,9 +222,10 @@ L:SetWarningLocalization({
 })
 
 L:SetOptionLocalization({
-	warnDeadZone	= DBM_CORE_AUTO_ANNOUNCE_OPTIONS.spell:format(137229),
-	RangeFrame		= "Show dynamic range frame\n(This is a smart range frame that shows when too many are too close)",
-	InfoFrame		= "Show info frame for players with $spell:136193"
+	warnDeadZone			= DBM_CORE_AUTO_ANNOUNCE_OPTIONS.spell:format(137229),
+	SetIconOnLightningStorm	= DBM_CORE_AUTO_ICONS_OPTION_TEXT:format(136192),
+	RangeFrame				= "Show dynamic range frame (10)\n(This is a smart range frame that shows when too many are too close)",
+	InfoFrame				= "Show info frame for players with $spell:136193"
 })
 
 -------------------
@@ -264,7 +268,7 @@ L:SetWarningLocalization({
 
 L:SetOptionLocalization({
 	specWarnIntermissionSoon	= "Show pre-special warning before Intermission",
-	RangeFrame					= "Show range frame",--For two different spells
+	RangeFrame					= "Show range frame (8/6)",--For two different spells
 	StaticShockArrow			= "Show DBM Arrow when someone is affected by $spell:135695",
 	OverchargeArrow				= "Show DBM Arrow when someone is affected by $spell:136295",
 	SetIconOnOvercharge			= DBM_CORE_AUTO_ICONS_OPTION_TEXT:format(136295),

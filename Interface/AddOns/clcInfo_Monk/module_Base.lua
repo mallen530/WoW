@@ -53,7 +53,6 @@ local UnitAura = UnitAura
 local UnitSpellHaste = UnitSpellHaste
 local UnitHealth = UnitHealth
 local UnitHealthMax = UnitHealthMax
---local GetSpecialization = GetSpecialization
 local GetTalentInfo = GetTalentInfo
 local GetTalentRowSelectionInfo = GetTalentRowSelectionInfo
 local GetCooldown = clcInfoPlugin.GetCooldown
@@ -61,7 +60,7 @@ local GetTimeLeft = clcInfoPlugin.GetTimeLeft
 local max, min, wipe = max, min, wipe
 
 -- actions ---------------------------------------------------------------------
--- Tier 2 & 6 Talent spell names and ids to ugly up code but speed action functions up
+-- Geminior: Tier 2 & 6 Talent spell names and ids to ugly up code but speed action functions up
 -- Tier 2 Talent
 local ChiWave = classModule.Spells["Chi Wave"].Name
 local ChiWaveId = classModule.Spells["Chi Wave"].Id

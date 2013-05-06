@@ -1,9 +1,9 @@
 ﻿if GetLocale() ~= "deDE" then return end
 local L
 
---------------------------------
+---------------------
 -- A Brewing Storm --
---------------------------------
+---------------------
 L= DBM:GetModLocalization("d517")
 
 L:SetTimerLocalization{
@@ -16,25 +16,79 @@ L:SetOptionLocalization{
 
 L:SetMiscLocalization{
 	BrewStart			= "Der Sturm bricht los! Macht Euch fertig.",
-	BrewFinish			= "Ihr habt's geschafft! Schaffen wir das Bräu ins Kloster...",
 	BorokhulaPull		= "Letzte Chance, ihr schleimigen, züngelnden Kriecher!",
 	BorokhulaAdds		= "ruft Verstärkung!"
 }
 
---------------------------------
--- Crypt of Forgotten Kings --
---------------------------------
-L= DBM:GetModLocalization("d504")
+-----------------------
+-- A Little Patience --
+-----------------------
+L= DBM:GetModLocalization("d589")
 
-----------------------
--- Theramore's Fall --
-----------------------
-L= DBM:GetModLocalization("d566")
+L:SetMiscLocalization{
+	ScargashPull		= "Your Alliance is WEAK!"--translate (trigger)
+}
 
 ---------------------------
 -- Arena Of Annihilation --
 ---------------------------
 L= DBM:GetModLocalization("d511")
+
+-------------------------
+-- Assault of Zan'vess --
+-------------------------
+L= DBM:GetModLocalization("d593")
+
+L:SetMiscLocalization{
+	TelvrakPull			= "Zan'vess will never fall!"--translate (trigger)
+}
+
+-----------------------
+-- Brewmoon Festival --
+-----------------------
+L= DBM:GetModLocalization("d539")
+
+L:SetTimerLocalization{
+	timerBossCD		= "%s kommt"
+}
+
+L:SetOptionLocalization{
+	timerBossCD		= "Zeige Zeit bis zum Erscheinen des nächsten Bosses"
+}
+
+L:SetMiscLocalization{
+	RatEngage	= "Das ist die Höhlenmutter! Passt auf",
+	BeginAttack	= "Wir müssen die Dorfbewohner verteidigen!",
+	Yeti		= "Kriegsyeti der Bataari",
+	Qobi		= "Kriegshetzer Qobi"
+}
+
+------------------------------
+-- Crypt of Forgotten Kings --
+------------------------------
+L= DBM:GetModLocalization("d504")
+
+-----------------------
+-- Dagger in the Dark --
+-----------------------
+L= DBM:GetModLocalization("d616")
+
+L:SetTimerLocalization{
+	timerAddsCD		= "Neue Adds"
+}
+
+L:SetOptionLocalization{
+	timerAddsCD		= "Zeige Zeit bis ein Echsenlord neue Adds herbeiruft"
+}
+
+L:SetMiscLocalization{
+	LizardLord		= "Diese Saurok bewachen die Höhle. Räumen wir sie aus'm Weg!"
+}
+
+------------------------
+-- Greenstone Village --
+------------------------
+L= DBM:GetModLocalization("d492")
 
 --------------
 -- Landfall --
@@ -49,10 +103,20 @@ L:SetOptionLocalization{
 	WarnAchFiveAlive	= "Zeige Warnung bei Fehlschlag des Erfolgs \"Nummer 5 lebt!\""
 }
 
+----------------------
+-- Theramore's Fall --
+----------------------
+L= DBM:GetModLocalization("d566")
+
 --------------------------------
 -- Troves of the Thunder King --
 --------------------------------
 L= DBM:GetModLocalization("d620")
+
+----------------
+-- Unga Ingoo --
+----------------
+L= DBM:GetModLocalization("d499")
 
 ------------------------
 -- Warlock Green Fire --

@@ -553,9 +553,10 @@ local function SKILL_LINES_CHANGED(self, event, ...)
 				self.EventFrame:UnregisterEvent("SKILL_LINES_CHANGED")
 			end
 
-			for _,m in ipairs(self.SpecModules) do
-				m:UpdatePrioQueue()
+			if self.ActiveSpecModule then
+				self.ActiveSpecModule:UpdatePrioQueue()
 			end
+			
 		end
 	end
 end
@@ -1007,8 +1008,18 @@ local function LoadModule(specModule, GetTDB, SetTDB)
 
 	local cfgMatrix = nil
 	local curSpecIdx = GetSpecialization()
-	local _, curSpecName = GetSpecializationInfo(curSpecIdx)
-	local _, otherSpecName = GetSpecializationInfo(specModule.SpecIdx)
+	local curSpecName
+	if curSpecIdx then
+		_,curSpecName = GetSpecializationInfo(curSpecIdx)
+	else
+		curSpecName = "unspecialized"
+	end
+	local otherSpecName
+	if specModule.SpecIdx then
+		_,otherSpecName = GetSpecializationInfo(specModule.SpecIdx)
+	else
+		otherSpecName = "unspecialized"
+	end
 
 	if activeTemplateSpec == specModule.SpecIdx then
 		cfgMatrix = LoadActiveModuleOptions(specModule, activeTemplateName, GetTDB, SetTDB)

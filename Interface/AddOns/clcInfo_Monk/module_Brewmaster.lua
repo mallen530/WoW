@@ -40,13 +40,13 @@ if not classModule then return end
 
 local L = LibStub("AceLocale-3.0"):GetLocale("clcInfo_Monk")
 
--- Get local copies of functions/tables.  This will speed up execution.
+-- Geminior: Get local copies of functions/tables.  This will speed up execution.
 local min, max = min, max
 local GetTime = GetTime
 local bmSpells = classModule.Spells
 
 -- actions ---------------------------------------------------------------------
--- general class spell names and ids to ugly up code but speed action functions up
+-- Geminior: general class spell names and ids to ugly up code but speed action functions up
 local Jab = bmSpells["Jab"].Name
 local JabId = bmSpells["Jab"].Id
 local BlackoutKick = bmSpells["Blackout Kick"].Name

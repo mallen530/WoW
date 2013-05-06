@@ -7,6 +7,7 @@ DBM_CORE_LOAD_MOD_ERROR				= "%s 경보를 불러오는 중 오류 발생: %s"
 DBM_CORE_LOAD_MOD_SUCCESS			= "'%s' 경보를 불러왔습니다 !"
 DBM_CORE_LOAD_GUI_ERROR				= "설정창을 불러올 수 없습니다: %s"
 DBM_CORE_LOAD_GUI_COMBAT			= "전투 중에는 설정창을 불러올 수 없습니다. 전투가 종료되면 설정창이 열릴 것입니다. 이후에는 전투 중이라도 설정창을 불러 올 수 있습니다."
+DBM_CORE_BAD_LOAD					= "DBM이 현재 인스턴스의 경고를 완전히 불러오지 못한 것을 발견했습니다. 전투가 종료된 후에, /console reloadui 명령어를 입력하여 경고를 다시 불러오시기 바랍니다."
 
 DBM_CORE_BIGWIGS_ICON_CONFLICT		= "DBM이 BigWigs와 DBM의 전술 목표 아이콘 설정이 모두 활성화 된것을 발견했습니다. 아이콘 충돌을 방지하기 위해 둘 중 하나의 아이콘 설정을 비활성화 해주시기 바랍니다."
 
@@ -51,11 +52,18 @@ DBM_CORE_OPTION_CATEGORY_MISC		= "기타 추가 기능"
 
 DBM_CORE_AUTO_RESPONDED						= "전투중 받은 귓속말에 자동 응답합니다."
 DBM_CORE_STATUS_WHISPER						= "%s: %s, %d/%d 명이 생존해 있습니다."
-DBM_CORE_AUTO_RESPOND_WHISPER				= "%s 님은 현재 바쁩니다. %s 전투가 진행중입니다. (%s, %d/%d 명 생존중) 전투 종료후 다시 알림 메세지가 표시됩니다."
+--Bosses
+DBM_CORE_AUTO_RESPOND_WHISPER				= "%s 님은 현재 바쁩니다. %s 전투가 진행중입니다. (%s, %d/%d 명 생존중)"
 DBM_CORE_WHISPER_COMBAT_END_KILL			= "%s 님의 %s 전투가 끝났습니다!"
 DBM_CORE_WHISPER_COMBAT_END_KILL_STATS		= "%s 님의 %s 전투가 끝났습니다! (승리: %d회)"
 DBM_CORE_WHISPER_COMBAT_END_WIPE_AT			= "%s 님이 %s 전투에서 전멸하였습니다. 전투 종료시 우두머리의 체력은 %s 입니다."
 DBM_CORE_WHISPER_COMBAT_END_WIPE_STATS_AT	= "%s 님이 %s 전투에서 전멸하였습니다. 전투 종료시 우두머리의 체력은 %s 입니다. (현재 난이도에서 전멸: %d회)"
+--Scenarios
+DBM_CORE_AUTO_RESPOND_WHISPER_SCENARIO		= "%s 님은 현재 바쁩니다. %s 시나리오를 진행중입니다. (%d/%d 명 생존중)"
+DBM_CORE_WHISPER_SCENARIO_END_KILL			= "%s 님이 %s 시나리오를 완료했습니다!"
+DBM_CORE_WHISPER_SCENARIO_END_KILL_STATS	= "%s 님이 %s 시나리오를 완료했습니다! (완료: %d회)"
+DBM_CORE_WHISPER_SCENARIO_END_WIPE			= "%s 님이 %s 시나리오를 완료하지 못했습니다."
+DBM_CORE_WHISPER_SCENARIO_END_WIPE_STATS	= "%s 님이 %s 시니리오를 완료하지 못했습니다. (미완료: %d회)"
 
 DBM_CORE_VERSIONCHECK_HEADER		= "Deadly Boss Mods - 버전"
 DBM_CORE_VERSIONCHECK_ENTRY			= "%s: %s (r%d)"

@@ -33,7 +33,7 @@
 local clcInfoPlugin = LibStub("clcInfoClassModulePlugin")
 if not clcInfoPlugin then return end
 
--- Instantiate the class module. If NotifyVersion changes, remember to also supply the message you want to show the user in the GetStartupNotification function
+-- Geminior: Instantiate the class module. If NotifyVersion changes, remember to also supply the message you want to show the user in the GetStartupNotification function
 local Version, NotifyVersion = 3, 4
 
 local classModule = clcInfoPlugin:RegisterClassModule("clcInfo_Monk", "MONK", Version, NotifyVersion)
@@ -42,7 +42,7 @@ if not classModule then return end -- The player is not a monk, so do not load
 -- Text resources
 local L = LibStub("AceLocale-3.0"):GetLocale("clcInfo_Monk")
 
--- For this implementation I have chosen to define all spells on the class module level. This is not a requirement
+-- Geminior: For this implementation I have chosen to define all spells on the class module level. This is not a requirement
 -----------------MONK SPELLS------------------------------------
 classModule:RegisterSpells({
     --Brewmaster
@@ -114,6 +114,8 @@ end
 
 -- Behavior templates for the monk class as a whole
 function classModule:RegisterBehaviorTemplates()
+	
+	--Munkay: should all the spells be listed?
 	self:AddBehaviorTemplate(self.Spells["Fortifying Brew"])
 	self:AddBehaviorTemplate(self.Spells["Diffuse Magic"]) 
 	self:AddBehaviorTemplate(self.Spells["Zen Meditation"])
@@ -124,12 +126,19 @@ function classModule:RegisterBehaviorTemplates()
 	self:AddBehaviorTemplate(self.Spells["Leg Sweep"]) 
 	self:AddBehaviorTemplate(self.Spells["Invoke Xuen, the White Tiger"])
 
-	local name = "Energy"
+	-- Munkay: the below behavior templates should be moved up the chain (into clcInfo_Options) as these are not class specific
+	-- Munkay: Power texture could be dynamic based on player class
+	--    Rage - red bull icon; Warrior, Druid (bear)
+	--    Focus - Hunter
+	--    Mana - Priest, Shamman, Paladin, Warlock, Druid (no form; tree; moonkin), Mage, Monk
+	--    Energy - Druid (cat), Rogue, Monk, 
+	--    Runic - Death Knight
+	local _, name = UnitPowerType("player")
 	self:AddBehaviorTemplate(
 		name,
 		format([[
-			local nrg = UnitPower("player")
-			return true, "Interface/ICONS/INV_Sigil_Thorim", 0, UnitPowerMax("player"), nrg, nil, "%s", nil, nrg
+			local pwr = UnitPower("player")
+			return true, "Interface/ICONS/INV_Sigil_Thorim", 0, UnitPowerMax("player"), pwr, nil, "%s", nil, pwr
 			]], name),
 		"bars")
 
@@ -338,7 +347,9 @@ function classModule:RegisterBehaviorTemplates()
 				return true, texture, 0, (endTime - startTime)/1000, finish, _, spell, _, finish
 			end
 			]], name),
-		"bars")end
+		"bars")
+
+end --behavior templates
 
 -- Option Editors implementation
 local jabLookup
@@ -351,7 +362,7 @@ local function GetJabTextureLookup()
 	jabLookup[L["Sword"]] =		{ id = 115695, texture="Interface\\Icons\\INV_Sword_10" }
 	jabLookup[L["Polearm"]] =	{ id = 115698, texture="Interface\\Icons\\INV_Spear_03" }
 	jabLookup[L["Staff"]] =		{ id = 108557, texture="Interface\\Icons\\ability_monk_staffstrike" }
-	jabLookup[L["Fist"]] =		{ id = 108967, texture="Interface\\Icons\\ability_monk_jab" } -- this isn't a monk spell but it has the jab fist icon, whereas 100780 has a dynamic icon
+	jabLookup[L["Fist"]] =		{ id = 108967, texture="Interface\\Icons\\ability_monk_jab" } -- Geminior: this isn't a monk spell but it has the jab fist icon, whereas 100780 has a dynamic icon
 
 	return jabLookup
 end
@@ -361,7 +372,7 @@ local function UpdateJabIconId()
 	if db.jabIconAuto then
 		jabId = defaultJabId
 	else
-		jabId = db.jabIconId or defaultJabId -- just to be on the safe side
+		jabId = db.jabIconId or defaultJabId -- Geminior: just to be on the safe side
 	end
 
 	for _, mod in ipairs(classModule.SpecModules) do
@@ -421,7 +432,7 @@ end
 
 local cfgOptions
 function classModule:GetOptionEditors(GetDB, SetDB)
-	--not using the default db getter and setter here since these settings have additional requirements
+	--Geminior: not using the default db getter and setter here since these settings have additional requirements
 	cfgOptions = cfgOptions or {
 		igSettings = {
 			order=1, type = "group", inline = true, name=L["Jab Icon Settings"], args = {
@@ -454,7 +465,9 @@ function classModule:GetOptionEditors(GetDB, SetDB)
 	return cfgOptions
 end
 
--- This function is only implemented since this addon had a user base before being ported to clcInfoClassModulePlugin and hence the existing saved variables must be converted.
+-- Geminior: this function is only implemented since this addon had a user base before being ported to clcInfoClassModulePlugin
+-- and hence the existing saved variables must be converted.
+-- Munkay: to be deprecated in version 3.0
 function classModule.ExecuteMassiveCleanup()
 	local dbRoot = clcInfo.cdb
 	if not dbRoot or not dbRoot.classModules or dbRoot.classModules["clcinfo_monk"] then return end
