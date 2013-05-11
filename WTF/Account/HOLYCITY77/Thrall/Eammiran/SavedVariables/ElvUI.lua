@@ -44,8 +44,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366943958.097"] = {
-			"i mean its fun too", -- [1]
+		["1366946463.708"] = {
+			"nice", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -55,7 +55,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2373, -- [11]
+			2786, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -80,8 +80,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946451.072"] = {
-			"we subscribed to the online thing so we could get the character builder program, b/c it figures out all the math stuff for you, you just have to set up your character the way you want", -- [1]
+		["1366944363.497"] = {
+			"no i said \"it has mads mikelson, who is amazing!\"", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -91,7 +91,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2785, -- [11]
+			2442, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -116,9 +116,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944240.184"] = {
-			"lol", -- [1]
-			"|Kf357|k0000000|k", -- [2]
+		["1366945244.224"] = {
+			"gross", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -127,12 +127,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2413, -- [11]
+			2599, -- [11]
 			false, -- [12]
-			357, -- [13]
+			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366944683.759"] = {
 			"the server?", -- [1]
@@ -188,8 +188,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944657.331"] = {
-			"sorry", -- [1]
+		["1366944122.356"] = {
+			"lol", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -199,33 +199,33 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2502, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946759.015"] = {
-			"yea man, anytime, thats what im here for", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2849, -- [11]
+			2393, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946561.788"] = {
-			"why not?", -- [1]
+		["1366944164.614"] = {
+			"still goin", -- [1]
+			"|Kf357|k0000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2401, -- [11]
+			false, -- [12]
+			357, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366943902.093"] = {
+			"i don't care about gera", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -235,7 +235,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2810, -- [11]
+			2363, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -278,8 +278,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944122.356"] = {
-			"lol", -- [1]
+		["1366944657.331"] = {
+			"sorry", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -289,12 +289,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2393, -- [11]
+			2502, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366944703.19"] = {
 			"maybe", -- [1]
@@ -314,8 +314,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946173.978"] = {
-			"ok", -- [1]
+		["1366944317.166"] = {
+			"why did you ask me who was amazing?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -325,7 +325,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2732, -- [11]
+			2428, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -350,8 +350,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944317.166"] = {
-			"why did you ask me who was amazing?", -- [1]
+		["1366946759.015"] = {
+			"yea man, anytime, thats what im here for", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -361,12 +361,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2428, -- [11]
+			2849, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366946740.14"] = {
 			"word, im headed there too as soon as my benedryl kicks in", -- [1]
@@ -422,9 +422,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944116.17"] = {
-			"heya", -- [1]
-			"|Kf357|k0000000|k", -- [2]
+		["1366946585.553"] = {
+			"true true", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -433,9 +433,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2390, -- [11]
+			2816, -- [11]
 			false, -- [12]
-			357, -- [13]
+			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
@@ -476,9 +476,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946987.368"] = {
-			"haha", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
+		["1366944123.639"] = {
+			"whatcha doin", -- [1]
+			"|Kf357|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -487,15 +487,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2883, -- [11]
+			2394, -- [11]
 			false, -- [12]
-			365, -- [13]
+			357, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946962.864"] = {
-			"and prob could never RP", -- [1]
+		["1366946531.601"] = {
+			"set up your mumble to have a live mic and i can play remotely", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -505,30 +505,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2881, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366943898.202"] = {
-			"i don't even worry about it", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2362, -- [11]
+			2803, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366946877.901"] = {
+			"i do that too", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2871, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366946646.78"] = {
 			"honestly, with the way the gameplay works at low lvl, there is no point in having a tank or a a healer", -- [1]
@@ -548,8 +548,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946771.362"] = {
-			"i'll let you know if i hear anytihng from dr gore so you can have some options fo rthings to think about", -- [1]
+		["1366943993.416"] = {
+			"DPS", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -559,12 +559,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2851, -- [11]
+			2377, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366944248.475"] = {
 			"who is amazing", -- [1]
@@ -602,26 +602,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366945849.019"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:7994:050000000348962A:1:4:25:13:4294967295:4294967295:4294967295:4294967295|h[Treasure of Pandaria]|h|r!", -- [1]
-			"Eammiran", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eammiran", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2700, -- [11]
-			"0x050000000348962A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1366946974.682"] = {
-			"i would never go that far", -- [1]
+		["1366946962.864"] = {
+			"and prob could never RP", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -631,33 +613,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2882, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946877.901"] = {
-			"i do that too", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2871, -- [11]
+			2881, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366944705.957"] = {
-			"idk", -- [1]
+		["1366946987.368"] = {
+			"haha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -667,12 +631,48 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2509, -- [11]
+			2883, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946848.347"] = {
+			":-}", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2863, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366944244.985"] = {
+			"mt", -- [1]
+			"|Kf357|k0000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2415, -- [11]
+			false, -- [12]
+			357, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366944280.027"] = {
 			"then stop geeze", -- [1]
@@ -692,8 +692,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946492.542"] = {
-			"can i see yalls characters?", -- [1]
+		["1366946841.447"] = {
+			"i think of you as a shaman healer for the most part ha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -703,15 +703,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2794, -- [11]
+			2861, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944219.093"] = {
-			"but i dont think the first episodes are online", -- [1]
+		["1366943898.202"] = {
+			"i don't even worry about it", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -721,12 +721,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2410, -- [11]
+			2362, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366944691.419"] = {
 			"yea", -- [1]
@@ -764,8 +764,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946875.19"] = {
-			"yea i gotcha", -- [1]
+		["1366946771.362"] = {
+			"i'll let you know if i hear anytihng from dr gore so you can have some options fo rthings to think about", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -775,7 +775,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2870, -- [11]
+			2851, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -800,8 +800,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946485.692"] = {
-			"cool", -- [1]
+		["1366947012.916"] = {
+			"cyah", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -811,15 +811,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2790, -- [11]
+			2887, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366943999.484"] = {
-			"and more DPS", -- [1]
+		["1366946372.746"] = {
+			"i hadnt either", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -829,66 +829,66 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2380, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946865.282"] = {
-			"but they are distinct things", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2867, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366944109.672"] = {
-			"hey der", -- [1]
-			"|Kf357|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2389, -- [11]
-			false, -- [12]
-			357, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366944696.707"] = {
-			"i mean would you jsut start one there and lvl it?", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2507, -- [11]
+			2771, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946588.356"] = {
+			"i would do face to face if i lived anywhere near yall", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2817, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366946872.682"] = {
+			"haha", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2869, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946750.521"] = {
+			"ok thanks for the talk", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2847, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366945251.396"] = {
 			"then you can be the Red Skull", -- [1]
@@ -908,8 +908,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946854.579"] = {
-			"when we are in wow", -- [1]
+		["1366946515.938"] = {
+			"what?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -919,15 +919,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2865, -- [11]
+			2800, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366943924.487"] = {
-			"that is the funny thing", -- [1]
+		["1366946788.921"] = {
+			"yea i understand", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -937,12 +937,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2368, -- [11]
+			2853, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366946545.945"] = {
 			"hmm that might work", -- [1]
@@ -998,8 +998,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366945282.795"] = {
-			"haha", -- [1]
+		["1366944705.957"] = {
+			"idk", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1009,12 +1009,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2603, -- [11]
+			2509, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366944157.266"] = {
 			"ok", -- [1]
@@ -1034,7 +1034,7 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366943987.629"] = {
+		["1366946593.158"] = {
 			"haha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
@@ -1045,12 +1045,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2376, -- [11]
+			2818, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366944670.465"] = {
 			"how you gonna get a toon to aerie peak?", -- [1]
@@ -1088,8 +1088,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946859.958"] = {
-			"not in real life", -- [1]
+		["1366946492.542"] = {
+			"can i see yalls characters?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1099,7 +1099,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2866, -- [11]
+			2794, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -1124,8 +1124,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946500.694"] = {
-			"yep", -- [1]
+		["1366946799.385"] = {
+			"like calling you trent and not kloros haha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1135,12 +1135,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2796, -- [11]
+			2855, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366946594.392"] = {
 			"yea i know", -- [1]
@@ -1160,8 +1160,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946928.927"] = {
-			"if you piss me off as kloros am I mad at trent?", -- [1]
+		["1366946114.144"] = {
+			"so i think you should put it on your schedule to drive up here once or twice a month so that you can play DnD with me meg josh and michael", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1171,15 +1171,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2876, -- [11]
+			2717, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366944243.312"] = {
-			"it looks amazing,a nd it has mads mikelson", -- [1]
+		["1366946513.855"] = {
+			"im thinking about changing mine tho b/c the gameplay doesnt quite work like i thought it would", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1189,7 +1189,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2414, -- [11]
+			2799, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -1214,8 +1214,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366947007.622"] = {
-			"meg is yelling at out dog, im gonna go sese whats up with that, catch you laterz", -- [1]
+		["1366944696.707"] = {
+			"i mean would you jsut start one there and lvl it?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1225,15 +1225,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2886, -- [11]
+			2507, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366943943.47"] = {
-			"ppl play bc they want to make their character stronger..better..etc", -- [1]
+		["1366943924.487"] = {
+			"that is the funny thing", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1243,15 +1243,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2370, -- [11]
+			2368, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946425.967"] = {
-			"yeah", -- [1]
+		["1366943987.629"] = {
+			"haha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1261,7 +1261,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2784, -- [11]
+			2376, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -1286,9 +1286,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946943.902"] = {
-			"or if kloros gives you good advice, does trent agree with him too?", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
+		["1366944262.305"] = {
+			"my butt hurts", -- [1]
+			"|Kf357|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1297,15 +1297,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2877, -- [11]
+			2420, -- [11]
 			false, -- [12]
-			365, -- [13]
+			357, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946469.185"] = {
-			"i can e-mail you the info to log into that", -- [1]
+		["1366946539.783"] = {
+			"just have someone roll for me", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1315,15 +1315,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2788, -- [11]
+			2804, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946418.553"] = {
-			"i think they have monks lol", -- [1]
+		["1366946928.927"] = {
+			"if you piss me off as kloros am I mad at trent?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1333,15 +1333,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2782, -- [11]
+			2876, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946915.385"] = {
-			"would be the basis of some interesting experiments", -- [1]
+		["1366946625.362"] = {
+			"monks are generally a support class in dnd", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1351,7 +1351,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2875, -- [11]
+			2822, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -1394,8 +1394,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946513.855"] = {
-			"im thinking about changing mine tho b/c the gameplay doesnt quite work like i thought it would", -- [1]
+		["1366944243.312"] = {
+			"it looks amazing,a nd it has mads mikelson", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1405,120 +1405,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2799, -- [11]
+			2414, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366944229.191"] = {
-			"Amanda was telling me about it", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2411, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366944258.644"] = {
-			"omg", -- [1]
-			"|Kf357|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2419, -- [11]
-			false, -- [12]
-			357, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366944160.526"] = {
-			"haha", -- [1]
-			"|Kf357|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2400, -- [11]
-			false, -- [12]
-			357, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366944262.305"] = {
-			"my butt hurts", -- [1]
-			"|Kf357|k0000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2420, -- [11]
-			false, -- [12]
-			357, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366946539.783"] = {
-			"just have someone roll for me", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2804, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946625.362"] = {
-			"monks are generally a support class in dnd", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2822, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1366946556.419"] = {
 			"josh the all powerful all knowing DM would prob not like that haha", -- [1]
@@ -1574,6 +1466,114 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
+		["1366946943.902"] = {
+			"or if kloros gives you good advice, does trent agree with him too?", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2877, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946469.185"] = {
+			"i can e-mail you the info to log into that", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2788, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946842.856"] = {
+			"see i just battletag people", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2862, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366944229.191"] = {
+			"Amanda was telling me about it", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2411, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366944258.644"] = {
+			"omg", -- [1]
+			"|Kf357|k0000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2419, -- [11]
+			false, -- [12]
+			357, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946816.294"] = {
+			"kind of a strange mental thing", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2858, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
 		["1366944156.853"] = {
 			"farming warbringers", -- [1]
 			"|Kf357|k0000000|k", -- [2]
@@ -1592,8 +1592,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946949.539"] = {
-			"haha", -- [1]
+		["1366943911.561"] = {
+			"gear", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1603,7 +1603,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2878, -- [11]
+			2366, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -1664,8 +1664,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366943911.561"] = {
-			"gear", -- [1]
+		["1366946949.539"] = {
+			"haha", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1675,15 +1675,33 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2366, -- [11]
+			2878, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946816.294"] = {
-			"kind of a strange mental thing", -- [1]
+		["1366944160.526"] = {
+			"haha", -- [1]
+			"|Kf357|k0000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2400, -- [11]
+			false, -- [12]
+			357, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366946915.385"] = {
+			"would be the basis of some interesting experiments", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1693,30 +1711,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2858, -- [11]
+			2875, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946842.856"] = {
-			"see i just battletag people", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2862, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366944534.557"] = {
 			"no", -- [1]
@@ -1844,8 +1844,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946114.144"] = {
-			"so i think you should put it on your schedule to drive up here once or twice a month so that you can play DnD with me meg josh and michael", -- [1]
+		["1366946418.553"] = {
+			"i think they have monks lol", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1855,15 +1855,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2717, -- [11]
+			2782, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946799.385"] = {
-			"like calling you trent and not kloros haha", -- [1]
+		["1366946425.967"] = {
+			"yeah", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1873,15 +1873,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2855, -- [11]
+			2784, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946593.158"] = {
-			"haha", -- [1]
+		["1366943943.47"] = {
+			"ppl play bc they want to make their character stronger..better..etc", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1891,69 +1891,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2818, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366946788.921"] = {
-			"yea i understand", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2853, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366946515.938"] = {
-			"what?", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2800, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366946750.521"] = {
-			"ok thanks for the talk", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2847, -- [11]
+			2370, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946872.682"] = {
-			"haha", -- [1]
+		["1366947007.622"] = {
+			"meg is yelling at out dog, im gonna go sese whats up with that, catch you laterz", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1963,15 +1909,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2869, -- [11]
+			2886, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946588.356"] = {
-			"i would do face to face if i lived anywhere near yall", -- [1]
+		["1366946854.579"] = {
+			"when we are in wow", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1981,15 +1927,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2817, -- [11]
+			2865, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946372.746"] = {
-			"i hadnt either", -- [1]
+		["1366946500.694"] = {
+			"yep", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1999,51 +1945,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2771, -- [11]
+			2796, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366947012.916"] = {
-			"cyah", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2887, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946841.447"] = {
-			"i think of you as a shaman healer for the most part ha", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2861, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366944244.985"] = {
-			"mt", -- [1]
+		["1366944109.672"] = {
+			"hey der", -- [1]
 			"|Kf357|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2053,15 +1963,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2415, -- [11]
+			2389, -- [11]
 			false, -- [12]
 			357, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366946848.347"] = {
-			":-}", -- [1]
+		["1366946859.958"] = {
+			"not in real life", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2071,30 +1981,120 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2863, -- [11]
-			false, -- [12]
-			365, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1366943993.416"] = {
-			"DPS", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2377, -- [11]
+			2866, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366943999.484"] = {
+			"and more DPS", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2380, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366945282.795"] = {
+			"haha", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2603, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366946865.282"] = {
+			"but they are distinct things", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2867, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366946485.692"] = {
+			"cool", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2790, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1366946875.19"] = {
+			"yea i gotcha", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2870, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1366944219.093"] = {
+			"but i dont think the first episodes are online", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2410, -- [11]
+			false, -- [12]
+			365, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1366946208.002"] = {
 			"will prob always been on saturdays", -- [1]
@@ -2114,8 +2114,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946531.601"] = {
-			"set up your mumble to have a live mic and i can play remotely", -- [1]
+		["1366946974.682"] = {
+			"i would never go that far", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2125,15 +2125,33 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2803, -- [11]
+			2882, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944123.639"] = {
-			"whatcha doin", -- [1]
+		["1366945849.019"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7994:050000000348962A:1:4:25:13:4294967295:4294967295:4294967295:4294967295|h[Treasure of Pandaria]|h|r!", -- [1]
+			"Eammiran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eammiran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2700, -- [11]
+			"0x050000000348962A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1366944116.17"] = {
+			"heya", -- [1]
 			"|Kf357|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2143,27 +2161,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2394, -- [11]
+			2390, -- [11]
 			false, -- [12]
 			357, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1366946585.553"] = {
-			"true true", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2816, -- [11]
-			false, -- [12]
-			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
@@ -2186,8 +2186,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366943902.093"] = {
-			"i don't care about gera", -- [1]
+		["1366946561.788"] = {
+			"why not?", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2197,16 +2197,16 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2363, -- [11]
+			2810, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1366944164.614"] = {
-			"still goin", -- [1]
-			"|Kf357|k0000000|k", -- [2]
+		["1366946173.978"] = {
+			"ok", -- [1]
+			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2215,9 +2215,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2401, -- [11]
+			2732, -- [11]
 			false, -- [12]
-			357, -- [13]
+			365, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -2240,9 +2240,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366945244.224"] = {
-			"gross", -- [1]
-			"|Kf365|k00000000000|k", -- [2]
+		["1366944240.184"] = {
+			"lol", -- [1]
+			"|Kf357|k0000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2251,15 +2251,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2599, -- [11]
+			2413, -- [11]
 			false, -- [12]
-			365, -- [13]
+			357, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366944363.497"] = {
-			"no i said \"it has mads mikelson, who is amazing!\"", -- [1]
+		["1366946451.072"] = {
+			"we subscribed to the online thing so we could get the character builder program, b/c it figures out all the math stuff for you, you just have to set up your character the way you want", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2269,7 +2269,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2442, -- [11]
+			2785, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]
@@ -2294,8 +2294,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1366946463.708"] = {
-			"nice", -- [1]
+		["1366943958.097"] = {
+			"i mean its fun too", -- [1]
 			"|Kf365|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2305,7 +2305,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2786, -- [11]
+			2373, -- [11]
 			false, -- [12]
 			365, -- [13]
 			false, -- [14]

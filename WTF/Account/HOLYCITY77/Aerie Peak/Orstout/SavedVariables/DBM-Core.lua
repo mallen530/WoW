@@ -53,33 +53,12 @@ DBM_SavedOptions = {
 	["ShowCountdownText"] = false,
 	["ShowBigBrotherOnCombatStart"] = false,
 	["DontShowRangeFrame"] = false,
-	["ForumsMessageShown"] = 9413,
+	["LastRevision"] = 9314,
 	["InfoFrameShowSelf"] = false,
 	["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
-	["ShowEngageMessage"] = true,
+	["DontShowPTCountdownText"] = false,
 	["ShowRecoveryMessage"] = true,
-	["WarningColors"] = {
-		{
-			["b"] = 0.94,
-			["g"] = 0.8,
-			["r"] = 0.41,
-		}, -- [1]
-		{
-			["b"] = 0,
-			["g"] = 0.95,
-			["r"] = 0.95,
-		}, -- [2]
-		{
-			["b"] = 0,
-			["g"] = 0.5,
-			["r"] = 1,
-		}, -- [3]
-		{
-			["b"] = 0.1,
-			["g"] = 0.1,
-			["r"] = 1,
-		}, -- [4]
-	},
+	["RangeFrameLocked"] = false,
 	["ShowFakedRaidWarnings"] = false,
 	["LatencyThreshold"] = 250,
 	["ShowLoadMessage"] = true,
@@ -87,48 +66,84 @@ DBM_SavedOptions = {
 	["UseMasterVolume"] = true,
 	["HPFrameMaxEntries"] = 5,
 	["SetPlayerRole"] = true,
-	["DontShowInfoFrame"] = false,
+	["DontSendBossWhispers"] = false,
 	["RangeFramePoint"] = "CENTER",
 	["ShowSpecialWarnings"] = true,
 	["DontShowBossAnnounces"] = false,
 	["ArrowPosY"] = -150,
-	["HealthFrameLocked"] = false,
-	["RangeFrameSound2"] = "none",
-	["ShowPizzaMessage"] = true,
+	["RangeFrameFrames"] = "radar",
 	["AdvancedAutologBosses"] = false,
+	["ShowPizzaMessage"] = true,
+	["RangeFrameSound2"] = "none",
 	["ShowLHFrame"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
 	},
-	["BlockVersionUpdateNotice"] = false,
+	["RangeFrameRadarY"] = 43.88755798339844,
 	["Enabled"] = true,
 	["RangeFrameRadarX"] = -306.4446411132813,
-	["RangeFrameRadarY"] = 43.88755798339844,
+	["BlockVersionUpdateNotice"] = false,
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},
-	["RangeFrameFrames"] = "radar",
+	["HealthFrameLocked"] = false,
 	["ShowWipeMessage"] = true,
 	["LogOnlyRaidBosses"] = false,
 	["StripServerName"] = true,
-	["DontSendBossWhispers"] = false,
+	["DontShowInfoFrame"] = false,
 	["AlwaysShowHealthFrame"] = false,
 	["HPFrameX"] = 140.8898773193359,
-	["RangeFrameLocked"] = false,
+	["WarningColors"] = {
+		{
+			["r"] = 0.4117647058823529,
+			["g"] = 0.8,
+			["b"] = 0.9411764705882353,
+		}, -- [1]
+		{
+			["r"] = 0.9490196078431372,
+			["g"] = 0.9490196078431372,
+			["b"] = 0,
+		}, -- [2]
+		{
+			["r"] = 1,
+			["g"] = 0.5019607843137255,
+			["b"] = 0,
+		}, -- [3]
+		{
+			["r"] = 1,
+			["g"] = 0.1019607843137255,
+			["b"] = 0.1019607843137255,
+		}, -- [4]
+	},
 	["SpamBlockBossWhispers"] = false,
-	["DontShowPTCountdownText"] = false,
-	["LastRevision"] = 9314,
+	["ShowEngageMessage"] = true,
+	["ForumsMessageShown"] = 9413,
 }
 DBT_SavedOptions = {
 	["DBM"] = {
-		["TimerY"] = -260,
-		["TimerPoint"] = "TOPRIGHT",
-		["TimerX"] = -222.9999847412109,
-		["HugeTimerX"] = 0,
+		["FontSize"] = 10,
 		["HugeTimerY"] = -119.9999923706055,
-		["HugeTimerPoint"] = "CENTER",
+		["HugeBarXOffset"] = 0,
+		["Scale"] = 0.8999999761581421,
+		["StartColorR"] = 1,
+		["HugeWidth"] = 200,
+		["TimerX"] = -222.9999847412109,
 		["Texture"] = "Interface\\AddOns\\ElvUI\\media\\textures\\Minimalist.tga",
+		["TimerPoint"] = "TOPRIGHT",
+		["StartColorG"] = 0.7019607843137254,
+		["HugeBarYOffset"] = 0,
+		["HugeScale"] = 1.049999952316284,
+		["EndColorR"] = 1,
+		["Width"] = 183,
+		["HugeTimerPoint"] = "CENTER",
+		["EndColorG"] = 0,
+		["HugeTimerX"] = 0,
+		["TimerY"] = -260,
+		["StartColorB"] = 0,
+		["BarYOffset"] = 0,
+		["BarXOffset"] = 0,
+		["EndColorB"] = 0,
 	},
 }

@@ -20,3 +20,17 @@ X: -7
 Y: 29
 W: 271
 H: 159
+Frame: Recount_DetailWindow
+FrameLevel: 40
+Anchor: TOPLEFT
+X: 0
+Y: 0
+W: 500
+H: 346
+Frame: DBM_GUI_OptionsFrame
+FrameLevel: 5
+Anchor: CENTER
+X: 61
+Y: -52
+W: 800
+H: 510

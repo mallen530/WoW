@@ -26,23 +26,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367794120.951"] = {
-			"Congratz!!!HAVE A COOKIE", -- [1]
-			"Destrosbra", -- [2]
-			"Common", -- [3]
+		["1368299133.91"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:6019:05800000084E123A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Come One, Come All!]|h|r!", -- [1]
+			"Khatuun", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Destrosbra", -- [5]
+			"Khatuun", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2189, -- [11]
-			"0x05800000084E1C69", -- [12]
+			5170, -- [11]
+			"0x05800000084E123A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367796749.337"] = {
 			"Poor fella.  Once upon a time is coming on in 30 minutes.  You can have your witching hour then.", -- [1]
@@ -116,23 +116,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367794122.32"] = {
-			"Welcome guys!", -- [1]
-			"Felwine", -- [2]
+		["1367796338.319"] = {
+			"that is cool", -- [1]
+			"Wrimtok", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Felwine", -- [5]
+			"Wrimtok", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2190, -- [11]
-			"0x0580000007FE4157", -- [12]
+			2709, -- [11]
+			"0x05800000084D2B30", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367794837.66"] = {
 			"save a dps spot lol", -- [1]
@@ -165,6 +165,24 @@ ElvCharacterDB = {
 			0, -- [10]
 			2645, -- [11]
 			"0x05800000081A102F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368299117.651"] = {
+			"grats!", -- [1]
+			"Morgáine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Morgáine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5165, -- [11]
+			"0x0580000007FE2344", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -206,23 +224,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_EMOTE",
 		},
-		["1367794186.781"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:6300:05800000052F58C8:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Upjade Complete]|h|r!", -- [1]
-			"Mesebeck", -- [2]
-			"", -- [3]
+		["1367797317.979"] = {
+			"good luck", -- [1]
+			"Bikbar", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Mesebeck", -- [5]
+			"Bikbar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2209, -- [11]
-			"0x05800000052F58C8", -- [12]
+			3026, -- [11]
+			"0x0580000007FE62FC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_SAY",
 		},
 		["1367797047.455"] = {
 			"to each his or her own", -- [1]
@@ -242,41 +260,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367794132.352"] = {
-			"ty", -- [1]
-			"Fusipally", -- [2]
+		["1367795275.881"] = {
+			" {cross} Keep it up Kisty {cross}", -- [1]
+			"Höbbes", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Fusipally", -- [5]
+			"Höbbes", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2191, -- [11]
-			"0x05800000073AA594", -- [12]
+			2499, -- [11]
+			"0x05800000084E1DA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796845.268"] = {
-			"lol", -- [1]
-			"Jbeam", -- [2]
-			"Common", -- [3]
+		["1368053187.325"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:776:05800000084E6D7C:1:5:8:13:4294967295:4294967295:4294967295:4294967295|h[Explore Elwynn Forest]|h|r!", -- [1]
+			"Shadyside", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jbeam", -- [5]
+			"Shadyside", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2872, -- [11]
-			"0x05800000081A102F", -- [12]
+			688, -- [11]
+			"0x05800000084E6D7C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367796467.341"] = {
 			"thx", -- [1]
@@ -458,6 +476,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
+		["1368299119.766"] = {
+			"gratz", -- [1]
+			"Fathoney", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Fathoney", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5166, -- [11]
+			"0x05800000084F0EC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1367796295.91"] = {
 			"ah", -- [1]
 			"Izlo-TheVentureCo", -- [2]
@@ -512,26 +548,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367794190.084"] = {
-			"Congratz!!!HAVE A COOKIE", -- [1]
-			"Destrosbra", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Destrosbra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2210, -- [11]
-			"0x05800000084E1C69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797074.931"] = {
-			"Dont say NO say MO", -- [1]
+		["1367797251.432"] = {
+			"ok nite all just so you know i am on usually after 9am most days EST and am here to help", -- [1]
 			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -541,12 +559,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2942, -- [11]
+			3014, -- [11]
 			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367796490.769"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7994:05800000052F58C8:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Treasure of Pandaria]|h|r!", -- [1]
+			"Mesebeck", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mesebeck", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2770, -- [11]
+			"0x05800000052F58C8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367797052.067"] = {
 			"hey rox i am in your guild on my main :-}", -- [1]
@@ -651,6 +687,24 @@ ElvCharacterDB = {
 			0, -- [10]
 			3021, -- [11]
 			"0x05800000081A102F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367796598.429"] = {
+			"Hey, Jack!  You don't watch Duck Dynasty, I suppose.", -- [1]
+			"Felwine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Felwine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2803, -- [11]
+			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -763,6 +817,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367797221.567"] = {
+			"ty all", -- [1]
+			"Roxannie", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Roxannie", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3004, -- [11]
+			"0x0580000008475C1F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367795301.459"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:1792:05800000073AA594:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Aw, Isn't It Cute?]|h|r!", -- [1]
@@ -998,23 +1070,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367796176.308"] = {
-			"shhh", -- [1]
-			"Noox", -- [2]
+		["1367796836.459"] = {
+			"meow", -- [1]
+			"Wakenbaken", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Noox", -- [5]
+			"Wakenbaken", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2666, -- [11]
-			"0x05800000084D32B5", -- [12]
+			2871, -- [11]
+			"0x05800000084E1712", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1367797487.616"] = {
 			"Give wakenbaken another cookie. lol", -- [1]
@@ -1070,41 +1142,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796220.699"] = {
-			"it was time to keep doing the dungeon", -- [1]
-			"Noox", -- [2]
+		["1367796555.483"] = {
+			"now that's cooking with peanut oil!", -- [1]
+			"Felwine", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Noox", -- [5]
+			"Felwine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2677, -- [11]
-			"0x05800000084D32B5", -- [12]
+			2793, -- [11]
+			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796216.572"] = {
-			"well it wasnt time to turn in quests yet", -- [1]
-			"Noox", -- [2]
+		["1367797133.437"] = {
+			"so what is rehab then a family guild?", -- [1]
+			"Roxannie", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Noox", -- [5]
+			"Roxannie", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2676, -- [11]
-			"0x05800000084D32B5", -- [12]
+			2962, -- [11]
+			"0x0580000008475C1F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367796358.422"] = {
 			"Grats", -- [1]
@@ -1142,6 +1214,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
+		["1367797078.601"] = {
+			"Oh, I get it....", -- [1]
+			"Felwine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Felwine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2943, -- [11]
+			"0x0580000007FE4157", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1367796813.709"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:5249:05800000084E1712:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[One Two Three You Don't Know About Me]|h|r!", -- [1]
 			"Wakenbaken", -- [2]
@@ -1159,6 +1249,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1367797275.876"] = {
+			"have a good evening with the missus.", -- [1]
+			"Felwine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Felwine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3019, -- [11]
+			"0x0580000007FE4157", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1367797070.054"] = {
 			"wrimtok is in one of \"the others\"", -- [1]
@@ -1178,19 +1286,37 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1367794995.46"] = {
-			"do you know were to go mr tank? :)", -- [1]
-			"Roxannie", -- [2]
+		["1367797213.48"] = {
+			"laterz", -- [1]
+			"Noox", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Roxannie", -- [5]
+			"Noox", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2421, -- [11]
-			"0x0580000008475C1F", -- [12]
+			2995, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1367795012.921"] = {
+			"thanks for asking though", -- [1]
+			"Wrimtok", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wrimtok", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2427, -- [11]
+			"0x05800000084D2B30", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1213,6 +1339,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367794664.298"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:238:05800000084E19FB:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[An Honorable Kill]|h|r!", -- [1]
+			"Kisty", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kisty", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2313, -- [11]
+			"0x05800000084E19FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367796685.524"] = {
 			"did you just google that?", -- [1]
@@ -1250,37 +1394,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367797378.413"] = {
-			"wat lvl is it", -- [1]
-			"Kurthh", -- [2]
+		["1367795330.806"] = {
+			"{skull} Working hard! {skull}", -- [1]
+			"Höbbes", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Kurthh", -- [5]
+			"Höbbes", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3037, -- [11]
-			"0x05800000084E19FD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797338.544"] = {
-			"I knew a guy that was a badass rogue pvp", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3029, -- [11]
-			"0x0580000007FE4157", -- [12]
+			2517, -- [11]
+			"0x05800000084E1DA9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1304,6 +1430,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
+		["1367797037.562"] = {
+			"do you guys get that joke alot?", -- [1]
+			"Noox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Noox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2930, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1367796184.085"] = {
 			"Welcome to RehaB! No Dr Drew won't be  asking for your deep dark secrets So enjoy your addictions and your stay with us.. Most of all be sure to have fun !", -- [1]
 			"Jbeam", -- [2]
@@ -1317,60 +1461,6 @@ ElvCharacterDB = {
 			0, -- [10]
 			2669, -- [11]
 			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797333.745"] = {
-			"nite all see yall soon", -- [1]
-			"Jbeam", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jbeam", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3028, -- [11]
-			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797317.979"] = {
-			"good luck", -- [1]
-			"Bikbar", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Bikbar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3026, -- [11]
-			"0x0580000007FE62FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1367797275.876"] = {
-			"have a good evening with the missus.", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3019, -- [11]
-			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1394,78 +1484,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796598.429"] = {
-			"Hey, Jack!  You don't watch Duck Dynasty, I suppose.", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2803, -- [11]
-			"0x0580000007FE4157", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797251.432"] = {
-			"ok nite all just so you know i am on usually after 9am most days EST and am here to help", -- [1]
-			"Jbeam", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jbeam", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3014, -- [11]
-			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797221.567"] = {
-			"ty all", -- [1]
-			"Roxannie", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Roxannie", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3004, -- [11]
-			"0x0580000008475C1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1367797219.487"] = {
-			"stop it you make me huuuungry", -- [1]
-			"Wakenbaken", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wakenbaken", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3003, -- [11]
-			"0x05800000084E1712", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
 		["1367797216.939"] = {
 			"Thank you for the group", -- [1]
 			"Zafrinna-Uldaman", -- [2]
@@ -1484,59 +1502,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367797218.036"] = {
-			"bye", -- [1]
-			"Wrimtok", -- [2]
+		["1368299142.179"] = {
+			"grats!", -- [1]
+			"Morgáine", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Wrimtok", -- [5]
+			"Morgáine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3000, -- [11]
-			"0x05800000084D2B30", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1367797213.48"] = {
-			"laterz", -- [1]
-			"Noox", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Noox", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2995, -- [11]
-			"0x05800000084D32B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1367797197.062"] = {
-			"Congratz!!!HAVE A COOKIE", -- [1]
-			"Destrosbra", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Destrosbra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2992, -- [11]
-			"0x05800000084E1C69", -- [12]
+			5173, -- [11]
+			"0x0580000007FE2344", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368299138.487"] = {
+			"gratz", -- [1]
+			"Fathoney", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Fathoney", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5171, -- [11]
+			"0x05800000084F0EC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368299108.072"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7413:05800000084EBB9E:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Scarlet Halls]|h|r!", -- [1]
+			"Refreshing", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Refreshing", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5163, -- [11]
+			"0x05800000084EBB9E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367796365.585"] = {
 			"Awesome!", -- [1]
@@ -1610,24 +1628,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367795302.798"] = {
-			"{skull} Working hard! {skull}", -- [1]
-			"Höbbes", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Höbbes", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2502, -- [11]
-			"0x05800000084E1DA9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
 		["1367797191.574"] = {
 			"Congratz!!!HAVE A COOKIE", -- [1]
 			"Destrosbra", -- [2]
@@ -1646,6 +1646,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_WHISPER",
 		},
+		["1367797021.406"] = {
+			"NO NO NO", -- [1]
+			"Noox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Noox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2926, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1367797254.45"] = {
 			"it's the weed munchies!", -- [1]
 			"Felwine", -- [2]
@@ -1659,6 +1677,42 @@ ElvCharacterDB = {
 			0, -- [10]
 			3015, -- [11]
 			"0x0580000007FE4157", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367797197.062"] = {
+			"Congratz!!!HAVE A COOKIE", -- [1]
+			"Destrosbra", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Destrosbra", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2992, -- [11]
+			"0x05800000084E1C69", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367797378.413"] = {
+			"wat lvl is it", -- [1]
+			"Kurthh", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Kurthh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3037, -- [11]
+			"0x05800000084E19FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1682,8 +1736,26 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1367797133.66"] = {
-			"Welcome to RehaB! No Dr Drew won't be  asking for your deep dark secrets So enjoy your addictions and your stay with us.. Most of all be sure to have fun !", -- [1]
+		["1367795302.798"] = {
+			"{skull} Working hard! {skull}", -- [1]
+			"Höbbes", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Höbbes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2502, -- [11]
+			"0x05800000084E1DA9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367797074.931"] = {
+			"Dont say NO say MO", -- [1]
 			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1693,80 +1765,26 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2963, -- [11]
+			2942, -- [11]
 			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367797133.437"] = {
-			"so what is rehab then a family guild?", -- [1]
-			"Roxannie", -- [2]
+		["1368052818.413"] = {
+			"Welcome!", -- [1]
+			"Killermuffin", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Roxannie", -- [5]
+			"Killermuffin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2962, -- [11]
-			"0x0580000008475C1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1367795012.921"] = {
-			"thanks for asking though", -- [1]
-			"Wrimtok", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wrimtok", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2427, -- [11]
-			"0x05800000084D2B30", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1367797078.601"] = {
-			"Oh, I get it....", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2943, -- [11]
-			"0x0580000007FE4157", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367795980.073"] = {
-			"thanks guys", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2632, -- [11]
-			"0x0580000007FE4157", -- [12]
+			671, -- [11]
+			"0x0580000007F851E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1790,23 +1808,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367796494.538"] = {
-			"CONGRATZ!!!! Your just the cats meow!  And we love you for it!", -- [1]
-			"Jbeam", -- [2]
+		["1367794995.46"] = {
+			"do you know were to go mr tank? :)", -- [1]
+			"Roxannie", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Jbeam", -- [5]
+			"Roxannie", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2776, -- [11]
-			"0x05800000081A102F", -- [12]
+			2421, -- [11]
+			"0x0580000008475C1F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367797187.329"] = {
 			"CONGRATZ!!!! You're just the cats meow!  And we love you for it!", -- [1]
@@ -1844,8 +1862,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367794198.0"] = {
-			"grats", -- [1]
+		["1367796686.099"] = {
+			"JACK!", -- [1]
 			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1855,62 +1873,44 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2211, -- [11]
+			2827, -- [11]
 			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796462.548"] = {
-			"Welcome!", -- [1]
-			"Felwine", -- [2]
+		["1367796494.538"] = {
+			"CONGRATZ!!!! Your just the cats meow!  And we love you for it!", -- [1]
+			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Felwine", -- [5]
+			"Jbeam", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2760, -- [11]
-			"0x0580000007FE4157", -- [12]
+			2776, -- [11]
+			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367797037.562"] = {
-			"do you guys get that joke alot?", -- [1]
-			"Noox", -- [2]
+		["1367797333.745"] = {
+			"nite all see yall soon", -- [1]
+			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Noox", -- [5]
+			"Jbeam", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2930, -- [11]
-			"0x05800000084D32B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367797021.406"] = {
-			"NO NO NO", -- [1]
-			"Noox", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Noox", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2926, -- [11]
-			"0x05800000084D32B5", -- [12]
+			3028, -- [11]
+			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1934,43 +1934,43 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367795275.881"] = {
-			" {cross} Keep it up Kisty {cross}", -- [1]
-			"Höbbes", -- [2]
+		["1367795980.073"] = {
+			"thanks guys", -- [1]
+			"Felwine", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Höbbes", -- [5]
+			"Felwine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2499, -- [11]
-			"0x05800000084E1DA9", -- [12]
+			2632, -- [11]
+			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796686.099"] = {
-			"JACK!", -- [1]
-			"Jbeam", -- [2]
+		["1367797338.544"] = {
+			"I knew a guy that was a badass rogue pvp", -- [1]
+			"Felwine", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Jbeam", -- [5]
+			"Felwine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2827, -- [11]
-			"0x05800000081A102F", -- [12]
+			3029, -- [11]
+			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796487.841"] = {
+		["1367797133.66"] = {
 			"Welcome to RehaB! No Dr Drew won't be  asking for your deep dark secrets So enjoy your addictions and your stay with us.. Most of all be sure to have fun !", -- [1]
 			"Jbeam", -- [2]
 			"Common", -- [3]
@@ -1981,26 +1981,44 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2769, -- [11]
+			2963, -- [11]
 			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796973.579"] = {
-			"in neeeeed weed!!", -- [1]
-			"Wakenbaken", -- [2]
+		["1367796550.687"] = {
+			"happy grammar nAzi", -- [1]
+			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Wakenbaken", -- [5]
+			"Jbeam", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2914, -- [11]
-			"0x05800000084E1712", -- [12]
+			2789, -- [11]
+			"0x05800000081A102F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367796845.268"] = {
+			"lol", -- [1]
+			"Jbeam", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Jbeam", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2872, -- [11]
+			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -2042,6 +2060,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
+		["1367796176.308"] = {
+			"shhh", -- [1]
+			"Noox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Noox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2666, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
 		["1367796916.565"] = {
 			"welcome guys!", -- [1]
 			"Felwine", -- [2]
@@ -2054,6 +2090,78 @@ ElvCharacterDB = {
 			"", -- [9]
 			0, -- [10]
 			2894, -- [11]
+			"0x0580000007FE4157", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367796216.572"] = {
+			"well it wasnt time to turn in quests yet", -- [1]
+			"Noox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Noox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2676, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1367796220.699"] = {
+			"it was time to keep doing the dungeon", -- [1]
+			"Noox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Noox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2677, -- [11]
+			"0x05800000084D32B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1367796973.579"] = {
+			"in neeeeed weed!!", -- [1]
+			"Wakenbaken", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wakenbaken", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2914, -- [11]
+			"0x05800000084E1712", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367796462.548"] = {
+			"Welcome!", -- [1]
+			"Felwine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Felwine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2760, -- [11]
 			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2078,96 +2186,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796836.459"] = {
-			"meow", -- [1]
-			"Wakenbaken", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wakenbaken", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2871, -- [11]
-			"0x05800000084E1712", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367796555.483"] = {
-			"now that's cooking with peanut oil!", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2793, -- [11]
-			"0x0580000007FE4157", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367796550.687"] = {
-			"happy grammar nAzi", -- [1]
-			"Jbeam", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jbeam", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2789, -- [11]
-			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367796490.769"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:7994:05800000052F58C8:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Treasure of Pandaria]|h|r!", -- [1]
-			"Mesebeck", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mesebeck", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2770, -- [11]
-			"0x05800000052F58C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1367796338.319"] = {
-			"that is cool", -- [1]
-			"Wrimtok", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wrimtok", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2709, -- [11]
-			"0x05800000084D2B30", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
 		["1367797406.761"] = {
 			"I haven't done much pvp since LC", -- [1]
 			"Felwine", -- [2]
@@ -2186,37 +2204,37 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367796177.069"] = {
-			"Oh lawd. 0.o", -- [1]
-			"Felwine", -- [2]
+		["1367797218.036"] = {
+			"bye", -- [1]
+			"Wrimtok", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Felwine", -- [5]
+			"Wrimtok", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2667, -- [11]
-			"0x0580000007FE4157", -- [12]
+			3000, -- [11]
+			"0x05800000084D2B30", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1367795330.806"] = {
-			"{skull} Working hard! {skull}", -- [1]
-			"Höbbes", -- [2]
+		["1367796487.841"] = {
+			"Welcome to RehaB! No Dr Drew won't be  asking for your deep dark secrets So enjoy your addictions and your stay with us.. Most of all be sure to have fun !", -- [1]
+			"Jbeam", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Höbbes", -- [5]
+			"Jbeam", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2517, -- [11]
-			"0x05800000084E1DA9", -- [12]
+			2769, -- [11]
+			"0x05800000081A102F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -2240,23 +2258,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1367794664.298"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:238:05800000084E19FB:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[An Honorable Kill]|h|r!", -- [1]
-			"Kisty", -- [2]
-			"", -- [3]
+		["1367796177.069"] = {
+			"Oh lawd. 0.o", -- [1]
+			"Felwine", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Kisty", -- [5]
+			"Felwine", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2313, -- [11]
-			"0x05800000084E19FB", -- [12]
+			2667, -- [11]
+			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1367797219.487"] = {
+			"stop it you make me huuuungry", -- [1]
+			"Wakenbaken", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wakenbaken", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3003, -- [11]
+			"0x05800000084E1712", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1367796367.998"] = {
 			"tyy", -- [1]
@@ -2271,42 +2307,6 @@ ElvCharacterDB = {
 			0, -- [10]
 			2731, -- [11]
 			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367794600.653"] = {
-			"Welcome New Addicts have a drink on us", -- [1]
-			"Jbeam", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jbeam", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2295, -- [11]
-			"0x05800000081A102F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1367794579.731"] = {
-			"Welcome guys!", -- [1]
-			"Felwine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Felwine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2287, -- [11]
-			"0x0580000007FE4157", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]

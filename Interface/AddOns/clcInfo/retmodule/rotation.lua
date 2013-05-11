@@ -18,7 +18,7 @@ local ef = CreateFrame("Frame") 	-- event frame
 ef:Hide()
 local qTaint = true								-- will force queue check
 
-xmod.version = 5000005
+xmod.version = 5000006
 xmod.defaults = {
 	version = xmod.version,
 	
@@ -27,7 +27,9 @@ xmod.defaults = {
 	inqRefresh = 5,
 	inqApplyMin = 3,
 
-	howclash = 0,  -- priority time for hammer of wrath
+	howclash = 0,  	-- priority time for hammer of wrath
+	csclash = 0,		-- priority time for cs
+	exoclash = 0, 	-- priority time for exorcism
 	ssduration = 0, -- minimum duration on ss buff before suggesting refresh
 }
 
@@ -51,6 +53,7 @@ local buffInq 	= GetSpellInfo(inqId)		-- inquisition
 local buffDP 		= GetSpellInfo(90174)		-- divine purpose
 local buffHA		= GetSpellInfo(105809)	-- holy avenger
 local buffAW    = GetSpellInfo(31884)		-- avenging wrath	
+local buff4T15 	= GetSpellInfo(138169)  -- templar's verdict buff
 
 -- custom function to check ss since there are 2 buffs with same name
 --local buffSS		= 65148
@@ -58,7 +61,7 @@ local buffSS = 20925
 
 -- status vars
 local s1, s2
-local s_ctime, s_otime, s_gcd, s_hp, s_inq, s_dp, s_ha, s_aw, s_ss, s_haste, s_targetType
+local s_ctime, s_otime, s_gcd, s_hp, s_inq, s_dp, s_ha, s_aw, s_ss, s_4t15, s_haste, s_targetType
 local s_exoId = exoId
 
 -- the queue
@@ -137,10 +140,25 @@ local actions = {
 		end,
 		info = "Templar's Verdict HP >= 4",
 	},
+	tv4_4t15 = {
+		id = tvId,
+		GetCD = function()
+			if ( ((s_hp >= 4) or (s_hp >= 3 and s_ha > 0)) and s_4t15 > 0) then return 0 end
+			return 100
+		end,
+		UpdateStatus = function()
+			s_ctime = s_ctime + s_gcd + 1.5
+			s_4t15 = 0
+			if s_dp <= 0 then
+				s_hp = max(0, s_hp - 3)
+			end
+		end,
+		info = "Templar's Verdict HP >= 4 and 4 piece T15 buff active",
+	},
 	tv4aw = {
 		id = tvId,
 		GetCD = function()
-			if ( ((s_hp >= 4) or (s_hp >= 3 and s_ha > 0)) and (s_aw >= 0) ) then return 0 end
+			if ( ((s_hp >= 4) or (s_hp >= 3 and s_ha > 0)) and (s_aw > 0) ) then return 0 end
 			return 100
 		end,
 		UpdateStatus = function()
@@ -164,6 +182,21 @@ local actions = {
 			end
 		end,
 		info = "Templar's Verdict HP >= 3",
+	},
+	tv3_4t15 = {
+		id = tvId,
+		GetCD = function()
+			if ( s_hp >= 3 and s_4t15 > 0 ) then return 0 end
+			return 100
+		end,
+		UpdateStatus = function()
+			s_ctime = s_ctime + s_gcd + 1.5
+			s_4t15 = 0
+			if s_dp <= 0 then
+				s_hp = max(0, s_hp - 3)
+			end
+		end,
+		info = "Templar's Verdict HP >= 3 and 4 piece T15 buff active",
 	},
 	tvdp = {
 		id = tvId,
@@ -197,7 +230,7 @@ local actions = {
 			if s1 == s_exoId then
 				return 100 -- lazy stuff
 			else
-				return GetCooldown(s_exoId)
+				return max(0, GetCooldown(s_exoId) - db.exoclash)
 			end
 		end,
 		UpdateStatus = function()
@@ -214,7 +247,7 @@ local actions = {
 		id = exoId,
 		GetCD = function()
 			if (s1 ~= s_exoId) and (s_aw > 0) then
-				return GetCooldown(s_exoId)
+				return max(0, GetCooldown(s_exoId) - db.exoclash)
 			end
 			return 100 -- lazy stuff
 		end,
@@ -268,9 +301,9 @@ local actions = {
 		id = csId,
 		GetCD = function()
 			if s1 == csId then
-				return (4.5 / s_haste - 1.5)
+				return max(0, (4.5 / s_haste - 1.5 - db.csclash))
 			else
-				return GetCooldown(csId)
+				return max(0, GetCooldown(csId) - db.csclash)
 			end
 		end,
 		UpdateStatus = function()
@@ -282,6 +315,26 @@ local actions = {
 			end
 		end,
 		info = "Crusader Strike",
+	},
+	cs_n4t15 = {
+		id = csId,
+		GetCD = function()
+			if s_4t15 > 0 then return 100 end
+			if s1 == csId then
+				return max(0, (4.5 / s_haste - 1.5 - db.csclash))
+			else
+				return max(0, GetCooldown(csId) - db.csclash)
+			end
+		end,
+		UpdateStatus = function()
+			s_ctime = s_ctime + s_gcd + 1.5
+			if s_ha > 0 then
+				s_hp = min(5, s_hp + 3)
+			else
+				s_hp = min(5, s_hp + 1)
+			end
+		end,
+		info = "Crusader Strike without 4t15 buff",
 	},
 	j = {
 		id = jId,
@@ -494,11 +547,20 @@ local function GetStatus()
 	if s_gcd < 0 then s_gcd = 0 end
 	
 	-- the buffs
-	s_inq = GetBuff(buffInq)
-	s_dp = GetBuff(buffDP)
-	s_ha = GetBuff(buffHA)
-	s_aw = GetBuff(buffAW)
+	s_inq 	= GetBuff(buffInq)
+	s_dp 		= GetBuff(buffDP)
+	s_ha 		= GetBuff(buffHA)
+	s_aw 		=	GetBuff(buffAW)
+
+	-- special for ss
 	GetBuffSS()
+
+	-- 4piece t15
+	if UnitBuff("player", buff4T15) then
+		s_4t15 = 100000
+	else
+		s_4t15 = 0
+	end
 	
 	-- client hp and haste
 	s_hp = UnitPower("player", SPELL_POWER_HOLY_POWER)
@@ -609,6 +671,7 @@ function xmod.Rotation()
 		debug:AddBoth("inq", s_inq)
 		debug:AddBoth("dp", s_dp)
 		debug:AddBoth("haste", s_haste)
+		debug:AddBoth("4t15", s_4t15)
 	end
 	local action
 	s1, action = GetNextAction()
@@ -636,6 +699,7 @@ function xmod.Rotation()
 		debug:AddBoth("inq", s_inq)
 		debug:AddBoth("dp", s_dp)
 		debug:AddBoth("haste", s_haste)
+		debug:AddBoth("4t15", s_4t15)
 	end
 	s2, action = GetNextAction()
 	if debug and debug.enabled then

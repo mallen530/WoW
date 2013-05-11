@@ -1,11 +1,11 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" sweet", -- [1]
-		" i need to do that kind of stuff", -- [2]
-		" idk i think we shuold", -- [3]
-		" but you want to finish ToeS first", -- [4]
-		" i think eventually might work better", -- [5]
+		" i need to do that kind of stuff", -- [1]
+		" idk i think we shuold", -- [2]
+		" but you want to finish ToeS first", -- [3]
+		" i think eventually might work better", -- [4]
+		" hey man", -- [5]
 	},
 	["ChatLog"] = {
 		["1367786634.588"] = {
@@ -25,24 +25,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1367786255.485"] = {
-			"you setting up your mic and stuff or is it not letting you talk?", -- [1]
-			"|Kf126|k000000000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			303, -- [11]
-			false, -- [12]
-			126, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1367788676.088"] = {
 			"man", -- [1]
@@ -134,23 +116,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367787977.506"] = {
-			"Overcharged on Kholdstart!", -- [1]
-			"Kholdstart-Deathwing", -- [2]
+		["1367787758.232"] = {
+			"I have faith in raid finder", -- [1]
+			"Zzoocow-TheScryers", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Kholdstart", -- [5]
+			"Zzoocow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			470, -- [11]
-			"0x0580000007332CCC", -- [12]
+			444, -- [11]
+			"0x0700000004BB6579", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367788498.05"] = {
 			"ty for rezing, not bad atempt", -- [1]
@@ -170,23 +152,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367788520.594"] = {
-			"* the more you know *", -- [1]
-			"Incendium-Zuluhed", -- [2]
-			"Orcish", -- [3]
+		["1367788941.441"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:4826:05000000057A0C98:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Level 85]|h|r!", -- [1]
+			"Sofakingdots", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Incendium", -- [5]
+			"Sofakingdots", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			565, -- [11]
-			"0x050000000594942A", -- [12]
+			608, -- [11]
+			"0x05000000057A0C98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1367788327.848"] = {
 			"use any brez's left", -- [1]
@@ -278,23 +260,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367787700.798"] = {
-			"dont see marks on groups", -- [1]
-			"Algaddafi-Area52", -- [2]
-			"Orcish", -- [3]
+		["1367789568.133"] = {
+			"but you want to finish ToeS first", -- [1]
+			"|Kf107|k000000000000000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Algaddafi", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			430, -- [11]
-			"0x0700000005267238", -- [12]
-			0, -- [13]
+			738, -- [11]
+			false, -- [12]
+			107, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1367787815.987"] = {
 			"kkthx", -- [1]
@@ -350,19 +332,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367787495.127"] = {
-			"lol", -- [1]
-			"Crazypally-Terokkar", -- [2]
+		["1367789297.958"] = {
+			"gg putting tanks butt right upagainst shit melee shouldnt stand in", -- [1]
+			"Quinerr-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Crazypally", -- [5]
+			"Quinerr", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			415, -- [11]
-			"0x0700000004448CCB", -- [12]
+			667, -- [11]
+			"0x0700000004CEC1F6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -602,23 +584,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1367788484.621"] = {
-			"this run sucks", -- [1]
-			"Whatchuwant", -- [2]
-			"Orcish", -- [3]
+		["1367789436.921"] = {
+			"bought a new belt", -- [1]
+			"|Kf107|k000000000000000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Whatchuwant", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			553, -- [11]
-			"0x05000000041686B0", -- [12]
-			0, -- [13]
+			726, -- [11]
+			false, -- [12]
+			107, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1367788536.13"] = {
 			"Incendium-Zuluhed has set us up a Soul Well", -- [1]
@@ -1088,6 +1070,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1367892963.375"] = {
+			"ORRAN MY BRUDDAH!!!", -- [1]
+			"Huanji", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Huanji", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			83, -- [11]
+			"0x050000000588519C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1367786400.665"] = {
 			"see", -- [1]
 			"Incendium-Zuluhed", -- [2]
@@ -1159,6 +1159,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367892980.148"] = {
+			"well hello there orran ol pal!", -- [1]
+			"Doru", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Doru", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"0x0500000004FED209", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1367787525.052"] = {
 			"censure killed all 3 of us", -- [1]
@@ -1430,24 +1448,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367786397.873"] = {
-			"lol", -- [1]
-			"Kuhnigit", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kuhnigit", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"0x0500000001469FA8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
 		["1367787813.932"] = {
 			"start", -- [1]
 			"Quinerr-Area52", -- [2]
@@ -1519,24 +1519,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1367786269.277"] = {
-			"setting up mic", -- [1]
-			"|Kf126|k000000000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			305, -- [11]
-			false, -- [12]
-			126, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1367787719.251"] = {
 			"er g1 tri", -- [1]
@@ -1700,9 +1682,9 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_WHISPER",
 		},
-		["1367789568.133"] = {
-			"but you want to finish ToeS first", -- [1]
-			"|Kf107|k000000000000000|k", -- [2]
+		["1367892981.723"] = {
+			"hey man", -- [1]
+			"|Kf73|k000000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1711,16 +1693,16 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			738, -- [11]
+			92, -- [11]
 			false, -- [12]
-			107, -- [13]
+			73, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1367789563.907"] = {
-			"idk i think we shuold", -- [1]
-			"|Kf107|k000000000000000|k", -- [2]
+		["1367892975.811"] = {
+			"what up", -- [1]
+			"|Kf73|k000000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1729,30 +1711,48 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			737, -- [11]
+			85, -- [11]
 			false, -- [12]
-			107, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
-		},
-		["1367789548.743"] = {
-			"but the question is, are we going to do it", -- [1]
-			"|Kf107|k000000000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			734, -- [11]
-			false, -- [12]
-			107, -- [13]
+			73, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1367787497.794"] = {
+			"lol didn;t even attack him", -- [1]
+			"Whatchuwant", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Whatchuwant", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			416, -- [11]
+			"0x05000000041686B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367786684.859"] = {
+			"Pull in 10 sec", -- [1]
+			"Aspida-Turalyon", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aspida", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			366, -- [11]
+			"0x0500000005A560D7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367789440.66"] = {
 			"sweet", -- [1]
@@ -1772,26 +1772,80 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1367788941.441"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:4826:05000000057A0C98:1:5:5:13:4294967295:4294967295:4294967295:4294967295|h[Level 85]|h|r!", -- [1]
-			"Sofakingdots", -- [2]
-			"", -- [3]
+		["1367788235.955"] = {
+			"Overcharged on Edenex!", -- [1]
+			"Edenex-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sofakingdots", -- [5]
+			"Edenex", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			608, -- [11]
-			"0x05000000057A0C98", -- [12]
+			494, -- [11]
+			"0x0500000005A601E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_SAY",
 		},
-		["1367789436.921"] = {
-			"bought a new belt", -- [1]
+		["1367788479.193"] = {
+			"Baasuke-TheVentureCo prepares a |cff71d5ff|Hspell:105193|h[Great Pandaren Banquet]|h|r!", -- [1]
+			"Quinerr-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Quinerr", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			552, -- [11]
+			"0x0700000004CEC1F6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367786629.273"] = {
+			"lol", -- [1]
+			"Wishd-Zuluhed", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Wishd", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"0x05000000059E7002", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1367788512.341"] = {
+			"if you stack for ball lightning", -- [1]
+			"Incendium-Zuluhed", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Incendium", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			561, -- [11]
+			"0x050000000594942A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367789563.907"] = {
+			"idk i think we shuold", -- [1]
 			"|Kf107|k000000000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1801,30 +1855,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			726, -- [11]
+			737, -- [11]
 			false, -- [12]
 			107, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1367789433.425"] = {
-			"gearing up", -- [1]
-			"|Kf107|k000000000000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			725, -- [11]
-			false, -- [12]
-			107, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1367789427.393"] = {
 			"wha cha doin?", -- [1]
@@ -1844,59 +1880,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1367786182.217"] = {
-			"well just know we aren't looking to sell", -- [1]
-			"Lisabrina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lisabrina", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"0x0500000003D0C8C0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
-		},
-		["1367788859.277"] = {
-			"Static Shock on me!", -- [1]
-			"Whatchuwant", -- [2]
+		["1367787977.506"] = {
+			"Overcharged on Kholdstart!", -- [1]
+			"Kholdstart-Deathwing", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Whatchuwant", -- [5]
+			"Kholdstart", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			601, -- [11]
-			"0x05000000041686B0", -- [12]
+			470, -- [11]
+			"0x0580000007332CCC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
-		},
-		["1367788516.55"] = {
-			"people take less damage", -- [1]
-			"Incendium-Zuluhed", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Incendium", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			563, -- [11]
-			"0x050000000594942A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1367788660.165"] = {
 			"group 3 when the blue swirls come out u need to stand in em to stop add from spawning", -- [1]
@@ -1916,41 +1916,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367787758.232"] = {
-			"I have faith in raid finder", -- [1]
-			"Zzoocow-TheScryers", -- [2]
+		["1367788523.006"] = {
+			"is okay bros ", -- [1]
+			"Colacube-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zzoocow", -- [5]
+			"Colacube", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			444, -- [11]
-			"0x0700000004BB6579", -- [12]
+			566, -- [11]
+			"0x0700000003D64F11", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_SAY",
 		},
-		["1367787798.942"] = {
-			"pulling when he gets to star", -- [1]
-			"Zzoocow-TheScryers", -- [2]
-			"Orcish", -- [3]
+		["1367786611.653"] = {
+			"lfr or reg?", -- [1]
+			"|Kf101|k000000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zzoocow", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			448, -- [11]
-			"0x0700000004BB6579", -- [12]
-			0, -- [13]
+			346, -- [11]
+			false, -- [12]
+			101, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1367786642.441"] = {
 			"does the job", -- [1]
@@ -1970,55 +1970,55 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367786633.621"] = {
-			"or get locked out", -- [1]
-			"Quinerr-Area52", -- [2]
+		["1367788520.594"] = {
+			"* the more you know *", -- [1]
+			"Incendium-Zuluhed", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Quinerr", -- [5]
+			"Incendium", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			356, -- [11]
-			"0x0700000004CEC1F6", -- [12]
+			565, -- [11]
+			"0x050000000594942A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367789299.098"] = {
-			"ty for res", -- [1]
-			"Colacube-Area52", -- [2]
-			"Orcish", -- [3]
+		["1367786645.258"] = {
+			"just been leveling alts here ...>.> such a grind..", -- [1]
+			"|Kf101|k000000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Colacube", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			669, -- [11]
-			"0x0700000003D64F11", -- [12]
-			0, -- [13]
+			360, -- [11]
+			false, -- [12]
+			101, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1367789297.958"] = {
-			"gg putting tanks butt right upagainst shit melee shouldnt stand in", -- [1]
-			"Quinerr-Area52", -- [2]
+		["1367788693.699"] = {
+			"Pull now!", -- [1]
+			"Zzoocow-TheScryers", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Quinerr", -- [5]
+			"Zzoocow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			667, -- [11]
-			"0x0700000004CEC1F6", -- [12]
+			584, -- [11]
+			"0x0700000004BB6579", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -2042,23 +2042,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1367789105.758"] = {
-			"Overcharged on Marktheshark!", -- [1]
-			"Marktheshark-Andorhal", -- [2]
-			"Orcish", -- [3]
+		["1367787817.671"] = {
+			"kk", -- [1]
+			"Quinerr-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Marktheshark", -- [5]
+			"Quinerr", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			621, -- [11]
-			"0x05000000052997F4", -- [12]
+			454, -- [11]
+			"0x0700000004CEC1F6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_WHISPER",
 		},
 		["1367788833.258"] = {
 			"marktheshark is just standing there...", -- [1]
@@ -2072,6 +2072,24 @@ ElvCharacterDB = {
 			"", -- [9]
 			0, -- [10]
 			599, -- [11]
+			"0x0700000005267238", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367787700.798"] = {
+			"dont see marks on groups", -- [1]
+			"Algaddafi-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Algaddafi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			430, -- [11]
 			"0x0700000005267238", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2096,80 +2114,44 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367787817.671"] = {
-			"kk", -- [1]
-			"Quinerr-Area52", -- [2]
-			"", -- [3]
+		["1367789105.758"] = {
+			"Overcharged on Marktheshark!", -- [1]
+			"Marktheshark-Andorhal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Quinerr", -- [5]
+			"Marktheshark", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			454, -- [11]
-			"0x0700000004CEC1F6", -- [12]
+			621, -- [11]
+			"0x05000000052997F4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER",
+			[20] = "CHAT_MSG_SAY",
 		},
-		["1367788693.699"] = {
-			"Pull now!", -- [1]
-			"Zzoocow-TheScryers", -- [2]
+		["1367787495.127"] = {
+			"lol", -- [1]
+			"Crazypally-Terokkar", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zzoocow", -- [5]
+			"Crazypally", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			584, -- [11]
-			"0x0700000004BB6579", -- [12]
+			415, -- [11]
+			"0x0700000004448CCB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367786645.258"] = {
-			"just been leveling alts here ...>.> such a grind..", -- [1]
-			"|Kf101|k000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			360, -- [11]
-			false, -- [12]
-			101, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1367786611.653"] = {
-			"lfr or reg?", -- [1]
-			"|Kf101|k000000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			346, -- [11]
-			false, -- [12]
-			101, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER",
-		},
-		["1367788523.006"] = {
-			"is okay bros ", -- [1]
+		["1367789299.098"] = {
+			"ty for res", -- [1]
 			"Colacube-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2179,51 +2161,33 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			566, -- [11]
+			669, -- [11]
 			"0x0700000003D64F11", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1367788512.341"] = {
-			"if you stack for ball lightning", -- [1]
-			"Incendium-Zuluhed", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Incendium", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			561, -- [11]
-			"0x050000000594942A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367786629.273"] = {
-			"lol", -- [1]
-			"Wishd-Zuluhed", -- [2]
-			"Orcish", -- [3]
+		["1367789548.743"] = {
+			"but the question is, are we going to do it", -- [1]
+			"|Kf107|k000000000000000|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Wishd", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			353, -- [11]
-			"0x05000000059E7002", -- [12]
-			0, -- [13]
+			734, -- [11]
+			false, -- [12]
+			107, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1367788479.193"] = {
-			"Baasuke-TheVentureCo prepares a |cff71d5ff|Hspell:105193|h[Great Pandaren Banquet]|h|r!", -- [1]
+		["1367786633.621"] = {
+			"or get locked out", -- [1]
 			"Quinerr-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2233,12 +2197,66 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			552, -- [11]
+			356, -- [11]
 			"0x0700000004CEC1F6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367787798.942"] = {
+			"pulling when he gets to star", -- [1]
+			"Zzoocow-TheScryers", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Zzoocow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			448, -- [11]
+			"0x0700000004BB6579", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367788516.55"] = {
+			"people take less damage", -- [1]
+			"Incendium-Zuluhed", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Incendium", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			563, -- [11]
+			"0x050000000594942A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367788859.277"] = {
+			"Static Shock on me!", -- [1]
+			"Whatchuwant", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Whatchuwant", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			601, -- [11]
+			"0x05000000041686B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_SAY",
 		},
 		["1367786636.522"] = {
 			"get in past the gare", -- [1]
@@ -2258,44 +2276,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1367788235.955"] = {
-			"Overcharged on Edenex!", -- [1]
-			"Edenex-Mal'Ganis", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Edenex", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			494, -- [11]
-			"0x0500000005A601E8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1367786684.859"] = {
-			"Pull in 10 sec", -- [1]
-			"Aspida-Turalyon", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Aspida", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"0x0500000005A560D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1367787497.794"] = {
-			"lol didn;t even attack him", -- [1]
+		["1367788484.621"] = {
+			"this run sucks", -- [1]
 			"Whatchuwant", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2305,12 +2287,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			416, -- [11]
+			553, -- [11]
 			"0x05000000041686B0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1367789433.425"] = {
+			"gearing up", -- [1]
+			"|Kf107|k000000000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			725, -- [11]
+			false, -- [12]
+			107, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 	},
 }

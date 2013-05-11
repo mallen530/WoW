@@ -499,12 +499,14 @@ do
 		["Divine Shield"] = true,
 		["Power Word: Barrier"] = true,
 		["Ironbark"] = true,
+		["Shield of Glory"] = true,
 	}
 
 	local idlist = {
 		[20925] = true,	-- sacred shield
 	}
 
+	-- player only
 	local namepolist = {
 	}	
 

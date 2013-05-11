@@ -1,0 +1,38 @@
+------------------------------------------------------------------------
+r284 | abija | 2013-05-09 05:20:46 +0000 (Thu, 09 May 2013) | 1 line
+Changed paths:
+   A /tags/v.1.5.20.002 (from /trunk:283)
+
+Tagging as v.1.5.20.002
+------------------------------------------------------------------------
+r283 | abija | 2013-05-03 17:00:26 +0000 (Fri, 03 May 2013) | 1 line
+Changed paths:
+   M /trunk/retmodule/rotation.lua
+
+- retmodule - action added: cs_n4t15 (cs when 4pt15 not active)
+------------------------------------------------------------------------
+r282 | abija | 2013-04-11 11:47:01 +0000 (Thu, 11 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/retmodule/rotation.lua
+
+- fix tv4aw
+------------------------------------------------------------------------
+r281 | abija | 2013-04-10 06:33:40 +0000 (Wed, 10 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/data/paladin/protection.lua
+
+added shield of glory to MIconProtPCooldowns list
+------------------------------------------------------------------------
+r280 | abija | 2013-04-10 06:21:50 +0000 (Wed, 10 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/retmodule/options.lua
+   M /trunk/retmodule/rotation.lua
+
+cs and exorcism clash options
+------------------------------------------------------------------------
+r279 | abija | 2013-04-03 22:52:18 +0000 (Wed, 03 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/retmodule/rotation.lua
+
+- still trying with 4pt15
+------------------------------------------------------------------------

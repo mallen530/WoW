@@ -53,12 +53,33 @@ DBM_SavedOptions = {
 	["ShowCountdownText"] = false,
 	["ShowBigBrotherOnCombatStart"] = false,
 	["DontShowRangeFrame"] = false,
-	["ShowEngageMessage"] = true,
+	["ForumsMessageShown"] = 9413,
 	["InfoFrameShowSelf"] = false,
 	["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
-	["ShowRecoveryMessage"] = true,
+	["LastRevision"] = 9314,
 	["DontShowPTCountdownText"] = false,
-	["AutoRespond"] = true,
+	["WarningColors"] = {
+		{
+			["r"] = 0.41,
+			["g"] = 0.8,
+			["b"] = 0.94,
+		}, -- [1]
+		{
+			["r"] = 0.95,
+			["g"] = 0.95,
+			["b"] = 0,
+		}, -- [2]
+		{
+			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
+		}, -- [3]
+		{
+			["r"] = 1,
+			["g"] = 0.1,
+			["b"] = 0.1,
+		}, -- [4]
+	},
 	["ShowFakedRaidWarnings"] = false,
 	["LatencyThreshold"] = 250,
 	["ShowLoadMessage"] = true,
@@ -66,60 +87,39 @@ DBM_SavedOptions = {
 	["UseMasterVolume"] = true,
 	["HPFrameMaxEntries"] = 5,
 	["SetPlayerRole"] = true,
-	["ShowSpecialWarnings"] = true,
+	["DontShowInfoFrame"] = false,
 	["RangeFramePoint"] = "CENTER",
 	["DontSendBossWhispers"] = false,
 	["DontShowBossAnnounces"] = false,
 	["ArrowPosY"] = -150,
-	["RangeFrameFrames"] = "radar",
-	["AdvancedAutologBosses"] = false,
-	["ShowPizzaMessage"] = true,
+	["HealthFrameLocked"] = false,
 	["RangeFrameSound2"] = "none",
+	["ShowPizzaMessage"] = true,
+	["AdvancedAutologBosses"] = false,
 	["ShowLHFrame"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
 	},
-	["RangeFrameRadarX"] = 100,
+	["BlockVersionUpdateNotice"] = false,
 	["Enabled"] = true,
 	["RangeFrameRadarY"] = -100,
-	["BlockVersionUpdateNotice"] = false,
+	["RangeFrameRadarX"] = 100,
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},
-	["HealthFrameLocked"] = false,
+	["RangeFrameFrames"] = "radar",
 	["ShowWipeMessage"] = true,
 	["LogOnlyRaidBosses"] = false,
 	["StripServerName"] = true,
-	["DontShowInfoFrame"] = false,
+	["ShowSpecialWarnings"] = true,
 	["AlwaysShowHealthFrame"] = false,
 	["HPFrameX"] = -50,
-	["WarningColors"] = {
-		{
-			["b"] = 0.94,
-			["g"] = 0.8,
-			["r"] = 0.41,
-		}, -- [1]
-		{
-			["b"] = 0,
-			["g"] = 0.95,
-			["r"] = 0.95,
-		}, -- [2]
-		{
-			["b"] = 0,
-			["g"] = 0.5,
-			["r"] = 1,
-		}, -- [3]
-		{
-			["b"] = 0.1,
-			["g"] = 0.1,
-			["r"] = 1,
-		}, -- [4]
-	},
+	["AutoRespond"] = true,
 	["SpamBlockBossWhispers"] = false,
-	["LastRevision"] = 9314,
-	["ForumsMessageShown"] = 9413,
+	["ShowRecoveryMessage"] = true,
+	["ShowEngageMessage"] = true,
 }
 DBT_SavedOptions = {
 	["DBM"] = {
