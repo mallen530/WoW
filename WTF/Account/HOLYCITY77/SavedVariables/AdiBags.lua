@@ -44,20 +44,6 @@ AdiBagsDB = {
 		},
 		["ItemSets"] = {
 		},
-		["DataSource"] = {
-		},
-		["Junk"] = {
-			["profiles"] = {
-				["Default"] = {
-					["exclude"] = {
-						[87903] = true,
-						[94288] = true,
-						[95568] = true,
-						[95491] = true,
-					},
-				},
-			},
-		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -75,6 +61,20 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["Junk"] = {
+			["profiles"] = {
+				["Default"] = {
+					["exclude"] = {
+						[87903] = true,
+						[94288] = true,
+						[95568] = true,
+						[95491] = true,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
+		},
 	},
 	["profileKeys"] = {
 		["Orran - Thrall"] = "Default",
@@ -87,9 +87,9 @@ AdiBagsDB = {
 		["Orsun - Aerie Peak"] = "Default",
 		["Orlight - Aerie Peak"] = "Default",
 		["Cajamarca - Thrall"] = "Default",
-		["Orstout - Aerie Peak"] = "Default",
-		["Eammiran - Thrall"] = "Default",
 		["Orstout - Thrall"] = "Default",
+		["Eammiran - Thrall"] = "Default",
+		["Orstout - Aerie Peak"] = "Default",
 		["Orazzle - Thrall"] = "Default",
 	},
 	["profiles"] = {

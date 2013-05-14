@@ -7,6 +7,7 @@ AmrGold = nil
 AmrRealmName = "Aerie Peak"
 AmrCharacterName = "Orlight"
 AmrIconInfo = {
+	["minimapPos"] = 134.9424833074209,
 }
 AmrCurrencies = {
 }

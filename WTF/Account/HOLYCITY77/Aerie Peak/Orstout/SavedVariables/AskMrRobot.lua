@@ -194,6 +194,8 @@ AmrBankItems = {
 	"|cffa335ee|Hitem:41772:0:0:0:0:0:0:1369424640:90:0:0|h[Deadly Gladiator's Dragonhide Gloves]|h|r", -- [112]
 	"|cffa335ee|Hitem:51858:0:0:0:0:0:0:1024528384:90:0:0|h[Soulbreaker]|h|r", -- [113]
 	"|cffffffff|Hitem:72237:0:0:0:0:0:0:1772925056:90:0:0|h[Rain Poppy]|h|r", -- [114]
+	"|cffa335ee|Hitem:51941:0:0:0:0:0:0:473041152:90:0:0|h[Pugius, Fist of Defiance]|h|r", -- [115]
+	"|cffa335ee|Hitem:51932:0:0:0:0:0:0:121498752:90:0:0|h[Frost Needle]|h|r", -- [116]
 }
 AmrEquipedItems = {
 	["1"] = "|cffa335ee|Hitem:86726:0:4661:4605:0:0:0:0:90:167:445|h[Red Crane Crown]|h|r",

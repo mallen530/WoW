@@ -9,7 +9,7 @@ Postal3DB = {
 				"Jains|Thrall|Horde|36|MONK", -- [4]
 				"Khanen|Thrall|Horde|90|DEATHKNIGHT", -- [5]
 				"Orazzle|Thrall|Horde|86|SHAMAN", -- [6]
-				"Orlight|Aerie Peak|Alliance|5|PRIEST", -- [7]
+				"Orlight|Aerie Peak|Alliance|20|PRIEST", -- [7]
 				"Orranstout|Aerie Peak|Alliance|14|MONK", -- [8]
 				"Orran|Thrall|Horde|90|PALADIN", -- [9]
 				"Orstout|Aerie Peak|Alliance|90|MONK", -- [10]
@@ -31,9 +31,9 @@ Postal3DB = {
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
-		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
-		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
+		["Eammiran - Thrall"] = "Eammiran - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Orazzle - Thrall"] = "Orazzle - Thrall",
 	},
 	["profiles"] = {
@@ -41,8 +41,8 @@ Postal3DB = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Brimtok|Thrall|Horde", -- [1]
-					"Khanen|Thrall|Horde", -- [2]
-					"Eammiran|Thrall|Horde", -- [3]
+					"Eammiran|Thrall|Horde", -- [2]
+					"Khanen|Thrall|Horde", -- [3]
 				},
 			},
 		},
@@ -85,13 +85,12 @@ Postal3DB = {
 				},
 			},
 		},
-		["Orstout - Aerie Peak"] = {
+		["Orstout - Thrall"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Wrimtok|Aerie Peak|Alliance", -- [1]
-					"Azuba|Aerie Peak|Alliance", -- [2]
+					"Cajamarca|Thrall|Horde", -- [1]
+					"Eammiran|Thrall|Horde", -- [2]
 				},
-				["AutoCompleteGuild"] = false,
 			},
 		},
 		["Eammiran - Thrall"] = {
@@ -102,11 +101,12 @@ Postal3DB = {
 				},
 			},
 		},
-		["Orstout - Thrall"] = {
+		["Orstout - Aerie Peak"] = {
 			["BlackBook"] = {
+				["AutoCompleteGuild"] = false,
 				["recent"] = {
-					"Cajamarca|Thrall|Horde", -- [1]
-					"Eammiran|Thrall|Horde", -- [2]
+					"Wrimtok|Aerie Peak|Alliance", -- [1]
+					"Azuba|Aerie Peak|Alliance", -- [2]
 				},
 			},
 		},

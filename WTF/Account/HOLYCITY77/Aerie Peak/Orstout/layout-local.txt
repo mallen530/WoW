@@ -17,7 +17,7 @@ Frame: TopCharm
 FrameLevel: 1
 Anchor: BOTTOM
 X: 86
-Y: 216
+Y: 234
 W: 32
 H: 32
 Frame: TopFlare

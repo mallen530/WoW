@@ -11,9 +11,9 @@ RecountDB = {
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
-		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
-		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
+		["Eammiran - Thrall"] = "Eammiran - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Orazzle - Thrall"] = "Orazzle - Thrall",
 	},
 	["profiles"] = {
@@ -97,6 +97,9 @@ RecountDB = {
 					["h"] = 200.0000305175781,
 				},
 			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Wailing Caverns",
+			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -108,10 +111,7 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "Wailing Caverns",
-			["CurDataSet"] = "OverallData",
 			["GraphWindowX"] = 0,
 		},
 		["Brimtok - Thrall"] = {
@@ -239,6 +239,7 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Shadowfang Keep",
 			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
@@ -271,11 +272,14 @@ RecountDB = {
 			["MainWindowWidth"] = 310.8664245605469,
 			["GraphWindowX"] = 0,
 		},
-		["Orstout - Aerie Peak"] = {
+		["Orstout - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["h"] = 200.0000305175781,
+					["y"] = -440.1426887512207,
+					["x"] = 714.5716552734375,
+					["w"] = 270.7140808105469,
+					["h"] = 159.1428375244141,
 				},
 			},
 			["Colors"] = {
@@ -289,7 +293,7 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Mogu'shan Palace",
+			["LastInstanceName"] = "Gate of the Setting Sun",
 			["CurDataSet"] = "LastFightData",
 			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
@@ -319,14 +323,11 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
 		},
-		["Orstout - Thrall"] = {
+		["Orstout - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -440.1426887512207,
-					["x"] = 714.5716552734375,
-					["w"] = 270.7140808105469,
-					["h"] = 159.1428375244141,
+					["h"] = 200.0000305175781,
 				},
 			},
 			["Colors"] = {
@@ -340,10 +341,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Gate of the Setting Sun",
-			["CurDataSet"] = "LastFightData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["LastInstanceName"] = "Scarlet Monastery",
+			["CurDataSet"] = "LastFightData",
 		},
 		["Orazzle - Thrall"] = {
 			["GraphWindowY"] = 0,
