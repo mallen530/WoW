@@ -1,0 +1,7 @@
+------------------------------------------------------------------------
+r1084 | nevcairiel | 2013-04-27 20:14:11 +0000 (Sat, 27 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/AceAddon-3.0/AceAddon-3.0.lua
+
+AceAddon-3.0: Don't call OnEnable if the addon/module was not initialized yet
+------------------------------------------------------------------------
