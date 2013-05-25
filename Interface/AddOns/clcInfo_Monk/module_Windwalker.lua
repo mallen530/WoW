@@ -376,7 +376,7 @@ local actions  = {
 
 ------------------------------------- Register the spec module ---------------------------------------------
 -- Remember to update the version if  GetDefaultTemplateDB gets new fields or some are removed / renamed
-local moduleVersion = 25
+local moduleVersion = 26
 local specMod = classModule:RegisterSpecModule(3, actions, moduleVersion)
 classModule.InjectSpecModuleShared(specMod)
 
@@ -403,6 +403,15 @@ end
 -- Behavior templates
 function specMod:RegisterBehaviorTemplates()
 	self:AddBehaviorTemplate(wwSpells["Tigereye Brew"].Name, "return TigerEyeBrewIcon()")
+	self:AddBehaviorTemplate(wwSpells["Rising Sun Kick"])
+	self:AddBehaviorTemplate(wwSpells["Fists of Fury"])
+	self:AddBehaviorTemplate(wwSpells["Energizing Brew"])
+	self:AddBehaviorTemplate(wwSpells["Combo Breaker: Blackout Kick"])
+	self:AddBehaviorTemplate(wwSpells["Combo Breaker: Tiger Palm"])
+	self:AddBehaviorTemplate(wwSpells["Spinning Fire Blossom"])
+	self:AddBehaviorTemplate(wwSpells["Flying Serpent Kick"])
+	self:AddBehaviorTemplate(wwSpells["Touch of Karma"])
+	self:AddBehaviorTemplate(wwSpells["Storm, Earth and Fire"])
 end
 
 -- This spec needs the UNIT_SPELLCAST_SUCCEEDED event so this is subscribed to in the activate function and unsubscribed in the deactivate function

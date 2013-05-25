@@ -1,0 +1,6 @@
+LibSharedMedia-3.0: enabled
+LibStub: enabled
+CallbackHandler-1.0: enabled
+AceGUI-3.0-SharedMediaWidgets: enabled
+Ace3: enabled
+TouchysMedia: enabled

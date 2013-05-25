@@ -1,33 +1,69 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/i me too", -- [1]
-		"/growl", -- [2]
-		"/dance", -- [3]
-		"/slap", -- [4]
-		"/reload ui", -- [5]
+		"/dance", -- [1]
+		"/slap", -- [2]
+		"/reload ui", -- [3]
+		"/g you get 200 VP for less time than one wing of LFR", -- [4]
+		" howdy", -- [5]
 	},
 	["ChatLog"] = {
-		["1368321771.975"] = {
-			"nutpunch  up  here", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1368322050.024"] = {
+			"turn in quest up here if you ahve it", -- [1]
+			"Redmage", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Redmage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4070, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			4113, -- [11]
+			"0x05800000084F1457", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368322186.527"] = {
-			"gratz", -- [1]
+		["1369276815.062"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:731:05800000084CBCAB:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Professional Expert]|h|r!", -- [1]
+			"Zylee", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zylee", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			373, -- [11]
+			"0x05800000084CBCAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369277497.761"] = {
+			"You know what sucks though?", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			565, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369277301.984"] = {
+			"     :)", -- [1]
 			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -37,66 +73,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4134, -- [11]
+			498, -- [11]
 			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320692.287"] = {
-			"wait", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3855, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368318508.407"] = {
-			"I'm not there yet gonna take me about a week think to get there if I grind it out fast ", -- [1]
-			"Heleen", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Heleen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3165, -- [11]
-			"0x0580000007A14979", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320400.983"] = {
-			"thought he would learn by now", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nutpunch", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3736, -- [11]
-			"0x070000000535B94A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
 		},
 		["1368322164.604"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:7:05800000084E2146:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Level 20]|h|r!", -- [1]
@@ -116,23 +98,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321452.809"] = {
-			":)", -- [1]
-			"Redmage", -- [2]
+		["1369505950.967"] = {
+			"ok, who wants to get naked?", -- [1]
+			"Hashtàgyolo", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Redmage", -- [5]
+			"Hashtàgyolo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4037, -- [11]
-			"0x05800000084F1457", -- [12]
+			107, -- [11]
+			"0x05800000084C1882", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_PARTY",
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369277237.602"] = {
+			"welcome  :)", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			472, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368322775.822"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:854:05800000084B3298:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Explore Un'Goro Crater]|h|r!", -- [1]
@@ -152,95 +152,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321314.732"] = {
-			"mmhm", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
+		["1368328335.407"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:245:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[That Takes Class]|h|r!", -- [1]
+			"Speldarz", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Speldarz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4017, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			5219, -- [11]
+			"0x0580000008210B8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368320453.682"] = {
-			"congrats", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369277280.199"] = {
+			"gratz", -- [1]
+			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Alyssä", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3756, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			483, -- [11]
+			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368320503.282"] = {
-			"if  u  want  me  2  attack", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3768, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368321439.522"] = {
-			"instance", -- [1]
-			"Redmage", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Redmage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4034, -- [11]
-			"0x05800000084F1457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_PARTY",
-		},
-		["1368320512.991"] = {
-			"go ahead", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3769, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368321952.392"] = {
 			" |cffa335ee|Hitem:95675:0:4593:0:0:0:0:0:85:0:465|h[Zerat, Malakk's Soulburning Greatsword]|h|r", -- [1]
@@ -278,6 +224,42 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
+		["1369510029.051"] = {
+			"hey Alyssa want to do Sha?", -- [1]
+			"Rhomara", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Rhomara", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			596, -- [11]
+			"0x058000000850BC96", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369277802.185"] = {
+			"ya", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			620, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1368328601.831"] = {
 			"ty", -- [1]
 			"Ularrus", -- [2]
@@ -295,24 +277,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320476.952"] = {
-			"now", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3765, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
 		},
 		["1368321596.255"] = {
 			"Agreed.", -- [1]
@@ -332,26 +296,26 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368319918.178"] = {
-			"Frickin' ow. My own fault...was trying to salvage the guy who dropped.", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
+		["1369508230.615"] = {
+			" |cffffff00|Hachievement:686:05800000084D0FD1:1:2:18:9:0:0:0:0|h[Molten Core]|h|r/ |cffffff00|Hachievement:685:05800000084D0FD1:1:10:19:11:0:0:0:0|h[Blackwing Lair]|h|r anyone?", -- [1]
+			"Mahou", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Nutpunch", -- [5]
+			"Mahou", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3568, -- [11]
-			"0x070000000535B94A", -- [12]
+			391, -- [11]
+			"0x05800000084D0FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368321916.8"] = {
-			"the  color", -- [1]
+		["1368321678.213"] = {
+			"now  godfry", -- [1]
 			"Alstadhg-Ysera", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -361,30 +325,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4079, -- [11]
+			4060, -- [11]
 			"0x0500000005B3AECC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1368320052.774"] = {
-			"don't help the hunter", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
+		["1369277450.436"] = {
+			"do you get a 3 day weekend?", -- [1]
+			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Nutpunch", -- [5]
+			"Alyssä", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3607, -- [11]
-			"0x070000000535B94A", -- [12]
+			558, -- [11]
+			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368322036.301"] = {
 			"quest", -- [1]
@@ -422,23 +386,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368321261.736"] = {
-			"ya", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
+		["1369277828.144"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:889:05800000084CBCAB:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Fast and Furious]|h|r!", -- [1]
+			"Zylee", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Zylee", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4011, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			621, -- [11]
+			"0x05800000084CBCAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369277253.28"] = {
+			"Was wondering when you guys would get the hint. :P", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			473, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369506729.012"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8:05800000084E2146:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Level 30]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"0x05800000084E2146", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1368321908.638"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:631:05800000084CBCAB:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Shadowfang Keep]|h|r!", -- [1]
@@ -458,113 +458,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321236.928"] = {
-			"a little more than YOU could chew, you mean  ;)", -- [1]
-			"Redmage", -- [2]
+		["1369277392.933"] = {
+			"They have 2-3 Bay Area guilds....", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Redmage", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4009, -- [11]
-			"0x05800000084F1457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_PARTY",
-		},
-		["1368320513.401"] = {
-			"where's hunter?", -- [1]
-			"Redmage", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Redmage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3770, -- [11]
-			"0x05800000084F1457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368318475.101"] = {
-			"Heleen I am gonna que for Forgotten depths if you wanna join me  :) I think your item lvl needs to be 480   ", -- [1]
-			"Alyssä", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alyssä", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3144, -- [11]
-			"0x05800000084480AE", -- [12]
+			530, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368319849.71"] = {
-			"grats", -- [1]
-			"Alaysine", -- [2]
+		["1369277294.09"] = {
+			"gratz", -- [1]
+			"Videeria", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alaysine", -- [5]
+			"Videeria", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3554, -- [11]
-			"0x058000000787C4DF", -- [12]
+			497, -- [11]
+			"0x05800000084CD232", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368319043.687"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:6558:0580000007A14979:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Local Pet Mauler]|h|r!", -- [1]
-			"Heleen", -- [2]
+		["1368328788.28"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:889:05800000084E9E1C:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Fast and Furious]|h|r!", -- [1]
+			"Yellawulf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Heleen", -- [5]
+			"Yellawulf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3366, -- [11]
-			"0x0580000007A14979", -- [12]
+			5257, -- [11]
+			"0x05800000084E9E1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321517.645"] = {
-			"oh  ok", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4041, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
 		["1368321723.641"] = {
 			"we are going to go get Sad", -- [1]
@@ -584,6 +530,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1368328065.522"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:1557:05800000084CC930:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[50 Fish]|h|r!", -- [1]
+			"Berugald", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Berugald", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5168, -- [11]
+			"0x05800000084CC930", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
 		["1368321448.516"] = {
 			"just kidding", -- [1]
 			"Redmage", -- [2]
@@ -601,42 +565,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_PARTY",
-		},
-		["1368321034.487"] = {
-			"crap", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3947, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368321188.056"] = {
-			"so  srry  plz  dont  kik  me", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4002, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
 		["1368321682.013"] = {
 			"go through the kitchen", -- [1]
@@ -656,6 +584,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1369277370.6"] = {
+			"welcome back!1", -- [1]
+			"Demonico", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Demonico", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			522, -- [11]
+			"0x05800000000D3DAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1368321956.972"] = {
 			"i  .\\like  blue  too", -- [1]
 			"Alstadhg-Ysera", -- [2]
@@ -674,41 +620,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1368320492.308"] = {
-			"say  now", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
+		["1369277982.227"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:776:05800000084DFC7C:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Explore Elwynn Forest]|h|r!", -- [1]
+			"Jyowa", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Jyowa", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3767, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			653, -- [11]
+			"0x05800000084DFC7C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368321295.046"] = {
-			"haha yeah till we all died", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4014, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1368322040.582"] = {
 			"gratz all", -- [1]
@@ -728,23 +656,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368328502.13"] = {
-			"anytime   :)", -- [1]
-			"Alyssä", -- [2]
-			"Common", -- [3]
+		["1369276396.732"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:973:05800000084DFC7C:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Complete]|h|r!", -- [1]
+			"Jyowa", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alyssä", -- [5]
+			"Jyowa", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5232, -- [11]
-			"0x05800000084480AE", -- [12]
+			308, -- [11]
+			"0x05800000084DFC7C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1368321492.231"] = {
 			"I'm a gnome. Stubby legs.", -- [1]
@@ -764,6 +692,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1369277422.414"] = {
+			"I am alright long day.", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			537, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1368324164.114"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:8:058000000810472E:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Level 30]|h|r!", -- [1]
 			"Meetballz", -- [2]
@@ -781,24 +727,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321181.047"] = {
-			"Wow, did I do that wrong.", -- [1]
-			"Nutpunch", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nutpunch", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3998, -- [11]
-			"0x070000000535B94A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
 		["1368328485.531"] = {
 			"ty for the invite", -- [1]
@@ -818,41 +746,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368320588.409"] = {
-			"thnx", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369508563.166"] = {
+			"any want to do Galleon?", -- [1]
+			"Rhomara", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Rhomara", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3790, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			429, -- [11]
+			"0x058000000850BC96", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368318266.929"] = {
-			"priest never walks in front of tank", -- [1]
-			"Farrel-AlteracMountains", -- [2]
-			"Common", -- [3]
+		["1369277270.186"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:9:05800000084CBCAB:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Level 40]|h|r!", -- [1]
+			"Zylee", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Farrel", -- [5]
+			"Zylee", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3052, -- [11]
-			"0x05800000084ED449", -- [12]
+			474, -- [11]
+			"0x05800000084CBCAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1368322032.09"] = {
 			"thanks all", -- [1]
@@ -872,41 +800,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368320968.324"] = {
-			"Cool! Pile those goodies on, man!", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
+		["1369277445.731"] = {
+			"The Battle for the barrens quest whooped my bum hard :\\", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Nutpunch", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3929, -- [11]
-			"0x070000000535B94A", -- [12]
+			554, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368319681.097"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:7:05800000084EF4AF:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Level 20]|h|r!", -- [1]
-			"Thibbeldorf", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thibbeldorf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3494, -- [11]
-			"0x05800000084EF4AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368321899.086"] = {
 			"i  like  red", -- [1]
@@ -926,77 +836,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
-		["1368320063.325"] = {
-			"srry", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369277319.566"] = {
+			"So how's everyone doing tonight?", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3611, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368318578.258"] = {
-			"nice    :)", -- [1]
-			"Alyssä", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alyssä", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3173, -- [11]
-			"0x05800000084480AE", -- [12]
+			501, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320965.204"] = {
-			"ty ", -- [1]
-			"Heleen", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Heleen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3928, -- [11]
-			"0x0580000007A14979", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320395.45"] = {
-			"no idea", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nutpunch", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3735, -- [11]
-			"0x070000000535B94A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER_INFORM",
 		},
 		["1368323858.633"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:504:05800000084E2146:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[100 Quests Completed]|h|r!", -- [1]
@@ -1034,19 +890,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368323275.434"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:7413:058000000810472E:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Scarlet Halls]|h|r!", -- [1]
-			"Meetballz", -- [2]
+		["1368322007.09"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:631:05800000084E2146:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Shadowfang Keep]|h|r!", -- [1]
+			"Orlight", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meetballz", -- [5]
+			"Orlight", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4205, -- [11]
-			"0x058000000810472E", -- [12]
+			4094, -- [11]
+			"0x05800000084E2146", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1070,23 +926,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368319686.33"] = {
-			"gratz", -- [1]
-			"Alyssä", -- [2]
-			"Common", -- [3]
+		["1369509351.34"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:733:0580000006FBBA0D:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Professional Master]|h|r!", -- [1]
+			"Nightebeestt", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alyssä", -- [5]
+			"Nightebeestt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3498, -- [11]
-			"0x05800000084480AE", -- [12]
+			527, -- [11]
+			"0x0580000006FBBA0D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369237001.099"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:4903:05800000084E2146:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Westfall and Duskwood Quests]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			131, -- [11]
+			"0x05800000084E2146", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1368324208.999"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:504:05800000084F1457:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[100 Quests Completed]|h|r!", -- [1]
@@ -1123,24 +997,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368320201.599"] = {
-			"WAIT", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3668, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
 		},
 		["1368321445.859"] = {
 			"ok i'm gonna pull", -- [1]
@@ -1196,19 +1052,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_CHANNEL",
 		},
-		["1368318525.152"] = {
-			"at 441 now got a ways to go ", -- [1]
-			"Heleen", -- [2]
+		["1369508609.192"] = {
+			"still need a few so if you get done and want to let me know", -- [1]
+			"Rhomara", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Heleen", -- [5]
+			"Rhomara", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3168, -- [11]
-			"0x0580000007A14979", -- [12]
+			432, -- [11]
+			"0x058000000850BC96", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1232,41 +1088,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368320579.615"] = {
-			"my  shield", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369277839.754"] = {
+			"you get 200 VP for less time than one wing of LFR", -- [1]
+			"Orlight", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Orlight", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3787, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			622, -- [11]
+			"0x05800000084E2146", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368320427.853"] = {
-			"heal  the  hunter  plz", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369277979.268"] = {
+			"Just doesn't seem worth it for all the work you put into it. personal opinion...", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3747, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			652, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368328608.048"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:973:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Complete]|h|r!", -- [1]
@@ -1286,23 +1142,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321218.503"] = {
-			"we bit off a little more that we can chew", -- [1]
-			"Orlight", -- [2]
+		["1369277378.437"] = {
+			"Saved me 25 dollars transfering to Proudmoore.", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Orlight", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4008, -- [11]
-			"0x05800000084E2146", -- [12]
+			528, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368325404.609"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:515:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[500 Honorable Kills]|h|r!", -- [1]
@@ -1322,24 +1178,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321199.58"] = {
-			"Nah, that was all me, man.", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nutpunch", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4005, -- [11]
-			"0x070000000535B94A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
 		["1368328545.631"] = {
 			"gratz", -- [1]
 			"Alyssä", -- [2]
@@ -1352,6 +1190,42 @@ ElvCharacterDB = {
 			"", -- [9]
 			0, -- [10]
 			5238, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369506413.614"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:4833:05800000084CAD99:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Blackrock Caverns]|h|r!", -- [1]
+			"Kakureta", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kakureta", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"0x05800000084CAD99", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369508581.737"] = {
+			"doing nalak atm,", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			431, -- [11]
 			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1376,6 +1250,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
+		["1369508337.985"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:939:0580000006FBBA0D:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Hills Like White Elekk]|h|r!", -- [1]
+			"Nightebeestt", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nightebeestt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			404, -- [11]
+			"0x0580000006FBBA0D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
 		["1368321901.391"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:238:05800000084E1BA0:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[An Honorable Kill]|h|r!", -- [1]
 			"Slymshady", -- [2]
@@ -1389,6 +1281,24 @@ ElvCharacterDB = {
 			0, -- [10]
 			4077, -- [11]
 			"0x05800000084E1BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369238174.103"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:778:05800000084E2146:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Explore Duskwood]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"0x05800000084E2146", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1448,37 +1358,91 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368328788.28"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:889:05800000084E9E1C:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Fast and Furious]|h|r!", -- [1]
-			"Yellawulf", -- [2]
+		["1369512566.271"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:892:05800000084F6840:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[The Right Stuff]|h|r!", -- [1]
+			"Teoriox", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellawulf", -- [5]
+			"Teoriox", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5257, -- [11]
-			"0x05800000084E9E1C", -- [12]
+			962, -- [11]
+			"0x05800000084F6840", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368320570.801"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:635:058000000787C4DF:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Razorfen Kraul]|h|r!", -- [1]
-			"Alaysine", -- [2]
+		["1369512429.813"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:637:0580000008488629:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Scarlet Monastery]|h|r!", -- [1]
+			"Beebenbo", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Alaysine", -- [5]
+			"Beebenbo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3783, -- [11]
-			"0x058000000787C4DF", -- [12]
+			951, -- [11]
+			"0x0580000008488629", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369507561.325"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:5229:0580000008464D8A:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Drag a Maw]|h|r!", -- [1]
+			"Paÿne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Paÿne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"0x0580000008464D8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369511780.142"] = {
+			"hey, didnt see you there. whats up?", -- [1]
+			"|Kf30|k00000000000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			880, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
+		},
+		["1369511584.557"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:4906:05800000084E2146:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Northern Stranglethorn Quests]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			870, -- [11]
+			"0x05800000084E2146", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1502,41 +1466,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368320427.146"] = {
-			"grats", -- [1]
-			"Alaysine", -- [2]
+		["1369510738.179"] = {
+			"hi everyone", -- [1]
+			"Chikennugget", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alaysine", -- [5]
+			"Chikennugget", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3746, -- [11]
-			"0x058000000787C4DF", -- [12]
+			728, -- [11]
+			"0x058000000851A18B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368321214.229"] = {
-			"it  was", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4007, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
 		["1368321715.815"] = {
 			"hold up i'm here", -- [1]
@@ -1556,6 +1502,330 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
+		["1369277791.924"] = {
+			"200 valor doesn't really seem worth all that work.", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			619, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368321517.645"] = {
+			"oh  ok", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4041, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1369277512.086"] = {
+			"what?", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			567, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369509346.33"] = {
+			"be back later", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369509025.67"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:940:05800000084E2146:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[The Green Hills of Stranglethorn]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			470, -- [11]
+			"0x05800000084E2146", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369511787.6"] = {
+			"howdy", -- [1]
+			"|Kf30|k00000000000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			881, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1369508987.969"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8028:05800000084480AE:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Praise the Sun!]|h|r!", -- [1]
+			"Alyssä", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			462, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369277318.46"] = {
+			"ty lol", -- [1]
+			"Zylee", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Zylee", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			500, -- [11]
+			"0x05800000084CBCAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369506444.321"] = {
+			"gratz", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368321565.423"] = {
+			"wens  he  comin", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4044, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1368321771.975"] = {
+			"nutpunch  up  here", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4070, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1369277280.713"] = {
+			"And thanks Alyssa.", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			484, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368323275.434"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7413:058000000810472E:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Scarlet Halls]|h|r!", -- [1]
+			"Meetballz", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meetballz", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4205, -- [11]
+			"0x058000000810472E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1368321710.071"] = {
+			"lets  get  godfrey", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4064, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1369236548.665"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:504:058000000850F629:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[100 Quests Completed]|h|r!", -- [1]
+			"Lobocazador", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lobocazador", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"0x058000000850F629", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1368322186.527"] = {
+			"gratz", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4134, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369277311.111"] = {
+			"delayed gratz.", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			499, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368321602.486"] = {
+			"ok", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4049, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
 		["1368328475.939"] = {
 			"welcome  :)", -- [1]
 			"Alyssä", -- [2]
@@ -1574,8 +1844,44 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368328380.736"] = {
-			"gratz", -- [1]
+		["1368321479.269"] = {
+			"waiting  on  them", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4038, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1368328630.62"] = {
+			"|cffffff00Duskwood is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Duskwood", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Duskwood", -- [9]
+			0, -- [10]
+			5248, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+		["1369277367.198"] = {
+			"how about you?", -- [1]
 			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1585,15 +1891,33 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5222, -- [11]
+			521, -- [11]
 			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368328335.407"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:245:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[That Takes Class]|h|r!", -- [1]
+		["1368322065.977"] = {
+			"ty", -- [1]
+			"Alaysine", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alaysine", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4116, -- [11]
+			"0x058000000787C4DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368325663.853"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:208:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Eye of the Storm Victory]|h|r!", -- [1]
 			"Speldarz", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1603,35 +1927,35 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5219, -- [11]
+			4757, -- [11]
 			"0x0580000008210B8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368328065.522"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:1557:05800000084CC930:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[50 Fish]|h|r!", -- [1]
-			"Berugald", -- [2]
-			"", -- [3]
+		["1369277987.063"] = {
+			"grats", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Berugald", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5168, -- [11]
-			"0x05800000084CC930", -- [12]
+			654, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368319477.38"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:891:05800000084F1457:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Giddy Up!]|h|r!", -- [1]
+		["1368321452.809"] = {
+			":)", -- [1]
 			"Redmage", -- [2]
-			"", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Redmage", -- [5]
 			"", -- [6]
@@ -1639,15 +1963,51 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3444, -- [11]
+			4037, -- [11]
 			"0x05800000084F1457", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_PARTY",
 		},
-		["1368320953.301"] = {
-			"gratz", -- [1]
+		["1368321916.8"] = {
+			"the  color", -- [1]
+			"Alstadhg-Ysera", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alstadhg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4079, -- [11]
+			"0x0500000005B3AECC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		["1369277779.995"] = {
+			"Yeah, I'm sorta complaining about that cause you have to farm 150 of four mats just to get a radical mojo, and get 489 gear :\\", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			617, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369277523.275"] = {
+			"awww", -- [1]
 			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1657,7 +2017,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3923, -- [11]
+			571, -- [11]
 			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1682,62 +2042,26 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368321568.575"] = {
-			"no worries", -- [1]
-			"Redmage", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Redmage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4045, -- [11]
-			"0x05800000084F1457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368325663.853"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:208:0580000008210B8A:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Eye of the Storm Victory]|h|r!", -- [1]
-			"Speldarz", -- [2]
+		["1369277203.766"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:640:05800000084CBCAB:1:5:22:13:4294967295:4294967295:4294967295:4294967295|h[Maraudon]|h|r!", -- [1]
+			"Zylee", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Speldarz", -- [5]
+			"Zylee", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4757, -- [11]
-			"0x0580000008210B8A", -- [12]
+			462, -- [11]
+			"0x05800000084CBCAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368322050.024"] = {
-			"turn in quest up here if you ahve it", -- [1]
-			"Redmage", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Redmage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4113, -- [11]
-			"0x05800000084F1457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368319199.841"] = {
-			"Gratz", -- [1]
+		["1369277482.333"] = {
+			"woot me too, so excited, sadly hubby has to work mon", -- [1]
 			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1747,390 +2071,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3410, -- [11]
+			564, -- [11]
 			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368318555.256"] = {
-			"working on profs now craft me some stuff valor we'll see hehe", -- [1]
-			"Heleen", -- [2]
+		["1368328502.13"] = {
+			"anytime   :)", -- [1]
+			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Heleen", -- [5]
+			"Alyssä", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3170, -- [11]
-			"0x0580000007A14979", -- [12]
+			5232, -- [11]
+			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368319193.32"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:628:05800000084E2146:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Deadmines]|h|r!", -- [1]
-			"Orlight", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3401, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321710.071"] = {
-			"lets  get  godfrey", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4064, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1368322007.09"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:631:05800000084E2146:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Shadowfang Keep]|h|r!", -- [1]
-			"Orlight", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4094, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321307.743"] = {
-			"umhm", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4016, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1368321961.46"] = {
-			"me too", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4083, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368321602.486"] = {
-			"ok", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4049, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1368320449.154"] = {
-			"healing him as much as the other dps", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3755, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368328630.62"] = {
-			"|cffffff00Duskwood is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Duskwood", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Duskwood", -- [9]
-			0, -- [10]
-			5248, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_CHANNEL",
-		},
-		["1368321565.423"] = {
-			"wens  he  comin", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4044, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1368320584.175"] = {
-			"nice shield", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3788, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368322065.977"] = {
-			"ty", -- [1]
-			"Alaysine", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alaysine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4116, -- [11]
-			"0x058000000787C4DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1368320945.504"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:6470:0580000007A14979:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Shado-Pan Monastery]|h|r!", -- [1]
-			"Heleen", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Heleen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3919, -- [11]
-			"0x0580000007A14979", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368320390.285"] = {
-			"So what's the story on this hunter?", -- [1]
-			"Nutpunch-Azuremyst", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nutpunch", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3733, -- [11]
-			"0x070000000535B94A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_WHISPER",
-		},
-		["1368320418.424"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:630:05800000084EF4AF:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Wailing Caverns]|h|r!", -- [1]
-			"Thibbeldorf", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thibbeldorf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3743, -- [11]
-			"0x05800000084EF4AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321304.391"] = {
-			"but it happens", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4015, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368321208.746"] = {
-			"no its all ok", -- [1]
-			"Orlight", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Orlight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4006, -- [11]
-			"0x05800000084E2146", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT",
-		},
-		["1368320571.593"] = {
-			"awsome", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3784, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
-		},
-		["1368321276.842"] = {
-			"it  was  all  good  till  the  end", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4013, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		},
-		["1368320766.602"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:639:05800000084E4D35:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Zul'Farrak]|h|r!", -- [1]
-			"Arcland", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arcland", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3880, -- [11]
-			"0x05800000084E4D35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321479.269"] = {
-			"waiting  on  them", -- [1]
-			"Alstadhg-Ysera", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Alstadhg", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4038, -- [11]
-			"0x0500000005B3AECC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		},
 		["1368327450.731"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:1998:05800000084CC976:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Cooking Award]|h|r!", -- [1]
@@ -2168,41 +2132,77 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368320551.289"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:776:05800000083A2B64:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Explore Elwynn Forest]|h|r!", -- [1]
-			"Cannicus", -- [2]
-			"", -- [3]
+		["1368321961.46"] = {
+			"me too", -- [1]
+			"Orlight", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Cannicus", -- [5]
+			"Orlight", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3778, -- [11]
-			"0x05800000083A2B64", -- [12]
+			4083, -- [11]
+			"0x05800000084E2146", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1369507647.727"] = {
+			"can 2 ppl help me through BWL/MC?", -- [1]
+			"Mahou", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mahou", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"0x05800000084D0FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369509654.187"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:522:05800000084E2146:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Somebody Likes Me]|h|r!", -- [1]
+			"Orlight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orlight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			537, -- [11]
+			"0x05800000084E2146", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1368320711.829"] = {
-			"let tank pull plz", -- [1]
-			"Redmage", -- [2]
+		["1369277340.548"] = {
+			"pretty good, doing LFR for gear and Legendary   :)", -- [1]
+			"Alyssä", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Redmage", -- [5]
+			"Alyssä", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3864, -- [11]
-			"0x05800000084F1457", -- [12]
+			513, -- [11]
+			"0x05800000084480AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_PARTY",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368328572.771"] = {
 			"welcome  :)", -- [1]
@@ -2222,23 +2222,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1368321678.213"] = {
-			"now  godfry", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1369277510.087"] = {
+			" |cffa335ee|Hitem:97832:0:0:0:0:0:0:1434118144:90:0:0|h[Latent Kor'kron Belt]|h|r only turns into a 489 :\\", -- [1]
+			"Serengeti", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Serengeti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4060, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			566, -- [11]
+			"0x0580000007EC5C18", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1368321595.659"] = {
 			"yep", -- [1]
@@ -2258,59 +2258,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_INSTANCE_CHAT",
 		},
-		["1368321059.249"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:4956:058000000787C4DF:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[5 Dungeon Quests Completed]|h|r!", -- [1]
-			"Alaysine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Alaysine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3965, -- [11]
-			"0x058000000787C4DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368319837.929"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:642:05800000084D2F91:1:5:11:13:4294967295:4294967295:4294967295:4294967295|h[Blackrock Depths]|h|r!", -- [1]
-			"Atomicwar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Atomicwar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3552, -- [11]
-			"0x05800000084D2F91", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1368321052.882"] = {
-			"let  me", -- [1]
-			"Alstadhg-Ysera", -- [2]
+		["1368321568.575"] = {
+			"no worries", -- [1]
+			"Redmage", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Alstadhg", -- [5]
+			"Redmage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3964, -- [11]
-			"0x0500000005B3AECC", -- [12]
+			4045, -- [11]
+			"0x05800000084F1457", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_INSTANCE_CHAT",
+		},
+		["1369277462.336"] = {
+			"Yep. I do", -- [1]
+			"Serengeti", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Serengeti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			559, -- [11]
+			"0x0580000007EC5C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1368328380.736"] = {
+			"gratz", -- [1]
+			"Alyssä", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Alyssä", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5222, -- [11]
+			"0x05800000084480AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 	},
 }

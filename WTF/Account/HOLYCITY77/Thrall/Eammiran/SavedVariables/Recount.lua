@@ -133,9 +133,60 @@ RecountPerCharDB = {
 			["LastFightIn"] = 17,
 			["type"] = "Pet",
 			["FightsSaved"] = 5,
-			["LastActive"] = 1366944695,
+			["LastAbility"] = 276684.921,
 			["Owner"] = "Eammiran",
-			["UnitLockout"] = 1366944695,
+			["LastEventTimes"] = {
+				449022.131, -- [1]
+				449022.131, -- [2]
+				449023.658, -- [3]
+				449024.091, -- [4]
+				449024.091, -- [5]
+				449025.698, -- [6]
+				449026.1, -- [7]
+				449026.1, -- [8]
+				449027.694, -- [9]
+				449028.104, -- [10]
+				449028.104, -- [11]
+				449028.521, -- [12]
+				449029.367, -- [13]
+				449029.712, -- [14]
+				448966.604, -- [15]
+				448966.604, -- [16]
+				448968.486, -- [17]
+				448968.486, -- [18]
+				448968.486, -- [19]
+				448970.506, -- [20]
+				448970.506, -- [21]
+				448970.506, -- [22]
+				448972.135, -- [23]
+				448972.135, -- [24]
+				448972.135, -- [25]
+				448974.091, -- [26]
+				448974.091, -- [27]
+				448974.091, -- [28]
+				448976.179, -- [29]
+				448976.179, -- [30]
+				448976.179, -- [31]
+				449012.418, -- [32]
+				449012.418, -- [33]
+				449012.418, -- [34]
+				449012.418, -- [35]
+				449014.414, -- [36]
+				449014.414, -- [37]
+				449014.414, -- [38]
+				449014.414, -- [39]
+				449016.384, -- [40]
+				449016.384, -- [41]
+				449016.384, -- [42]
+				449017.166, -- [43]
+				449017.961, -- [44]
+				449017.961, -- [45]
+				449018.42, -- [46]
+				449019.605, -- [47]
+				449020.075, -- [48]
+				449020.075, -- [49]
+				449021.663, -- [50]
+			},
 			["NextEventNum"] = 15,
 			["LastEventHealthNum"] = {
 				0, -- [1]
@@ -242,6 +293,66 @@ RecountPerCharDB = {
 				"Experienced Guide <Eammiran> Melee Mischievous Snow Sprite Hit -1723 (Physical)", -- [50]
 			},
 			["Name"] = "Experienced Guide",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				true, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["TimeLast"] = {
+				["HealingTaken"] = 1366944433,
+				["ActiveTime"] = 1366944695,
+				["TimeDamage"] = 1366944695,
+				["OVERALL"] = 1366944695,
+				["DamageTaken"] = 1366944682,
+				["Damage"] = 1366944695,
+			},
 			["Fights"] = {
 				["LastFightData"] = {
 					["DOTs"] = {
@@ -256,12 +367,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -271,78 +383,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -359,12 +470,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -374,78 +486,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -530,14 +641,43 @@ RecountPerCharDB = {
 						["Frost"] = 34734,
 					},
 					["Damage"] = 496558,
+					["WhoHealed"] = {
+						["Bloodworm <Broxegar>"] = {
+							["Details"] = {
+								["Blood Burst"] = {
+									["count"] = 13471,
+								},
+							},
+							["amount"] = 13471,
+						},
+					},
+					["DamagedWho"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 396334,
+								},
+								["Fist Smash"] = {
+									["count"] = 90370,
+								},
+							},
+							["amount"] = 486704,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9854,
+								},
+							},
+							["amount"] = 9854,
+						},
+					},
 					["Attacks"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Hit"] = {
-									["max"] = 2275,
-									["min"] = 1530,
-									["count"] = 200,
-									["amount"] = 380159,
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
 								},
 								["Parry"] = {
 									["count"] = 1,
@@ -549,9 +689,11 @@ RecountPerCharDB = {
 									["count"] = 7,
 									["amount"] = 26029,
 								},
-								["Miss"] = {
-									["count"] = 3,
-									["amount"] = 0,
+								["Hit"] = {
+									["max"] = 2275,
+									["min"] = 1530,
+									["count"] = 200,
+									["amount"] = 380159,
 								},
 							},
 							["count"] = 211,
@@ -576,6 +718,38 @@ RecountPerCharDB = {
 							["amount"] = 90370,
 						},
 					},
+					["HealingTaken"] = 13471,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 200,
+								},
+							},
+							["amount"] = 211,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 34,
+								},
+							},
+							["amount"] = 38,
+						},
+					},
+					["TimeDamage"] = 199.4200000000001,
 					["WhoDamaged"] = {
 						["Mischievous Snow Sprite"] = {
 							["Details"] = {
@@ -595,63 +769,6 @@ RecountPerCharDB = {
 								},
 							},
 							["amount"] = 22027,
-						},
-					},
-					["ElementDone"] = {
-						["Melee"] = 406188,
-						["Physical"] = 90370,
-					},
-					["HealingTaken"] = 13471,
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 200,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 7,
-								},
-								["Miss"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 211,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 4,
-								},
-								["Hit"] = {
-									["count"] = 34,
-								},
-							},
-							["amount"] = 38,
-						},
-					},
-					["TimeDamage"] = 199.4200000000001,
-					["TimeDamaging"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 164.3100000000001,
-								},
-								["Fist Smash"] = {
-									["count"] = 24.61,
-								},
-							},
-							["amount"] = 188.9200000000001,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 10.5,
-								},
-							},
-							["amount"] = 10.5,
 						},
 					},
 					["ElementHitsTaken"] = {
@@ -675,152 +792,35 @@ RecountPerCharDB = {
 							["amount"] = 7,
 						},
 					},
-					["DamagedWho"] = {
+					["TimeDamaging"] = {
 						["Mischievous Snow Sprite"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 396334,
+									["count"] = 164.3100000000001,
 								},
 								["Fist Smash"] = {
-									["count"] = 90370,
+									["count"] = 24.61,
 								},
 							},
-							["amount"] = 486704,
+							["amount"] = 188.9200000000001,
 						},
 						["Suspicious Snow Pile"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 9854,
+									["count"] = 10.5,
 								},
 							},
-							["amount"] = 9854,
+							["amount"] = 10.5,
 						},
 					},
-					["WhoHealed"] = {
-						["Bloodworm <Broxegar>"] = {
-							["Details"] = {
-								["Blood Burst"] = {
-									["count"] = 13471,
-								},
-							},
-							["amount"] = 13471,
-						},
+					["ElementDone"] = {
+						["Melee"] = 406188,
+						["Physical"] = 90370,
 					},
 				},
 			},
-			["TimeLast"] = {
-				["HealingTaken"] = 1366944433,
-				["ActiveTime"] = 1366944695,
-				["TimeDamage"] = 1366944695,
-				["OVERALL"] = 1366944695,
-				["DamageTaken"] = 1366944682,
-				["Damage"] = 1366944695,
-			},
-			["LastEventIncoming"] = {
-				false, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				false, -- [5]
-				false, -- [6]
-				false, -- [7]
-				false, -- [8]
-				false, -- [9]
-				false, -- [10]
-				false, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				false, -- [15]
-				false, -- [16]
-				false, -- [17]
-				false, -- [18]
-				false, -- [19]
-				false, -- [20]
-				false, -- [21]
-				false, -- [22]
-				false, -- [23]
-				false, -- [24]
-				false, -- [25]
-				false, -- [26]
-				false, -- [27]
-				false, -- [28]
-				false, -- [29]
-				false, -- [30]
-				false, -- [31]
-				false, -- [32]
-				false, -- [33]
-				false, -- [34]
-				true, -- [35]
-				false, -- [36]
-				false, -- [37]
-				false, -- [38]
-				true, -- [39]
-				false, -- [40]
-				false, -- [41]
-				false, -- [42]
-				true, -- [43]
-				false, -- [44]
-				false, -- [45]
-				false, -- [46]
-				false, -- [47]
-				false, -- [48]
-				false, -- [49]
-				false, -- [50]
-			},
-			["LastEventTimes"] = {
-				449022.131, -- [1]
-				449022.131, -- [2]
-				449023.658, -- [3]
-				449024.091, -- [4]
-				449024.091, -- [5]
-				449025.698, -- [6]
-				449026.1, -- [7]
-				449026.1, -- [8]
-				449027.694, -- [9]
-				449028.104, -- [10]
-				449028.104, -- [11]
-				449028.521, -- [12]
-				449029.367, -- [13]
-				449029.712, -- [14]
-				448966.604, -- [15]
-				448966.604, -- [16]
-				448968.486, -- [17]
-				448968.486, -- [18]
-				448968.486, -- [19]
-				448970.506, -- [20]
-				448970.506, -- [21]
-				448970.506, -- [22]
-				448972.135, -- [23]
-				448972.135, -- [24]
-				448972.135, -- [25]
-				448974.091, -- [26]
-				448974.091, -- [27]
-				448974.091, -- [28]
-				448976.179, -- [29]
-				448976.179, -- [30]
-				448976.179, -- [31]
-				449012.418, -- [32]
-				449012.418, -- [33]
-				449012.418, -- [34]
-				449012.418, -- [35]
-				449014.414, -- [36]
-				449014.414, -- [37]
-				449014.414, -- [38]
-				449014.414, -- [39]
-				449016.384, -- [40]
-				449016.384, -- [41]
-				449016.384, -- [42]
-				449017.166, -- [43]
-				449017.961, -- [44]
-				449017.961, -- [45]
-				449018.42, -- [46]
-				449019.605, -- [47]
-				449020.075, -- [48]
-				449020.075, -- [49]
-				449021.663, -- [50]
-			},
-			["LastAbility"] = 311108.003,
+			["UnitLockout"] = 1366944695,
+			["LastActive"] = 1366944695,
 		},
 		["Deadrthanu"] = {
 			["GUID"] = "0x0500000005ACB2F0",
@@ -835,16 +835,16 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["LastAbility"] = 311108.003,
+			["LastFightIn"] = 48,
 			["Name"] = "Deadrthanu",
+			["Fights"] = {
+			},
 			["Pet"] = {
 				"Selna <Deadrthanu>", -- [1]
 			},
-			["UnitLockout"] = 1367692854,
 			["level"] = 1,
-			["Fights"] = {
-			},
-			["LastFightIn"] = 48,
+			["UnitLockout"] = 1367692854,
+			["LastAbility"] = 276684.921,
 		},
 		["Water Elemental <Eammiran>"] = {
 			["GUID"] = "0xF540C6FED1009BD7",
@@ -975,59 +975,8 @@ RecountPerCharDB = {
 			},
 			["enClass"] = "PET",
 			["unit"] = "Water Elemental",
-			["LastAbility"] = 311108.003,
-			["LastEventTimes"] = {
-				450465.485, -- [1]
-				450468.204, -- [2]
-				450470.723, -- [3]
-				450473.066, -- [4]
-				450473.066, -- [5]
-				450477.806, -- [6]
-				450521.363, -- [7]
-				450524.023, -- [8]
-				450526.447, -- [9]
-				450528.491, -- [10]
-				450530.453, -- [11]
-				450548.882, -- [12]
-				450550.796, -- [13]
-				450553.21, -- [14]
-				450555.651, -- [15]
-				450557.87, -- [16]
-				450560.142, -- [17]
-				450570.696, -- [18]
-				450572.783, -- [19]
-				450575.074, -- [20]
-				450587.271, -- [21]
-				450589.667, -- [22]
-				450592.098, -- [23]
-				450601.887, -- [24]
-				450604.191, -- [25]
-				450606.64, -- [26]
-				450608.849, -- [27]
-				450611, -- [28]
-				450627.335, -- [29]
-				450629.227, -- [30]
-				450631.243, -- [31]
-				450645.747, -- [32]
-				450655.462, -- [33]
-				450657.749, -- [34]
-				450660.284, -- [35]
-				450662.809, -- [36]
-				450678.179, -- [37]
-				450680.586, -- [38]
-				450683.015, -- [39]
-				450684.923, -- [40]
-				450686.968, -- [41]
-				450689.491, -- [42]
-				450692.08, -- [43]
-				450422.104, -- [44]
-				450424.542, -- [45]
-				450425.027, -- [46]
-				450430.381, -- [47]
-				450432.839, -- [48]
-				450462.953, -- [49]
-				450464.369, -- [50]
-			},
+			["LastActive"] = 1366946357,
+			["UnitLockout"] = 1366760160,
 			["level"] = 1,
 			["LastDamageAbility"] = "Ground Smash",
 			["LastFightIn"] = 47,
@@ -1042,4558 +991,6 @@ RecountPerCharDB = {
 			},
 			["type"] = "Pet",
 			["FightsSaved"] = 5,
-			["LastDamageTaken"] = 387,
-			["TimeLast"] = {
-				["HealingTaken"] = 1366945522,
-				["DeathCount"] = 1366945550,
-				["ActiveTime"] = 1366946357,
-				["TimeDamage"] = 1366946357,
-				["OVERALL"] = 1366946357,
-				["DamageTaken"] = 1366946138,
-				["Damage"] = 1366946357,
-			},
-			["Owner"] = "Eammiran",
-			["LastEventIncoming"] = {
-				false, -- [1]
-				false, -- [2]
-				false, -- [3]
-				true, -- [4]
-				false, -- [5]
-				false, -- [6]
-				false, -- [7]
-				false, -- [8]
-				false, -- [9]
-				false, -- [10]
-				false, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				false, -- [15]
-				false, -- [16]
-				false, -- [17]
-				false, -- [18]
-				false, -- [19]
-				false, -- [20]
-				false, -- [21]
-				false, -- [22]
-				false, -- [23]
-				false, -- [24]
-				false, -- [25]
-				false, -- [26]
-				false, -- [27]
-				false, -- [28]
-				false, -- [29]
-				false, -- [30]
-				false, -- [31]
-				false, -- [32]
-				false, -- [33]
-				false, -- [34]
-				false, -- [35]
-				false, -- [36]
-				false, -- [37]
-				false, -- [38]
-				false, -- [39]
-				false, -- [40]
-				false, -- [41]
-				false, -- [42]
-				false, -- [43]
-				false, -- [44]
-				false, -- [45]
-				true, -- [46]
-				false, -- [47]
-				false, -- [48]
-				true, -- [49]
-				true, -- [50]
-			},
-			["NextEventNum"] = 44,
-			["LastEventHealthNum"] = {
-				89.52336970530115, -- [1]
-				89.52336970530115, -- [2]
-				89.52336970530115, -- [3]
-				89.107741214881, -- [4]
-				89.107741214881, -- [5]
-				89.107741214881, -- [6]
-				100, -- [7]
-				100, -- [8]
-				100, -- [9]
-				100, -- [10]
-				100, -- [11]
-				100, -- [12]
-				100, -- [13]
-				100, -- [14]
-				100, -- [15]
-				100, -- [16]
-				100, -- [17]
-				100, -- [18]
-				100, -- [19]
-				100, -- [20]
-				100, -- [21]
-				100, -- [22]
-				100, -- [23]
-				100, -- [24]
-				100, -- [25]
-				100, -- [26]
-				100, -- [27]
-				100, -- [28]
-				100, -- [29]
-				100, -- [30]
-				100, -- [31]
-				100, -- [32]
-				100, -- [33]
-				100, -- [34]
-				100, -- [35]
-				100, -- [36]
-				100, -- [37]
-				100, -- [38]
-				100, -- [39]
-				100, -- [40]
-				100, -- [41]
-				100, -- [42]
-				100, -- [43]
-				100, -- [44]
-				100, -- [45]
-				99.60048114099149, -- [46]
-				99.60048114099149, -- [47]
-				99.60048114099149, -- [48]
-				100, -- [49]
-				89.52336970530115, -- [50]
-			},
-			["LastEvents"] = {
-				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Crit -13324 (Frost)", -- [1]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -6755 (Frost)", -- [2]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -5403 (Frost)", -- [3]
-				"Terracotta Champion Ground Smash Water Elemental <Eammiran> Hit -387 (Physical)", -- [4]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -5462 (Frost)", -- [5]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -6402 (Frost)", -- [6]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5137 (Frost)", -- [7]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Miss (Frost)", -- [8]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7047 (Frost)", -- [9]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5429 (Frost)", -- [10]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5770 (Frost)", -- [11]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -10458 (Frost)", -- [12]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7488 (Frost)", -- [13]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7356 (Frost)", -- [14]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -8392 (Frost)", -- [15]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6152 (Frost)", -- [16]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12283 (Frost)", -- [17]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5543 (Frost)", -- [18]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -8054 (Frost)", -- [19]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5433 (Frost)", -- [20]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6819 (Frost)", -- [21]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7158 (Frost)", -- [22]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7133 (Frost)", -- [23]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5180 (Frost)", -- [24]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7475 (Frost)", -- [25]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -14975 (Frost)", -- [26]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5684 (Frost)", -- [27]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -11915 (Frost)", -- [28]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5246 (Frost)", -- [29]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5788 (Frost)", -- [30]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -11756 (Frost)", -- [31]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7589 (Frost)", -- [32]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5217 (Frost)", -- [33]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5399 (Frost)", -- [34]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5497 (Frost)", -- [35]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -10829 (Frost)", -- [36]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5218 (Frost)", -- [37]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -14292 (Frost)", -- [38]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6018 (Frost)", -- [39]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6140 (Frost)", -- [40]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6067 (Frost)", -- [41]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12094 (Frost)", -- [42]
-				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12088 (Frost)", -- [43]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6073 (Frost)", -- [44]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6080 (Frost)", -- [45]
-				"Terracotta Gladiator Ground Smash Water Elemental <Eammiran> Hit -372 (Physical)", -- [46]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Crit -12574 (Frost)", -- [47]
-				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6399 (Frost)", -- [48]
-				"Terracotta Champion Melee Water Elemental <Eammiran> Hit -3615 (Physical)", -- [49]
-				"Terracotta Champion Wicked Blade Water Elemental <Eammiran> Hit -6140 (Physical)", -- [50]
-			},
-			["Name"] = "Water Elemental",
-			["Fights"] = {
-				["Fight3"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 7589,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 7589,
-					},
-					["DamagedWho"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 7589,
-								},
-							},
-							["amount"] = 7589,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Tormentor's Slash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Inflict Torment (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Bind Spirit (DoT)"] = {
-									["count"] = 0,
-								},
-								["Spirit Assault"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 3.5,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 7589,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 7589,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 7589,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 3.5,
-					["TimeDamaging"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight5"] = {
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 12.61,
-								},
-							},
-							["amount"] = 12.61,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 45229,
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 45229,
-								},
-							},
-							["amount"] = 45229,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDamaged"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Inflict Torment (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 0,
-					["TimeDamage"] = 12.61,
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 14975,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 26890,
-								},
-								["Hit"] = {
-									["max"] = 7475,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 18339,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 45229,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 5,
-						},
-					},
-					["ActiveTime"] = 12.61,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 12.61,
-								},
-							},
-							["amount"] = 12.61,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 45229,
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 0,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight2"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 26942,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Fire"] = 0,
-						["Frost"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 26942,
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 26942,
-								},
-							},
-							["amount"] = 26942,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["No One"] = {
-							["Details"] = {
-								["Freezing Winds"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-						["Jisabelle"] = {
-							["Details"] = {
-								["Atonement"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Freezing Winds"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Freezing Winds"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 10.85,
-								},
-							},
-							["amount"] = 10.85,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 10.85,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 10829,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 10829,
-								},
-								["Hit"] = {
-									["max"] = 5497,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 16113,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 26942,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 10.85,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 10.85,
-								},
-							},
-							["amount"] = 10.85,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight4"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 22790,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 22790,
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Wicked Blade"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 7.41,
-					["PartialResist"] = {
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 7.41,
-								},
-							},
-							["amount"] = 7.41,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 11756,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 11756,
-								},
-								["Hit"] = {
-									["max"] = 5788,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 11034,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 22790,
-						},
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 22790,
-								},
-							},
-							["amount"] = 22790,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 7.41,
-					["TimeDamaging"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 7.41,
-								},
-							},
-							["amount"] = 7.41,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 61917,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Physical"] = 0,
-						["Shadow"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 61917,
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 61917,
-								},
-							},
-							["amount"] = 61917,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Emperor's Brand"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Inflict Torment (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 17.4,
-								},
-							},
-							["amount"] = 17.4,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 17.4,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 14292,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 38474,
-								},
-								["Hit"] = {
-									["max"] = 6140,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 23443,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 61917,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 17.4,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 17.4,
-								},
-							},
-							["amount"] = 17.4,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["TimeSpent"] = {
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 15.48,
-								},
-							},
-							["amount"] = 15.48,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 28.7,
-								},
-							},
-							["amount"] = 28.7,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 43.22,
-								},
-							},
-							["amount"] = 43.22,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 18.29,
-								},
-							},
-							["amount"] = 18.29,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 150.79,
-								},
-							},
-							["amount"] = 150.79,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 95.31000000000002,
-								},
-							},
-							["amount"] = 95.31000000000002,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 52.88000000000001,
-								},
-							},
-							["amount"] = 52.88000000000001,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 85.19000000000001,
-								},
-							},
-							["amount"] = 85.19000000000001,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 24.83,
-								},
-							},
-							["amount"] = 24.83,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 75.63999999999999,
-								},
-							},
-							["amount"] = 75.63999999999999,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 34.44000000000001,
-								},
-							},
-							["amount"] = 34.44000000000001,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 44.81,
-								},
-							},
-							["amount"] = 44.81,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 8.34,
-								},
-							},
-							["amount"] = 8.34,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 49.13999999999999,
-								},
-							},
-							["amount"] = 49.13999999999999,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 15.24,
-								},
-							},
-							["amount"] = 15.24,
-						},
-					},
-					["DamageTaken"] = 324795,
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 18,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 18,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Freezing Winds"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 38,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 38,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Jade Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 1,
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 18,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 18,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Freezing Winds"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 38,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 38,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Jade Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 745.7999999999993,
-					["ElementTaken"] = {
-						["Physical"] = 11719,
-						["Melee"] = 154296,
-						["Frost"] = 82692,
-						["Fire"] = 11181,
-						["Shadow"] = 31832,
-						["Nature"] = 33075,
-					},
-					["Damage"] = 1932540,
-					["ElementDone"] = {
-						["Frost"] = 1932540,
-					},
-					["TimeDamaging"] = {
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 15.48,
-								},
-							},
-							["amount"] = 15.48,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 28.7,
-								},
-							},
-							["amount"] = 28.7,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 43.22,
-								},
-							},
-							["amount"] = 43.22,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 18.29,
-								},
-							},
-							["amount"] = 18.29,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 150.79,
-								},
-							},
-							["amount"] = 150.79,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 95.31000000000002,
-								},
-							},
-							["amount"] = 95.31000000000002,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 52.88000000000001,
-								},
-							},
-							["amount"] = 52.88000000000001,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 85.19000000000001,
-								},
-							},
-							["amount"] = 85.19000000000001,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 24.83,
-								},
-							},
-							["amount"] = 24.83,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 75.63999999999999,
-								},
-							},
-							["amount"] = 75.63999999999999,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 34.44000000000001,
-								},
-							},
-							["amount"] = 34.44000000000001,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 44.81,
-								},
-							},
-							["amount"] = 44.81,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 3.5,
-						},
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 8.34,
-								},
-							},
-							["amount"] = 8.34,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 49.13999999999999,
-								},
-							},
-							["amount"] = 49.13999999999999,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 15.24,
-								},
-							},
-							["amount"] = 15.24,
-						},
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 4,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 16568,
-									["min"] = 7753,
-									["count"] = 46,
-									["amount"] = 558292,
-								},
-								["Hit"] = {
-									["max"] = 8499,
-									["min"] = 2735,
-									["count"] = 232,
-									["amount"] = 1374248,
-								},
-							},
-							["count"] = 282,
-							["amount"] = 1932540,
-						},
-					},
-					["HealingTaken"] = 22819,
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 46,
-								},
-								["Hit"] = {
-									["count"] = 232,
-								},
-							},
-							["amount"] = 282,
-						},
-					},
-					["TimeDamage"] = 745.7999999999993,
-					["WhoDamaged"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 790,
-								},
-								["Melee"] = {
-									["count"] = 3615,
-								},
-								["Wicked Blade"] = {
-									["count"] = 6140,
-								},
-							},
-							["amount"] = 10545,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Snowball"] = {
-									["count"] = 79392,
-								},
-								["Melee"] = {
-									["count"] = 7402,
-								},
-							},
-							["amount"] = 86794,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Tormentor's Slash"] = {
-									["count"] = 1132,
-								},
-							},
-							["amount"] = 1132,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Freezing Winds"] = {
-									["count"] = 3300,
-								},
-								["Emperor's Brand"] = {
-									["count"] = 2439,
-								},
-							},
-							["amount"] = 5739,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 28225,
-								},
-								["Inflict Torment (DoT)"] = {
-									["count"] = 16748,
-								},
-							},
-							["amount"] = 44973,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 8824,
-								},
-							},
-							["amount"] = 8824,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 11181,
-								},
-							},
-							["amount"] = 11181,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 775,
-								},
-							},
-							["amount"] = 775,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 92424,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 33075,
-								},
-							},
-							["amount"] = 125499,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1174,
-								},
-							},
-							["amount"] = 1174,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 443,
-								},
-								["Melee"] = {
-									["count"] = 4168,
-								},
-							},
-							["amount"] = 4611,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 8464,
-								},
-							},
-							["amount"] = 8464,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Bind Spirit (DoT)"] = {
-									["count"] = 9050,
-								},
-								["Spirit Assault"] = {
-									["count"] = 6034,
-								},
-							},
-							["amount"] = 15084,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 33,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Miss"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 38,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 21,
-								},
-							},
-							["amount"] = 23,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 2,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 15,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 16,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 12,
-								},
-								["Miss"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 14,
-						},
-					},
-					["DamagedWho"] = {
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 40081,
-								},
-							},
-							["amount"] = 40081,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 74497,
-								},
-							},
-							["amount"] = 74497,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 107150,
-								},
-							},
-							["amount"] = 107150,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 42658,
-								},
-							},
-							["amount"] = 42658,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 367650,
-								},
-							},
-							["amount"] = 367650,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 280119,
-								},
-							},
-							["amount"] = 280119,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 156041,
-								},
-							},
-							["amount"] = 156041,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 229478,
-								},
-							},
-							["amount"] = 229478,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 46775,
-								},
-							},
-							["amount"] = 46775,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 217242,
-								},
-							},
-							["amount"] = 217242,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 101440,
-								},
-							},
-							["amount"] = 101440,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 112157,
-								},
-							},
-							["amount"] = 112157,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 5131,
-								},
-							},
-							["amount"] = 5131,
-						},
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 17661,
-								},
-							},
-							["amount"] = 17661,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 98471,
-								},
-							},
-							["amount"] = 98471,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 35989,
-								},
-							},
-							["amount"] = 35989,
-						},
-					},
-					["WhoHealed"] = {
-						["Jisabelle"] = {
-							["Details"] = {
-								["Atonement"] = {
-									["count"] = 22819,
-								},
-							},
-							["amount"] = 22819,
-						},
-					},
-				},
-				["Fight1"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["Damage"] = 61917,
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Physical"] = 0,
-						["Shadow"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 61917,
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 61917,
-								},
-							},
-							["amount"] = 61917,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Ground Smash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Emperor's Brand"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Inflict Torment (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["HealedWho"] = {
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 17.4,
-								},
-							},
-							["amount"] = 17.4,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-					},
-					["ActiveTime"] = 17.4,
-					["EnergyGained"] = {
-					},
-					["EnergyGain"] = 0,
-					["Healing"] = 0,
-					["Dispelled"] = 0,
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Waterbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 14292,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 38474,
-								},
-								["Hit"] = {
-									["max"] = 6140,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 23443,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 61917,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 17.4,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 17.4,
-								},
-							},
-							["amount"] = 17.4,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Waterbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-			},
-			["LastFlags"] = 4648,
 			["DeathLogs"] = {
 				{
 					["MessageIncoming"] = {
@@ -5789,8 +1186,4611 @@ RecountPerCharDB = {
 					},
 				}, -- [1]
 			},
-			["UnitLockout"] = 1366760160,
-			["LastActive"] = 1366946357,
+			["LastFlags"] = 4648,
+			["Owner"] = "Eammiran",
+			["Fights"] = {
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+						["Shadow"] = 0,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 61917,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 61917,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Emperor's Brand"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Inflict Torment (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 17.4,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 17.4,
+								},
+							},
+							["amount"] = 17.4,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14292,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 38474,
+								},
+								["Hit"] = {
+									["max"] = 6140,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 23443,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 61917,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 61917,
+								},
+							},
+							["amount"] = 61917,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 17.4,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 17.4,
+								},
+							},
+							["amount"] = 17.4,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 12.61,
+								},
+							},
+							["amount"] = 12.61,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 12.61,
+								},
+							},
+							["amount"] = 12.61,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["ActiveTime"] = 12.61,
+					["ElementDone"] = {
+						["Frost"] = 45229,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 45229,
+								},
+							},
+							["amount"] = 45229,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 12.61,
+					["WhoDamaged"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Inflict Torment (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Frost"] = 0,
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14975,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 26890,
+								},
+								["Hit"] = {
+									["max"] = 7475,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 18339,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 45229,
+						},
+					},
+					["Damage"] = 45229,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeSpent"] = {
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 15.48,
+								},
+							},
+							["amount"] = 15.48,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 28.7,
+								},
+							},
+							["amount"] = 28.7,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 85.19000000000001,
+								},
+							},
+							["amount"] = 85.19000000000001,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 18.29,
+								},
+							},
+							["amount"] = 18.29,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 150.79,
+								},
+							},
+							["amount"] = 150.79,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 95.31000000000002,
+								},
+							},
+							["amount"] = 95.31000000000002,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 24.83,
+								},
+							},
+							["amount"] = 24.83,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 43.22,
+								},
+							},
+							["amount"] = 43.22,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 52.88000000000001,
+								},
+							},
+							["amount"] = 52.88000000000001,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 75.63999999999999,
+								},
+							},
+							["amount"] = 75.63999999999999,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 34.44000000000001,
+								},
+							},
+							["amount"] = 34.44000000000001,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 44.81,
+								},
+							},
+							["amount"] = 44.81,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 8.34,
+								},
+							},
+							["amount"] = 8.34,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 49.13999999999999,
+								},
+							},
+							["amount"] = 49.13999999999999,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 15.24,
+								},
+							},
+							["amount"] = 15.24,
+						},
+					},
+					["DamageTaken"] = 324795,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Freezing Winds"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 38,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 38,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jade Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Freezing Winds"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 38,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 38,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jade Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 745.7999999999993,
+					["ElementTaken"] = {
+						["Physical"] = 11719,
+						["Melee"] = 154296,
+						["Frost"] = 82692,
+						["Fire"] = 11181,
+						["Shadow"] = 31832,
+						["Nature"] = 33075,
+					},
+					["Damage"] = 1932540,
+					["WhoHealed"] = {
+						["Jisabelle"] = {
+							["Details"] = {
+								["Atonement"] = {
+									["count"] = 22819,
+								},
+							},
+							["amount"] = 22819,
+						},
+					},
+					["DamagedWho"] = {
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 40081,
+								},
+							},
+							["amount"] = 40081,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 74497,
+								},
+							},
+							["amount"] = 74497,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 229478,
+								},
+							},
+							["amount"] = 229478,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 42658,
+								},
+							},
+							["amount"] = 42658,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 367650,
+								},
+							},
+							["amount"] = 367650,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 280119,
+								},
+							},
+							["amount"] = 280119,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 46775,
+								},
+							},
+							["amount"] = 46775,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 107150,
+								},
+							},
+							["amount"] = 107150,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 156041,
+								},
+							},
+							["amount"] = 156041,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 217242,
+								},
+							},
+							["amount"] = 217242,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 101440,
+								},
+							},
+							["amount"] = 101440,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 112157,
+								},
+							},
+							["amount"] = 112157,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 5131,
+								},
+							},
+							["amount"] = 5131,
+						},
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 17661,
+								},
+							},
+							["amount"] = 17661,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 98471,
+								},
+							},
+							["amount"] = 98471,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 35989,
+								},
+							},
+							["amount"] = 35989,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 1932540,
+					},
+					["HealingTaken"] = 22819,
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 232,
+								},
+								["Crit"] = {
+									["count"] = 46,
+								},
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 282,
+						},
+					},
+					["TimeDamage"] = 745.7999999999993,
+					["TimeDamaging"] = {
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 15.48,
+								},
+							},
+							["amount"] = 15.48,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 28.7,
+								},
+							},
+							["amount"] = 28.7,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 85.19000000000001,
+								},
+							},
+							["amount"] = 85.19000000000001,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 18.29,
+								},
+							},
+							["amount"] = 18.29,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 150.79,
+								},
+							},
+							["amount"] = 150.79,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 95.31000000000002,
+								},
+							},
+							["amount"] = 95.31000000000002,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 24.83,
+								},
+							},
+							["amount"] = 24.83,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 43.22,
+								},
+							},
+							["amount"] = 43.22,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 52.88000000000001,
+								},
+							},
+							["amount"] = 52.88000000000001,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 75.63999999999999,
+								},
+							},
+							["amount"] = 75.63999999999999,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 34.44000000000001,
+								},
+							},
+							["amount"] = 34.44000000000001,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 44.81,
+								},
+							},
+							["amount"] = 44.81,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 8.34,
+								},
+							},
+							["amount"] = 8.34,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 49.13999999999999,
+								},
+							},
+							["amount"] = 49.13999999999999,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 15.24,
+								},
+							},
+							["amount"] = 15.24,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 21,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["WhoDamaged"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 790,
+								},
+								["Melee"] = {
+									["count"] = 3615,
+								},
+								["Wicked Blade"] = {
+									["count"] = 6140,
+								},
+							},
+							["amount"] = 10545,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Snowball"] = {
+									["count"] = 79392,
+								},
+								["Melee"] = {
+									["count"] = 7402,
+								},
+							},
+							["amount"] = 86794,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 28225,
+								},
+								["Inflict Torment (DoT)"] = {
+									["count"] = 16748,
+								},
+							},
+							["amount"] = 44973,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8824,
+								},
+							},
+							["amount"] = 8824,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Tormentor's Slash"] = {
+									["count"] = 1132,
+								},
+							},
+							["amount"] = 1132,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Freezing Winds"] = {
+									["count"] = 3300,
+								},
+								["Emperor's Brand"] = {
+									["count"] = 2439,
+								},
+							},
+							["amount"] = 5739,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 11181,
+								},
+							},
+							["amount"] = 11181,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 775,
+								},
+							},
+							["amount"] = 775,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 92424,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 33075,
+								},
+							},
+							["amount"] = 125499,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1174,
+								},
+							},
+							["amount"] = 1174,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 443,
+								},
+								["Melee"] = {
+									["count"] = 4168,
+								},
+							},
+							["amount"] = 4611,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8464,
+								},
+							},
+							["amount"] = 8464,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Spirit Assault"] = {
+									["count"] = 6034,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 9050,
+								},
+							},
+							["amount"] = 15084,
+						},
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8499,
+									["min"] = 2735,
+									["count"] = 232,
+									["amount"] = 1374248,
+								},
+								["Crit"] = {
+									["max"] = 16568,
+									["min"] = 7753,
+									["count"] = 46,
+									["amount"] = 558292,
+								},
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 282,
+							["amount"] = 1932540,
+						},
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 22790,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 22790,
+								},
+							},
+							["amount"] = 22790,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 22790,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wicked Blade"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 7.41,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 7.41,
+								},
+							},
+							["amount"] = 7.41,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 11756,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 11756,
+								},
+								["Hit"] = {
+									["max"] = 5788,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 11034,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22790,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 7.41,
+					["TimeDamaging"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 7.41,
+								},
+							},
+							["amount"] = 7.41,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+						["Shadow"] = 0,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 61917,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 61917,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Emperor's Brand"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Inflict Torment (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 17.4,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 17.4,
+								},
+							},
+							["amount"] = 17.4,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14292,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 38474,
+								},
+								["Hit"] = {
+									["max"] = 6140,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 23443,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 61917,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 61917,
+								},
+							},
+							["amount"] = 61917,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 17.4,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 17.4,
+								},
+							},
+							["amount"] = 17.4,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+						["Frost"] = 0,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 26942,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 26942,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["No One"] = {
+							["Details"] = {
+								["Freezing Winds"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Ground Smash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+						["Jisabelle"] = {
+							["Details"] = {
+								["Atonement"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Freezing Winds"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 10.85,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Freezing Winds"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 10829,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 10829,
+								},
+								["Hit"] = {
+									["max"] = 5497,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 16113,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 26942,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 26942,
+								},
+							},
+							["amount"] = 26942,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 10.85,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 7589,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 7589,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Spirit Assault"] = {
+									["count"] = 0,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Inflict Torment (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Tormentor's Slash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7589,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 7589,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 7589,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 7589,
+								},
+							},
+							["amount"] = 7589,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["NextEventNum"] = 44,
+			["LastEventHealthNum"] = {
+				89.52336970530115, -- [1]
+				89.52336970530115, -- [2]
+				89.52336970530115, -- [3]
+				89.107741214881, -- [4]
+				89.107741214881, -- [5]
+				89.107741214881, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				99.60048114099149, -- [46]
+				99.60048114099149, -- [47]
+				99.60048114099149, -- [48]
+				100, -- [49]
+				89.52336970530115, -- [50]
+			},
+			["LastEvents"] = {
+				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Crit -13324 (Frost)", -- [1]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -6755 (Frost)", -- [2]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -5403 (Frost)", -- [3]
+				"Terracotta Champion Ground Smash Water Elemental <Eammiran> Hit -387 (Physical)", -- [4]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -5462 (Frost)", -- [5]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Champion Hit -6402 (Frost)", -- [6]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5137 (Frost)", -- [7]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Miss (Frost)", -- [8]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7047 (Frost)", -- [9]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5429 (Frost)", -- [10]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5770 (Frost)", -- [11]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -10458 (Frost)", -- [12]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7488 (Frost)", -- [13]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7356 (Frost)", -- [14]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -8392 (Frost)", -- [15]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6152 (Frost)", -- [16]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12283 (Frost)", -- [17]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5543 (Frost)", -- [18]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -8054 (Frost)", -- [19]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5433 (Frost)", -- [20]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6819 (Frost)", -- [21]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7158 (Frost)", -- [22]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7133 (Frost)", -- [23]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5180 (Frost)", -- [24]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7475 (Frost)", -- [25]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -14975 (Frost)", -- [26]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5684 (Frost)", -- [27]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -11915 (Frost)", -- [28]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5246 (Frost)", -- [29]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5788 (Frost)", -- [30]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -11756 (Frost)", -- [31]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -7589 (Frost)", -- [32]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5217 (Frost)", -- [33]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5399 (Frost)", -- [34]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5497 (Frost)", -- [35]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -10829 (Frost)", -- [36]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -5218 (Frost)", -- [37]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -14292 (Frost)", -- [38]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6018 (Frost)", -- [39]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6140 (Frost)", -- [40]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Hit -6067 (Frost)", -- [41]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12094 (Frost)", -- [42]
+				"Water Elemental <Eammiran> Waterbolt Zandalari Warrior Crit -12088 (Frost)", -- [43]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6073 (Frost)", -- [44]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6080 (Frost)", -- [45]
+				"Terracotta Gladiator Ground Smash Water Elemental <Eammiran> Hit -372 (Physical)", -- [46]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Crit -12574 (Frost)", -- [47]
+				"Water Elemental <Eammiran> Waterbolt Terracotta Gladiator Hit -6399 (Frost)", -- [48]
+				"Terracotta Champion Melee Water Elemental <Eammiran> Hit -3615 (Physical)", -- [49]
+				"Terracotta Champion Wicked Blade Water Elemental <Eammiran> Hit -6140 (Physical)", -- [50]
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				true, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				false, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["Name"] = "Water Elemental",
+			["TimeLast"] = {
+				["HealingTaken"] = 1366945522,
+				["DeathCount"] = 1366945550,
+				["ActiveTime"] = 1366946357,
+				["TimeDamage"] = 1366946357,
+				["OVERALL"] = 1366946357,
+				["DamageTaken"] = 1366946138,
+				["Damage"] = 1366946357,
+			},
+			["LastDamageTaken"] = 387,
+			["LastEventTimes"] = {
+				450465.485, -- [1]
+				450468.204, -- [2]
+				450470.723, -- [3]
+				450473.066, -- [4]
+				450473.066, -- [5]
+				450477.806, -- [6]
+				450521.363, -- [7]
+				450524.023, -- [8]
+				450526.447, -- [9]
+				450528.491, -- [10]
+				450530.453, -- [11]
+				450548.882, -- [12]
+				450550.796, -- [13]
+				450553.21, -- [14]
+				450555.651, -- [15]
+				450557.87, -- [16]
+				450560.142, -- [17]
+				450570.696, -- [18]
+				450572.783, -- [19]
+				450575.074, -- [20]
+				450587.271, -- [21]
+				450589.667, -- [22]
+				450592.098, -- [23]
+				450601.887, -- [24]
+				450604.191, -- [25]
+				450606.64, -- [26]
+				450608.849, -- [27]
+				450611, -- [28]
+				450627.335, -- [29]
+				450629.227, -- [30]
+				450631.243, -- [31]
+				450645.747, -- [32]
+				450655.462, -- [33]
+				450657.749, -- [34]
+				450660.284, -- [35]
+				450662.809, -- [36]
+				450678.179, -- [37]
+				450680.586, -- [38]
+				450683.015, -- [39]
+				450684.923, -- [40]
+				450686.968, -- [41]
+				450689.491, -- [42]
+				450692.08, -- [43]
+				450422.104, -- [44]
+				450424.542, -- [45]
+				450425.027, -- [46]
+				450430.381, -- [47]
+				450432.839, -- [48]
+				450462.953, -- [49]
+				450464.369, -- [50]
+			},
+			["LastAbility"] = 276684.921,
 		},
 		["Eammiran"] = {
 			["GUID"] = "0x050000000348962A",
@@ -5903,8 +5903,8 @@ RecountPerCharDB = {
 				["TimeHeal"] = {
 					17.04000000000001, -- [1]
 				},
-				["HealingTaken"] = {
-					359777, -- [1]
+				["DeathCount"] = {
+					1, -- [1]
 				},
 				["Healing"] = {
 					359521, -- [1]
@@ -5912,20 +5912,20 @@ RecountPerCharDB = {
 				["DamageTaken"] = {
 					1464153, -- [1]
 				},
-				["ActiveTime"] = {
-					738.3000000000002, -- [1]
+				["Overhealing"] = {
+					71132, -- [1]
 				},
 				["Absorbs"] = {
 					333791, -- [1]
 				},
-				["DeathCount"] = {
-					1, -- [1]
+				["HealingTaken"] = {
+					359777, -- [1]
 				},
 				["HOT_Time"] = {
 					21, -- [1]
 				},
-				["TimeDamage"] = {
-					721.2600000000003, -- [1]
+				["ActiveTime"] = {
+					738.3000000000002, -- [1]
 				},
 				["Interrupts"] = {
 					1, -- [1]
@@ -5933,8 +5933,8 @@ RecountPerCharDB = {
 				["ManaGain"] = {
 					6400, -- [1]
 				},
-				["Overhealing"] = {
-					71132, -- [1]
+				["TimeDamage"] = {
+					721.2600000000003, -- [1]
 				},
 				["Damage"] = {
 					12935722, -- [1]
@@ -5942,11334 +5942,8 @@ RecountPerCharDB = {
 			},
 			["enClass"] = "MAGE",
 			["unit"] = "Eammiran",
-			["LastAbility"] = 311108.003,
-			["LastEventTimes"] = {
-				450626.404, -- [1]
-				450627.335, -- [2]
-				450627.584, -- [3]
-				450630.201, -- [4]
-				450633.252, -- [5]
-				450644.517, -- [6]
-				450645.372, -- [7]
-				450647.342, -- [8]
-				450647.342, -- [9]
-				450654.637, -- [10]
-				450656.238, -- [11]
-				450657.004, -- [12]
-				450657.749, -- [13]
-				450658.306, -- [14]
-				450658.306, -- [15]
-				450658.66, -- [16]
-				450659.063, -- [17]
-				450659.959, -- [18]
-				450660.859, -- [19]
-				450661.816, -- [20]
-				450663.1, -- [21]
-				450663.872, -- [22]
-				450677.381, -- [23]
-				450678.179, -- [24]
-				450680.337, -- [25]
-				450680.337, -- [26]
-				450682.053, -- [27]
-				450683.276, -- [28]
-				450683.4, -- [29]
-				450683.4, -- [30]
-				450685.93, -- [31]
-				450686.226, -- [32]
-				450686.611, -- [33]
-				450575.37, -- [34]
-				450586.155, -- [35]
-				450587.271, -- [36]
-				450588.467, -- [37]
-				450589.667, -- [38]
-				450590.502, -- [39]
-				450590.843, -- [40]
-				450591.006, -- [41]
-				450601.191, -- [42]
-				450602.182, -- [43]
-				450602.555, -- [44]
-				450602.555, -- [45]
-				450605.09, -- [46]
-				450608.71, -- [47]
-				450611.449, -- [48]
-				450613.072, -- [49]
-				450626.404, -- [50]
-			},
-			["LastDamageTaken"] = 7323,
-			["level"] = 87,
-			["LastDamageAbility"] = "Backhand",
-			["LastFightIn"] = 47,
-			["LastEventNum"] = {
-				nil, -- [1]
-				nil, -- [2]
-				nil, -- [3]
-				nil, -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				nil, -- [10]
-				nil, -- [11]
-				nil, -- [12]
-				nil, -- [13]
-				nil, -- [14]
-				3.989260303396429, -- [15]
-				3.731507584910726, -- [16]
-				[30] = 4.545039602631226,
-				[31] = 3.908712578869647,
-				[40] = 4.480064438179621,
-				[33] = 3.932339911397503,
-			},
-			["type"] = "Self",
-			["FightsSaved"] = 5,
-			["GuardianReverseGUIDs"] = {
-				["Frozen Orb"] = {
-					["LatestGuardian"] = 8,
-					["GUIDs"] = {
-						"0xF530B10A00312140", -- [1]
-						"0xF530B10A003128BF", -- [2]
-						"0xF530B10A0031422B", -- [3]
-						"0xF530B10A00314728", -- [4]
-						"0xF530B10A00315528", -- [5]
-						"0xF530B10A00317D93", -- [6]
-						"0xF530B10A00318EF6", -- [7]
-						"0xF530B10A0031AB04", -- [8]
-						[0] = "0xF530B10A0003A5D0",
-					},
-				},
-				["Water Elemental"] = {
-					["LatestGuardian"] = 1,
-					["GUIDs"] = {
-						"0xF540C6FED1009BD7", -- [1]
-						[0] = "0xF540C6FED1009B4C",
-					},
-				},
-			},
-			["LastEventIncoming"] = {
-				false, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				false, -- [5]
-				false, -- [6]
-				false, -- [7]
-				false, -- [8]
-				false, -- [9]
-				false, -- [10]
-				false, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				true, -- [15]
-				true, -- [16]
-				false, -- [17]
-				false, -- [18]
-				false, -- [19]
-				false, -- [20]
-				false, -- [21]
-				false, -- [22]
-				false, -- [23]
-				false, -- [24]
-				false, -- [25]
-				false, -- [26]
-				false, -- [27]
-				false, -- [28]
-				false, -- [29]
-				true, -- [30]
-				true, -- [31]
-				false, -- [32]
-				true, -- [33]
-				false, -- [34]
-				false, -- [35]
-				false, -- [36]
-				false, -- [37]
-				false, -- [38]
-				false, -- [39]
-				true, -- [40]
-				false, -- [41]
-				false, -- [42]
-				false, -- [43]
-				false, -- [44]
-				false, -- [45]
-				false, -- [46]
-				false, -- [47]
-				false, -- [48]
-				false, -- [49]
-				false, -- [50]
-			},
-			["Owner"] = false,
-			["Pet"] = {
-				"Water Elemental <Eammiran>", -- [1]
-				"Frozen Orb <Eammiran>", -- [2]
-				"Experienced Guide <Eammiran>", -- [3]
-				"Rampaging Yeti <Eammiran>", -- [4]
-			},
-			["NextEventNum"] = 34,
-			["LastEventHealthNum"] = {
-				100, -- [1]
-				100, -- [2]
-				100, -- [3]
-				100, -- [4]
-				100, -- [5]
-				100, -- [6]
-				100, -- [7]
-				100, -- [8]
-				100, -- [9]
-				100, -- [10]
-				100, -- [11]
-				100, -- [12]
-				100, -- [13]
-				100, -- [14]
-				100, -- [15]
-				96.26849241508927, -- [16]
-				92.27923211169285, -- [17]
-				92.27923211169285, -- [18]
-				92.27923211169285, -- [19]
-				92.27923211169285, -- [20]
-				92.27923211169285, -- [21]
-				92.27923211169285, -- [22]
-				97.60289971808297, -- [23]
-				97.60289971808297, -- [24]
-				97.60289971808297, -- [25]
-				97.60289971808297, -- [26]
-				97.60289971808297, -- [27]
-				97.60289971808297, -- [28]
-				97.60289971808297, -- [29]
-				100, -- [30]
-				100, -- [31]
-				96.09128742113035, -- [32]
-				92.15894750973286, -- [33]
-				100, -- [34]
-				100, -- [35]
-				100, -- [36]
-				100, -- [37]
-				100, -- [38]
-				100, -- [39]
-				100, -- [40]
-				100, -- [41]
-				100, -- [42]
-				100, -- [43]
-				100, -- [44]
-				100, -- [45]
-				100, -- [46]
-				100, -- [47]
-				100, -- [48]
-				100, -- [49]
-				100, -- [50]
-			},
-			["LastEvents"] = {
-				"Eammiran Frostfire Bolt Zandalari Warrior Crit -39135 (Frostfire)", -- [1]
-				"Eammiran Ice Lance Zandalari Warrior Crit -34427 (Frost)", -- [2]
-				"Eammiran Frost Bomb Zandalari Warrior Hit -35468 (Frost)", -- [3]
-				"Eammiran Frostfire Bolt Zandalari Warrior Crit -41314 (Frostfire)", -- [4]
-				"Eammiran Frostbolt Zandalari Warrior Crit -34737 (Frost)", -- [5]
-				"Eammiran Frostbolt Zandalari Warrior Hit -22936 (Frost)", -- [6]
-				"Eammiran Frost Bomb Zandalari Warrior Crit -97998 (Frost)", -- [7]
-				"Eammiran Frostfire Bolt Zandalari Warrior Crit -41494 (Frostfire)", -- [8]
-				"Eammiran Frostbolt Zandalari Warrior Crit -48498 (Frost)", -- [9]
-				"Eammiran Frostbolt Zandalari Warrior Crit -33509 (Frost)", -- [10]
-				"Eammiran Frost Bomb Zandalari Warrior Crit -70937 (Frost)", -- [11]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5252 (Frost)", -- [12]
-				"Eammiran Frostfire Bolt Zandalari Warrior Crit -38674 (Frostfire)", -- [13]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5228 (Frost)", -- [14]
-				"Zandalari Warrior Melee Eammiran Hit -7429 (Physical)", -- [15]
-				"Zandalari Warrior Backhand Eammiran Hit -6949 (Physical)", -- [16]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5205 (Frost)", -- [17]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5193 (Frost)", -- [18]
-				"Eammiran Frozen Orb Zandalari Warrior Crit -10365 (Frost)", -- [19]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5225 (Frost)", -- [20]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5224 (Frost)", -- [21]
-				"Eammiran Frozen Orb Zandalari Warrior Hit -5243 (Frost)", -- [22]
-				"Eammiran Frostbolt Zandalari Warrior Hit -16803 (Frost)", -- [23]
-				"Eammiran Frost Bomb Zandalari Warrior Hit -46021 (Frost)", -- [24]
-				"Eammiran Frostbolt Zandalari Warrior Crit -45546 (Frost)", -- [25]
-				"Eammiran Frostfire Bolt Zandalari Warrior Hit -19578 (Frostfire)", -- [26]
-				"Eammiran Ice Lance Zandalari Warrior Hit -19139 (Frost)", -- [27]
-				"Eammiran Ice Lance Zandalari Warrior Hit -2763 (Frost)", -- [28]
-				"Eammiran Touch of the Grave Zandalari Warrior Hit -8464 (Shadow)", -- [29]
-				"Eammiran Touch of the Grave Eammiran Hit +8464 (4000 overheal)", -- [30]
-				"Zandalari Warrior Melee Eammiran Hit -7279 (Physical)", -- [31]
-				"Eammiran Frostbolt Zandalari Warrior Miss (Frost)", -- [32]
-				"Zandalari Warrior Backhand Eammiran Hit -7323 (Physical)", -- [33]
-				"Eammiran Frostbolt Zandalari Warrior Crit -35243 (Frost)", -- [34]
-				"Eammiran Frostbolt Zandalari Warrior Hit -16532 (Frost)", -- [35]
-				"Eammiran Frost Bomb Zandalari Warrior Crit -92041 (Frost)", -- [36]
-				"Eammiran Frostfire Bolt Zandalari Warrior Crit -39283 (Frostfire)", -- [37]
-				"Eammiran Ice Lance Zandalari Warrior Hit -13656 (Frost)", -- [38]
-				"Eammiran Touch of the Grave Zandalari Warrior Hit -8343 (Shadow)", -- [39]
-				"Eammiran Touch of the Grave Eammiran Hit +8343 (8343 overheal)", -- [40]
-				"Eammiran Ice Lance Zandalari Warrior Crit -27345 (Frost)", -- [41]
-				"Eammiran Frostbolt Zandalari Warrior Crit -33165 (Frost)", -- [42]
-				"Eammiran Frost Bomb Zandalari Warrior Hit -35468 (Frost)", -- [43]
-				"Eammiran Frostbolt Zandalari Warrior Hit -17532 (Frost)", -- [44]
-				"Eammiran Frost Nova Zandalari Warrior Hit -2250 (Frost)", -- [45]
-				"Eammiran Frostfire Bolt Zandalari Warrior Hit -19351 (Frostfire)", -- [46]
-				"Eammiran Frostbolt Zandalari Warrior Crit -36223 (Frost)", -- [47]
-				"Eammiran Frostbolt Zandalari Warrior Hit -19018 (Frost)", -- [48]
-				"Eammiran Frost Bomb Zandalari Warrior Hit -35469 (Frost)", -- [49]
-				"Eammiran Frostbolt Zandalari Warrior Crit -33145 (Frost)", -- [50]
-			},
-			["Name"] = "Eammiran",
-			["TimeLast"] = {
-				["TimeHeal"] = 1366946348,
-				["Healing"] = 1366946348,
-				["HealingTaken"] = 1366946348,
-				["OVERALL"] = 1366946351,
-				["DamageTaken"] = 1366946351,
-				["TimeDamage"] = 1366946351,
-				["Absorbs"] = 1366946144,
-				["DeathCount"] = 1366945559,
-				["HOT_Time"] = 1366944627,
-				["ActiveTime"] = 1366946351,
-				["Interrupts"] = 1366760420,
-				["ManaGain"] = 1366944501,
-				["Overhealing"] = 1366946348,
-				["Damage"] = 1366946348,
-			},
-			["Fights"] = {
-				["Fight3"] = {
-					["ElementHitsTaken"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RageGainedFrom"] = {
-					},
-					["DOTs"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementTaken"] = {
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Fire"] = 0,
-						["Physical"] = 0,
-						["Shadow"] = 0,
-					},
-					["HOTs"] = {
-						["Evocation"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 210926,
-					["PartialBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 0,
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["RageGained"] = {
-					},
-					["ElementDone"] = {
-						["Frost"] = 169432,
-						["Shadow"] = 0,
-						["Melee"] = 0,
-						["Frostfire"] = 41494,
-					},
-					["DamagedWho"] = {
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 41494,
-								},
-								["Frostbolt"] = {
-									["count"] = 71434,
-								},
-								["Frost Bomb"] = {
-									["count"] = 97998,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 210926,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Fire"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Tormentor's Slash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Bind Spirit (DoT)"] = {
-									["count"] = 0,
-								},
-								["Spirit Assault"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RessedWho"] = {
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-						["Fire"] = 0,
-						["Frost"] = 0,
-						["Shadow"] = 0,
-					},
-					["PartialAbsorb"] = {
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialResist"] = {
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Evocation"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FDamage"] = 0,
-					["Interrupts"] = 0,
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-								["Deep Freeze"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 1.97,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0.86,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 6.33,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["InterruptData"] = {
-					},
-					["ActiveTime"] = 6.33,
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Evocation"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["EnergyGained"] = {
-					},
-					["Dispelled"] = 0,
-					["Healing"] = 0,
-					["CCBroken"] = {
-					},
-					["ManaGainedFrom"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 48498,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 48498,
-								},
-								["Hit"] = {
-									["max"] = 22936,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 22936,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 71434,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Deep Freeze"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 97998,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 97998,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 97998,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 41494,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 41494,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 41494,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 6.33,
-					["TimeDamaging"] = {
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-								["Deep Freeze"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 1.97,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0.86,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 6.33,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight5"] = {
-					["DOTs"] = {
-					},
-					["Ressed"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["HOTs"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["ElementTaken"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 198476,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispels"] = 0,
-					["FDamagedWho"] = {
-					},
-					["HealingTaken"] = 0,
-					["FAttacks"] = {
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 2250,
-								},
-								["Frostbolt"] = {
-									["count"] = 105938,
-								},
-								["Frost Bomb"] = {
-									["count"] = 70937,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19351,
-								},
-							},
-							["amount"] = 198476,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 179125,
-						["Shadow"] = 0,
-						["Frostfire"] = 19351,
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Tormentor's Slash"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["CCBroken"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Interrupts"] = 0,
-					["PartialResist"] = {
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["FDamage"] = 0,
-					["ActiveTime"] = 15.26,
-					["Overhealing"] = 0,
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 10.11,
-								},
-								["Frost Bomb"] = {
-									["count"] = 2.61,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.54,
-								},
-							},
-							["amount"] = 15.26,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["InterruptData"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Healing Wave (Counterspell)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["RessedWho"] = {
-					},
-					["Heals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Fire"] = 0,
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["RageGained"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 5,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 7,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["Attacks"] = {
-						["Chilled"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 19351,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 19351,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 19351,
-						},
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 35469,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 70937,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 70937,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 36223,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 69388,
-								},
-								["Hit"] = {
-									["max"] = 19018,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 36550,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 105938,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 2250,
-									["min"] = 2250,
-									["count"] = 1,
-									["amount"] = 2250,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 2250,
-						},
-					},
-					["RageGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["TimeDamage"] = 15.26,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 10.11,
-								},
-								["Frost Bomb"] = {
-									["count"] = 2.61,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.54,
-								},
-							},
-							["amount"] = 15.26,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["CurrentFightData"] = {
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["TimeSpent"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Blizzard"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 0,
-					["PartialResist"] = {
-						["Little Scamp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Petrifying Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Shadow Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Little Scamp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Petrifying Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Shadow Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["ActiveTime"] = 0,
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTaken"] = {
-						["Physical"] = 0,
-						["Melee"] = 0,
-						["Fire"] = 0,
-						["Frost"] = 0,
-						["Shadow"] = 0,
-					},
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 0,
-					["WhoDamaged"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Bind Spirit (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Inflict Torment (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Petrifying Strike"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Auburn Rascal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Little Scamp"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Shadow Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeHeal"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamagedWho"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Blizzard"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["Absorbs"] = 0,
-					["ElementDone"] = {
-						["Frost"] = 0,
-						["Shadow"] = 0,
-						["Melee"] = 0,
-						["Frostfire"] = 0,
-					},
-					["Attacks"] = {
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Blizzard"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Chilled"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealingTaken"] = 0,
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Blizzard"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-				},
-				["Fight2"] = {
-					["PartialBlock"] = {
-					},
-					["Ressed"] = 0,
-					["DOTs"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 14378,
-					["ElementDoneAbsorb"] = {
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-						["Evocation"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenBlock"] = {
-					},
-					["ElementTaken"] = {
-						["Frost"] = 0,
-						["Melee"] = 7429,
-						["Physical"] = 6949,
-						["Shadow"] = 0,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 190055,
-					["FDamagedWho"] = {
-					},
-					["TimeHeal"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 0,
-					["RageGained"] = {
-					},
-					["FAttacks"] = {
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 151381,
-						["Frostfire"] = 38674,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 7,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Bind Spirit (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Reclaim Strength"] = {
-									["count"] = 0,
-								},
-								["Wild Magics"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Backhand"] = {
-									["count"] = 6949,
-								},
-								["Melee"] = {
-									["count"] = 7429,
-								},
-							},
-							["amount"] = 14378,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Nomad"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Club"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Physical"] = 0,
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Shadow"] = 0,
-					},
-					["CCBreak"] = 0,
-					["PartialResist"] = {
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Wild Magics"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Club"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Reclaim Strength"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["PartialAbsorb"] = {
-						["Charge"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Wild Magics"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Club"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Reclaim Strength"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 12.74,
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 1.6,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.74,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 6.9,
-								},
-							},
-							["amount"] = 12.74,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Evocation"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["Interrupts"] = 0,
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Evocation"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Overhealing"] = 0,
-					["EnergyGained"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Healing"] = 0,
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["DamagedWho"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 70937,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 38674,
-								},
-								["Frostbolt"] = {
-									["count"] = 33509,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 46935,
-								},
-							},
-							["amount"] = 190055,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 70937,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 70937,
-								},
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 70937,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 33509,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 33509,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 33509,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 38674,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 38674,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 38674,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 10365,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 10365,
-								},
-								["Hit"] = {
-									["max"] = 5252,
-									["min"] = 0,
-									["count"] = 7,
-									["amount"] = 36570,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 46935,
-						},
-					},
-					["RageGain"] = 0,
-					["RessedWho"] = {
-					},
-					["TimeDamage"] = 12.74,
-					["TimeDamaging"] = {
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 1.6,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.74,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 6.9,
-								},
-							},
-							["amount"] = 12.74,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight4"] = {
-					["Ressed"] = 0,
-					["DOTs"] = {
-					},
-					["RageGainedFrom"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Fire"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["RunicPowerGain"] = 0,
-					["Damage"] = 218226,
-					["ElementTaken"] = {
-						["Fire"] = 0,
-						["Frost"] = 0,
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["PartialBlock"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["RageGained"] = {
-					},
-					["HealingTaken"] = 0,
-					["FAttacks"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 3,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 137777,
-						["Shadow"] = 0,
-						["Frostfire"] = 80449,
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGainedFrom"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Wicked Blade"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["ActiveTime"] = 10.35,
-					["PartialResist"] = {
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-					},
-					["PartialAbsorb"] = {
-						["Mortal Strike"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Interrupts"] = 0,
-					["TimeSpent"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 2.62,
-								},
-								["Frostbolt"] = {
-									["count"] = 6.55,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0.25,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.9300000000000001,
-								},
-							},
-							["amount"] = 10.35,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["Overhealing"] = 0,
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Bloodworm <Broxegar>"] = {
-							["Details"] = {
-								["Blood Burst"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["CCBroken"] = {
-					},
-					["DamagedWho"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 80449,
-								},
-								["Frostbolt"] = {
-									["count"] = 67882,
-								},
-								["Frost Bomb"] = {
-									["count"] = 35468,
-								},
-								["Ice Lance"] = {
-									["count"] = 34427,
-								},
-							},
-							["amount"] = 218226,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 41314,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 80449,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 80449,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 35468,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 35468,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 35468,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 34427,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 34427,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 34427,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 34737,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 67882,
-								},
-								["Miss"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 67882,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 10.35,
-					["TimeDamaging"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 2.62,
-								},
-								["Frostbolt"] = {
-									["count"] = 6.55,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0.25,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.9300000000000001,
-								},
-							},
-							["amount"] = 10.35,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["HOTs"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["Ressed"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["DOTs"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 14602,
-					["ElementDoneAbsorb"] = {
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["Damage"] = 158314,
-					["ElementTaken"] = {
-						["Physical"] = 7323,
-						["Frost"] = 0,
-						["Melee"] = 7279,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 4464,
-					["RageGained"] = {
-					},
-					["FAttacks"] = {
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 46021,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 8464,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 62349,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19578,
-								},
-								["Ice Lance"] = {
-									["count"] = 21902,
-								},
-							},
-							["amount"] = 158314,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 130272,
-						["Shadow"] = 8464,
-						["Melee"] = 0,
-						["Frostfire"] = 19578,
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 7279,
-								},
-								["Backhand"] = {
-									["count"] = 7323,
-								},
-							},
-							["amount"] = 14602,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Emperor's Brand"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 4000,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 4000,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4000,
-						},
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 4464,
-								},
-							},
-							["amount"] = 4464,
-						},
-					},
-					["FDamage"] = 0,
-					["CCBreak"] = 0,
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["Interrupts"] = 0,
-					["WhoDispelled"] = {
-					},
-					["Overhealing"] = 4000,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ActiveTime"] = 12.35,
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 4464,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 4464,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4464,
-						},
-					},
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.8,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.12,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 8.49,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.94,
-								},
-							},
-							["amount"] = 12.35,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGained"] = {
-					},
-					["Dispelled"] = 0,
-					["Healing"] = 4464,
-					["ManaGainedFrom"] = {
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 4464,
-								},
-							},
-							["amount"] = 4464,
-						},
-					},
-					["Attacks"] = {
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 46021,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 46021,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 46021,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8464,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 8464,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 8464,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 16803,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 16803,
-								},
-								["Crit"] = {
-									["max"] = 45546,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 45546,
-								},
-								["Miss"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 62349,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 19139,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 21902,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 21902,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 19578,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 19578,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 19578,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 12.35,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.8,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.12,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 8.49,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.94,
-								},
-							},
-							["amount"] = 12.35,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["Fight1"] = {
-					["Ressed"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["DOTs"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementDoneResist"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-								["Absorb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 14602,
-					["ElementDoneAbsorb"] = {
-					},
-					["Absorbs"] = 0,
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["Damage"] = 158314,
-					["ElementTaken"] = {
-						["Physical"] = 7323,
-						["Frost"] = 0,
-						["Melee"] = 7279,
-						["Nature"] = 0,
-					},
-					["DOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["HealingTaken"] = 4464,
-					["RageGained"] = {
-					},
-					["FAttacks"] = {
-					},
-					["DamagedWho"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 46021,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 8464,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 62349,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19578,
-								},
-								["Ice Lance"] = {
-									["count"] = 21902,
-								},
-							},
-							["amount"] = 158314,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 130272,
-						["Shadow"] = 8464,
-						["Melee"] = 0,
-						["Frostfire"] = 19578,
-					},
-					["RunicPowerGained"] = {
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 6,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["WhoDamaged"] = {
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Snowball"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 7279,
-								},
-								["Backhand"] = {
-									["count"] = 7323,
-								},
-							},
-							["amount"] = 14602,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Emperor's Brand"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 0,
-								},
-								["Charge"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Mortal Strike"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 4000,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 4000,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4000,
-						},
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 4464,
-								},
-							},
-							["amount"] = 4464,
-						},
-					},
-					["FDamage"] = 0,
-					["CCBreak"] = 0,
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["Interrupts"] = 0,
-					["WhoDispelled"] = {
-					},
-					["Overhealing"] = 4000,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ActiveTime"] = 12.35,
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 4464,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 4464,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4464,
-						},
-					},
-					["TimeSpent"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.8,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.12,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 8.49,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.94,
-								},
-							},
-							["amount"] = 12.35,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGained"] = {
-					},
-					["Dispelled"] = 0,
-					["Healing"] = 4464,
-					["ManaGainedFrom"] = {
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 4464,
-								},
-							},
-							["amount"] = 4464,
-						},
-					},
-					["Attacks"] = {
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 46021,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 46021,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 46021,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8464,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 8464,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 8464,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 16803,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 16803,
-								},
-								["Crit"] = {
-									["max"] = 45546,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 45546,
-								},
-								["Miss"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 62349,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 19139,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 21902,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 21902,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 19578,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 19578,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 19578,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 0,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 12.35,
-					["TimeDamaging"] = {
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Cone of Cold"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.8,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.12,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 8.49,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.94,
-								},
-							},
-							["amount"] = 12.35,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frostbolt"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["PartialBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["ElementHitsTaken"] = {
-						["Physical"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 9,
-								},
-								["Hit"] = {
-									["count"] = 30,
-								},
-							},
-							["amount"] = 39,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 16,
-								},
-								["Hit"] = {
-									["count"] = 111,
-								},
-								["Dodge"] = {
-									["count"] = 6,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Miss"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 137,
-						},
-						["Frost"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 18,
-								},
-								["Hit"] = {
-									["count"] = 79,
-								},
-								["Miss"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 102,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 3,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 22,
-								},
-							},
-							["amount"] = 26,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 8,
-								},
-								["Absorb"] = {
-									["count"] = 7,
-								},
-								["Miss"] = {
-									["count"] = 3,
-								},
-								["Tick"] = {
-									["count"] = 27,
-								},
-							},
-							["amount"] = 45,
-						},
-						["Nature"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 9,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 10,
-						},
-					},
-					["HealedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 333791,
-								},
-								["Evocation"] = {
-									["count"] = 191568,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 167953,
-								},
-							},
-							["amount"] = 693312,
-						},
-					},
-					["Absorbs"] = 333791,
-					["DeathCount"] = 1,
-					["Overhealing"] = 71132,
-					["ElementTaken"] = {
-						["Physical"] = 288987,
-						["Melee"] = 588117,
-						["Frost"] = 380826,
-						["Fire"] = 73654,
-						["Shadow"] = 108287,
-						["Nature"] = 24282,
-					},
-					["HOTs"] = {
-						["Evocation"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["count"] = 21,
-								},
-							},
-							["amount"] = 21,
-						},
-					},
-					["Damage"] = 12935722,
-					["TimeHeal"] = 17.04000000000001,
-					["ShieldedWho"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Ice Barrier"] = {
-									["count"] = 11,
-								},
-							},
-							["amount"] = 11,
-						},
-					},
-					["ElementDone"] = {
-						["Frost"] = 10648854,
-						["Shadow"] = 246561,
-						["Melee"] = 13274,
-						["Frostfire"] = 2027033,
-					},
-					["ElementHitsDone"] = {
-						["Frost"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 333,
-								},
-								["Crit"] = {
-									["count"] = 190,
-								},
-								["Miss"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 530,
-						},
-						["Shadow"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 32,
-								},
-							},
-							["amount"] = 32,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Frostfire"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 43,
-								},
-								["Hit"] = {
-									["count"] = 16,
-								},
-							},
-							["amount"] = 59,
-						},
-					},
-					["WhoDamaged"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 29801,
-								},
-								["Bind Spirit (DoT)"] = {
-									["count"] = 41448,
-								},
-							},
-							["amount"] = 71249,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Reclaim Strength"] = {
-									["count"] = 8429,
-								},
-								["Wild Magics"] = {
-									["count"] = 12711,
-								},
-							},
-							["amount"] = 21140,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 63432,
-								},
-								["Snowball"] = {
-									["count"] = 380826,
-								},
-							},
-							["amount"] = 444258,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Tormentor's Slash"] = {
-									["count"] = 34735,
-								},
-								["Melee"] = {
-									["count"] = 17787,
-								},
-							},
-							["amount"] = 52522,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 121141,
-								},
-								["Petrifying Strike"] = {
-									["count"] = 37396,
-								},
-							},
-							["amount"] = 158537,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 73541,
-								},
-							},
-							["amount"] = 73541,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Bind Spirit (DoT)"] = {
-									["count"] = 11947,
-								},
-								["Spirit Assault"] = {
-									["count"] = 5973,
-								},
-							},
-							["amount"] = 17920,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 12520,
-								},
-								["Wicked Blade"] = {
-									["count"] = 2629,
-								},
-							},
-							["amount"] = 15149,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 37298,
-								},
-							},
-							["amount"] = 37298,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 62705,
-								},
-								["Inflict Torment (DoT)"] = {
-									["count"] = 11055,
-								},
-							},
-							["amount"] = 73760,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3094,
-								},
-							},
-							["amount"] = 3094,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Backhand"] = {
-									["count"] = 21455,
-								},
-								["Melee"] = {
-									["count"] = 14708,
-								},
-							},
-							["amount"] = 36163,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Ground Slam"] = {
-									["count"] = 4302,
-								},
-								["Charge"] = {
-									["count"] = 4456,
-								},
-								["Melee"] = {
-									["count"] = 29910,
-								},
-								["Mortal Strike"] = {
-									["count"] = 26586,
-								},
-							},
-							["amount"] = 65254,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 7288,
-								},
-							},
-							["amount"] = 7288,
-						},
-						["No One"] = {
-							["Details"] = {
-								["Emperor's Brand"] = {
-									["count"] = 29313,
-								},
-							},
-							["amount"] = 29313,
-						},
-						["Environment"] = {
-							["Details"] = {
-								["Falling"] = {
-									["count"] = 104945,
-								},
-								["Fire"] = {
-									["count"] = 113,
-								},
-							},
-							["amount"] = 105058,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 21824,
-								},
-							},
-							["amount"] = 21824,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 83564,
-								},
-								["Jade Lightning (DoT)"] = {
-									["count"] = 24282,
-								},
-							},
-							["amount"] = 107846,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 36148,
-								},
-							},
-							["amount"] = 36148,
-						},
-						["Zandalari Nomad"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 45154,
-								},
-								["Club"] = {
-									["count"] = 15377,
-								},
-							},
-							["amount"] = 60531,
-						},
-						["Auburn Rascal"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 1743,
-								},
-								["Little Scamp"] = {
-									["count"] = 7793,
-								},
-							},
-							["amount"] = 9536,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Shadow Bolt"] = {
-									["count"] = 16724,
-								},
-							},
-							["amount"] = 16724,
-						},
-					},
-					["Absorbed"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["max"] = 34124,
-									["min"] = 5526,
-									["count"] = 11,
-									["amount"] = 333791,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 333791,
-						},
-					},
-					["TimeHealing"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 4.630000000000001,
-								},
-								["Evocation"] = {
-									["count"] = 12.41,
-								},
-							},
-							["amount"] = 17.04000000000001,
-						},
-					},
-					["OverHeals"] = {
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8343,
-									["min"] = 3018,
-									["count"] = 12,
-									["amount"] = 71132,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 71132,
-						},
-					},
-					["PartialResist"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 102,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 102,
-							["amount"] = 0,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Club"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 19,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 19,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 0,
-						},
-						["Reclaim Strength"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Little Scamp"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Petrifying Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Wild Magics"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 137,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 137,
-							["amount"] = 0,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 17,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 0,
-						},
-						["Shadow Bolt"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-						["Bind Spirit"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Evocation"] = {
-							["Details"] = {
-								["Eammiran"] = {
-									["count"] = 6400,
-								},
-							},
-							["amount"] = 6400,
-						},
-					},
-					["ElementTakenAbsorb"] = {
-						["Physical"] = 85793,
-						["Melee"] = 116066,
-						["Fire"] = 17007,
-						["Frost"] = 100488,
-						["Shadow"] = 13816,
-					},
-					["ActiveTime"] = 738.3000000000002,
-					["InterruptData"] = {
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Healing Wave (Counterspell)"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 1,
-						},
-					},
-					["Heals"] = {
-						["Ice Barrier"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["max"] = 34124,
-									["min"] = 5526,
-									["count"] = 11,
-									["amount"] = 333791,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 333791,
-						},
-						["Evocation"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 27367,
-									["min"] = 27366,
-									["count"] = 7,
-									["amount"] = 191568,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 191568,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8335,
-									["min"] = 1558,
-									["count"] = 24,
-									["amount"] = 167953,
-								},
-							},
-							["count"] = 24,
-							["amount"] = 167953,
-						},
-					},
-					["DamagedWho"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 78385,
-								},
-								["Frostbolt"] = {
-									["count"] = 16688,
-								},
-								["Frost Bomb"] = {
-									["count"] = 92040,
-								},
-								["Ice Lance"] = {
-									["count"] = 17009,
-								},
-							},
-							["amount"] = 204122,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 136116,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 8683,
-								},
-								["Ice Lance"] = {
-									["count"] = 75462,
-								},
-								["Frost Nova"] = {
-									["count"] = 2343,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 88148,
-								},
-								["Frozen Orb"] = {
-									["count"] = 86408,
-								},
-							},
-							["amount"] = 397160,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 2365,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 39676,
-								},
-								["Frostbolt"] = {
-									["count"] = 257072,
-								},
-								["Frozen Orb"] = {
-									["count"] = 736085,
-								},
-								["Frost Bomb"] = {
-									["count"] = 1183818,
-								},
-								["Frost Nova"] = {
-									["count"] = 23993,
-								},
-								["Ice Lance"] = {
-									["count"] = 437882,
-								},
-								["Cone of Cold"] = {
-									["count"] = 3186,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 329683,
-								},
-							},
-							["amount"] = 3013760,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 461209,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 16501,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 256615,
-								},
-								["Frostbolt"] = {
-									["count"] = 369146,
-								},
-								["Ice Lance"] = {
-									["count"] = 121032,
-								},
-								["Frost Nova"] = {
-									["count"] = 2247,
-								},
-							},
-							["amount"] = 1226750,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 82640,
-								},
-								["Frost Bomb"] = {
-									["count"] = 191263,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 16577,
-								},
-								["Frost Nova"] = {
-									["count"] = 4404,
-								},
-								["Frostbolt"] = {
-									["count"] = 50806,
-								},
-								["Cone of Cold"] = {
-									["count"] = 9740,
-								},
-								["Ice Lance"] = {
-									["count"] = 49238,
-								},
-							},
-							["amount"] = 404668,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 549612,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 31091,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 253109,
-								},
-								["Frostbolt"] = {
-									["count"] = 447056,
-								},
-								["Blizzard"] = {
-									["count"] = 16509,
-								},
-								["Ice Lance"] = {
-									["count"] = 63662,
-								},
-							},
-							["amount"] = 1361039,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 33487,
-								},
-								["Frostbolt"] = {
-									["count"] = 71620,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19338,
-								},
-							},
-							["amount"] = 124445,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 255017,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 7642,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 80681,
-								},
-								["Frostbolt"] = {
-									["count"] = 215139,
-								},
-								["Ice Lance"] = {
-									["count"] = 23560,
-								},
-							},
-							["amount"] = 582039,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 19131,
-								},
-								["Frost Bomb"] = {
-									["count"] = 68057,
-								},
-								["Frozen Orb"] = {
-									["count"] = 53515,
-								},
-							},
-							["amount"] = 140703,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 170811,
-								},
-								["Frost Bomb"] = {
-									["count"] = 699294,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 33086,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 339019,
-								},
-								["Frostbolt"] = {
-									["count"] = 529729,
-								},
-								["Frost Nova"] = {
-									["count"] = 4465,
-								},
-								["Frozen Orb"] = {
-									["count"] = 46935,
-								},
-							},
-							["amount"] = 1823339,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 18743,
-								},
-								["Frost Nova"] = {
-									["count"] = 2356,
-								},
-								["Frost Bomb"] = {
-									["count"] = 42857,
-								},
-								["Frozen Orb"] = {
-									["count"] = 70106,
-								},
-							},
-							["amount"] = 134062,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 62949,
-								},
-								["Frost Bomb"] = {
-									["count"] = 271651,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 22540,
-								},
-								["Frost Nova"] = {
-									["count"] = 4697,
-								},
-								["Frostbolt"] = {
-									["count"] = 325293,
-								},
-								["Cone of Cold"] = {
-									["count"] = 6878,
-								},
-								["Ice Lance"] = {
-									["count"] = 2948,
-								},
-							},
-							["amount"] = 696956,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 245796,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 7405,
-								},
-								["Ice Lance"] = {
-									["count"] = 59564,
-								},
-								["Frostbolt"] = {
-									["count"] = 65791,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 136717,
-								},
-								["Frost Nova"] = {
-									["count"] = 4306,
-								},
-							},
-							["amount"] = 519579,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 2200,
-								},
-								["Frost Bomb"] = {
-									["count"] = 152426,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 15994,
-								},
-								["Ice Lance"] = {
-									["count"] = 49047,
-								},
-								["Frostbolt"] = {
-									["count"] = 194291,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 100236,
-								},
-								["Frozen Orb"] = {
-									["count"] = 61009,
-								},
-							},
-							["amount"] = 575203,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 70937,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 7758,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 60637,
-								},
-								["Frostbolt"] = {
-									["count"] = 142430,
-								},
-								["Frost Nova"] = {
-									["count"] = 4410,
-								},
-								["Ice Lance"] = {
-									["count"] = 17594,
-								},
-							},
-							["amount"] = 303766,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 226289,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 16185,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19310,
-								},
-								["Ice Lance"] = {
-									["count"] = 101201,
-								},
-								["Frost Nova"] = {
-									["count"] = 17360,
-								},
-								["Frozen Orb"] = {
-									["count"] = 256768,
-								},
-							},
-							["amount"] = 637113,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 6524,
-								},
-								["Melee"] = {
-									["count"] = 10909,
-								},
-								["Frozen Orb"] = {
-									["count"] = 31083,
-								},
-							},
-							["amount"] = 48516,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 100336,
-								},
-								["Frost Bomb"] = {
-									["count"] = 88672,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 15146,
-								},
-								["Frost Nova"] = {
-									["count"] = 1091,
-								},
-								["Frostbolt"] = {
-									["count"] = 230053,
-								},
-								["Ice Lance"] = {
-									["count"] = 107168,
-								},
-								["Frozen Orb"] = {
-									["count"] = 13124,
-								},
-							},
-							["amount"] = 555590,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 70627,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 8277,
-								},
-								["Ice Lance"] = {
-									["count"] = 17946,
-								},
-								["Frostbolt"] = {
-									["count"] = 70832,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 19230,
-								},
-							},
-							["amount"] = 186912,
-						},
-					},
-					["WhoHealed"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 167953,
-								},
-								["Evocation"] = {
-									["count"] = 191568,
-								},
-							},
-							["amount"] = 359521,
-						},
-						["Bloodworm <Broxegar>"] = {
-							["Details"] = {
-								["Blood Burst"] = {
-									["count"] = 256,
-								},
-							},
-							["amount"] = 256,
-						},
-					},
-					["Interrupts"] = 1,
-					["Healing"] = 359521,
-					["TimeSpent"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 1.95,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Frost Bomb"] = {
-									["count"] = 1.08,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 10.03,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 4.37,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.67,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.98,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.98,
-								},
-								["Frozen Orb"] = {
-									["count"] = 1.53,
-								},
-							},
-							["amount"] = 9.530000000000001,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3.5,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.79,
-								},
-								["Frostbolt"] = {
-									["count"] = 26.22,
-								},
-								["Frozen Orb"] = {
-									["count"] = 11.88,
-								},
-								["Frost Bomb"] = {
-									["count"] = 26.17,
-								},
-								["Deep Freeze"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.67,
-								},
-								["Ice Lance"] = {
-									["count"] = 26.25,
-								},
-								["Cone of Cold"] = {
-									["count"] = 2.07,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 21.06,
-								},
-							},
-							["amount"] = 119.61,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 10.74,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.82,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 15.79,
-								},
-								["Frostbolt"] = {
-									["count"] = 40.79,
-								},
-								["Ice Lance"] = {
-									["count"] = 9.17,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 77.74999999999999,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 3.5,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.41,
-								},
-								["Frost Bomb"] = {
-									["count"] = 1.04,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.5600000000000001,
-								},
-								["Frost Nova"] = {
-									["count"] = 3.5,
-								},
-								["Frostbolt"] = {
-									["count"] = 2.59,
-								},
-								["Cone of Cold"] = {
-									["count"] = 2.45,
-								},
-								["Ice Lance"] = {
-									["count"] = 4.91,
-								},
-							},
-							["amount"] = 20.96,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 18.47,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.54,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 9.140000000000001,
-								},
-								["Frostbolt"] = {
-									["count"] = 30.68,
-								},
-								["Blizzard"] = {
-									["count"] = 5.1,
-								},
-								["Ice Lance"] = {
-									["count"] = 8.65,
-								},
-							},
-							["amount"] = 73.58,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2.92,
-								},
-								["Frostbolt"] = {
-									["count"] = 9.98,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 16.4,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 9.609999999999999,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.34,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.58,
-								},
-								["Frostbolt"] = {
-									["count"] = 18.23,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.85,
-								},
-							},
-							["amount"] = 32.61,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 9.450000000000001,
-								},
-								["Frost Bomb"] = {
-									["count"] = 12.97,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.36,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 15.72,
-								},
-								["Frostbolt"] = {
-									["count"] = 53.64999999999999,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.8100000000000001,
-								},
-								["Frozen Orb"] = {
-									["count"] = 6.9,
-								},
-							},
-							["amount"] = 100.86,
-						},
-						["Eammiran"] = {
-							["Details"] = {
-								["Touch of the Grave"] = {
-									["count"] = 4.630000000000001,
-								},
-								["Evocation"] = {
-									["count"] = 12.41,
-								},
-							},
-							["amount"] = 17.04000000000001,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1.2,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 8.010000000000002,
-								},
-							},
-							["amount"] = 9.210000000000001,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 3.5,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 3.17,
-								},
-								["Frost Bomb"] = {
-									["count"] = 7.95,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.76,
-								},
-								["Frost Nova"] = {
-									["count"] = 2.4,
-								},
-								["Frostbolt"] = {
-									["count"] = 17.86,
-								},
-								["Cone of Cold"] = {
-									["count"] = 5.859999999999999,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 46.00000000000001,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.46,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.51,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.65,
-								},
-								["Frostbolt"] = {
-									["count"] = 5.47,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.83,
-								},
-							},
-							["amount"] = 7.92,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 1.13,
-								},
-								["Frost Bomb"] = {
-									["count"] = 3.72,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.84,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.66,
-								},
-								["Frostbolt"] = {
-									["count"] = 14.79,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.74,
-								},
-								["Frozen Orb"] = {
-									["count"] = 5.98,
-								},
-							},
-							["amount"] = 32.86,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 3.51,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.6,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.01,
-								},
-								["Frostbolt"] = {
-									["count"] = 15.92,
-								},
-								["Frost Nova"] = {
-									["count"] = 7,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.57,
-								},
-							},
-							["amount"] = 30.61,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 7.3,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.35,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.3,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.38,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 13.44,
-								},
-							},
-							["amount"] = 25.77,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 3.5,
-								},
-								["Melee"] = {
-									["count"] = 14,
-								},
-								["Frozen Orb"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 21,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 3.67,
-								},
-								["Frost Bomb"] = {
-									["count"] = 3.71,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.47,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.27,
-								},
-								["Frostbolt"] = {
-									["count"] = 31.08,
-								},
-								["Ice Lance"] = {
-									["count"] = 6.779999999999999,
-								},
-								["Frozen Orb"] = {
-									["count"] = 1.95,
-								},
-							},
-							["amount"] = 48.93,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 12.83,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.16,
-								},
-								["Ice Lance"] = {
-									["count"] = 4.64,
-								},
-								["Frostbolt"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 10.14,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 37.63,
-						},
-					},
-					["DamageTaken"] = 1464153,
-					["Attacks"] = {
-						["Frost Bomb"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 46021,
-									["min"] = 17406,
-									["count"] = 58,
-									["amount"] = 1782251,
-								},
-								["Crit"] = {
-									["max"] = 104582,
-									["min"] = 34813,
-									["count"] = 42,
-									["amount"] = 3023430,
-								},
-								["Miss"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 101,
-							["amount"] = 4805681,
-						},
-						["Touch of the Grave"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8683,
-									["min"] = 3715,
-									["count"] = 32,
-									["amount"] = 246561,
-								},
-							},
-							["count"] = 32,
-							["amount"] = 246561,
-						},
-						["Blizzard"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 5503,
-									["min"] = 5503,
-									["count"] = 1,
-									["amount"] = 5503,
-								},
-								["Hit"] = {
-									["max"] = 2752,
-									["min"] = 2751,
-									["count"] = 4,
-									["amount"] = 11006,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 16509,
-						},
-						["Frostbolt"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 53347,
-									["min"] = 18215,
-									["count"] = 40,
-									["amount"] = 1547495,
-								},
-								["Hit"] = {
-									["max"] = 23172,
-									["min"] = 8782,
-									["count"] = 82,
-									["amount"] = 1438451,
-								},
-							},
-							["count"] = 125,
-							["amount"] = 2985946,
-						},
-						["Frozen Orb"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 16040,
-									["min"] = 10196,
-									["count"] = 56,
-									["amount"] = 711335,
-								},
-								["Hit"] = {
-									["max"] = 7225,
-									["min"] = 2653,
-									["count"] = 122,
-									["amount"] = 643698,
-								},
-							},
-							["count"] = 178,
-							["amount"] = 1355033,
-						},
-						["Chilled"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Frost Nova"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4697,
-									["min"] = 4306,
-									["count"] = 4,
-									["amount"] = 17693,
-								},
-								["Hit"] = {
-									["max"] = 2356,
-									["min"] = 1091,
-									["count"] = 29,
-									["amount"] = 62703,
-								},
-							},
-							["count"] = 33,
-							["amount"] = 80396,
-						},
-						["Deep Freeze"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ice Lance"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 38230,
-									["min"] = 4873,
-									["count"] = 46,
-									["amount"] = 1057599,
-								},
-								["Hit"] = {
-									["max"] = 20000,
-									["min"] = 1218,
-									["count"] = 34,
-									["amount"] = 327886,
-								},
-							},
-							["count"] = 80,
-							["amount"] = 1385485,
-						},
-						["Frostfire Bolt"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 45263,
-									["min"] = 19679,
-									["count"] = 43,
-									["amount"] = 1719302,
-								},
-								["Hit"] = {
-									["max"] = 20978,
-									["min"] = 14761,
-									["count"] = 16,
-									["amount"] = 307731,
-								},
-							},
-							["count"] = 59,
-							["amount"] = 2027033,
-						},
-						["Cone of Cold"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 6493,
-									["min"] = 6493,
-									["count"] = 1,
-									["amount"] = 6493,
-								},
-								["Hit"] = {
-									["max"] = 3439,
-									["min"] = 3186,
-									["count"] = 4,
-									["amount"] = 13311,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 19804,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4529,
-									["min"] = 4529,
-									["count"] = 1,
-									["amount"] = 4529,
-								},
-								["Hit"] = {
-									["max"] = 2423,
-									["min"] = 1796,
-									["count"] = 4,
-									["amount"] = 8745,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 13274,
-						},
-					},
-					["HealingTaken"] = 359777,
-					["PartialAbsorb"] = {
-						["Ground Slam"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Charge"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1947,
-									["min"] = 1777,
-									["count"] = 2,
-									["amount"] = 3724,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 3724,
-						},
-						["Wicked Blade"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 8601,
-									["min"] = 6724,
-									["count"] = 3,
-									["amount"] = 23054,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 23054,
-						},
-						["Snowball"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 81,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 4962,
-									["min"] = 3724,
-									["count"] = 21,
-									["amount"] = 100488,
-								},
-							},
-							["count"] = 102,
-							["amount"] = 100488,
-						},
-						["Mortal Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 10264,
-									["min"] = 8001,
-									["count"] = 2,
-									["amount"] = 18265,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 18265,
-						},
-						["Club"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Bind Spirit (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 19,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 19,
-							["amount"] = 0,
-						},
-						["Inflict Torment"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 1382,
-									["min"] = 1381,
-									["count"] = 4,
-									["amount"] = 5526,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 5526,
-						},
-						["Reclaim Strength"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Inflict Torment (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Little Scamp"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Petrifying Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 5,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 7864,
-									["min"] = 1576,
-									["count"] = 3,
-									["amount"] = 16784,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 16784,
-						},
-						["Tormentor's Slash"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Wild Magics"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 119,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 14846,
-									["min"] = 522,
-									["count"] = 18,
-									["amount"] = 116066,
-								},
-							},
-							["count"] = 137,
-							["amount"] = 116066,
-						},
-						["Spirit Assault"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Lava Burst"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 14,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 5827,
-									["min"] = 5354,
-									["count"] = 3,
-									["amount"] = 17007,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 17007,
-						},
-						["Shadow Bolt"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Falling"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Jade Lightning (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-						["Fire"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-						["Bind Spirit"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 2764,
-									["min"] = 2763,
-									["count"] = 3,
-									["amount"] = 8290,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 8290,
-						},
-						["Jade Lightning"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-						["Ground Smash"] = {
-							["Details"] = {
-								["Absorbed"] = {
-									["max"] = 4187,
-									["min"] = 4187,
-									["count"] = 1,
-									["amount"] = 4187,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 4187,
-						},
-						["Emperor's Brand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Absorbed"] = {
-									["max"] = 19779,
-									["min"] = 19779,
-									["count"] = 1,
-									["amount"] = 19779,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 19779,
-						},
-						["Backhand"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 721.2600000000003,
-					["TimeDamaging"] = {
-						["Zandalari Shadow-Hunter"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 1.95,
-								},
-								["Frostbolt"] = {
-									["count"] = 3.5,
-								},
-								["Frost Bomb"] = {
-									["count"] = 1.08,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 10.03,
-						},
-						["Reclaimer Zuan"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 4.37,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.67,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.98,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.98,
-								},
-								["Frozen Orb"] = {
-									["count"] = 1.53,
-								},
-							},
-							["amount"] = 9.530000000000001,
-						},
-						["Mischievous Snow Sprite"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 3.5,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.79,
-								},
-								["Frostbolt"] = {
-									["count"] = 26.22,
-								},
-								["Frozen Orb"] = {
-									["count"] = 11.88,
-								},
-								["Frost Bomb"] = {
-									["count"] = 26.17,
-								},
-								["Deep Freeze"] = {
-									["count"] = 0,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.67,
-								},
-								["Ice Lance"] = {
-									["count"] = 26.25,
-								},
-								["Cone of Cold"] = {
-									["count"] = 2.07,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 21.06,
-								},
-							},
-							["amount"] = 119.61,
-						},
-						["Tormented Spirit"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 10.74,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.82,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 15.79,
-								},
-								["Frostbolt"] = {
-									["count"] = 40.79,
-								},
-								["Ice Lance"] = {
-									["count"] = 9.17,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 77.74999999999999,
-						},
-						["Terracotta Defender"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 3.5,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.41,
-								},
-								["Frost Bomb"] = {
-									["count"] = 1.04,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.5600000000000001,
-								},
-								["Frost Nova"] = {
-									["count"] = 3.5,
-								},
-								["Frostbolt"] = {
-									["count"] = 2.59,
-								},
-								["Cone of Cold"] = {
-									["count"] = 2.45,
-								},
-								["Ice Lance"] = {
-									["count"] = 4.91,
-								},
-							},
-							["amount"] = 20.96,
-						},
-						["Ruqin Elder"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 18.47,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.54,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 9.140000000000001,
-								},
-								["Frostbolt"] = {
-									["count"] = 30.68,
-								},
-								["Blizzard"] = {
-									["count"] = 5.1,
-								},
-								["Ice Lance"] = {
-									["count"] = 8.65,
-								},
-							},
-							["amount"] = 73.58,
-						},
-						["Nakk'rakas"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 2.92,
-								},
-								["Frostbolt"] = {
-									["count"] = 9.98,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 16.4,
-						},
-						["Terracotta Champion"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 9.609999999999999,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.34,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.58,
-								},
-								["Frostbolt"] = {
-									["count"] = 18.23,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.85,
-								},
-							},
-							["amount"] = 32.61,
-						},
-						["Yachi"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Zandalari Warrior"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 9.450000000000001,
-								},
-								["Frost Bomb"] = {
-									["count"] = 12.97,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.36,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 15.72,
-								},
-								["Frostbolt"] = {
-									["count"] = 53.64999999999999,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.8100000000000001,
-								},
-								["Frozen Orb"] = {
-									["count"] = 6.9,
-								},
-							},
-							["amount"] = 100.86,
-						},
-						["Yao"] = {
-							["Details"] = {
-								["Ice Lance"] = {
-									["count"] = 1.2,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frost Bomb"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 8.010000000000002,
-								},
-							},
-							["amount"] = 9.210000000000001,
-						},
-						["Ruqin Infantry"] = {
-							["Details"] = {
-								["Chilled"] = {
-									["count"] = 3.5,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 3.17,
-								},
-								["Frost Bomb"] = {
-									["count"] = 7.95,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.76,
-								},
-								["Frost Nova"] = {
-									["count"] = 2.4,
-								},
-								["Frostbolt"] = {
-									["count"] = 17.86,
-								},
-								["Cone of Cold"] = {
-									["count"] = 5.859999999999999,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 46.00000000000001,
-						},
-						["General Sho Lien"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 12.83,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.16,
-								},
-								["Ice Lance"] = {
-									["count"] = 4.64,
-								},
-								["Frostbolt"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 10.14,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 37.63,
-						},
-						["Terracotta Gladiator"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 1.13,
-								},
-								["Frost Bomb"] = {
-									["count"] = 3.72,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.84,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.66,
-								},
-								["Frostbolt"] = {
-									["count"] = 14.79,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 2.74,
-								},
-								["Frozen Orb"] = {
-									["count"] = 5.98,
-								},
-							},
-							["amount"] = 32.86,
-						},
-						["Tomb Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 3.51,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.6,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 1.01,
-								},
-								["Frostbolt"] = {
-									["count"] = 15.92,
-								},
-								["Frost Nova"] = {
-									["count"] = 7,
-								},
-								["Ice Lance"] = {
-									["count"] = 2.57,
-								},
-							},
-							["amount"] = 30.61,
-						},
-						["Stone Guardian"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 7.3,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.35,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.3,
-								},
-								["Ice Lance"] = {
-									["count"] = 3.38,
-								},
-								["Frost Nova"] = {
-									["count"] = 0,
-								},
-								["Frozen Orb"] = {
-									["count"] = 13.44,
-								},
-							},
-							["amount"] = 25.77,
-						},
-						["Suspicious Snow Pile"] = {
-							["Details"] = {
-								["Frost Nova"] = {
-									["count"] = 3.5,
-								},
-								["Melee"] = {
-									["count"] = 14,
-								},
-								["Frozen Orb"] = {
-									["count"] = 3.5,
-								},
-							},
-							["amount"] = 21,
-						},
-						["Imperial Guard"] = {
-							["Details"] = {
-								["Frostfire Bolt"] = {
-									["count"] = 3.67,
-								},
-								["Frost Bomb"] = {
-									["count"] = 3.71,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 1.47,
-								},
-								["Frost Nova"] = {
-									["count"] = 0.27,
-								},
-								["Frostbolt"] = {
-									["count"] = 31.08,
-								},
-								["Ice Lance"] = {
-									["count"] = 6.779999999999999,
-								},
-								["Frozen Orb"] = {
-									["count"] = 1.95,
-								},
-							},
-							["amount"] = 48.93,
-						},
-						["Imperial Antiquator"] = {
-							["Details"] = {
-								["Frost Bomb"] = {
-									["count"] = 0.46,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 0.51,
-								},
-								["Ice Lance"] = {
-									["count"] = 0.65,
-								},
-								["Frostbolt"] = {
-									["count"] = 5.47,
-								},
-								["Frostfire Bolt"] = {
-									["count"] = 0.83,
-								},
-							},
-							["amount"] = 7.92,
-						},
-					},
-					["ManaGain"] = 6400,
-					["ManaGainedFrom"] = {
-						["Eammiran"] = {
-							["Details"] = {
-								["Evocation"] = {
-									["count"] = 6400,
-								},
-							},
-							["amount"] = 6400,
-						},
-					},
-					["HOT_Time"] = 21,
-				},
-			},
+			["LastActive"] = 1366946351,
+			["UnitLockout"] = 1366760055,
 			["DeathLogs"] = {
 				{
 					["MessageIncoming"] = {
@@ -17514,8 +6188,11612 @@ RecountPerCharDB = {
 					},
 				}, -- [1]
 			},
-			["UnitLockout"] = 1366760055,
-			["LastActive"] = 1366946351,
+			["level"] = 87,
+			["LastDamageAbility"] = "Backhand",
+			["LastFightIn"] = 47,
+			["LastEventNum"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				3.989260303396429, -- [15]
+				3.731507584910726, -- [16]
+				[30] = 4.545039602631226,
+				[31] = 3.908712578869647,
+				[33] = 3.932339911397503,
+				[40] = 4.480064438179621,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["Water Elemental"] = {
+					["LatestGuardian"] = 1,
+					["GUIDs"] = {
+						"0xF540C6FED1009BD7", -- [1]
+						[0] = "0xF540C6FED1009B4C",
+					},
+				},
+				["Frozen Orb"] = {
+					["LatestGuardian"] = 8,
+					["GUIDs"] = {
+						"0xF530B10A00312140", -- [1]
+						"0xF530B10A003128BF", -- [2]
+						"0xF530B10A0031422B", -- [3]
+						"0xF530B10A00314728", -- [4]
+						"0xF530B10A00315528", -- [5]
+						"0xF530B10A00317D93", -- [6]
+						"0xF530B10A00318EF6", -- [7]
+						"0xF530B10A0031AB04", -- [8]
+						[0] = "0xF530B10A0003A5D0",
+					},
+				},
+			},
+			["Fights"] = {
+				["OverallData"] = {
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 30,
+								},
+								["Absorb"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 39,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 16,
+								},
+								["Hit"] = {
+									["count"] = 111,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Dodge"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 137,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 18,
+								},
+								["Miss"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 79,
+								},
+							},
+							["amount"] = 102,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 22,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 26,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 27,
+								},
+								["Absorb"] = {
+									["count"] = 7,
+								},
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 45,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 333791,
+								},
+								["Evocation"] = {
+									["count"] = 191568,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 167953,
+								},
+							},
+							["amount"] = 693312,
+						},
+					},
+					["Absorbs"] = 333791,
+					["DeathCount"] = 1,
+					["Overhealing"] = 71132,
+					["ElementTaken"] = {
+						["Physical"] = 288987,
+						["Melee"] = 588117,
+						["Frost"] = 380826,
+						["Fire"] = 73654,
+						["Shadow"] = 108287,
+						["Nature"] = 24282,
+					},
+					["HOTs"] = {
+						["Evocation"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["Damage"] = 12935722,
+					["TimeHeal"] = 17.04000000000001,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["ElementDone"] = {
+						["Frostfire"] = 2027033,
+						["Frost"] = 10648854,
+						["Melee"] = 13274,
+						["Shadow"] = 246561,
+					},
+					["ElementHitsDone"] = {
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 43,
+								},
+								["Hit"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 59,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 190,
+								},
+								["Hit"] = {
+									["count"] = 333,
+								},
+							},
+							["amount"] = 530,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 32,
+						},
+					},
+					["WhoDamaged"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 29801,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 41448,
+								},
+							},
+							["amount"] = 71249,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Wild Magics"] = {
+									["count"] = 12711,
+								},
+								["Reclaim Strength"] = {
+									["count"] = 8429,
+								},
+							},
+							["amount"] = 21140,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 63432,
+								},
+								["Snowball"] = {
+									["count"] = 380826,
+								},
+							},
+							["amount"] = 444258,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Tormentor's Slash"] = {
+									["count"] = 34735,
+								},
+								["Melee"] = {
+									["count"] = 17787,
+								},
+							},
+							["amount"] = 52522,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 121141,
+								},
+								["Petrifying Strike"] = {
+									["count"] = 37396,
+								},
+							},
+							["amount"] = 158537,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 73541,
+								},
+							},
+							["amount"] = 73541,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Spirit Assault"] = {
+									["count"] = 5973,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 11947,
+								},
+							},
+							["amount"] = 17920,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12520,
+								},
+								["Wicked Blade"] = {
+									["count"] = 2629,
+								},
+							},
+							["amount"] = 15149,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 16724,
+								},
+							},
+							["amount"] = 16724,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 62705,
+								},
+								["Inflict Torment (DoT)"] = {
+									["count"] = 11055,
+								},
+							},
+							["amount"] = 73760,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3094,
+								},
+							},
+							["amount"] = 3094,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Backhand"] = {
+									["count"] = 21455,
+								},
+								["Melee"] = {
+									["count"] = 14708,
+								},
+							},
+							["amount"] = 36163,
+						},
+						["Zandalari Nomad"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 45154,
+								},
+								["Club"] = {
+									["count"] = 15377,
+								},
+							},
+							["amount"] = 60531,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7288,
+								},
+							},
+							["amount"] = 7288,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 4302,
+								},
+								["Charge"] = {
+									["count"] = 4456,
+								},
+								["Melee"] = {
+									["count"] = 29910,
+								},
+								["Mortal Strike"] = {
+									["count"] = 26586,
+								},
+							},
+							["amount"] = 65254,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 83564,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 24282,
+								},
+							},
+							["amount"] = 107846,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21824,
+								},
+							},
+							["amount"] = 21824,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 104945,
+								},
+								["Fire"] = {
+									["count"] = 113,
+								},
+							},
+							["amount"] = 105058,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 36148,
+								},
+							},
+							["amount"] = 36148,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Emperor's Brand"] = {
+									["count"] = 29313,
+								},
+							},
+							["amount"] = 29313,
+						},
+						["Auburn Rascal"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1743,
+								},
+								["Little Scamp"] = {
+									["count"] = 7793,
+								},
+							},
+							["amount"] = 9536,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 37298,
+								},
+							},
+							["amount"] = 37298,
+						},
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 34124,
+									["min"] = 5526,
+									["count"] = 11,
+									["amount"] = 333791,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 333791,
+						},
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 12.41,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 4.630000000000001,
+								},
+							},
+							["amount"] = 17.04000000000001,
+						},
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8343,
+									["min"] = 3018,
+									["count"] = 12,
+									["amount"] = 71132,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 71132,
+						},
+					},
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 102,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 102,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Reclaim Strength"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Little Scamp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Petrifying Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Wild Magics"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Bind Spirit"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 17,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 137,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 137,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Evocation"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["count"] = 6400,
+								},
+							},
+							["amount"] = 6400,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 85793,
+						["Melee"] = 116066,
+						["Fire"] = 17007,
+						["Shadow"] = 13816,
+						["Frost"] = 100488,
+					},
+					["ActiveTime"] = 738.3000000000002,
+					["InterruptData"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Healing Wave (Counterspell)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 34124,
+									["min"] = 5526,
+									["count"] = 11,
+									["amount"] = 333791,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 333791,
+						},
+						["Evocation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 27367,
+									["min"] = 27366,
+									["count"] = 7,
+									["amount"] = 191568,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 191568,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8335,
+									["min"] = 1558,
+									["count"] = 24,
+									["amount"] = 167953,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 167953,
+						},
+					},
+					["HOT_Time"] = 21,
+					["ManaGainedFrom"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 6400,
+								},
+							},
+							["amount"] = 6400,
+						},
+					},
+					["Interrupts"] = 1,
+					["Healing"] = 359521,
+					["TimeSpent"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 1.95,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 1.08,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 10.03,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 4.37,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.67,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.98,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.98,
+								},
+								["Frozen Orb"] = {
+									["count"] = 1.53,
+								},
+							},
+							["amount"] = 9.530000000000001,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.79,
+								},
+								["Frostbolt"] = {
+									["count"] = 26.22,
+								},
+								["Frozen Orb"] = {
+									["count"] = 11.88,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 21.06,
+								},
+								["Deep Freeze"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.67,
+								},
+								["Ice Lance"] = {
+									["count"] = 26.25,
+								},
+								["Cone of Cold"] = {
+									["count"] = 2.07,
+								},
+								["Frost Bomb"] = {
+									["count"] = 26.17,
+								},
+							},
+							["amount"] = 119.61,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 10.74,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.82,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 15.79,
+								},
+								["Frostbolt"] = {
+									["count"] = 40.79,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.44,
+								},
+								["Ice Lance"] = {
+									["count"] = 9.17,
+								},
+							},
+							["amount"] = 77.74999999999999,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 4.91,
+								},
+								["Frost Bomb"] = {
+									["count"] = 1.04,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.5600000000000001,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.41,
+								},
+								["Frostbolt"] = {
+									["count"] = 2.59,
+								},
+								["Cone of Cold"] = {
+									["count"] = 2.45,
+								},
+								["Frost Nova"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 20.96,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 18.47,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.54,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 9.140000000000001,
+								},
+								["Frostbolt"] = {
+									["count"] = 30.68,
+								},
+								["Ice Lance"] = {
+									["count"] = 8.65,
+								},
+								["Blizzard"] = {
+									["count"] = 5.1,
+								},
+							},
+							["amount"] = 73.58,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2.92,
+								},
+								["Frostbolt"] = {
+									["count"] = 9.98,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 16.4,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 9.609999999999999,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.34,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.58,
+								},
+								["Frostbolt"] = {
+									["count"] = 18.23,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.85,
+								},
+							},
+							["amount"] = 32.61,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 15.72,
+								},
+								["Frost Bomb"] = {
+									["count"] = 12.97,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.36,
+								},
+								["Ice Lance"] = {
+									["count"] = 9.450000000000001,
+								},
+								["Frostbolt"] = {
+									["count"] = 53.64999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.8100000000000001,
+								},
+								["Frozen Orb"] = {
+									["count"] = 6.9,
+								},
+							},
+							["amount"] = 100.86,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 12.83,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.16,
+								},
+								["Ice Lance"] = {
+									["count"] = 4.64,
+								},
+								["Frostbolt"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 10.14,
+								},
+							},
+							["amount"] = 37.63,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1.2,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 8.010000000000002,
+								},
+							},
+							["amount"] = 9.210000000000001,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 7.95,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.76,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.17,
+								},
+								["Frostbolt"] = {
+									["count"] = 17.86,
+								},
+								["Cone of Cold"] = {
+									["count"] = 5.859999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 2.4,
+								},
+							},
+							["amount"] = 46.00000000000001,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.46,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.51,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.65,
+								},
+								["Frostbolt"] = {
+									["count"] = 5.47,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.83,
+								},
+							},
+							["amount"] = 7.92,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.66,
+								},
+								["Frost Bomb"] = {
+									["count"] = 3.72,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.84,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.13,
+								},
+								["Frostbolt"] = {
+									["count"] = 14.79,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.74,
+								},
+								["Frozen Orb"] = {
+									["count"] = 5.98,
+								},
+							},
+							["amount"] = 32.86,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 3.51,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.6,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.01,
+								},
+								["Frostbolt"] = {
+									["count"] = 15.92,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.57,
+								},
+								["Frost Nova"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 30.61,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 7.3,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.35,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.3,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.38,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 13.44,
+								},
+							},
+							["amount"] = 25.77,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Frozen Orb"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0.27,
+								},
+								["Frost Bomb"] = {
+									["count"] = 3.71,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.47,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.67,
+								},
+								["Frostbolt"] = {
+									["count"] = 31.08,
+								},
+								["Ice Lance"] = {
+									["count"] = 6.779999999999999,
+								},
+								["Frozen Orb"] = {
+									["count"] = 1.95,
+								},
+							},
+							["amount"] = 48.93,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 12.41,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 4.630000000000001,
+								},
+							},
+							["amount"] = 17.04000000000001,
+						},
+					},
+					["DamageTaken"] = 1464153,
+					["Attacks"] = {
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 104582,
+									["min"] = 34813,
+									["count"] = 42,
+									["amount"] = 3023430,
+								},
+								["Hit"] = {
+									["max"] = 46021,
+									["min"] = 17406,
+									["count"] = 58,
+									["amount"] = 1782251,
+								},
+							},
+							["count"] = 101,
+							["amount"] = 4805681,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8683,
+									["min"] = 3715,
+									["count"] = 32,
+									["amount"] = 246561,
+								},
+							},
+							["count"] = 32,
+							["amount"] = 246561,
+						},
+						["Blizzard"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5503,
+									["min"] = 5503,
+									["count"] = 1,
+									["amount"] = 5503,
+								},
+								["Hit"] = {
+									["max"] = 2752,
+									["min"] = 2751,
+									["count"] = 4,
+									["amount"] = 11006,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 16509,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 23172,
+									["min"] = 8782,
+									["count"] = 82,
+									["amount"] = 1438451,
+								},
+								["Crit"] = {
+									["max"] = 53347,
+									["min"] = 18215,
+									["count"] = 40,
+									["amount"] = 1547495,
+								},
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 125,
+							["amount"] = 2985946,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 16040,
+									["min"] = 10196,
+									["count"] = 56,
+									["amount"] = 711335,
+								},
+								["Hit"] = {
+									["max"] = 7225,
+									["min"] = 2653,
+									["count"] = 122,
+									["amount"] = 643698,
+								},
+							},
+							["count"] = 178,
+							["amount"] = 1355033,
+						},
+						["Chilled"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4529,
+									["min"] = 4529,
+									["count"] = 1,
+									["amount"] = 4529,
+								},
+								["Hit"] = {
+									["max"] = 2423,
+									["min"] = 1796,
+									["count"] = 4,
+									["amount"] = 8745,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 13274,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4697,
+									["min"] = 4306,
+									["count"] = 4,
+									["amount"] = 17693,
+								},
+								["Hit"] = {
+									["max"] = 2356,
+									["min"] = 1091,
+									["count"] = 29,
+									["amount"] = 62703,
+								},
+							},
+							["count"] = 33,
+							["amount"] = 80396,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 45263,
+									["min"] = 19679,
+									["count"] = 43,
+									["amount"] = 1719302,
+								},
+								["Hit"] = {
+									["max"] = 20978,
+									["min"] = 14761,
+									["count"] = 16,
+									["amount"] = 307731,
+								},
+							},
+							["count"] = 59,
+							["amount"] = 2027033,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6493,
+									["min"] = 6493,
+									["count"] = 1,
+									["amount"] = 6493,
+								},
+								["Hit"] = {
+									["max"] = 3439,
+									["min"] = 3186,
+									["count"] = 4,
+									["amount"] = 13311,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 19804,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 38230,
+									["min"] = 4873,
+									["count"] = 46,
+									["amount"] = 1057599,
+								},
+								["Hit"] = {
+									["max"] = 20000,
+									["min"] = 1218,
+									["count"] = 34,
+									["amount"] = 327886,
+								},
+							},
+							["count"] = 80,
+							["amount"] = 1385485,
+						},
+					},
+					["HealingTaken"] = 359777,
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 1947,
+									["min"] = 1777,
+									["count"] = 2,
+									["amount"] = 3724,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 3724,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 8601,
+									["min"] = 6724,
+									["count"] = 3,
+									["amount"] = 23054,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 23054,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 81,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 4962,
+									["min"] = 3724,
+									["count"] = 21,
+									["amount"] = 100488,
+								},
+							},
+							["count"] = 102,
+							["amount"] = 100488,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 10264,
+									["min"] = 8001,
+									["count"] = 2,
+									["amount"] = 18265,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 18265,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 1382,
+									["min"] = 1381,
+									["count"] = 4,
+									["amount"] = 5526,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 5526,
+						},
+						["Reclaim Strength"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Little Scamp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Petrifying Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 7864,
+									["min"] = 1576,
+									["count"] = 3,
+									["amount"] = 16784,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 16784,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Wild Magics"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 19779,
+									["min"] = 19779,
+									["count"] = 1,
+									["amount"] = 19779,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19779,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 4187,
+									["min"] = 4187,
+									["count"] = 1,
+									["amount"] = 4187,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4187,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Bind Spirit"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 2764,
+									["min"] = 2763,
+									["count"] = 3,
+									["amount"] = 8290,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 8290,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 5827,
+									["min"] = 5354,
+									["count"] = 3,
+									["amount"] = 17007,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 17007,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 119,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 14846,
+									["min"] = 522,
+									["count"] = 18,
+									["amount"] = 116066,
+								},
+							},
+							["count"] = 137,
+							["amount"] = 116066,
+						},
+					},
+					["TimeDamage"] = 721.2600000000003,
+					["TimeDamaging"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 1.95,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 1.08,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 10.03,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 4.37,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.67,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.98,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.98,
+								},
+								["Frozen Orb"] = {
+									["count"] = 1.53,
+								},
+							},
+							["amount"] = 9.530000000000001,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.79,
+								},
+								["Frostbolt"] = {
+									["count"] = 26.22,
+								},
+								["Frozen Orb"] = {
+									["count"] = 11.88,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 21.06,
+								},
+								["Deep Freeze"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.67,
+								},
+								["Ice Lance"] = {
+									["count"] = 26.25,
+								},
+								["Cone of Cold"] = {
+									["count"] = 2.07,
+								},
+								["Frost Bomb"] = {
+									["count"] = 26.17,
+								},
+							},
+							["amount"] = 119.61,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 10.74,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.82,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 15.79,
+								},
+								["Frostbolt"] = {
+									["count"] = 40.79,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.44,
+								},
+								["Ice Lance"] = {
+									["count"] = 9.17,
+								},
+							},
+							["amount"] = 77.74999999999999,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 4.91,
+								},
+								["Frost Bomb"] = {
+									["count"] = 1.04,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.5600000000000001,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.41,
+								},
+								["Frostbolt"] = {
+									["count"] = 2.59,
+								},
+								["Cone of Cold"] = {
+									["count"] = 2.45,
+								},
+								["Frost Nova"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 20.96,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 18.47,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.54,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 9.140000000000001,
+								},
+								["Frostbolt"] = {
+									["count"] = 30.68,
+								},
+								["Ice Lance"] = {
+									["count"] = 8.65,
+								},
+								["Blizzard"] = {
+									["count"] = 5.1,
+								},
+							},
+							["amount"] = 73.58,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2.92,
+								},
+								["Frostbolt"] = {
+									["count"] = 9.98,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 16.4,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 9.609999999999999,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.34,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.58,
+								},
+								["Frostbolt"] = {
+									["count"] = 18.23,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.85,
+								},
+							},
+							["amount"] = 32.61,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 15.72,
+								},
+								["Frost Bomb"] = {
+									["count"] = 12.97,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.36,
+								},
+								["Ice Lance"] = {
+									["count"] = 9.450000000000001,
+								},
+								["Frostbolt"] = {
+									["count"] = 53.64999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 0.8100000000000001,
+								},
+								["Frozen Orb"] = {
+									["count"] = 6.9,
+								},
+							},
+							["amount"] = 100.86,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 1.2,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 8.010000000000002,
+								},
+							},
+							["amount"] = 9.210000000000001,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 7.95,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.76,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.17,
+								},
+								["Frostbolt"] = {
+									["count"] = 17.86,
+								},
+								["Cone of Cold"] = {
+									["count"] = 5.859999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 2.4,
+								},
+							},
+							["amount"] = 46.00000000000001,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.46,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.51,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.65,
+								},
+								["Frostbolt"] = {
+									["count"] = 5.47,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.83,
+								},
+							},
+							["amount"] = 7.92,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 3.66,
+								},
+								["Frost Bomb"] = {
+									["count"] = 3.72,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.84,
+								},
+								["Frost Nova"] = {
+									["count"] = 1.13,
+								},
+								["Frostbolt"] = {
+									["count"] = 14.79,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.74,
+								},
+								["Frozen Orb"] = {
+									["count"] = 5.98,
+								},
+							},
+							["amount"] = 32.86,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 3.51,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.6,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 1.01,
+								},
+								["Frostbolt"] = {
+									["count"] = 15.92,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.57,
+								},
+								["Frost Nova"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 30.61,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 7.3,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.35,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.3,
+								},
+								["Ice Lance"] = {
+									["count"] = 3.38,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 13.44,
+								},
+							},
+							["amount"] = 25.77,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Frozen Orb"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0.27,
+								},
+								["Frost Bomb"] = {
+									["count"] = 3.71,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 1.47,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 3.67,
+								},
+								["Frostbolt"] = {
+									["count"] = 31.08,
+								},
+								["Ice Lance"] = {
+									["count"] = 6.779999999999999,
+								},
+								["Frozen Orb"] = {
+									["count"] = 1.95,
+								},
+							},
+							["amount"] = 48.93,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 12.83,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.16,
+								},
+								["Ice Lance"] = {
+									["count"] = 4.64,
+								},
+								["Frostbolt"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 10.14,
+								},
+							},
+							["amount"] = 37.63,
+						},
+					},
+					["ManaGain"] = 6400,
+					["WhoHealed"] = {
+						["Bloodworm <Broxegar>"] = {
+							["Details"] = {
+								["Blood Burst"] = {
+									["count"] = 256,
+								},
+							},
+							["amount"] = 256,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 191568,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 167953,
+								},
+							},
+							["amount"] = 359521,
+						},
+					},
+					["DamagedWho"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 78385,
+								},
+								["Frostbolt"] = {
+									["count"] = 16688,
+								},
+								["Frost Bomb"] = {
+									["count"] = 92040,
+								},
+								["Ice Lance"] = {
+									["count"] = 17009,
+								},
+							},
+							["amount"] = 204122,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 136116,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 8683,
+								},
+								["Ice Lance"] = {
+									["count"] = 75462,
+								},
+								["Frost Nova"] = {
+									["count"] = 2343,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 88148,
+								},
+								["Frozen Orb"] = {
+									["count"] = 86408,
+								},
+							},
+							["amount"] = 397160,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2365,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 39676,
+								},
+								["Frostbolt"] = {
+									["count"] = 257072,
+								},
+								["Frozen Orb"] = {
+									["count"] = 736085,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 329683,
+								},
+								["Frost Nova"] = {
+									["count"] = 23993,
+								},
+								["Ice Lance"] = {
+									["count"] = 437882,
+								},
+								["Cone of Cold"] = {
+									["count"] = 3186,
+								},
+								["Frost Bomb"] = {
+									["count"] = 1183818,
+								},
+							},
+							["amount"] = 3013760,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 461209,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 16501,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 256615,
+								},
+								["Frostbolt"] = {
+									["count"] = 369146,
+								},
+								["Frost Nova"] = {
+									["count"] = 2247,
+								},
+								["Ice Lance"] = {
+									["count"] = 121032,
+								},
+							},
+							["amount"] = 1226750,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 49238,
+								},
+								["Frost Bomb"] = {
+									["count"] = 191263,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 16577,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 82640,
+								},
+								["Frostbolt"] = {
+									["count"] = 50806,
+								},
+								["Cone of Cold"] = {
+									["count"] = 9740,
+								},
+								["Frost Nova"] = {
+									["count"] = 4404,
+								},
+							},
+							["amount"] = 404668,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 549612,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 31091,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 253109,
+								},
+								["Frostbolt"] = {
+									["count"] = 447056,
+								},
+								["Ice Lance"] = {
+									["count"] = 63662,
+								},
+								["Blizzard"] = {
+									["count"] = 16509,
+								},
+							},
+							["amount"] = 1361039,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 33487,
+								},
+								["Frostbolt"] = {
+									["count"] = 71620,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19338,
+								},
+							},
+							["amount"] = 124445,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 255017,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 7642,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 80681,
+								},
+								["Frostbolt"] = {
+									["count"] = 215139,
+								},
+								["Ice Lance"] = {
+									["count"] = 23560,
+								},
+							},
+							["amount"] = 582039,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 19131,
+								},
+								["Frost Bomb"] = {
+									["count"] = 68057,
+								},
+								["Frozen Orb"] = {
+									["count"] = 53515,
+								},
+							},
+							["amount"] = 140703,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 339019,
+								},
+								["Frost Bomb"] = {
+									["count"] = 699294,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 33086,
+								},
+								["Ice Lance"] = {
+									["count"] = 170811,
+								},
+								["Frostbolt"] = {
+									["count"] = 529729,
+								},
+								["Frost Nova"] = {
+									["count"] = 4465,
+								},
+								["Frozen Orb"] = {
+									["count"] = 46935,
+								},
+							},
+							["amount"] = 1823339,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 18743,
+								},
+								["Frost Nova"] = {
+									["count"] = 2356,
+								},
+								["Frost Bomb"] = {
+									["count"] = 42857,
+								},
+								["Frozen Orb"] = {
+									["count"] = 70106,
+								},
+							},
+							["amount"] = 134062,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 2948,
+								},
+								["Frost Bomb"] = {
+									["count"] = 271651,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 22540,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 62949,
+								},
+								["Frostbolt"] = {
+									["count"] = 325293,
+								},
+								["Cone of Cold"] = {
+									["count"] = 6878,
+								},
+								["Frost Nova"] = {
+									["count"] = 4697,
+								},
+							},
+							["amount"] = 696956,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 70627,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 8277,
+								},
+								["Ice Lance"] = {
+									["count"] = 17946,
+								},
+								["Frostbolt"] = {
+									["count"] = 70832,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19230,
+								},
+							},
+							["amount"] = 186912,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 49047,
+								},
+								["Frost Bomb"] = {
+									["count"] = 152426,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 15994,
+								},
+								["Frost Nova"] = {
+									["count"] = 2200,
+								},
+								["Frostbolt"] = {
+									["count"] = 194291,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 100236,
+								},
+								["Frozen Orb"] = {
+									["count"] = 61009,
+								},
+							},
+							["amount"] = 575203,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 70937,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 7758,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 60637,
+								},
+								["Frostbolt"] = {
+									["count"] = 142430,
+								},
+								["Ice Lance"] = {
+									["count"] = 17594,
+								},
+								["Frost Nova"] = {
+									["count"] = 4410,
+								},
+							},
+							["amount"] = 303766,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 226289,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 16185,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19310,
+								},
+								["Ice Lance"] = {
+									["count"] = 101201,
+								},
+								["Frost Nova"] = {
+									["count"] = 17360,
+								},
+								["Frozen Orb"] = {
+									["count"] = 256768,
+								},
+							},
+							["amount"] = 637113,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 6524,
+								},
+								["Melee"] = {
+									["count"] = 10909,
+								},
+								["Frozen Orb"] = {
+									["count"] = 31083,
+								},
+							},
+							["amount"] = 48516,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 1091,
+								},
+								["Frost Bomb"] = {
+									["count"] = 88672,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 15146,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 100336,
+								},
+								["Frostbolt"] = {
+									["count"] = 230053,
+								},
+								["Ice Lance"] = {
+									["count"] = 107168,
+								},
+								["Frozen Orb"] = {
+									["count"] = 13124,
+								},
+							},
+							["amount"] = 555590,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 245796,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 7405,
+								},
+								["Ice Lance"] = {
+									["count"] = 59564,
+								},
+								["Frostbolt"] = {
+									["count"] = 65791,
+								},
+								["Frost Nova"] = {
+									["count"] = 4306,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 136717,
+								},
+							},
+							["amount"] = 519579,
+						},
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["Damage"] = 198476,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Frost"] = 179125,
+						["Frostfire"] = 19351,
+						["Shadow"] = 0,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 2250,
+								},
+								["Frostbolt"] = {
+									["count"] = 105938,
+								},
+								["Frost Bomb"] = {
+									["count"] = 70937,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19351,
+								},
+							},
+							["amount"] = 198476,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Tormentor's Slash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ActiveTime"] = 15.26,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Interrupts"] = 0,
+					["RessedWho"] = {
+					},
+					["InterruptData"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Healing Wave (Counterspell)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 10.11,
+								},
+								["Frost Bomb"] = {
+									["count"] = 2.61,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.54,
+								},
+							},
+							["amount"] = 15.26,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["Overhealing"] = 0,
+					["Heals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["CCBroken"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["Attacks"] = {
+						["Chilled"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2250,
+									["min"] = 2250,
+									["count"] = 1,
+									["amount"] = 2250,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2250,
+						},
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 35469,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 70937,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 70937,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19351,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 19351,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 19351,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 36223,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 69388,
+								},
+								["Hit"] = {
+									["max"] = 19018,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 36550,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 105938,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 15.26,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 10.11,
+								},
+								["Frost Bomb"] = {
+									["count"] = 2.61,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 2.54,
+								},
+							},
+							["amount"] = 15.26,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Blizzard"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["PartialResist"] = {
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Petrifying Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Little Scamp"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["PartialAbsorb"] = {
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Petrifying Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Little Scamp"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+						["Shadow"] = 0,
+						["Frost"] = 0,
+					},
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 0,
+					["TimeDamaging"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Chilled"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Blizzard"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["Absorbs"] = 0,
+					["Attacks"] = {
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blizzard"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chilled"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Frostfire"] = 0,
+						["Frost"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 0,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Blizzard"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["WhoDamaged"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Bind Spirit (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Inflict Torment (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Defender"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Petrifying Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Antiquator"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Auburn Rascal"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Little Scamp"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight1"] = {
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["DOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 14602,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Physical"] = 7323,
+						["Melee"] = 7279,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 158314,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["RageGain"] = 0,
+					["RageGained"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 4464,
+								},
+							},
+							["amount"] = 4464,
+						},
+					},
+					["ElementDone"] = {
+						["Frostfire"] = 19578,
+						["Frost"] = 130272,
+						["Melee"] = 0,
+						["Shadow"] = 8464,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 46021,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 8464,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 62349,
+								},
+								["Ice Lance"] = {
+									["count"] = 21902,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19578,
+								},
+							},
+							["amount"] = 158314,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7279,
+								},
+								["Backhand"] = {
+									["count"] = 7323,
+								},
+							},
+							["amount"] = 14602,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Emperor's Brand"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4000,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4000,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4000,
+						},
+					},
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 4464,
+								},
+							},
+							["amount"] = 4464,
+						},
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.8,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.12,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 8.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.94,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.35,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["ActiveTime"] = 12.35,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Overhealing"] = 4000,
+					["WhoDispelled"] = {
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4464,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4464,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 4464,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Attacks"] = {
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 46021,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 46021,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 46021,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8464,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 8464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8464,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 45546,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 45546,
+								},
+								["Hit"] = {
+									["max"] = 16803,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 16803,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 62349,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19139,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 21902,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21902,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19578,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 19578,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 19578,
+						},
+					},
+					["HealingTaken"] = 4464,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 12.35,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.8,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.12,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 8.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.94,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.35,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DOTs"] = {
+					},
+					["HOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Frost"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 218226,
+					["PartialBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["FDamagedWho"] = {
+					},
+					["RageGain"] = 0,
+					["FAttacks"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Frost"] = 137777,
+						["Frostfire"] = 80449,
+						["Shadow"] = 0,
+					},
+					["DamagedWho"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 80449,
+								},
+								["Frostbolt"] = {
+									["count"] = 67882,
+								},
+								["Frost Bomb"] = {
+									["count"] = 35468,
+								},
+								["Ice Lance"] = {
+									["count"] = 34427,
+								},
+							},
+							["amount"] = 218226,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Wicked Blade"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Bloodworm <Broxegar>"] = {
+							["Details"] = {
+								["Blood Burst"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ActiveTime"] = 10.35,
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 2.62,
+								},
+								["Frostbolt"] = {
+									["count"] = 6.55,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0.25,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.9300000000000001,
+								},
+							},
+							["amount"] = 10.35,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 34427,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 34427,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 34427,
+						},
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 35468,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 35468,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 35468,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 41314,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 80449,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 80449,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 34737,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 67882,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 67882,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGained"] = {
+					},
+					["TimeDamage"] = 10.35,
+					["TimeDamaging"] = {
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Stone Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 2.62,
+								},
+								["Frostbolt"] = {
+									["count"] = 6.55,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0.25,
+								},
+								["Ice Lance"] = {
+									["count"] = 0.9300000000000001,
+								},
+							},
+							["amount"] = 10.35,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["DOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 14602,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Physical"] = 7323,
+						["Melee"] = 7279,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 158314,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["RageGain"] = 0,
+					["RageGained"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 4464,
+								},
+							},
+							["amount"] = 4464,
+						},
+					},
+					["ElementDone"] = {
+						["Frostfire"] = 19578,
+						["Frost"] = 130272,
+						["Melee"] = 0,
+						["Shadow"] = 8464,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 46021,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 8464,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 62349,
+								},
+								["Ice Lance"] = {
+									["count"] = 21902,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 19578,
+								},
+							},
+							["amount"] = 158314,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7279,
+								},
+								["Backhand"] = {
+									["count"] = 7323,
+								},
+							},
+							["amount"] = 14602,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["No One"] = {
+							["Details"] = {
+								["Emperor's Brand"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Ground Slam"] = {
+									["count"] = 0,
+								},
+								["Charge"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4000,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4000,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4000,
+						},
+					},
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 4464,
+								},
+							},
+							["amount"] = 4464,
+						},
+					},
+					["TimeSpent"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.8,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.12,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 8.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.94,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.35,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["ActiveTime"] = 12.35,
+					["PartialResist"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Overhealing"] = 4000,
+					["WhoDispelled"] = {
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4464,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4464,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Ground Slam"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Charge"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Ground Smash"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Emperor's Brand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 4464,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Attacks"] = {
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 46021,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 46021,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 46021,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8464,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 8464,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8464,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 45546,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 45546,
+								},
+								["Hit"] = {
+									["max"] = 16803,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 16803,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 62349,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19139,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 21902,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21902,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Cone of Cold"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19578,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 19578,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 19578,
+						},
+					},
+					["HealingTaken"] = 4464,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 12.35,
+					["TimeDamaging"] = {
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Cone of Cold"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Gladiator"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0.8,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0.12,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 8.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 2.94,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.35,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["RageGainedFrom"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 14378,
+					["ElementDoneAbsorb"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["Damage"] = 190055,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 7429,
+						["Physical"] = 6949,
+						["Shadow"] = 0,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+						["Evocation"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenBlock"] = {
+					},
+					["RessedWho"] = {
+					},
+					["TimeHeal"] = 0,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispels"] = 0,
+					["RageGain"] = 0,
+					["RageGained"] = {
+					},
+					["FAttacks"] = {
+					},
+					["DamagedWho"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 70937,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 38674,
+								},
+								["Frostbolt"] = {
+									["count"] = 33509,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 46935,
+								},
+							},
+							["amount"] = 190055,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 0,
+						["Frost"] = 151381,
+						["Melee"] = 0,
+						["Frostfire"] = 38674,
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Zandalari Shadow-Hunter"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Wild Magics"] = {
+									["count"] = 0,
+								},
+								["Reclaim Strength"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Backhand"] = {
+									["count"] = 6949,
+								},
+								["Melee"] = {
+									["count"] = 7429,
+								},
+							},
+							["amount"] = 14378,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Mortal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jade Lightning (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Nomad"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Club"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["CCBreak"] = 0,
+					["EnergyGain"] = 0,
+					["Interrupts"] = 0,
+					["PartialResist"] = {
+						["Charge"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Wild Magics"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reclaim Strength"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+						["Shadow"] = 0,
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Frost"] = 0,
+					},
+					["ActiveTime"] = 12.74,
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["TimeSpent"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 1.6,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.74,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 6.9,
+								},
+							},
+							["amount"] = 12.74,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["PartialAbsorb"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Wild Magics"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Wicked Blade"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backhand"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Reclaim Strength"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jade Lightning (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Evocation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["EnergyGained"] = {
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["ManaGainedFrom"] = {
+					},
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 70937,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 70937,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 70937,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 38674,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 38674,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 38674,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 33509,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 33509,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 33509,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 10365,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 10365,
+								},
+								["Hit"] = {
+									["max"] = 5252,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 36570,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 46935,
+						},
+					},
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 12.74,
+					["TimeDamaging"] = {
+						["Terracotta Champion"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Reclaimer Zuan"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Yachi"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 1.6,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0.74,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 6.9,
+								},
+							},
+							["amount"] = 12.74,
+						},
+						["Yao"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Infantry"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tomb Guardian"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["Ressed"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["DOTs"] = {
+					},
+					["ManaGain"] = 0,
+					["ElementDoneResist"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["HOTs"] = {
+						["Evocation"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 210926,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 0,
+						["Fire"] = 0,
+						["Shadow"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["TimeHeal"] = 0,
+					["ShieldedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispels"] = 0,
+					["RageGain"] = 0,
+					["WhoHealed"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["ManaGainedFrom"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Frostfire"] = 41494,
+						["Frost"] = 169432,
+						["Melee"] = 0,
+						["Shadow"] = 0,
+					},
+					["CCBroken"] = {
+					},
+					["DamagedWho"] = {
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 41494,
+								},
+								["Frostbolt"] = {
+									["count"] = 71434,
+								},
+								["Frost Bomb"] = {
+									["count"] = 97998,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 210926,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Fire"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Snowball"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Spirit Assault"] = {
+									["count"] = 0,
+								},
+								["Bind Spirit (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Lava Burst"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tormentor's Slash"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RessedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["PartialAbsorb"] = {
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 6.33,
+					["PartialResist"] = {
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lava Burst"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tormentor's Slash"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Bind Spirit (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Snowball"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Spirit Assault"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Inflict Torment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Evocation"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Fire"] = 0,
+						["Shadow"] = 0,
+						["Frost"] = 0,
+					},
+					["Interrupts"] = 0,
+					["InterruptData"] = {
+					},
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+								["Deep Freeze"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 1.97,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0.86,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6.33,
+						},
+						["Eammiran"] = {
+							["Details"] = {
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["FDamage"] = 0,
+					["Heals"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Evocation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealedWho"] = {
+						["Eammiran"] = {
+							["Details"] = {
+								["Ice Barrier"] = {
+									["count"] = 0,
+								},
+								["Evocation"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["Absorbed"] = {
+						["Ice Barrier"] = {
+							["Details"] = {
+								["Eammiran"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["ElementHitsDone"] = {
+						["Frostfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Touch of the Grave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 48498,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 48498,
+								},
+								["Hit"] = {
+									["max"] = 22936,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 22936,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 71434,
+						},
+						["Frozen Orb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frostfire Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 41494,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 41494,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41494,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Bomb"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 97998,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 97998,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 97998,
+						},
+					},
+					["HealingTaken"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 6.33,
+					["TimeDamaging"] = {
+						["Tormented Spirit"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Suspicious Snow Pile"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nakk'rakas"] = {
+							["Details"] = {
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ruqin Elder"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mischievous Snow Sprite"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frozen Orb"] = {
+									["count"] = 0,
+								},
+								["Deep Freeze"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zandalari Warrior"] = {
+							["Details"] = {
+								["Frostfire Bolt"] = {
+									["count"] = 1.97,
+								},
+								["Frostbolt"] = {
+									["count"] = 3.5,
+								},
+								["Frost Bomb"] = {
+									["count"] = 0.86,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6.33,
+						},
+						["Imperial Guard"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["General Sho Lien"] = {
+							["Details"] = {
+								["Frost Bomb"] = {
+									["count"] = 0,
+								},
+								["Ice Lance"] = {
+									["count"] = 0,
+								},
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Frostfire Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Water Elemental <Eammiran>", -- [1]
+				"Frozen Orb <Eammiran>", -- [2]
+				"Experienced Guide <Eammiran>", -- [3]
+				"Rampaging Yeti <Eammiran>", -- [4]
+			},
+			["NextEventNum"] = 34,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				96.26849241508927, -- [16]
+				92.27923211169285, -- [17]
+				92.27923211169285, -- [18]
+				92.27923211169285, -- [19]
+				92.27923211169285, -- [20]
+				92.27923211169285, -- [21]
+				92.27923211169285, -- [22]
+				97.60289971808297, -- [23]
+				97.60289971808297, -- [24]
+				97.60289971808297, -- [25]
+				97.60289971808297, -- [26]
+				97.60289971808297, -- [27]
+				97.60289971808297, -- [28]
+				97.60289971808297, -- [29]
+				100, -- [30]
+				100, -- [31]
+				96.09128742113035, -- [32]
+				92.15894750973286, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Eammiran Frostfire Bolt Zandalari Warrior Crit -39135 (Frostfire)", -- [1]
+				"Eammiran Ice Lance Zandalari Warrior Crit -34427 (Frost)", -- [2]
+				"Eammiran Frost Bomb Zandalari Warrior Hit -35468 (Frost)", -- [3]
+				"Eammiran Frostfire Bolt Zandalari Warrior Crit -41314 (Frostfire)", -- [4]
+				"Eammiran Frostbolt Zandalari Warrior Crit -34737 (Frost)", -- [5]
+				"Eammiran Frostbolt Zandalari Warrior Hit -22936 (Frost)", -- [6]
+				"Eammiran Frost Bomb Zandalari Warrior Crit -97998 (Frost)", -- [7]
+				"Eammiran Frostfire Bolt Zandalari Warrior Crit -41494 (Frostfire)", -- [8]
+				"Eammiran Frostbolt Zandalari Warrior Crit -48498 (Frost)", -- [9]
+				"Eammiran Frostbolt Zandalari Warrior Crit -33509 (Frost)", -- [10]
+				"Eammiran Frost Bomb Zandalari Warrior Crit -70937 (Frost)", -- [11]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5252 (Frost)", -- [12]
+				"Eammiran Frostfire Bolt Zandalari Warrior Crit -38674 (Frostfire)", -- [13]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5228 (Frost)", -- [14]
+				"Zandalari Warrior Melee Eammiran Hit -7429 (Physical)", -- [15]
+				"Zandalari Warrior Backhand Eammiran Hit -6949 (Physical)", -- [16]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5205 (Frost)", -- [17]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5193 (Frost)", -- [18]
+				"Eammiran Frozen Orb Zandalari Warrior Crit -10365 (Frost)", -- [19]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5225 (Frost)", -- [20]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5224 (Frost)", -- [21]
+				"Eammiran Frozen Orb Zandalari Warrior Hit -5243 (Frost)", -- [22]
+				"Eammiran Frostbolt Zandalari Warrior Hit -16803 (Frost)", -- [23]
+				"Eammiran Frost Bomb Zandalari Warrior Hit -46021 (Frost)", -- [24]
+				"Eammiran Frostbolt Zandalari Warrior Crit -45546 (Frost)", -- [25]
+				"Eammiran Frostfire Bolt Zandalari Warrior Hit -19578 (Frostfire)", -- [26]
+				"Eammiran Ice Lance Zandalari Warrior Hit -19139 (Frost)", -- [27]
+				"Eammiran Ice Lance Zandalari Warrior Hit -2763 (Frost)", -- [28]
+				"Eammiran Touch of the Grave Zandalari Warrior Hit -8464 (Shadow)", -- [29]
+				"Eammiran Touch of the Grave Eammiran Hit +8464 (4000 overheal)", -- [30]
+				"Zandalari Warrior Melee Eammiran Hit -7279 (Physical)", -- [31]
+				"Eammiran Frostbolt Zandalari Warrior Miss (Frost)", -- [32]
+				"Zandalari Warrior Backhand Eammiran Hit -7323 (Physical)", -- [33]
+				"Eammiran Frostbolt Zandalari Warrior Crit -35243 (Frost)", -- [34]
+				"Eammiran Frostbolt Zandalari Warrior Hit -16532 (Frost)", -- [35]
+				"Eammiran Frost Bomb Zandalari Warrior Crit -92041 (Frost)", -- [36]
+				"Eammiran Frostfire Bolt Zandalari Warrior Crit -39283 (Frostfire)", -- [37]
+				"Eammiran Ice Lance Zandalari Warrior Hit -13656 (Frost)", -- [38]
+				"Eammiran Touch of the Grave Zandalari Warrior Hit -8343 (Shadow)", -- [39]
+				"Eammiran Touch of the Grave Eammiran Hit +8343 (8343 overheal)", -- [40]
+				"Eammiran Ice Lance Zandalari Warrior Crit -27345 (Frost)", -- [41]
+				"Eammiran Frostbolt Zandalari Warrior Crit -33165 (Frost)", -- [42]
+				"Eammiran Frost Bomb Zandalari Warrior Hit -35468 (Frost)", -- [43]
+				"Eammiran Frostbolt Zandalari Warrior Hit -17532 (Frost)", -- [44]
+				"Eammiran Frost Nova Zandalari Warrior Hit -2250 (Frost)", -- [45]
+				"Eammiran Frostfire Bolt Zandalari Warrior Hit -19351 (Frostfire)", -- [46]
+				"Eammiran Frostbolt Zandalari Warrior Crit -36223 (Frost)", -- [47]
+				"Eammiran Frostbolt Zandalari Warrior Hit -19018 (Frost)", -- [48]
+				"Eammiran Frost Bomb Zandalari Warrior Hit -35469 (Frost)", -- [49]
+				"Eammiran Frostbolt Zandalari Warrior Crit -33145 (Frost)", -- [50]
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				true, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["TimeLast"] = {
+				["TimeHeal"] = 1366946348,
+				["OVERALL"] = 1366946351,
+				["Overhealing"] = 1366946348,
+				["Healing"] = 1366946348,
+				["DamageTaken"] = 1366946351,
+				["ActiveTime"] = 1366946351,
+				["Absorbs"] = 1366946144,
+				["HealingTaken"] = 1366946348,
+				["HOT_Time"] = 1366944627,
+				["TimeDamage"] = 1366946351,
+				["Interrupts"] = 1366760420,
+				["ManaGain"] = 1366944501,
+				["DeathCount"] = 1366945559,
+				["Damage"] = 1366946348,
+			},
+			["Name"] = "Eammiran",
+			["LastDamageTaken"] = 7323,
+			["LastEventTimes"] = {
+				450626.404, -- [1]
+				450627.335, -- [2]
+				450627.584, -- [3]
+				450630.201, -- [4]
+				450633.252, -- [5]
+				450644.517, -- [6]
+				450645.372, -- [7]
+				450647.342, -- [8]
+				450647.342, -- [9]
+				450654.637, -- [10]
+				450656.238, -- [11]
+				450657.004, -- [12]
+				450657.749, -- [13]
+				450658.306, -- [14]
+				450658.306, -- [15]
+				450658.66, -- [16]
+				450659.063, -- [17]
+				450659.959, -- [18]
+				450660.859, -- [19]
+				450661.816, -- [20]
+				450663.1, -- [21]
+				450663.872, -- [22]
+				450677.381, -- [23]
+				450678.179, -- [24]
+				450680.337, -- [25]
+				450680.337, -- [26]
+				450682.053, -- [27]
+				450683.276, -- [28]
+				450683.4, -- [29]
+				450683.4, -- [30]
+				450685.93, -- [31]
+				450686.226, -- [32]
+				450686.611, -- [33]
+				450575.37, -- [34]
+				450586.155, -- [35]
+				450587.271, -- [36]
+				450588.467, -- [37]
+				450589.667, -- [38]
+				450590.502, -- [39]
+				450590.843, -- [40]
+				450591.006, -- [41]
+				450601.191, -- [42]
+				450602.182, -- [43]
+				450602.555, -- [44]
+				450602.555, -- [45]
+				450605.09, -- [46]
+				450608.71, -- [47]
+				450611.449, -- [48]
+				450613.072, -- [49]
+				450626.404, -- [50]
+			},
+			["LastAbility"] = 276684.921,
+		},
+		["Rampaging Yeti <Eammiran>"] = {
+			["GUID"] = "0xF530E92E00313BC0",
+			["LastEventHealth"] = {
+				"0 (0%)", -- [1]
+			},
+			["LastEventType"] = {
+				"MISC", -- [1]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "playertarget",
+			["level"] = 1,
+			["LastFightIn"] = 18,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						0, -- [1]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+					},
+					["Messages"] = {
+						"Rampaging Yeti <Eammiran> dies.", -- [1]
+					},
+					["EventNum"] = {
+						0, -- [1]
+					},
+					["DeathAt"] = 1366944880,
+					["HealthNum"] = {
+						0, -- [1]
+					},
+					["Health"] = {
+						"0 (0%)", -- [1]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+					},
+				}, -- [1]
+			},
+			["Owner"] = "Eammiran",
+			["LastEventTimes"] = {
+				449213.177, -- [1]
+			},
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+			},
+			["LastEvents"] = {
+				"Rampaging Yeti <Eammiran> dies.", -- [1]
+			},
+			["Name"] = "Rampaging Yeti",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["TimeLast"] = {
+				["OVERALL"] = 1366944878,
+				["DeathCount"] = 1366944878,
+			},
+			["UnitLockout"] = 1366944878,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 1,
+				},
+			},
+			["LastAbility"] = 276684.921,
 		},
 		["Broxegar"] = {
 			["GUID"] = "0x0500000005AE53D8",
@@ -17544,14 +17822,8 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["LastAbility"] = 311108.003,
+			["LastFightIn"] = 9,
 			["Name"] = "Broxegar",
-			["UnitLockout"] = 1366944244,
-			["Pet"] = {
-				"Bloodworm <Broxegar>", -- [1]
-				"Risen Ally <Broxegar>", -- [2]
-			},
-			["level"] = 1,
 			["Fights"] = {
 				["CurrentFightData"] = {
 					["DOTs"] = {
@@ -17566,12 +17838,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -17581,78 +17854,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -17669,12 +17941,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -17684,83 +17957,88 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
 			},
-			["LastFightIn"] = 9,
+			["Pet"] = {
+				"Bloodworm <Broxegar>", -- [1]
+				"Risen Ally <Broxegar>", -- [2]
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1366944244,
+			["LastAbility"] = 276684.921,
 		},
 		["Elteneleven"] = {
 			["GUID"] = "0x050000000541F685",
@@ -17776,499 +18054,245 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["LastAbility"] = 311108.003,
+			["LastFightIn"] = 9,
 			["Name"] = "Elteneleven",
-			["UnitLockout"] = 1366941729,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+			},
 			["Pet"] = {
 				"Anti-Magic Zone <Elteneleven>", -- [1]
 			},
 			["level"] = 1,
-			["Fights"] = {
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-			},
-			["LastFightIn"] = 9,
+			["UnitLockout"] = 1366941729,
+			["LastAbility"] = 276684.921,
 		},
-		["Healing Stream Totem <Llebjosaj>"] = {
-			["GUID"] = "0xF1300DC7000AF64E",
-			["LastEventHealth"] = {
-				"???", -- [1]
-			},
-			["LastEventType"] = {
-				"MISC", -- [1]
-			},
-			["TimeWindows"] = {
-				["DeathCount"] = {
-					1, -- [1]
+		["Sadistikal"] = {
+			["GUID"] = "0x0500000005B62157",
+			["type"] = "Ungrouped",
+			["GuardianReverseGUIDs"] = {
+				["Searing Totem"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF13009DB000735A7",
+					},
 				},
 			},
-			["enClass"] = "PET",
-			["level"] = 1,
-			["LastFightIn"] = 9,
-			["type"] = "Pet",
-			["FightsSaved"] = 5,
-			["DeathLogs"] = {
-				{
-					["MessageTimes"] = {
-						0, -- [1]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-					},
-					["Messages"] = {
-						"Healing Stream Totem <Llebjosaj> dies.", -- [1]
-					},
-					["HealthNum"] = {
-						0, -- [1]
-					},
-					["DeathAt"] = 1366941826,
-					["EventNum"] = {
-						0, -- [1]
-					},
-					["Health"] = {
-						"???", -- [1]
-					},
-					["MessageType"] = {
-						"MISC", -- [1]
-					},
-				}, -- [1]
+			["Owner"] = false,
+			["enClass"] = "UNGROUPED",
+			["Name"] = "Sadistikal",
+			["Pet"] = {
+				"Searing Totem <Sadistikal>", -- [1]
 			},
-			["Owner"] = "Llebjosaj",
 			["Fights"] = {
-				["LastFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["CurrentFightData"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
-					["ManaGain"] = 0,
-					["ElementTaken"] = {
-					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["FDamagedWho"] = {
-					},
-					["FAttacks"] = {
-					},
-					["RageGain"] = 0,
-					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
-					},
-					["ElementHitsDone"] = {
-					},
-					["RageGained"] = {
-					},
-					["WhoDamaged"] = {
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["Dispelled"] = 0,
-					["RunicPowerGained"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-					},
-					["OverHeals"] = {
-					},
-					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
-					},
-					["HealedWho"] = {
-					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["Attacks"] = {
-					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["DispelledWho"] = {
-					},
-				},
-				["OverallData"] = {
-					["DeathCount"] = 1,
-				},
 			},
-			["NextEventNum"] = 2,
-			["LastEventHealthNum"] = {
-				0, -- [1]
-			},
-			["LastEvents"] = {
-				"Healing Stream Totem <Llebjosaj> dies.", -- [1]
-			},
-			["Name"] = "Healing Stream Totem",
-			["UnitLockout"] = 1366941824,
-			["TimeLast"] = {
-				["DeathCount"] = 1366941824,
-				["OVERALL"] = 1366941824,
-			},
-			["LastEventIncoming"] = {
-				true, -- [1]
-			},
-			["LastEventTimes"] = {
-				446159.369, -- [1]
-			},
-			["LastAbility"] = 311108.003,
+			["level"] = 1,
+			["UnitLockout"] = 1369455883,
+			["LastFightIn"] = 48,
 		},
 		["Risen Ally <Broxegar>"] = {
 			["GUID"] = "0xF530660D00311FF9",
@@ -18319,9 +18343,19 @@ RecountPerCharDB = {
 			["LastFightIn"] = 15,
 			["type"] = "Pet",
 			["FightsSaved"] = 5,
-			["LastActive"] = 1366944480,
+			["LastAbility"] = 276684.921,
 			["Owner"] = "Broxegar",
-			["UnitLockout"] = 1366944480,
+			["LastEventTimes"] = {
+				448805.242, -- [1]
+				448809.719, -- [2]
+				448809.719, -- [3]
+				448811.338, -- [4]
+				448811.338, -- [5]
+				448813.134, -- [6]
+				448813.776, -- [7]
+				448814.184, -- [8]
+				448814.851, -- [9]
+			},
 			["NextEventNum"] = 10,
 			["LastEventHealthNum"] = {
 				0, -- [1]
@@ -18346,6 +18380,25 @@ RecountPerCharDB = {
 				"Risen Ally <Broxegar> Melee Mischievous Snow Sprite Hit -2799 (Physical)", -- [9]
 			},
 			["Name"] = "Risen Ally",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+			},
+			["TimeLast"] = {
+				["HealingTaken"] = 1366944479,
+				["ActiveTime"] = 1366944480,
+				["TimeDamage"] = 1366944480,
+				["OVERALL"] = 1366944480,
+				["DamageTaken"] = 1366944470,
+				["Damage"] = 1366944480,
+			},
 			["Fights"] = {
 				["LastFightData"] = {
 					["DOTs"] = {
@@ -18360,12 +18413,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -18375,78 +18429,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -18463,12 +18516,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -18478,78 +18532,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -18601,57 +18654,29 @@ RecountPerCharDB = {
 						["Shadow"] = 74014,
 					},
 					["Damage"] = 27440,
-					["ElementHitsTaken"] = {
-						["Shadow"] = {
+					["WhoHealed"] = {
+						["Bloodworm <Broxegar>"] = {
 							["Details"] = {
-								["Hit"] = {
-									["count"] = 1,
+								["Blood Burst"] = {
+									["count"] = 44408,
 								},
 							},
-							["amount"] = 1,
+							["amount"] = 44408,
+						},
+					},
+					["WhoDamaged"] = {
+						["Broxegar"] = {
+							["Details"] = {
+								["Death Pact"] = {
+									["count"] = 74014,
+								},
+							},
+							["amount"] = 74014,
 						},
 					},
 					["ElementDone"] = {
 						["Melee"] = 16830,
 						["Physical"] = 10610,
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 2653,
-									["min"] = 2653,
-									["count"] = 1,
-									["amount"] = 2653,
-								},
-								["Crit"] = {
-									["max"] = 5689,
-									["min"] = 5689,
-									["count"] = 2,
-									["amount"] = 11378,
-								},
-								["Hit"] = {
-									["max"] = 2799,
-									["min"] = 2799,
-									["count"] = 1,
-									["amount"] = 2799,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 16830,
-						},
-						["Claw"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 3556,
-									["min"] = 3499,
-									["count"] = 3,
-									["amount"] = 10610,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 10610,
-						},
 					},
 					["HealingTaken"] = 44408,
 					["DamagedWho"] = {
@@ -18705,59 +18730,58 @@ RecountPerCharDB = {
 							["amount"] = 3,
 						},
 					},
-					["WhoDamaged"] = {
-						["Broxegar"] = {
+					["Attacks"] = {
+						["Melee"] = {
 							["Details"] = {
-								["Death Pact"] = {
-									["count"] = 74014,
+								["Glancing"] = {
+									["max"] = 2653,
+									["min"] = 2653,
+									["count"] = 1,
+									["amount"] = 2653,
+								},
+								["Crit"] = {
+									["max"] = 5689,
+									["min"] = 5689,
+									["count"] = 2,
+									["amount"] = 11378,
+								},
+								["Hit"] = {
+									["max"] = 2799,
+									["min"] = 2799,
+									["count"] = 1,
+									["amount"] = 2799,
 								},
 							},
-							["amount"] = 74014,
+							["count"] = 4,
+							["amount"] = 16830,
+						},
+						["Claw"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3556,
+									["min"] = 3499,
+									["count"] = 3,
+									["amount"] = 10610,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 10610,
 						},
 					},
-					["WhoHealed"] = {
-						["Bloodworm <Broxegar>"] = {
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
 							["Details"] = {
-								["Blood Burst"] = {
-									["count"] = 44408,
+								["Hit"] = {
+									["count"] = 1,
 								},
 							},
-							["amount"] = 44408,
+							["amount"] = 1,
 						},
 					},
 				},
 			},
-			["TimeLast"] = {
-				["HealingTaken"] = 1366944479,
-				["ActiveTime"] = 1366944480,
-				["TimeDamage"] = 1366944480,
-				["OVERALL"] = 1366944480,
-				["DamageTaken"] = 1366944470,
-				["Damage"] = 1366944480,
-			},
-			["LastEventIncoming"] = {
-				true, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				false, -- [5]
-				false, -- [6]
-				false, -- [7]
-				true, -- [8]
-				false, -- [9]
-			},
-			["LastEventTimes"] = {
-				448805.242, -- [1]
-				448809.719, -- [2]
-				448809.719, -- [3]
-				448811.338, -- [4]
-				448811.338, -- [5]
-				448813.134, -- [6]
-				448813.776, -- [7]
-				448814.184, -- [8]
-				448814.851, -- [9]
-			},
-			["LastAbility"] = 311108.003,
+			["UnitLockout"] = 1366944480,
+			["LastActive"] = 1366944480,
 		},
 		["Bloodworm <Broxegar>"] = {
 			["DeathLogs"] = {
@@ -18771,11 +18795,11 @@ RecountPerCharDB = {
 					["Messages"] = {
 						"Bloodworm <Broxegar> dies.", -- [1]
 					},
-					["HealthNum"] = {
+					["EventNum"] = {
 						0, -- [1]
 					},
 					["DeathAt"] = 1366944683,
-					["EventNum"] = {
+					["HealthNum"] = {
 						0, -- [1]
 					},
 					["Health"] = {
@@ -19480,12 +19504,12 @@ RecountPerCharDB = {
 						"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1280 (Physical)", -- [1]
 						"Bloodworm <Broxegar> dies.", -- [2]
 					},
-					["HealthNum"] = {
+					["EventNum"] = {
 						0, -- [1]
 						0, -- [2]
 					},
 					["DeathAt"] = 1366944329,
-					["EventNum"] = {
+					["HealthNum"] = {
 						0, -- [1]
 						0, -- [2]
 					},
@@ -19712,11 +19736,11 @@ RecountPerCharDB = {
 					["Messages"] = {
 						"Bloodworm <Broxegar> dies.", -- [1]
 					},
-					["HealthNum"] = {
+					["EventNum"] = {
 						0, -- [1]
 					},
 					["DeathAt"] = 1366944277,
-					["EventNum"] = {
+					["HealthNum"] = {
 						0, -- [1]
 					},
 					["Health"] = {
@@ -19932,13 +19956,13 @@ RecountPerCharDB = {
 				}, -- [13]
 			},
 			["TimeLast"] = {
-				["TimeHeal"] = 1366944462,
 				["DeathCount"] = 1366944681,
+				["TimeHeal"] = 1366944462,
 				["Overhealing"] = 1366944479,
 				["ActiveTime"] = 1366944478,
-				["TimeDamage"] = 1366944478,
-				["Healing"] = 1366944462,
 				["OVERALL"] = 1366944681,
+				["Healing"] = 1366944462,
+				["TimeDamage"] = 1366944478,
 				["Damage"] = 1366944478,
 			},
 			["LastEventType"] = {
@@ -19995,10 +20019,300 @@ RecountPerCharDB = {
 			},
 			["LastFlags"] = 2600,
 			["enClass"] = "PET",
-			["LastActive"] = 1366944479,
+			["LastAbility"] = 276684.921,
 			["level"] = 1,
-			["UnitLockout"] = 1366944681,
+			["LastEventTimes"] = {
+				448768.207, -- [1]
+				448768.207, -- [2]
+				448787.877, -- [3]
+				448789.169, -- [4]
+				448791.689, -- [5]
+				448792.795, -- [6]
+				448795.206, -- [7]
+				448796.405, -- [8]
+				448796.654, -- [9]
+				448796.654, -- [10]
+				448796.654, -- [11]
+				448796.824, -- [12]
+				448796.824, -- [13]
+				448796.824, -- [14]
+				448796.824, -- [15]
+				448808.769, -- [16]
+				448809.983, -- [17]
+				448811.163, -- [18]
+				448812.304, -- [19]
+				448813.574, -- [20]
+				448814.045, -- [21]
+				448814.045, -- [22]
+				448814.045, -- [23]
+				449016.057, -- [24]
+				448638.991, -- [25]
+				448639.269, -- [26]
+				448639.269, -- [27]
+				448644.495, -- [28]
+				448645.717, -- [29]
+				448646.933, -- [30]
+				448648.151, -- [31]
+				448662.203, -- [32]
+				448758.046, -- [33]
+				448759.324, -- [34]
+				448760.554, -- [35]
+				448761.679, -- [36]
+				448763.776, -- [37]
+				448764.975, -- [38]
+				448766.105, -- [39]
+				448767.35, -- [40]
+				448767.897, -- [41]
+				448767.897, -- [42]
+				448767.897, -- [43]
+				448767.897, -- [44]
+				448768.207, -- [45]
+				448768.207, -- [46]
+				448768.207, -- [47]
+				448768.207, -- [48]
+				448768.207, -- [49]
+				448768.207, -- [50]
+			},
 			["LastFightIn"] = 17,
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					8, -- [1]
+				},
+				["Overhealing"] = {
+					1208337, -- [1]
+				},
+				["ActiveTime"] = {
+					67.92, -- [1]
+				},
+				["TimeHeal"] = {
+					1.5, -- [1]
+				},
+				["Healing"] = {
+					146107, -- [1]
+				},
+				["TimeDamage"] = {
+					66.42, -- [1]
+				},
+				["Damage"] = {
+					53503, -- [1]
+				},
+			},
+			["type"] = "Pet",
+			["LastKilledAt"] = 448814.045,
+			["FightsSaved"] = 5,
+			["LastKilledBy"] = "Bloodworm <Broxegar>",
+			["Owner"] = "Broxegar",
+			["GUID"] = "0xF5306D7100312E46",
+			["NextEventNum"] = 25,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				0, -- [7]
+				0, -- [8]
+				0, -- [9]
+				0, -- [10]
+				0, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				0, -- [16]
+				0, -- [17]
+				0, -- [18]
+				0, -- [19]
+				0, -- [20]
+				0, -- [21]
+				0, -- [22]
+				0, -- [23]
+				0, -- [24]
+				0, -- [25]
+				0, -- [26]
+				0, -- [27]
+				0, -- [28]
+				0, -- [29]
+				0, -- [30]
+				0, -- [31]
+				0, -- [32]
+				0, -- [33]
+				0, -- [34]
+				0, -- [35]
+				0, -- [36]
+				0, -- [37]
+				0, -- [38]
+				0, -- [39]
+				0, -- [40]
+				0, -- [41]
+				0, -- [42]
+				0, -- [43]
+				0, -- [44]
+				0, -- [45]
+				0, -- [46]
+				0, -- [47]
+				0, -- [48]
+				0, -- [49]
+				0, -- [50]
+			},
+			["LastEvents"] = {
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [1]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [2]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -1203 (Physical)", -- [3]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1312 (Physical)", -- [4]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1346 (Physical)", -- [5]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1345 (Physical)", -- [6]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1345 (Physical)", -- [7]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -1342 (Physical)", -- [8]
+				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +55510 (55510 overheal)", -- [9]
+				"Bloodworm <Broxegar> dies.", -- [10]
+				"Bloodworm <Broxegar> dies.", -- [11]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [12]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [13]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [14]
+				"Bloodworm <Broxegar> Blood Burst Broxegar Hit +55510", -- [15]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [16]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [17]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [18]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1457 (Physical)", -- [19]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1457 (Physical)", -- [20]
+				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +44408 (44408 overheal)", -- [21]
+				"Bloodworm <Broxegar> dies.", -- [22]
+				"Bloodworm <Broxegar> dies.", -- [23]
+				"Bloodworm <Broxegar> dies.", -- [24]
+				"Bloodworm <Broxegar> dies.", -- [25]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +66612 (66612 overheal)", -- [26]
+				"Bloodworm <Broxegar> Blood Burst Broxegar Hit +66612", -- [27]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [28]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [29]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [30]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1280 (Physical)", -- [31]
+				"Bloodworm <Broxegar> dies.", -- [32]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1000 (Physical)", -- [33]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1001 (Physical)", -- [34]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1001 (Physical)", -- [35]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -925 (Physical)", -- [36]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Crit -2002 (Physical)", -- [37]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [38]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [39]
+				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [40]
+				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +77714 (77714 overheal)", -- [41]
+				"Bloodworm <Broxegar> dies.", -- [42]
+				"Bloodworm <Broxegar> Blood Burst Ghost Iron Dragonling Immune (Shadow)", -- [43]
+				"Bloodworm <Broxegar> dies.", -- [44]
+				"Bloodworm <Broxegar> Blood Burst Eammiran Hit +77714 (77458 overheal)", -- [45]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (77714 overheal)", -- [46]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (77714 overheal)", -- [47]
+				"Bloodworm <Broxegar> Blood Burst Water Elemental <Eammiran> Hit +77714 (77714 overheal)", -- [48]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (64243 overheal)", -- [49]
+				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [50]
+			},
+			["Name"] = "Bloodworm",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				true, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventHealth"] = {
+				"???", -- [1]
+				"???", -- [2]
+				"???", -- [3]
+				"???", -- [4]
+				"???", -- [5]
+				"???", -- [6]
+				"???", -- [7]
+				"???", -- [8]
+				"???", -- [9]
+				"???", -- [10]
+				"???", -- [11]
+				"???", -- [12]
+				"???", -- [13]
+				"???", -- [14]
+				"???", -- [15]
+				"???", -- [16]
+				"???", -- [17]
+				"???", -- [18]
+				"???", -- [19]
+				"???", -- [20]
+				"???", -- [21]
+				"???", -- [22]
+				"???", -- [23]
+				"???", -- [24]
+				"???", -- [25]
+				"???", -- [26]
+				"???", -- [27]
+				"???", -- [28]
+				"???", -- [29]
+				"???", -- [30]
+				"???", -- [31]
+				"???", -- [32]
+				"???", -- [33]
+				"???", -- [34]
+				"???", -- [35]
+				"???", -- [36]
+				"???", -- [37]
+				"???", -- [38]
+				"???", -- [39]
+				"???", -- [40]
+				"???", -- [41]
+				"???", -- [42]
+				"???", -- [43]
+				"???", -- [44]
+				"???", -- [45]
+				"???", -- [46]
+				"???", -- [47]
+				"???", -- [48]
+				"???", -- [49]
+				"???", -- [50]
+			},
 			["Fights"] = {
 				["LastFightData"] = {
 					["DOTs"] = {
@@ -20013,12 +20327,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -20028,78 +20343,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -20116,12 +20430,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -20131,78 +20446,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -20386,8 +20700,19 @@ RecountPerCharDB = {
 							["amount"] = 0.55,
 						},
 					},
-					["ElementDone"] = {
-						["Melee"] = 53503,
+					["Heals"] = {
+						["Blood Burst"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 66612,
+									["min"] = 256,
+									["count"] = 5,
+									["amount"] = 146107,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 146107,
+						},
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
@@ -20413,314 +20738,13 @@ RecountPerCharDB = {
 							["amount"] = 1,
 						},
 					},
-					["Heals"] = {
-						["Blood Burst"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 66612,
-									["min"] = 256,
-									["count"] = 5,
-									["amount"] = 146107,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 146107,
-						},
+					["ElementDone"] = {
+						["Melee"] = 53503,
 					},
 				},
 			},
-			["type"] = "Pet",
-			["LastKilledAt"] = 448814.045,
-			["LastEventHealth"] = {
-				"???", -- [1]
-				"???", -- [2]
-				"???", -- [3]
-				"???", -- [4]
-				"???", -- [5]
-				"???", -- [6]
-				"???", -- [7]
-				"???", -- [8]
-				"???", -- [9]
-				"???", -- [10]
-				"???", -- [11]
-				"???", -- [12]
-				"???", -- [13]
-				"???", -- [14]
-				"???", -- [15]
-				"???", -- [16]
-				"???", -- [17]
-				"???", -- [18]
-				"???", -- [19]
-				"???", -- [20]
-				"???", -- [21]
-				"???", -- [22]
-				"???", -- [23]
-				"???", -- [24]
-				"???", -- [25]
-				"???", -- [26]
-				"???", -- [27]
-				"???", -- [28]
-				"???", -- [29]
-				"???", -- [30]
-				"???", -- [31]
-				"???", -- [32]
-				"???", -- [33]
-				"???", -- [34]
-				"???", -- [35]
-				"???", -- [36]
-				"???", -- [37]
-				"???", -- [38]
-				"???", -- [39]
-				"???", -- [40]
-				"???", -- [41]
-				"???", -- [42]
-				"???", -- [43]
-				"???", -- [44]
-				"???", -- [45]
-				"???", -- [46]
-				"???", -- [47]
-				"???", -- [48]
-				"???", -- [49]
-				"???", -- [50]
-			},
-			["LastKilledBy"] = "Bloodworm <Broxegar>",
-			["Owner"] = "Broxegar",
-			["Name"] = "Bloodworm",
-			["NextEventNum"] = 25,
-			["LastEventHealthNum"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0, -- [4]
-				0, -- [5]
-				0, -- [6]
-				0, -- [7]
-				0, -- [8]
-				0, -- [9]
-				0, -- [10]
-				0, -- [11]
-				0, -- [12]
-				0, -- [13]
-				0, -- [14]
-				0, -- [15]
-				0, -- [16]
-				0, -- [17]
-				0, -- [18]
-				0, -- [19]
-				0, -- [20]
-				0, -- [21]
-				0, -- [22]
-				0, -- [23]
-				0, -- [24]
-				0, -- [25]
-				0, -- [26]
-				0, -- [27]
-				0, -- [28]
-				0, -- [29]
-				0, -- [30]
-				0, -- [31]
-				0, -- [32]
-				0, -- [33]
-				0, -- [34]
-				0, -- [35]
-				0, -- [36]
-				0, -- [37]
-				0, -- [38]
-				0, -- [39]
-				0, -- [40]
-				0, -- [41]
-				0, -- [42]
-				0, -- [43]
-				0, -- [44]
-				0, -- [45]
-				0, -- [46]
-				0, -- [47]
-				0, -- [48]
-				0, -- [49]
-				0, -- [50]
-			},
-			["LastEvents"] = {
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [1]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [2]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -1203 (Physical)", -- [3]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1312 (Physical)", -- [4]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1346 (Physical)", -- [5]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1345 (Physical)", -- [6]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1345 (Physical)", -- [7]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -1342 (Physical)", -- [8]
-				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +55510 (55510 overheal)", -- [9]
-				"Bloodworm <Broxegar> dies.", -- [10]
-				"Bloodworm <Broxegar> dies.", -- [11]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [12]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [13]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +55510 (55510 overheal)", -- [14]
-				"Bloodworm <Broxegar> Blood Burst Broxegar Hit +55510", -- [15]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [16]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [17]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1478 (Physical)", -- [18]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1457 (Physical)", -- [19]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1457 (Physical)", -- [20]
-				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +44408 (44408 overheal)", -- [21]
-				"Bloodworm <Broxegar> dies.", -- [22]
-				"Bloodworm <Broxegar> dies.", -- [23]
-				"Bloodworm <Broxegar> dies.", -- [24]
-				"Bloodworm <Broxegar> dies.", -- [25]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +66612 (66612 overheal)", -- [26]
-				"Bloodworm <Broxegar> Blood Burst Broxegar Hit +66612", -- [27]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [28]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [29]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1279 (Physical)", -- [30]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1280 (Physical)", -- [31]
-				"Bloodworm <Broxegar> dies.", -- [32]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1000 (Physical)", -- [33]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1001 (Physical)", -- [34]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1001 (Physical)", -- [35]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Glancing -925 (Physical)", -- [36]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Crit -2002 (Physical)", -- [37]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [38]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [39]
-				"Bloodworm <Broxegar> Melee Mischievous Snow Sprite Hit -1005 (Physical)", -- [40]
-				"Bloodworm <Broxegar> Blood Burst Bloodworm <Broxegar> Hit +77714 (77714 overheal)", -- [41]
-				"Bloodworm <Broxegar> dies.", -- [42]
-				"Bloodworm <Broxegar> Blood Burst Ghost Iron Dragonling Immune (Shadow)", -- [43]
-				"Bloodworm <Broxegar> dies.", -- [44]
-				"Bloodworm <Broxegar> Blood Burst Eammiran Hit +77714 (77458 overheal)", -- [45]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (77714 overheal)", -- [46]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (77714 overheal)", -- [47]
-				"Bloodworm <Broxegar> Blood Burst Water Elemental <Eammiran> Hit +77714 (77714 overheal)", -- [48]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide <Eammiran> Hit +77714 (64243 overheal)", -- [49]
-				"Bloodworm <Broxegar> Blood Burst Experienced Guide Hit +77714 (77714 overheal)", -- [50]
-			},
-			["LastEventIncoming"] = {
-				false, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				false, -- [5]
-				false, -- [6]
-				false, -- [7]
-				false, -- [8]
-				true, -- [9]
-				true, -- [10]
-				true, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				false, -- [15]
-				false, -- [16]
-				false, -- [17]
-				false, -- [18]
-				false, -- [19]
-				false, -- [20]
-				true, -- [21]
-				true, -- [22]
-				true, -- [23]
-				true, -- [24]
-				true, -- [25]
-				false, -- [26]
-				false, -- [27]
-				false, -- [28]
-				false, -- [29]
-				false, -- [30]
-				false, -- [31]
-				true, -- [32]
-				false, -- [33]
-				false, -- [34]
-				false, -- [35]
-				false, -- [36]
-				false, -- [37]
-				false, -- [38]
-				false, -- [39]
-				false, -- [40]
-				true, -- [41]
-				true, -- [42]
-				false, -- [43]
-				true, -- [44]
-				false, -- [45]
-				false, -- [46]
-				false, -- [47]
-				false, -- [48]
-				false, -- [49]
-				false, -- [50]
-			},
-			["GUID"] = "0xF5306D7100312E46",
-			["FightsSaved"] = 5,
-			["TimeWindows"] = {
-				["DeathCount"] = {
-					8, -- [1]
-				},
-				["Overhealing"] = {
-					1208337, -- [1]
-				},
-				["ActiveTime"] = {
-					67.92, -- [1]
-				},
-				["TimeHeal"] = {
-					1.5, -- [1]
-				},
-				["Healing"] = {
-					146107, -- [1]
-				},
-				["TimeDamage"] = {
-					66.42, -- [1]
-				},
-				["Damage"] = {
-					53503, -- [1]
-				},
-			},
-			["LastEventTimes"] = {
-				448768.207, -- [1]
-				448768.207, -- [2]
-				448787.877, -- [3]
-				448789.169, -- [4]
-				448791.689, -- [5]
-				448792.795, -- [6]
-				448795.206, -- [7]
-				448796.405, -- [8]
-				448796.654, -- [9]
-				448796.654, -- [10]
-				448796.654, -- [11]
-				448796.824, -- [12]
-				448796.824, -- [13]
-				448796.824, -- [14]
-				448796.824, -- [15]
-				448808.769, -- [16]
-				448809.983, -- [17]
-				448811.163, -- [18]
-				448812.304, -- [19]
-				448813.574, -- [20]
-				448814.045, -- [21]
-				448814.045, -- [22]
-				448814.045, -- [23]
-				449016.057, -- [24]
-				448638.991, -- [25]
-				448639.269, -- [26]
-				448639.269, -- [27]
-				448644.495, -- [28]
-				448645.717, -- [29]
-				448646.933, -- [30]
-				448648.151, -- [31]
-				448662.203, -- [32]
-				448758.046, -- [33]
-				448759.324, -- [34]
-				448760.554, -- [35]
-				448761.679, -- [36]
-				448763.776, -- [37]
-				448764.975, -- [38]
-				448766.105, -- [39]
-				448767.35, -- [40]
-				448767.897, -- [41]
-				448767.897, -- [42]
-				448767.897, -- [43]
-				448767.897, -- [44]
-				448768.207, -- [45]
-				448768.207, -- [46]
-				448768.207, -- [47]
-				448768.207, -- [48]
-				448768.207, -- [49]
-				448768.207, -- [50]
-			},
-			["LastAbility"] = 311108.003,
+			["UnitLockout"] = 1366944681,
+			["LastActive"] = 1366944479,
 		},
 		["Llebjosaj"] = {
 			["GUID"] = "0x0500000003453D7D",
@@ -20736,13 +20760,8 @@ RecountPerCharDB = {
 			},
 			["Owner"] = false,
 			["enClass"] = "UNGROUPED",
-			["LastAbility"] = 311108.003,
+			["LastFightIn"] = 9,
 			["Name"] = "Llebjosaj",
-			["UnitLockout"] = 1366941809,
-			["Pet"] = {
-				"Healing Stream Totem <Llebjosaj>", -- [1]
-			},
-			["level"] = 1,
 			["Fights"] = {
 				["CurrentFightData"] = {
 					["DOTs"] = {
@@ -20757,12 +20776,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -20772,78 +20792,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -20860,12 +20879,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -20875,88 +20895,92 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
 			},
-			["LastFightIn"] = 9,
+			["Pet"] = {
+				"Healing Stream Totem <Llebjosaj>", -- [1]
+			},
+			["level"] = 1,
+			["UnitLockout"] = 1366941809,
+			["LastAbility"] = 276684.921,
 		},
-		["Rampaging Yeti <Eammiran>"] = {
-			["GUID"] = "0xF530E92E00313BC0",
+		["Healing Stream Totem <Llebjosaj>"] = {
+			["GUID"] = "0xF1300DC7000AF64E",
 			["LastEventHealth"] = {
-				"0 (0%)", -- [1]
+				"???", -- [1]
 			},
 			["LastEventType"] = {
 				"MISC", -- [1]
@@ -20967,9 +20991,8 @@ RecountPerCharDB = {
 				},
 			},
 			["enClass"] = "PET",
-			["unit"] = "playertarget",
 			["level"] = 1,
-			["LastFightIn"] = 18,
+			["LastFightIn"] = 9,
 			["type"] = "Pet",
 			["FightsSaved"] = 5,
 			["DeathLogs"] = {
@@ -20981,24 +21004,43 @@ RecountPerCharDB = {
 						true, -- [1]
 					},
 					["Messages"] = {
-						"Rampaging Yeti <Eammiran> dies.", -- [1]
+						"Healing Stream Totem <Llebjosaj> dies.", -- [1]
 					},
-					["HealthNum"] = {
-						0, -- [1]
-					},
-					["DeathAt"] = 1366944880,
 					["EventNum"] = {
 						0, -- [1]
 					},
+					["DeathAt"] = 1366941826,
+					["HealthNum"] = {
+						0, -- [1]
+					},
 					["Health"] = {
-						"0 (0%)", -- [1]
+						"???", -- [1]
 					},
 					["MessageType"] = {
 						"MISC", -- [1]
 					},
 				}, -- [1]
 			},
-			["Owner"] = "Eammiran",
+			["Owner"] = "Llebjosaj",
+			["LastEventTimes"] = {
+				446159.369, -- [1]
+			},
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+			},
+			["LastEvents"] = {
+				"Healing Stream Totem <Llebjosaj> dies.", -- [1]
+			},
+			["Name"] = "Healing Stream Totem",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["TimeLast"] = {
+				["OVERALL"] = 1366941824,
+				["DeathCount"] = 1366941824,
+			},
+			["UnitLockout"] = 1366941824,
 			["Fights"] = {
 				["LastFightData"] = {
 					["DOTs"] = {
@@ -21013,12 +21055,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -21028,78 +21071,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -21116,12 +21158,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
+					["ElementTakenBlock"] = {
 					},
-					["ManaGain"] = 0,
+					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
@@ -21131,78 +21174,77 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["FDamagedWho"] = {
+					["DamagedWho"] = {
 					},
 					["FAttacks"] = {
 					},
-					["RageGain"] = 0,
+					["HealingTaken"] = 0,
 					["ElementDone"] = {
-					},
-					["ManaGainedFrom"] = {
 					},
 					["ElementHitsDone"] = {
 					},
-					["RageGained"] = {
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
 					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
-					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
-					["PartialResist"] = {
-					},
-					["ManaGained"] = {
-					},
-					["ElementTakenAbsorb"] = {
-					},
-					["Interrupts"] = 0,
-					["Overhealing"] = 0,
-					["ElementTakenResist"] = {
-					},
-					["InterruptData"] = {
-					},
-					["WhoDispelled"] = {
-					},
-					["TimeSpent"] = {
-					},
-					["Heals"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
-					["Healing"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
-					["CCBroken"] = {
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
 					},
 					["Attacks"] = {
 					},
-					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
-					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -21210,26 +21252,7 @@ RecountPerCharDB = {
 					["DeathCount"] = 1,
 				},
 			},
-			["NextEventNum"] = 2,
-			["LastEventHealthNum"] = {
-				0, -- [1]
-			},
-			["LastEvents"] = {
-				"Rampaging Yeti <Eammiran> dies.", -- [1]
-			},
-			["Name"] = "Rampaging Yeti",
-			["UnitLockout"] = 1366944878,
-			["TimeLast"] = {
-				["DeathCount"] = 1366944878,
-				["OVERALL"] = 1366944878,
-			},
-			["LastEventIncoming"] = {
-				true, -- [1]
-			},
-			["LastEventTimes"] = {
-				449213.177, -- [1]
-			},
-			["LastAbility"] = 311108.003,
+			["LastAbility"] = 276684.921,
 		},
 	},
 	["FightNum"] = 48,

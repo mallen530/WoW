@@ -7,6 +7,7 @@ DBM_SavedOptions = {
 	["StatusEnabled"] = true,
 	["InfoFrameX"] = -122.5010299682617,
 	["AutologBosses"] = false,
+	["ShowAdvSWSounds"] = false,
 	["RangeFrameX"] = 50,
 	["DisableCinematicsOutside"] = false,
 	["AlwaysShowSpeedKillTimer"] = true,
@@ -52,6 +53,29 @@ DBM_SavedOptions = {
 	["HideBossEmoteFrame"] = false,
 	["ShowCountdownText"] = false,
 	["ShowBigBrotherOnCombatStart"] = false,
+	["WarningColors"] = {
+		{
+			["b"] = 0.9411764705882353,
+			["g"] = 0.8,
+			["r"] = 0.4117647058823529,
+		}, -- [1]
+		{
+			["b"] = 0,
+			["g"] = 0.9490196078431372,
+			["r"] = 0.9490196078431372,
+		}, -- [2]
+		{
+			["b"] = 0,
+			["g"] = 0.5019607843137255,
+			["r"] = 1,
+		}, -- [3]
+		{
+			["b"] = 0.1019607843137255,
+			["g"] = 0.1019607843137255,
+			["r"] = 1,
+		}, -- [4]
+	},
+	["ChatFrame"] = "DEFAULT_CHAT_FRAME",
 	["DontShowRangeFrame"] = false,
 	["ShowEngageMessage"] = true,
 	["InfoFrameShowSelf"] = false,
@@ -95,28 +119,7 @@ DBM_SavedOptions = {
 	["DontShowInfoFrame"] = false,
 	["AlwaysShowHealthFrame"] = false,
 	["HPFrameX"] = -50,
-	["WarningColors"] = {
-		{
-			["b"] = 0.9411764705882353,
-			["g"] = 0.8,
-			["r"] = 0.4117647058823529,
-		}, -- [1]
-		{
-			["b"] = 0,
-			["g"] = 0.9490196078431372,
-			["r"] = 0.9490196078431372,
-		}, -- [2]
-		{
-			["b"] = 0,
-			["g"] = 0.5019607843137255,
-			["r"] = 1,
-		}, -- [3]
-		{
-			["b"] = 0.1019607843137255,
-			["g"] = 0.1019607843137255,
-			["r"] = 1,
-		}, -- [4]
-	},
+	["ChallengeBest"] = "Realm",
 	["SpamBlockBossWhispers"] = false,
 	["LastRevision"] = 9314,
 	["ForumsMessageShown"] = 9413,

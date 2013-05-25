@@ -185,9 +185,11 @@ do
 
 	function backpack:AdiBags_InteractingWindowChanged(event, window)
 		if window then
-			self.wasOpen = self:IsOpen()
-			if not self.wasOpen then
-				self:Open()
+			if addon.db.profile.autoOpen then
+				self.wasOpen = self:IsOpen()
+				if not self.wasOpen then
+					self:Open()
+				end
 			end
 		elseif self:IsOpen() and not self.wasOpen then
 			self:Close()
@@ -213,7 +215,7 @@ do
 		self:RawHookScript(BankFrame, "OnEvent", NOOP, true)
 		self:RawHook(BankFrame, "Show", "Open", true)
 		self:RawHook(BankFrame, "Hide", "Close", true)
-		self:RawHook(BankFrame, "IsShown", "IsOpen", true)
+		--self:RawHook(BankFrame, "IsShown", "IsOpen", true)
 
 		if addon:GetInteractingWindow() == "BANKFRAME" then
 			self:Open()

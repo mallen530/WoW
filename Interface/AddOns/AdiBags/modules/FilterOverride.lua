@@ -9,27 +9,38 @@ local L = addon.L
 
 --<GLOBALS
 local _G = _G
+local CLOSE = _G.CLOSE
 local ClearCursor = _G.ClearCursor
+local CreateFrame = _G.CreateFrame
 local GetCursorInfo = _G.GetCursorInfo
 local GetItemInfo = _G.GetItemInfo
+local IsAltKeyDown = _G.IsAltKeyDown
+local ToggleDropDownMenu = _G.ToggleDropDownMenu
+local UIDropDownMenu_AddButton = _G.UIDropDownMenu_AddButton
+local format = _G.format
 local gsub = _G.gsub
+local ipairs = _G.ipairs
 local pairs = _G.pairs
 local select = _G.select
-local strmatch = _G.strmatch
 local setmetatable = _G.setmetatable
+local strmatch = _G.strmatch
 local strsplit = _G.strsplit
 local strtrim = _G.strtrim
 local tinsert = _G.tinsert
 local tonumber = _G.tonumber
 local tostring = _G.tostring
 local tremove = _G.tremove
+local tsort = _G.table.sort
 local type = _G.type
 local unpack = _G.unpack
 local wipe = _G.wipe
 --GLOBALS>
 
+local BuildSectionKey = addon.BuildSectionKey
+local SplitSectionKey = addon.SplitSectionKey
+
 local JUNK = addon.BI['Junk']
-local JUNK_KEY = addon:BuildSectionKey(JUNK, JUNK)
+local JUNK_KEY = BuildSectionKey(JUNK, JUNK)
 
 local mod = addon:RegisterFilter("FilterOverride", 95, "AceEvent-3.0")
 mod.uiName = L['Manual filtering']
@@ -43,7 +54,20 @@ function mod:OnInitialize()
 		addon.db.sv.namespaces.mod = nil
 	end
 
-	self.db = addon.db:RegisterNamespace(self.moduleName, { profile = { overrides = {} } })
+	self.db = addon.db:RegisterNamespace(self.moduleName, { profile = { version = 0, overrides = {} } })
+	self.db.RegisterCallback(self, "UpgradeProfile")
+	self:UpgradeProfile()
+end
+
+function mod:UpgradeProfile()
+	if self.db.profile.version < 1 then
+		-- Convert old name#category tuple to section key using the common utility function
+		for itemId, key in pairs(self.db.profile.overrides) do
+			local name, category = strsplit('#', key)
+			self.db.profile.overrides[itemId] = BuildSectionKey(name, category)
+		end
+		self.db.profile.version = 1
+	end
 end
 
 function mod:OnEnable()
@@ -61,12 +85,12 @@ end
 function mod:Filter(slotData)
 	local override = self.db.profile.overrides[slotData.itemId]
 	if override then
-		return strsplit('#', override)
+		return SplitSectionKey(override)
 	end
 end
 
 function mod:AssignItems(section, category, ...)
-	local key = section and category and (section..'#'..category) or nil
+	local key = section and BuildSectionKey(section, category) or nil
 	for i = 1, select('#', ...) do
 		local itemId = select(i, ...)
 		mod.db.profile.overrides[itemId] = key
@@ -112,8 +136,13 @@ function mod:GetOptions()
 			for itemId in pairs(self.values) do
 				tinsert(t, itemId)
 			end
-			if #t > 0 then
-				mod:AssignItems(section, category, unpack(t))
+			local n = #t
+			if n > 0 then
+				-- Filter with a lot of items will cause some upvalue errors in CallbackHandler
+				-- so assign items by batches of 20
+				for i = 1, n, 20 do
+					mod:AssignItems(section, category, unpack(t, i, min(i + 19, n)))
+				end
 				wipe(t)
 				mod:UpdateOptions(self.category, category)
 			end
@@ -208,7 +237,7 @@ function mod:GetOptions()
 		end
 		wipe(categories)
 		for itemId, override in pairs(self.db.profile.overrides) do
-			local section, category = strsplit('#', tostring(override))
+			local section, category = SplitSectionKey(override)
 			local categoryGroup = categories[category]
 			if not categoryGroup then
 				categoryGroup = tremove(categoryHeap)
@@ -310,13 +339,100 @@ function mod:GetOptions()
 end
 
 --------------------------------------------------------------------------------
+-- Section header menu
+--------------------------------------------------------------------------------
+
+local FilterDropDownMenu_Initialize
+do
+	local function Assign(_, key, itemId, checked)
+		local section, category = SplitSectionKey(key)
+		if checked then
+			mod:AssignItems(nil, nil, itemId)
+		else
+			mod:AssignItems(section, category, itemId)
+		end
+		ClearCursor()
+	end
+
+	local function NewSection(_, key, itemId)
+		local section, category = SplitSectionKey(key)
+		mod:OpenOptions()
+		mod:OptionPreselectItem(section, category, itemId)
+		ClearCursor()
+	end
+
+	local info = {}
+	local sections = {}
+	function FilterDropDownMenu_Initialize(self, level)
+		if not level then return end
+
+		local itemId, header = self.itemId, self.header
+		local container = header.section.container
+
+		-- Title
+		wipe(info)
+		info.isTitle = true
+		local _, link = GetItemInfo(itemId)
+		info.text =  format(L['Assign %s to ...'], link)
+		info.notCheckable = true
+		UIDropDownMenu_AddButton(info, level)
+
+		-- Get section from
+		wipe(sections)
+		container:GetSectionKeys(true, sections)
+
+		-- Add customized sections
+		for id, key in pairs(mod.db.profile.overrides) do
+			if not sections[key] then
+				sections[key] = true
+				tinsert(sections, key)
+			end
+		end
+
+		-- Sort sections
+		tsort(sections, addon.CompareSectionKeys)
+
+		-- Build the section list
+		local itemKey = mod.db.profile.overrides[itemId]
+		for i, key in ipairs(sections) do
+			local _, _, name, category, title = container:GetSectionInfo(key)
+			if name ~= L["Free space"] then
+				-- Add an radio button for each section
+				wipe(info)
+				info.text = title
+				info.checked = (itemKey == key)
+				info.arg1 = key
+				info.arg2 = itemId
+				info.func = Assign
+				UIDropDownMenu_AddButton(info, level)
+			end
+		end
+
+		-- New section
+		wipe(info)
+		info.notCheckable = true
+		info.text = L['New section']
+		info.arg1 = BuildSectionKey(header.section.name, header.section.category)
+		info.arg2 = itemId
+		info.func = NewSection
+		UIDropDownMenu_AddButton(info, level)
+
+		-- Close
+		wipe(info)
+		info.notCheckable = true
+		info.text = CLOSE
+		UIDropDownMenu_AddButton(info, level)
+	end
+end
+
+--------------------------------------------------------------------------------
 -- Section header hooks
 --------------------------------------------------------------------------------
 
 function mod:OnTooltipUpdateSectionHeader(_, header, tooltip)
 	if GetCursorInfo() == "item" then
 		tooltip:AddLine(L["Drop your item there to add it to this section."])
-		tooltip:AddLine(L["Press Alt while doing so to open the configuration panel instead."])
+		tooltip:AddLine(L["Press Alt while doing so to open a dropdown menu."])
 	elseif header.section:GetKey() ~= JUNK_KEY then
 		tooltip:AddLine(L["Alt-right-click to configure manual filtering."])
 	end
@@ -330,17 +446,26 @@ function mod:OnClickSectionHeader(_, header, button)
 	end
 end
 
+local dropdownFrame
 function mod:OnReceiveDragSectionHeader(_, header)
 	local contentType, itemId = GetCursorInfo()
 	if contentType == "item" then
 		if IsAltKeyDown() then
-			self:OpenOptions()
-			self:OptionPreselectItem(header.section.name, header.section.category, itemId)
+			if not dropdownFrame then
+				dropdownFrame = CreateFrame("Frame", addonName.."FilterOverrideDropDownMenu")
+				dropdownFrame.displayMode = "MENU"
+				dropdownFrame.initialize = FilterDropDownMenu_Initialize
+				dropdownFrame.point = "BOTTOMRIGHT"
+				dropdownFrame.relativePoint = "BOTTOMLEFT"
+			end
+			dropdownFrame.header = header
+			dropdownFrame.itemId = itemId
+			ToggleDropDownMenu(1, nil, dropdownFrame, 'cursor')
 		else
 			self:AssignItems(header.section.name, header.section.category, itemId)
 			self:UpdateOptions()
+			ClearCursor()
 		end
-		ClearCursor()
 	end
 end
 

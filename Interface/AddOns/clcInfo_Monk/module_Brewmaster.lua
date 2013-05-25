@@ -331,7 +331,7 @@ local actions  = {
 
 ------------------------------------- Register the spec module ---------------------------------------------
 -- Remember to update the version if  GetDefaultTemplateDB gets new fields or some are removed / renamed
-local moduleVersion = 25
+local moduleVersion = 26
 local specMod = classModule:RegisterSpecModule(1, actions, moduleVersion)
 classModule.InjectSpecModuleShared(specMod)
 
@@ -376,6 +376,15 @@ end
 -- TODO-munkay: collapse into one bar so you dont have to stack the bars on top of each other
 function specMod:RegisterBehaviorTemplates()
 	self:AddBehaviorTemplate(ElusiveBrew, "return ElusiveBrewIcon()")
+	
+	self:AddBehaviorTemplate(bmSpells["Breath of Fire"])
+	self:AddBehaviorTemplate(bmSpells["Shuffle"])
+	self:AddBehaviorTemplate(bmSpells["Keg Smash"])
+	self:AddBehaviorTemplate(bmSpells["Light Stagger"])
+	self:AddBehaviorTemplate(bmSpells["Moderate Stagger"])
+	self:AddBehaviorTemplate(bmSpells["Heavy Stagger"])
+	self:AddBehaviorTemplate(bmSpells["Purifying Brew"])
+	self:AddBehaviorTemplate(bmSpells["Guard"])
 
 	local name = LightStagger
 	self:AddBehaviorTemplate(

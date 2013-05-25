@@ -26,6 +26,7 @@ local select = _G.select
 local setmetatable = _G.setmetatable
 local strjoin = _G.strjoin
 local strmatch = _G.strmatch
+local strsplit = _G.strsplit
 local tonumber = _G.tonumber
 local tostring = _G.tostring
 local type = _G.type
@@ -180,6 +181,43 @@ local JUNK = addon.BI['Junk']
 function addon:IsJunk(itemId)
 	local _, _, quality, _, _, class, subclass = GetItemInfo(itemId)
 	return quality == ITEM_QUALITY_POOR or (quality and quality < ITEM_QUALITY_UNCOMMON and (class == JUNK or subclass == JUNK))
+end
+
+--------------------------------------------------------------------------------
+-- Convert (name, category) pair to section key and conversely
+--------------------------------------------------------------------------------
+
+local function BuildSectionKey(name, category)
+	if name ~= nil then
+		return strjoin('#', tostring(category or name), tostring(name))
+	end
+end
+addon.BuildSectionKey = BuildSectionKey
+
+local function SplitSectionKey(key)
+	if key ~= nil then
+		local category, name = strsplit('#', tostring(key))
+		return name or category, category
+	end
+end
+addon.SplitSectionKey = SplitSectionKey
+
+function addon.CompareSectionKeys(a, b)
+	if a and b then
+		local nameA, catA = SplitSectionKey(a)
+		local nameB, catB = SplitSectionKey(b)
+		local orderA = addon:GetCategoryOrder(catA)
+		local orderB = addon:GetCategoryOrder(catB)
+		if orderA == orderB then
+			if catA == catB then
+				return nameA < nameB
+			else
+				return catA < catB
+			end
+		else
+			return orderA > orderB
+		end
+	end
 end
 
 --------------------------------------------------------------------------------

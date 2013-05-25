@@ -258,7 +258,7 @@ local function GetOptions()
 		name = addonName..' DEV',
 		--@end-debug@]===]
 		--@non-debug@
-		name = addonName..' v1.6.4',
+		name = addonName..' v1.6.5',
 		--@end-non-debug@
 		type = 'group',
 		handler = addon:GetOptionHandler(addon),
@@ -291,6 +291,12 @@ local function GetOptions()
 						type = 'multiselect',
 						order = 90,
 						values = bagList,
+					},
+					autoOpen = {
+						name = L["Open automatically"],
+						desc = L["Automatically open the bags at merchant's, bank, ..."],
+						type = 'toggle',
+						order = 95,
 					},
 					positionMode = {
 						name = L['Position mode'],
@@ -382,6 +388,7 @@ local function GetOptions()
 							[0] = L['As soon as possible'],
 							[1] = L["Not at merchants', bank, ..."],
 							[2] = L['Only when required'],
+							[3] = L['Never'],
 						}
 					},
 				},

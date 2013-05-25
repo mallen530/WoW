@@ -5,20 +5,20 @@ RecountPerCharDB = {
 		["Voracious Virmen <Brimtok>"] = {
 			["GUID"] = "0xF130EA87000341EC",
 			["LastEventHealth"] = {
-				"317531 (80%)", -- [1]
-				"317531 (80%)", -- [2]
-				"308943 (78%)", -- [3]
-				"294351 (74%)", -- [4]
-				"285525 (72%)", -- [5]
-				"285525 (72%)", -- [6]
-				"238208 (60%)", -- [7]
-				"238208 (60%)", -- [8]
-				"229490 (58%)", -- [9]
-				"229490 (58%)", -- [10]
-				"199430 (50%)", -- [11]
-				"191051 (48%)", -- [12]
-				"176171 (44%)", -- [13]
-				"176171 (44%)", -- [14]
+				"180681 (45%)", -- [1]
+				"180681 (45%)", -- [2]
+				"174779 (44%)", -- [3]
+				"159424 (40%)", -- [4]
+				"159424 (40%)", -- [5]
+				"149713 (38%)", -- [6]
+				"139044 (35%)", -- [7]
+				"98800 (25%)", -- [8]
+				"68149 (17%)", -- [9]
+				"68149 (17%)", -- [10]
+				"11752 (2%)", -- [11]
+				"11752 (2%)", -- [12]
+				"770 (0%)", -- [13]
+				"0 (0%)", -- [14]
 				"138340 (35%)", -- [15]
 				"115159 (29%)", -- [16]
 				"115159 (29%)", -- [17]
@@ -32,29 +32,29 @@ RecountPerCharDB = {
 				"35325 (8%)", -- [25]
 				"1 (0%)", -- [26]
 				"0 (0%)", -- [27]
-				"227102 (57%)", -- [28]
-				"193935 (49%)", -- [29]
-				"187689 (47%)", -- [30]
-				"187689 (47%)", -- [31]
-				"177380 (45%)", -- [32]
-				"160486 (40%)", -- [33]
-				"139424 (35%)", -- [34]
-				"139424 (35%)", -- [35]
-				"109876 (27%)", -- [36]
-				"88641 (22%)", -- [37]
-				"63965 (16%)", -- [38]
-				"63965 (16%)", -- [39]
-				"527 (0%)", -- [40]
-				"527 (0%)", -- [41]
-				"0 (0%)", -- [42]
-				"???", -- [43]
-				"393941 (100%)", -- [44]
-				"377065 (95%)", -- [45]
-				"370309 (94%)", -- [46]
-				"370309 (94%)", -- [47]
-				"355717 (90%)", -- [48]
-				"347939 (88%)", -- [49]
-				"324887 (82%)", -- [50]
+				"393941 (100%)", -- [28]
+				"393941 (100%)", -- [29]
+				"384230 (97%)", -- [30]
+				"370744 (94%)", -- [31]
+				"364344 (92%)", -- [32]
+				"364344 (92%)", -- [33]
+				"357269 (90%)", -- [34]
+				"347558 (88%)", -- [35]
+				"341307 (86%)", -- [36]
+				"341307 (86%)", -- [37]
+				"333646 (84%)", -- [38]
+				"318610 (80%)", -- [39]
+				"318610 (80%)", -- [40]
+				"308899 (78%)", -- [41]
+				"289727 (73%)", -- [42]
+				"274550 (69%)", -- [43]
+				"266966 (67%)", -- [44]
+				"266966 (67%)", -- [45]
+				"250885 (63%)", -- [46]
+				"241174 (61%)", -- [47]
+				"235271 (59%)", -- [48]
+				"227627 (57%)", -- [49]
+				"227627 (57%)", -- [50]
 			},
 			["LastEventType"] = {
 				"DAMAGE", -- [1]
@@ -70,7 +70,7 @@ RecountPerCharDB = {
 				"DAMAGE", -- [11]
 				"DAMAGE", -- [12]
 				"DAMAGE", -- [13]
-				"DAMAGE", -- [14]
+				"MISC", -- [14]
 				"DAMAGE", -- [15]
 				"DAMAGE", -- [16]
 				"DAMAGE", -- [17]
@@ -98,7 +98,7 @@ RecountPerCharDB = {
 				"DAMAGE", -- [39]
 				"DAMAGE", -- [40]
 				"DAMAGE", -- [41]
-				"MISC", -- [42]
+				"DAMAGE", -- [42]
 				"DAMAGE", -- [43]
 				"DAMAGE", -- [44]
 				"DAMAGE", -- [45]
@@ -110,16 +110,16 @@ RecountPerCharDB = {
 			},
 			["TimeWindows"] = {
 				["TimeDamage"] = {
-					164.93, -- [1]
+					182.45, -- [1]
 				},
 				["DeathCount"] = {
-					10, -- [1]
+					11, -- [1]
 				},
 				["FDamage"] = {
-					228297, -- [1]
+					244233, -- [1]
 				},
 				["ActiveTime"] = {
-					164.93, -- [1]
+					182.45, -- [1]
 				},
 			},
 			["enClass"] = "PET",
@@ -127,19 +127,19 @@ RecountPerCharDB = {
 			["level"] = 1,
 			["LastFightIn"] = 8,
 			["LastEventNum"] = {
-				nil, -- [1]
-				2.180021881449253, -- [2]
-				2.240437019756766, -- [3]
-				3.704107975559792, -- [4]
+				10.0083515044131, -- [1]
+				3.897791801310349, -- [2]
+				1.498193891978748, -- [3]
+				2.708273573961583, -- [4]
 				nil, -- [5]
-				4.380605217532574, -- [6]
-				7.630584275310262, -- [7]
-				2.213021746911339, -- [8]
-				nil, -- [9]
-				2.126968251590975, -- [10]
-				7.630584275310262, -- [11]
-				3.777215369814261, -- [12]
-				2.222921706549966, -- [13]
+				2.465089950017896, -- [6]
+				6.28241284862454, -- [7]
+				10.21574296658637, -- [8]
+				1.498193891978748, -- [9]
+				2.787727096189531, -- [10]
+				14.31610317281014, -- [11]
+				nil, -- [12]
+				2.680350610878279, -- [13]
 				nil, -- [14]
 				9.603214694586246, -- [15]
 				3.661461995578018, -- [16]
@@ -154,48 +154,46 @@ RecountPerCharDB = {
 				nil, -- [25]
 				11.41389192797906, -- [26]
 				nil, -- [27]
-				5.045933274272036, -- [28]
-				8.419281059854141, -- [29]
-				nil, -- [30]
-				4.288459439357671, -- [31]
-				2.616889331143496, -- [32]
-				5.346485895095966, -- [33]
-				2.454682300141392, -- [34]
-				nil, -- [35]
-				5.045933274272036, -- [36]
-				5.390401100672436, -- [37]
-				6.263882154941983, -- [38]
-				2.974557103728731, -- [39]
-				13.12886955153183, -- [40]
-				5.328716736770227, -- [41]
-				nil, -- [42]
-				nil, -- [43]
-				1.714977623552766, -- [44]
-				4.283890227216766, -- [45]
-				nil, -- [46]
-				1.974407335108557, -- [47]
-				3.704107975559792, -- [48]
-				1.867284694916244, -- [49]
-				5.851637681784836, -- [50]
+				nil, -- [28]
+				3.423355274013114, -- [29]
+				2.465089950017896, -- [30]
+				1.624608761210435, -- [31]
+				1.795954216494348, -- [32]
+				nil, -- [33]
+				1.586785838488505, -- [34]
+				2.465089950017896, -- [35]
+				1.944707456192679, -- [36]
+				nil, -- [37]
+				3.816815208368766, -- [38]
+				3.852607370139183, -- [39]
+				nil, -- [40]
+				2.465089950017896, -- [41]
+				4.866718620301009, -- [42]
+				1.925161382034366, -- [43]
+				4.082083357660157, -- [44]
+				[46] = 1.940392089170713,
+				[48] = 1.498447737097687,
+				[47] = 2.465089950017896,
+				[49] = 1.908661449303322,
 			},
 			["type"] = "Pet",
 			["FightsSaved"] = 1,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 			["LastEventTimes"] = {
-				201464.749, -- [1]
-				201465.167, -- [2]
-				201466.113, -- [3]
-				201466.532, -- [4]
-				201466.781, -- [5]
-				201467.043, -- [6]
-				201467.571, -- [7]
-				201467.972, -- [8]
-				201468.797, -- [9]
-				201468.924, -- [10]
-				201469.513, -- [11]
-				201469.854, -- [12]
-				201470.8, -- [13]
-				201470.8, -- [14]
+				276521.001, -- [1]
+				276521.396, -- [2]
+				276522.11, -- [3]
+				276522.47, -- [4]
+				276522.922, -- [5]
+				276522.922, -- [6]
+				276523.359, -- [7]
+				276523.359, -- [8]
+				276524.183, -- [9]
+				276524.366, -- [10]
+				276524.566, -- [11]
+				276524.924, -- [12]
+				276525.298, -- [13]
+				276525.814, -- [14]
 				201470.8, -- [15]
 				201471.59, -- [16]
 				201471.746, -- [17]
@@ -209,32 +207,308 @@ RecountPerCharDB = {
 				201474.793, -- [25]
 				201475.229, -- [26]
 				201475.625, -- [27]
-				116391.931, -- [28]
-				116391.931, -- [29]
-				116392.16, -- [30]
-				116392.16, -- [31]
-				116392.67, -- [32]
-				116393.107, -- [33]
-				116394.086, -- [34]
-				116394.086, -- [35]
-				116394.662, -- [36]
-				116394.662, -- [37]
-				116394.662, -- [38]
-				116395.057, -- [39]
-				116395.585, -- [40]
-				116396.007, -- [41]
-				116396.589, -- [42]
-				201461.126, -- [43]
-				201462.286, -- [44]
-				201462.286, -- [45]
-				201462.771, -- [46]
-				201463.158, -- [47]
-				201463.548, -- [48]
-				201464.193, -- [49]
-				201464.364, -- [50]
+				276510.895, -- [28]
+				276510.895, -- [29]
+				276510.895, -- [30]
+				276511.876, -- [31]
+				276512.839, -- [32]
+				276512.839, -- [33]
+				276513.731, -- [34]
+				276513.884, -- [35]
+				276514.693, -- [36]
+				276514.816, -- [37]
+				276515.713, -- [38]
+				276516.67, -- [39]
+				276516.899, -- [40]
+				276516.899, -- [41]
+				276516.899, -- [42]
+				276517.655, -- [43]
+				276518.504, -- [44]
+				276518.922, -- [45]
+				276519.561, -- [46]
+				276519.902, -- [47]
+				276520.162, -- [48]
+				276520.519, -- [49]
+				276520.892, -- [50]
 			},
 			["Owner"] = "Brimtok",
 			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						-14.91899999999441, -- [1]
+						-14.91899999999441, -- [2]
+						-14.91899999999441, -- [3]
+						-13.93800000002375, -- [4]
+						-12.97500000003493, -- [5]
+						-12.97500000003493, -- [6]
+						-12.08299999998417, -- [7]
+						-11.92999999999302, -- [8]
+						-11.12099999998463, -- [9]
+						-10.99800000002142, -- [10]
+						-10.10100000002421, -- [11]
+						-9.144000000029337, -- [12]
+						-8.914999999979045, -- [13]
+						-8.914999999979045, -- [14]
+						-8.914999999979045, -- [15]
+						-8.158999999985099, -- [16]
+						-7.309999999997672, -- [17]
+						-6.891999999992549, -- [18]
+						-6.253000000026077, -- [19]
+						-5.912000000011176, -- [20]
+						-5.652000000001863, -- [21]
+						-5.294999999983702, -- [22]
+						-4.922000000020489, -- [23]
+						-4.813000000023749, -- [24]
+						-4.418000000005122, -- [25]
+						-3.704000000027008, -- [26]
+						-3.343999999982771, -- [27]
+						-2.891999999992549, -- [28]
+						-2.891999999992549, -- [29]
+						-2.455000000016298, -- [30]
+						-2.455000000016298, -- [31]
+						-1.630999999993946, -- [32]
+						-1.448000000033062, -- [33]
+						-1.24800000002142, -- [34]
+						-0.8900000000139698, -- [35]
+						-0.5160000000032596, -- [36]
+						0, -- [37]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						false, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						false, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						false, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						false, -- [35]
+						true, -- [36]
+						true, -- [37]
+					},
+					["Messages"] = {
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2516 (Physical)", -- [1]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -13486 (Physical)", -- [2]
+						"Brimtok Rake Voracious Virmen <Brimtok> Hit -9711 (Physical)", -- [3]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -6400 (Physical)", -- [4]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -7075 (Physical)", -- [5]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2449 (Physical)", -- [6]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -6251 (Physical)", -- [7]
+						"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [8]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -7661 (Physical)", -- [9]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2213 (Physical)", -- [10]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -15036 (Physical)", -- [11]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -15177 (Physical)", -- [12]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -1792 (Physical)", -- [13]
+						"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [14]
+						"Brimtok Mangle Voracious Virmen <Brimtok> Hit -19172 (Physical)", -- [15]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -7584 (Physical)", -- [16]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -16081 (Physical)", -- [17]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2486 (Physical)", -- [18]
+						"Brimtok Melee Voracious Virmen <Brimtok> Glancing -7644 (Physical)", -- [19]
+						"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [20]
+						"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5903 (Physical)", -- [21]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -7519 (Physical)", -- [22]
+						"Voracious Virmen <Brimtok> Melee Brimtok Dodge", -- [23]
+						"Brimtok Ravage! Voracious Virmen <Brimtok> Hit -39427 (Physical)", -- [24]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -15355 (Physical)", -- [25]
+						"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5902 (Physical)", -- [26]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -10669 (Physical)", -- [27]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2430 (Physical)", -- [28]
+						"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [29]
+						"Brimtok Melee Voracious Virmen <Brimtok> Crit -24749 (Physical)", -- [30]
+						"Brimtok Rake Voracious Virmen <Brimtok> Crit -40244 (Physical)", -- [31]
+						"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5902 (Physical)", -- [32]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -10982 (Physical)", -- [33]
+						"Brimtok Mangle Voracious Virmen <Brimtok> Crit -56397 (Physical)", -- [34]
+						"Voracious Virmen <Brimtok> Melee Brimtok Hit -2050 (Physical)", -- [35]
+						"Brimtok Melee Voracious Virmen <Brimtok> Hit -10559 (Physical)", -- [36]
+						"Voracious Virmen <Brimtok> dies.", -- [37]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						97.5349100499821, -- [3]
+						94.11155477596898, -- [4]
+						92.48694601475856, -- [5]
+						92.48694601475856, -- [6]
+						90.69099179826421, -- [7]
+						88.22590184824631, -- [8]
+						86.6391160097578, -- [9]
+						86.6391160097578, -- [10]
+						84.69440855356513, -- [11]
+						80.87759334519636, -- [12]
+						80.87759334519636, -- [13]
+						78.41250339517846, -- [14]
+						73.54578477487746, -- [15]
+						69.69317740473828, -- [16]
+						67.7680160227039, -- [17]
+						67.7680160227039, -- [18]
+						63.68593266504375, -- [19]
+						61.22084271502585, -- [20]
+						59.72239497792817, -- [21]
+						57.78200288875745, -- [22]
+						57.78200288875745, -- [23]
+						45.86498993504103, -- [24]
+						45.86498993504103, -- [25]
+						44.36679604306229, -- [26]
+						40.46900424175194, -- [27]
+						40.46900424175194, -- [28]
+						38.00391429173404, -- [29]
+						35.29564071777246, -- [30]
+						25.07989775118609, -- [31]
+						17.2992910105828, -- [32]
+						17.2992910105828, -- [33]
+						2.983187837772662, -- [34]
+						2.983187837772662, -- [35]
+						0.1954607415831305, -- [36]
+						0, -- [37]
+					},
+					["DeathAt"] = 1369455576,
+					["EventNum"] = {
+						0, -- [1]
+						3.423355274013114, -- [2]
+						2.465089950017896, -- [3]
+						1.624608761210435, -- [4]
+						1.795954216494348, -- [5]
+						0, -- [6]
+						1.586785838488505, -- [7]
+						2.465089950017896, -- [8]
+						1.944707456192679, -- [9]
+						0, -- [10]
+						3.816815208368766, -- [11]
+						3.852607370139183, -- [12]
+						0, -- [13]
+						2.465089950017896, -- [14]
+						4.866718620301009, -- [15]
+						1.925161382034366, -- [16]
+						4.082083357660157, -- [17]
+						0, -- [18]
+						1.940392089170713, -- [19]
+						2.465089950017896, -- [20]
+						1.498447737097687, -- [21]
+						1.908661449303322, -- [22]
+						0, -- [23]
+						10.0083515044131, -- [24]
+						3.897791801310349, -- [25]
+						1.498193891978748, -- [26]
+						2.708273573961583, -- [27]
+						0, -- [28]
+						2.465089950017896, -- [29]
+						6.28241284862454, -- [30]
+						10.21574296658637, -- [31]
+						1.498193891978748, -- [32]
+						2.787727096189531, -- [33]
+						14.31610317281014, -- [34]
+						0, -- [35]
+						2.680350610878279, -- [36]
+						0, -- [37]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"393941 (100%)", -- [2]
+						"384230 (97%)", -- [3]
+						"370744 (94%)", -- [4]
+						"364344 (92%)", -- [5]
+						"364344 (92%)", -- [6]
+						"357269 (90%)", -- [7]
+						"347558 (88%)", -- [8]
+						"341307 (86%)", -- [9]
+						"341307 (86%)", -- [10]
+						"333646 (84%)", -- [11]
+						"318610 (80%)", -- [12]
+						"318610 (80%)", -- [13]
+						"308899 (78%)", -- [14]
+						"289727 (73%)", -- [15]
+						"274550 (69%)", -- [16]
+						"266966 (67%)", -- [17]
+						"266966 (67%)", -- [18]
+						"250885 (63%)", -- [19]
+						"241174 (61%)", -- [20]
+						"235271 (59%)", -- [21]
+						"227627 (57%)", -- [22]
+						"227627 (57%)", -- [23]
+						"180681 (45%)", -- [24]
+						"180681 (45%)", -- [25]
+						"174779 (44%)", -- [26]
+						"159424 (40%)", -- [27]
+						"159424 (40%)", -- [28]
+						"149713 (38%)", -- [29]
+						"139044 (35%)", -- [30]
+						"98800 (25%)", -- [31]
+						"68149 (17%)", -- [32]
+						"68149 (17%)", -- [33]
+						"11752 (2%)", -- [34]
+						"11752 (2%)", -- [35]
+						"770 (0%)", -- [36]
+						"0 (0%)", -- [37]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"MISC", -- [37]
+					},
+				}, -- [1]
 				{
 					["MessageTimes"] = {
 						-14.49899999998161, -- [1]
@@ -496,7 +770,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [34]
 						"MISC", -- [35]
 					},
-				}, -- [1]
+				}, -- [2]
 				{
 					["MessageTimes"] = {
 						747692.8489999999, -- [1]
@@ -863,7 +1137,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [49]
 						"MISC", -- [50]
 					},
-				}, -- [2]
+				}, -- [3]
 				{
 					["MessageTimes"] = {
 						-14.78100000007544, -- [1]
@@ -1041,7 +1315,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [22]
 						"MISC", -- [23]
 					},
-				}, -- [3]
+				}, -- [4]
 				{
 					["MessageTimes"] = {
 						-13.98499999998603, -- [1]
@@ -1317,7 +1591,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [36]
 						"MISC", -- [37]
 					},
-				}, -- [4]
+				}, -- [5]
 				{
 					["MessageTimes"] = {
 						-14.82800000009593, -- [1]
@@ -1600,7 +1874,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [37]
 						"MISC", -- [38]
 					},
-				}, -- [5]
+				}, -- [6]
 				{
 					["MessageTimes"] = {
 						-14.39100000006147, -- [1]
@@ -1939,7 +2213,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [45]
 						"DAMAGE", -- [46]
 					},
-				}, -- [6]
+				}, -- [7]
 				{
 					["MessageTimes"] = {
 						-12.68799999996554, -- [1]
@@ -2299,7 +2573,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [48]
 						"DAMAGE", -- [49]
 					},
-				}, -- [7]
+				}, -- [8]
 				{
 					["MessageTimes"] = {
 						-13.04100000002654, -- [1]
@@ -2533,7 +2807,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [30]
 						"MISC", -- [31]
 					},
-				}, -- [8]
+				}, -- [9]
 				{
 					["MessageTimes"] = {
 						-9.89100000000326, -- [1]
@@ -2732,7 +3006,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [25]
 						"MISC", -- [26]
 					},
-				}, -- [9]
+				}, -- [10]
 				{
 					["MessageTimes"] = {
 						-12.49400000000605, -- [1]
@@ -2959,24 +3233,24 @@ RecountPerCharDB = {
 						"DAMAGE", -- [29]
 						"MISC", -- [30]
 					},
-				}, -- [10]
+				}, -- [11]
 			},
-			["NextEventNum"] = 28,
+			["NextEventNum"] = 15,
 			["LastEventHealthNum"] = {
-				80.60369446186104, -- [1]
-				80.60369446186104, -- [2]
-				78.42367258041179, -- [3]
-				74.719564604852, -- [4]
-				72.47912758509523, -- [5]
-				72.47912758509523, -- [6]
-				60.4679380922524, -- [7]
-				60.4679380922524, -- [8]
-				58.25491634534105, -- [9]
-				58.25491634534105, -- [10]
-				50.62433207003079, -- [11]
-				48.49736381843982, -- [12]
-				44.72014844862556, -- [13]
-				44.72014844862556, -- [14]
+				45.86498993504103, -- [1]
+				45.86498993504103, -- [2]
+				44.36679604306229, -- [3]
+				40.46900424175194, -- [4]
+				40.46900424175194, -- [5]
+				38.00391429173404, -- [6]
+				35.29564071777246, -- [7]
+				25.07989775118609, -- [8]
+				17.2992910105828, -- [9]
+				17.2992910105828, -- [10]
+				2.983187837772662, -- [11]
+				2.983187837772662, -- [12]
+				0.1954607415831305, -- [13]
+				0, -- [14]
 				35.11693375403931, -- [15]
 				29.23255005191133, -- [16]
 				29.23255005191133, -- [17]
@@ -2990,45 +3264,45 @@ RecountPerCharDB = {
 				8.967078826524784, -- [25]
 				0.0002538451189391305, -- [26]
 				0, -- [27]
-				57.64873420131441, -- [28]
-				49.22945314146027, -- [29]
-				47.64393652856646, -- [30]
-				47.64393652856646, -- [31]
-				45.02704719742297, -- [32]
-				40.73858775806529, -- [33]
-				35.39210186296933, -- [34]
-				35.39210186296933, -- [35]
-				27.8914862885559, -- [36]
-				22.50108518788347, -- [37]
-				16.23720303294148, -- [38]
-				16.23720303294148, -- [39]
-				0.1337763776809218, -- [40]
-				0.1337763776809218, -- [41]
-				0, -- [42]
-				0, -- [43]
-				100, -- [44]
-				95.71610977278323, -- [45]
-				94.00113214923047, -- [46]
-				94.00113214923047, -- [47]
-				90.29702417367068, -- [48]
-				88.32261683856213, -- [49]
-				82.47097915677729, -- [50]
+				100, -- [28]
+				100, -- [29]
+				97.5349100499821, -- [30]
+				94.11155477596898, -- [31]
+				92.48694601475856, -- [32]
+				92.48694601475856, -- [33]
+				90.69099179826421, -- [34]
+				88.22590184824631, -- [35]
+				86.6391160097578, -- [36]
+				86.6391160097578, -- [37]
+				84.69440855356513, -- [38]
+				80.87759334519636, -- [39]
+				80.87759334519636, -- [40]
+				78.41250339517846, -- [41]
+				73.54578477487746, -- [42]
+				69.69317740473828, -- [43]
+				67.7680160227039, -- [44]
+				67.7680160227039, -- [45]
+				63.68593266504375, -- [46]
+				61.22084271502585, -- [47]
+				59.72239497792817, -- [48]
+				57.78200288875745, -- [49]
+				57.78200288875745, -- [50]
 			},
 			["LastEvents"] = {
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -3278 (Physical)", -- [1]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -8588 (Physical)", -- [2]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -8826 (Physical)", -- [3]
-				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -14592 (Physical)", -- [4]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2625 (Physical)", -- [5]
-				"Brimtok Melee Voracious Virmen <Brimtok> Crit -17257 (Physical)", -- [6]
-				"Brimtok Rake Voracious Virmen <Brimtok> Crit -30060 (Physical)", -- [7]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -8718 (Physical)", -- [8]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -3172 (Physical)", -- [9]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -8379 (Physical)", -- [10]
-				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Crit -30060 (Physical)", -- [11]
-				"Brimtok Melee Voracious Virmen <Brimtok> Crit -14880 (Physical)", -- [12]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -8757 (Physical)", -- [13]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2883 (Physical)", -- [14]
+				"Brimtok Ravage! Voracious Virmen <Brimtok> Hit -39427 (Physical)", -- [1]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -15355 (Physical)", -- [2]
+				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5902 (Physical)", -- [3]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -10669 (Physical)", -- [4]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2430 (Physical)", -- [5]
+				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [6]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -24749 (Physical)", -- [7]
+				"Brimtok Rake Voracious Virmen <Brimtok> Crit -40244 (Physical)", -- [8]
+				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5902 (Physical)", -- [9]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -10982 (Physical)", -- [10]
+				"Brimtok Mangle Voracious Virmen <Brimtok> Crit -56397 (Physical)", -- [11]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2050 (Physical)", -- [12]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -10559 (Physical)", -- [13]
+				"Voracious Virmen <Brimtok> dies.", -- [14]
 				"Brimtok Ravage! Voracious Virmen <Brimtok> Hit -37831 (Physical)", -- [15]
 				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -14424 (Physical)", -- [16]
 				"Brimtok Melee Voracious Virmen <Brimtok> Crit -15690 (Physical)", -- [17]
@@ -3042,33 +3316,33 @@ RecountPerCharDB = {
 				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2763 (Physical)", -- [25]
 				"Brimtok Ferocious Bite Voracious Virmen <Brimtok> Crit -44964 (Physical)", -- [26]
 				"Voracious Virmen <Brimtok> dies.", -- [27]
-				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Crit -19878 (Physical)", -- [28]
-				"Brimtok Ravage! Voracious Virmen <Brimtok> Hit -33167 (Physical)", -- [29]
-				"Voracious Virmen <Brimtok> Melee Brimtok Crit -5171 (Physical)", -- [30]
-				"Brimtok Melee Voracious Virmen <Brimtok> Crit -16894 (Physical)", -- [31]
-				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -10309 (Physical)", -- [32]
-				"Brimtok Melee Voracious Virmen <Brimtok> Crit -21062 (Physical)", -- [33]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -9670 (Physical)", -- [34]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2649 (Physical)", -- [35]
-				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Crit -19878 (Physical)", -- [36]
-				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Crit -21235 (Physical)", -- [37]
-				"Brimtok Mangle Voracious Virmen <Brimtok> Hit -24676 (Physical)", -- [38]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -11718 (Physical)", -- [39]
-				"Brimtok Mangle Voracious Virmen <Brimtok> Crit -51720 (Physical)", -- [40]
-				"Brimtok Melee Voracious Virmen <Brimtok> Crit -20992 (Physical)", -- [41]
-				"Voracious Virmen <Brimtok> dies.", -- [42]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2822 (Physical)", -- [43]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -6756 (Physical)", -- [44]
-				"Brimtok Mangle Voracious Virmen <Brimtok> Hit -16876 (Physical)", -- [45]
-				"Voracious Virmen <Brimtok> Melee Brimtok Hit -3112 (Physical)", -- [46]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7778 (Physical)", -- [47]
-				"Brimtok Rake Voracious Virmen <Brimtok> Hit -14592 (Physical)", -- [48]
-				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7356 (Physical)", -- [49]
-				"Brimtok Mangle Voracious Virmen <Brimtok> Hit -23052 (Physical)", -- [50]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2516 (Physical)", -- [28]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -13486 (Physical)", -- [29]
+				"Brimtok Rake Voracious Virmen <Brimtok> Hit -9711 (Physical)", -- [30]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -6400 (Physical)", -- [31]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7075 (Physical)", -- [32]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2449 (Physical)", -- [33]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -6251 (Physical)", -- [34]
+				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [35]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7661 (Physical)", -- [36]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2213 (Physical)", -- [37]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -15036 (Physical)", -- [38]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -15177 (Physical)", -- [39]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -1792 (Physical)", -- [40]
+				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [41]
+				"Brimtok Mangle Voracious Virmen <Brimtok> Hit -19172 (Physical)", -- [42]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7584 (Physical)", -- [43]
+				"Brimtok Melee Voracious Virmen <Brimtok> Crit -16081 (Physical)", -- [44]
+				"Voracious Virmen <Brimtok> Melee Brimtok Hit -2486 (Physical)", -- [45]
+				"Brimtok Melee Voracious Virmen <Brimtok> Glancing -7644 (Physical)", -- [46]
+				"Brimtok Rake (DoT) Voracious Virmen <Brimtok> Tick -9711 (Physical)", -- [47]
+				"Brimtok Rip (DoT) Voracious Virmen <Brimtok> Tick -5903 (Physical)", -- [48]
+				"Brimtok Melee Voracious Virmen <Brimtok> Hit -7519 (Physical)", -- [49]
+				"Voracious Virmen <Brimtok> Melee Brimtok Dodge", -- [50]
 			},
 			["Name"] = "Voracious Virmen",
 			["LastEventIncoming"] = {
-				false, -- [1]
+				true, -- [1]
 				true, -- [2]
 				true, -- [3]
 				true, -- [4]
@@ -3076,12 +3350,12 @@ RecountPerCharDB = {
 				true, -- [6]
 				true, -- [7]
 				true, -- [8]
-				false, -- [9]
+				true, -- [9]
 				true, -- [10]
 				true, -- [11]
-				true, -- [12]
+				false, -- [12]
 				true, -- [13]
-				false, -- [14]
+				true, -- [14]
 				true, -- [15]
 				true, -- [16]
 				true, -- [17]
@@ -3095,39 +3369,59 @@ RecountPerCharDB = {
 				false, -- [25]
 				true, -- [26]
 				true, -- [27]
-				true, -- [28]
+				false, -- [28]
 				true, -- [29]
-				false, -- [30]
+				true, -- [30]
 				true, -- [31]
 				true, -- [32]
-				true, -- [33]
+				false, -- [33]
 				true, -- [34]
-				false, -- [35]
+				true, -- [35]
 				true, -- [36]
-				true, -- [37]
+				false, -- [37]
 				true, -- [38]
 				true, -- [39]
-				true, -- [40]
+				false, -- [40]
 				true, -- [41]
 				true, -- [42]
-				false, -- [43]
+				true, -- [43]
 				true, -- [44]
-				true, -- [45]
-				false, -- [46]
+				false, -- [45]
+				true, -- [46]
 				true, -- [47]
 				true, -- [48]
 				true, -- [49]
-				true, -- [50]
+				false, -- [50]
 			},
 			["TimeLast"] = {
-				["DeathCount"] = 1367784331,
-				["FDamage"] = 1367784330,
-				["ActiveTime"] = 1367784330,
-				["OVERALL"] = 1367784331,
-				["TimeDamage"] = 1367784330,
+				["DeathCount"] = 1369455574,
+				["FDamage"] = 1369455573,
+				["ActiveTime"] = 1369455573,
+				["OVERALL"] = 1369455574,
+				["TimeDamage"] = 1369455573,
 			},
 			["Fights"] = {
 				["OverallData"] = {
+					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 182.45,
+								},
+							},
+							["amount"] = 182.45,
+						},
+					},
+					["FDamagedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 244233,
+								},
+							},
+							["amount"] = 244233,
+						},
+					},
 					["ElementHitsTaken"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -3138,6 +3432,67 @@ RecountPerCharDB = {
 							["amount"] = 2,
 						},
 					},
+					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5502,
+									["min"] = 4621,
+									["count"] = 5,
+									["amount"] = 25568,
+								},
+								["Hit"] = {
+									["max"] = 3278,
+									["min"] = 1792,
+									["count"] = 82,
+									["amount"] = 218665,
+								},
+							},
+							["count"] = 87,
+							["amount"] = 244233,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 15,
+								},
+								["Miss"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 11,
+					["FDamage"] = 244233,
+					["TimeDamage"] = 182.45,
+					["TimeDamaging"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 182.45,
+								},
+							},
+							["amount"] = 182.45,
+						},
+					},
+					["ActiveTime"] = 182.45,
 					["PartialAbsorb"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -3152,51 +3507,11 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 					},
-					["TimeSpent"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 164.93,
-								},
-							},
-							["amount"] = 164.93,
-						},
-					},
-					["FAttacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 5502,
-									["min"] = 4621,
-									["count"] = 5,
-									["amount"] = 25568,
-								},
-								["Hit"] = {
-									["max"] = 3278,
-									["min"] = 2009,
-									["count"] = 75,
-									["amount"] = 202729,
-								},
-							},
-							["count"] = 80,
-							["amount"] = 228297,
-						},
-					},
-					["FDamagedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 228297,
-								},
-							},
-							["amount"] = 228297,
-						},
-					},
 					["Attacks"] = {
 						["Melee"] = {
 							["Details"] = {
 								["Dodge"] = {
-									["count"] = 14,
+									["count"] = 15,
 									["amount"] = 0,
 								},
 								["Miss"] = {
@@ -3204,48 +3519,7 @@ RecountPerCharDB = {
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 10,
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 14,
-								},
-								["Miss"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 19,
-						},
-					},
-					["ActiveTime"] = 164.93,
-					["TimeDamaging"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 164.93,
-								},
-							},
-							["amount"] = 164.93,
-						},
-					},
-					["TimeDamage"] = 164.93,
-					["FDamage"] = 228297,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
+							["count"] = 20,
 							["amount"] = 0,
 						},
 					},
@@ -3301,7 +3575,7 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 1,
 					["FDamage"] = 20379,
-					["ActiveTime"] = 15.14,
+					["TimeDamage"] = 15.14,
 					["TimeDamaging"] = {
 						["Brimtok"] = {
 							["Details"] = {
@@ -3336,7 +3610,7 @@ RecountPerCharDB = {
 							["amount"] = 20379,
 						},
 					},
-					["TimeDamage"] = 15.14,
+					["ActiveTime"] = 15.14,
 				},
 				["CurrentFightData"] = {
 					["DOTs"] = {
@@ -3357,15 +3631,16 @@ RecountPerCharDB = {
 							["amount"] = 1,
 						},
 					},
-					["DeathCount"] = 9,
+					["DeathCount"] = 10,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -3378,10 +3653,10 @@ RecountPerCharDB = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 207918,
+									["count"] = 223854,
 								},
 							},
-							["amount"] = 207918,
+							["amount"] = 223854,
 						},
 					},
 					["FAttacks"] = {
@@ -3395,13 +3670,13 @@ RecountPerCharDB = {
 								},
 								["Hit"] = {
 									["max"] = 3278,
-									["min"] = 2009,
-									["count"] = 68,
-									["amount"] = 182350,
+									["min"] = 1792,
+									["count"] = 75,
+									["amount"] = 198286,
 								},
 							},
-							["count"] = 73,
-							["amount"] = 207918,
+							["count"] = 80,
+							["amount"] = 223854,
 						},
 					},
 					["RageGain"] = 0,
@@ -3409,18 +3684,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 14,
-								},
-								["Miss"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 19,
-						},
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -3428,34 +3692,17 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 149.79,
 					["PartialResist"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -3470,11 +3717,15 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 223854,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 167.31,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -3486,29 +3737,42 @@ RecountPerCharDB = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 149.79,
+									["count"] = 167.31,
 								},
 							},
-							["amount"] = 149.79,
+							["amount"] = 167.31,
 						},
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 207918,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 						["Melee"] = {
 							["Details"] = {
 								["Dodge"] = {
-									["count"] = 14,
+									["count"] = 15,
 									["amount"] = 0,
 								},
 								["Miss"] = {
@@ -3516,27 +3780,37 @@ RecountPerCharDB = {
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
+							["count"] = 20,
 							["amount"] = 0,
 						},
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 15,
+								},
+								["Miss"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 20,
+						},
 					},
-					["TimeDamage"] = 149.79,
+					["TimeDamage"] = 167.31,
 					["TimeDamaging"] = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 149.79,
+									["count"] = 167.31,
 								},
 							},
-							["amount"] = 149.79,
+							["amount"] = 167.31,
 						},
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -3591,7 +3865,7 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 1,
 					["FDamage"] = 20379,
-					["ActiveTime"] = 15.14,
+					["TimeDamage"] = 15.14,
 					["TimeDamaging"] = {
 						["Brimtok"] = {
 							["Details"] = {
@@ -3626,69 +3900,69 @@ RecountPerCharDB = {
 							["amount"] = 20379,
 						},
 					},
-					["TimeDamage"] = 15.14,
+					["ActiveTime"] = 15.14,
 				},
 			},
 			["UnitLockout"] = 1367784318,
-			["LastActive"] = 1367784330,
+			["LastActive"] = 1369455573,
 		},
 		["Squatting Virmen <Brimtok>"] = {
 			["GUID"] = "0xF530EB0E00174D14",
 			["LastEventHealth"] = {
-				"1 (0%)", -- [1]
-				"0 (0%)", -- [2]
-				"85248 (21%)", -- [3]
-				"68554 (17%)", -- [4]
-				"48323 (12%)", -- [5]
-				"41336 (10%)", -- [6]
-				"41336 (10%)", -- [7]
-				"20837 (5%)", -- [8]
-				"20837 (5%)", -- [9]
-				"7998 (2%)", -- [10]
-				"7998 (2%)", -- [11]
-				"1498 (0%)", -- [12]
-				"0 (0%)", -- [13]
-				"118182 (29%)", -- [14]
-				"111574 (28%)", -- [15]
-				"93590 (23%)", -- [16]
-				"93590 (23%)", -- [17]
-				"93590 (23%)", -- [18]
-				"85458 (21%)", -- [19]
-				"65652 (16%)", -- [20]
-				"65652 (16%)", -- [21]
-				"65652 (16%)", -- [22]
-				"57215 (14%)", -- [23]
-				"57215 (14%)", -- [24]
-				"47077 (11%)", -- [25]
-				"39568 (10%)", -- [26]
-				"39568 (10%)", -- [27]
-				"39568 (10%)", -- [28]
-				"23897 (6%)", -- [29]
-				"5260 (1%)", -- [30]
-				"5260 (1%)", -- [31]
-				"5260 (1%)", -- [32]
-				"1 (0%)", -- [33]
-				"0 (0%)", -- [34]
-				"100852 (25%)", -- [35]
-				"100852 (25%)", -- [36]
-				"100852 (25%)", -- [37]
-				"100852 (25%)", -- [38]
-				"100852 (25%)", -- [39]
-				"84394 (21%)", -- [40]
-				"84394 (21%)", -- [41]
-				"84394 (21%)", -- [42]
-				"84394 (21%)", -- [43]
-				"84394 (21%)", -- [44]
-				"43168 (10%)", -- [45]
-				"27988 (7%)", -- [46]
-				"27988 (7%)", -- [47]
-				"18935 (4%)", -- [48]
-				"18935 (4%)", -- [49]
-				"1 (0%)", -- [50]
+				"78954 (20%)", -- [1]
+				"78954 (20%)", -- [2]
+				"73120 (18%)", -- [3]
+				"73120 (18%)", -- [4]
+				"73120 (18%)", -- [5]
+				"73120 (18%)", -- [6]
+				"73120 (18%)", -- [7]
+				"73120 (18%)", -- [8]
+				"73120 (18%)", -- [9]
+				"73120 (18%)", -- [10]
+				"67285 (17%)", -- [11]
+				"67285 (17%)", -- [12]
+				"67285 (17%)", -- [13]
+				"67285 (17%)", -- [14]
+				"4646 (1%)", -- [15]
+				"4646 (1%)", -- [16]
+				"4646 (1%)", -- [17]
+				"4646 (1%)", -- [18]
+				"4646 (1%)", -- [19]
+				"1 (0%)", -- [20]
+				"1 (0%)", -- [21]
+				"1 (0%)", -- [22]
+				"0 (0%)", -- [23]
+				"37928 (9%)", -- [24]
+				"286 (0%)", -- [25]
+				"37928 (9%)", -- [26]
+				"37928 (9%)", -- [27]
+				"8400 (2%)", -- [28]
+				"8400 (2%)", -- [29]
+				"0 (0%)", -- [30]
+				"???", -- [31]
+				"118182 (29%)", -- [32]
+				"118182 (29%)", -- [33]
+				"105081 (26%)", -- [34]
+				"105081 (26%)", -- [35]
+				"105081 (26%)", -- [36]
+				"105081 (26%)", -- [37]
+				"105081 (26%)", -- [38]
+				"105081 (26%)", -- [39]
+				"105081 (26%)", -- [40]
+				"105081 (26%)", -- [41]
+				"105081 (26%)", -- [42]
+				"105081 (26%)", -- [43]
+				"96686 (24%)", -- [44]
+				"96686 (24%)", -- [45]
+				"96686 (24%)", -- [46]
+				"96686 (24%)", -- [47]
+				"96686 (24%)", -- [48]
+				"78954 (20%)", -- [49]
+				"78954 (20%)", -- [50]
 			},
 			["LastEventType"] = {
 				"DAMAGE", -- [1]
-				"MISC", -- [2]
+				"DAMAGE", -- [2]
 				"DAMAGE", -- [3]
 				"DAMAGE", -- [4]
 				"DAMAGE", -- [5]
@@ -3699,7 +3973,7 @@ RecountPerCharDB = {
 				"DAMAGE", -- [10]
 				"DAMAGE", -- [11]
 				"DAMAGE", -- [12]
-				"MISC", -- [13]
+				"DAMAGE", -- [13]
 				"DAMAGE", -- [14]
 				"DAMAGE", -- [15]
 				"DAMAGE", -- [16]
@@ -3709,18 +3983,18 @@ RecountPerCharDB = {
 				"DAMAGE", -- [20]
 				"DAMAGE", -- [21]
 				"DAMAGE", -- [22]
-				"DAMAGE", -- [23]
+				"MISC", -- [23]
 				"DAMAGE", -- [24]
 				"DAMAGE", -- [25]
 				"DAMAGE", -- [26]
 				"DAMAGE", -- [27]
 				"DAMAGE", -- [28]
 				"DAMAGE", -- [29]
-				"DAMAGE", -- [30]
-				"DAMAGE", -- [31]
+				"MISC", -- [30]
+				"MISC", -- [31]
 				"DAMAGE", -- [32]
 				"DAMAGE", -- [33]
-				"MISC", -- [34]
+				"DAMAGE", -- [34]
 				"DAMAGE", -- [35]
 				"DAMAGE", -- [36]
 				"DAMAGE", -- [37]
@@ -3740,235 +4014,213 @@ RecountPerCharDB = {
 			},
 			["TimeWindows"] = {
 				["ActiveTime"] = {
-					138.05, -- [1]
+					183.1800000000001, -- [1]
 				},
 				["DeathCount"] = {
-					15, -- [1]
+					18, -- [1]
 				},
 				["FDamage"] = {
-					212873, -- [1]
+					295753, -- [1]
 				},
 				["TimeDamage"] = {
-					138.05, -- [1]
+					183.1800000000001, -- [1]
 				},
 			},
 			["enClass"] = "PET",
-			["unit"] = "playertarget",
 			["level"] = 1,
 			["LastFightIn"] = 8,
 			["LastEventNum"] = {
 				nil, -- [1]
-				nil, -- [2]
-				4.237690415569844, -- [3]
-				1.773615846027705, -- [4]
-				5.135540601257548, -- [5]
+				1.481186269009826, -- [2]
+				1.480932423890887, -- [3]
+				1.480932423890887, -- [4]
+				nil, -- [5]
 				nil, -- [6]
-				1.459863279018939, -- [7]
-				3.743707814114296, -- [8]
-				3.259117482059496, -- [9]
-				nil, -- [10]
-				1.649993273104348, -- [11]
-				1.647454821914957, -- [12]
-				nil, -- [13]
-				1.677408545949774, -- [14]
-				1.991668803196418, -- [15]
-				2.573481815804905, -- [16]
-				2.064268507213009, -- [17]
-				nil, -- [18]
-				nil, -- [19]
-				5.027656425708418, -- [20]
-				nil, -- [21]
-				2.141691268489444, -- [22]
-				1.906122998113931, -- [23]
-				nil, -- [24]
-				2.573481815804905, -- [25]
-				nil, -- [26]
-				nil, -- [27]
-				3.978006858895114, -- [28]
-				nil, -- [29]
-				4.730911481668575, -- [30]
-				4.48417402605974, -- [31]
-				4.399135911215131, -- [32]
-				1.492609299362087, -- [33]
-				nil, -- [34]
-				nil, -- [35]
-				nil, -- [36]
-				nil, -- [37]
-				nil, -- [38]
-				3.875961121081583, -- [39]
-				4.177782967500209, -- [40]
-				nil, -- [41]
-				nil, -- [42]
-				nil, -- [43]
-				3.853368905496001, -- [44]
-				10.46501887338459, -- [45]
-				2.298059861755948, -- [46]
-				nil, -- [47]
-				nil, -- [48]
-				4.636481097423218, -- [49]
-				10.0771435316456, -- [50]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				1.480932423890887, -- [10]
+				1.481186269009826, -- [11]
+				1.481186269009826, -- [12]
+				6.48980431079781, -- [13]
+				6.660642075843844, -- [14]
+				15.90060440522819, -- [15]
+				[33] = 8.088774714995394,
+				[27] = 2.582366394967774,
+				[28] = 7.495538672034645,
+				[29] = 1.480932423890887,
+				[43] = 4.390251332052261,
+				[49] = 4.501181649028662,
+				[47] = 5.049233260818244,
+				[34] = 3.325624903221549,
+				[48] = 4.774318997007166,
+				[20] = 1.481186269009826,
+				[21] = 3.050964484529409,
+				[22] = 1.480932423890887,
+				[44] = 2.131029773494,
+				[42] = 4.390251332052261,
 			},
 			["type"] = "Pet",
 			["FightsSaved"] = 1,
-			["LastActive"] = 1367893162,
-			["UnitLockout"] = 1366842991,
+			["LastActive"] = 1369455429,
+			["UnitLockout"] = 1369455430,
 			["Owner"] = "Brimtok",
 			["LastEventTimes"] = {
-				310301.305, -- [1]
-				310301.305, -- [2]
-				310301.927, -- [3]
-				310302.891, -- [4]
-				310302.891, -- [5]
-				310303.302, -- [6]
-				310303.832, -- [7]
-				310304.576, -- [8]
-				310304.797, -- [9]
-				310305.3, -- [10]
-				310305.755, -- [11]
-				310306.72, -- [12]
-				310306.985, -- [13]
-				310285.249, -- [14]
-				310286.209, -- [15]
-				310286.474, -- [16]
-				310287.225, -- [17]
-				310287.225, -- [18]
-				310288.001, -- [19]
-				310288.001, -- [20]
-				310288.001, -- [21]
-				310288.13, -- [22]
-				310289.135, -- [23]
-				310289.259, -- [24]
-				310289.459, -- [25]
-				310289.992, -- [26]
-				310290.084, -- [27]
-				310290.084, -- [28]
-				310291.268, -- [29]
-				310291.518, -- [30]
-				310291.518, -- [31]
-				310291.518, -- [32]
-				310291.518, -- [33]
-				310291.706, -- [34]
-				310292.116, -- [35]
-				310293.267, -- [36]
-				310294.137, -- [37]
-				310295.253, -- [38]
-				310295.58, -- [39]
-				310295.58, -- [40]
-				310296.124, -- [41]
-				310297.279, -- [42]
-				310298.166, -- [43]
-				310298.306, -- [44]
-				310298.537, -- [45]
-				310299.225, -- [46]
-				310299.225, -- [47]
-				310300.092, -- [48]
-				310300.202, -- [49]
-				310300.961, -- [50]
+				276372.45, -- [1]
+				276372.574, -- [2]
+				276372.574, -- [3]
+				276372.574, -- [4]
+				276372.868, -- [5]
+				276373.5, -- [6]
+				276374.486, -- [7]
+				276374.951, -- [8]
+				276375.559, -- [9]
+				276375.559, -- [10]
+				276375.559, -- [11]
+				276375.559, -- [12]
+				276376.167, -- [13]
+				276376.167, -- [14]
+				276376.167, -- [15]
+				276376.465, -- [16]
+				276376.952, -- [17]
+				276377.419, -- [18]
+				276378.476, -- [19]
+				276378.57, -- [20]
+				276378.57, -- [21]
+				276378.57, -- [22]
+				276378.57, -- [23]
+				276378.914, -- [24]
+				276380.479, -- [25]
+				276380.974, -- [26]
+				276381.452, -- [27]
+				276381.452, -- [28]
+				276381.575, -- [29]
+				276381.76, -- [30]
+				276381.76, -- [31]
+				276364.393, -- [32]
+				276365.311, -- [33]
+				276365.311, -- [34]
+				276365.513, -- [35]
+				276366.45, -- [36]
+				276366.916, -- [37]
+				276367.525, -- [38]
+				276368.462, -- [39]
+				276368.974, -- [40]
+				276369.501, -- [41]
+				276369.501, -- [42]
+				276369.501, -- [43]
+				276369.501, -- [44]
+				276370.427, -- [45]
+				276370.971, -- [46]
+				276371.363, -- [47]
+				276371.363, -- [48]
+				276371.363, -- [49]
+				276371.519, -- [50]
 			},
-			["NextEventNum"] = 14,
+			["NextEventNum"] = 32,
 			["LastEventHealthNum"] = {
-				0.0002538451189391305, -- [1]
-				0, -- [2]
-				21.639788699323, -- [3]
-				17.40209828375315, -- [4]
-				12.2665576824956, -- [5]
-				10.4929418364679, -- [6]
-				10.4929418364679, -- [7]
-				5.289370743334662, -- [8]
-				5.289370743334662, -- [9]
-				2.030253261275166, -- [10]
-				2.030253261275166, -- [11]
-				0.3802599881708175, -- [12]
-				0, -- [13]
-				29.99992384646432, -- [14]
-				28.32251530051455, -- [15]
-				23.75736468151322, -- [16]
-				23.75736468151322, -- [17]
-				23.75736468151322, -- [18]
-				21.69309617430021, -- [19]
-				16.66543974859179, -- [20]
-				16.66543974859179, -- [21]
-				16.66543974859179, -- [22]
-				14.52374848010235, -- [23]
-				14.52374848010235, -- [24]
-				11.95026666429745, -- [25]
-				10.04414366618352, -- [26]
-				10.04414366618352, -- [27]
-				10.04414366618352, -- [28]
-				6.066136807288401, -- [29]
-				1.335225325619826, -- [30]
-				1.335225325619826, -- [31]
-				1.335225325619826, -- [32]
-				0.0002538451189391305, -- [33]
-				0, -- [34]
-				25.60078793524919, -- [35]
-				25.60078793524919, -- [36]
-				25.60078793524919, -- [37]
-				25.60078793524919, -- [38]
-				25.60078793524919, -- [39]
-				21.42300496774898, -- [40]
-				21.42300496774898, -- [41]
-				21.42300496774898, -- [42]
-				21.42300496774898, -- [43]
-				21.42300496774898, -- [44]
-				10.95798609436439, -- [45]
-				7.104617188868384, -- [46]
-				7.104617188868384, -- [47]
-				4.806557327112436, -- [48]
-				4.806557327112436, -- [49]
-				0.0002538451189391305, -- [50]
+				20.04208752072011, -- [1]
+				20.04208752072011, -- [2]
+				18.56115509682922, -- [3]
+				18.56115509682922, -- [4]
+				18.56115509682922, -- [5]
+				18.56115509682922, -- [6]
+				18.56115509682922, -- [7]
+				18.56115509682922, -- [8]
+				18.56115509682922, -- [9]
+				18.56115509682922, -- [10]
+				17.07996882781939, -- [11]
+				17.07996882781939, -- [12]
+				17.07996882781939, -- [13]
+				17.07996882781939, -- [14]
+				1.1793644225912, -- [15]
+				1.1793644225912, -- [16]
+				1.1793644225912, -- [17]
+				1.1793644225912, -- [18]
+				1.1793644225912, -- [19]
+				0.0002538451189391305, -- [20]
+				0.0002538451189391305, -- [21]
+				0.0002538451189391305, -- [22]
+				0, -- [23]
+				9.627837671123341, -- [24]
+				0.07259970401659131, -- [25]
+				9.627837671123341, -- [26]
+				9.627837671123341, -- [27]
+				2.132298999088696, -- [28]
+				2.132298999088696, -- [29]
+				0, -- [30]
+				0, -- [31]
+				29.99992384646432, -- [32]
+				29.99992384646432, -- [33]
+				26.67429894324277, -- [34]
+				26.67429894324277, -- [35]
+				26.67429894324277, -- [36]
+				26.67429894324277, -- [37]
+				26.67429894324277, -- [38]
+				26.67429894324277, -- [39]
+				26.67429894324277, -- [40]
+				26.67429894324277, -- [41]
+				26.67429894324277, -- [42]
+				26.67429894324277, -- [43]
+				24.54326916974877, -- [44]
+				24.54326916974877, -- [45]
+				24.54326916974877, -- [46]
+				24.54326916974877, -- [47]
+				24.54326916974877, -- [48]
+				20.04208752072011, -- [49]
+				20.04208752072011, -- [50]
 			},
 			["LastEvents"] = {
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -3226 (Physical)", -- [1]
-				"Squatting Virmen <Brimtok> dies.", -- [2]
-				"Brimtok Melee Squatting Virmen <Brimtok> Crit -16694 (Physical)", -- [3]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -6987 (Physical)", -- [4]
-				"Brimtok Mangle Squatting Virmen <Brimtok> Hit -20231 (Physical)", -- [5]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2829 (Physical)", -- [6]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -5751 (Physical)", -- [7]
-				"Brimtok Ferocious Bite Squatting Virmen <Brimtok> Crit -14748 (Physical)", -- [8]
-				"Brimtok Melee Squatting Virmen <Brimtok> Crit -12839 (Physical)", -- [9]
-				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [10]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -6500 (Physical)", -- [11]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -6490 (Physical)", -- [12]
-				"Squatting Virmen <Brimtok> dies.", -- [13]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -6608 (Physical)", -- [14]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -7846 (Physical)", -- [15]
-				"Brimtok Rake Squatting Virmen <Brimtok> Hit -10138 (Physical)", -- [16]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -8132 (Physical)", -- [17]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2819 (Physical)", -- [18]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -3132 (Physical)", -- [19]
-				"Brimtok Mangle Squatting Virmen <Brimtok> Hit -19806 (Physical)", -- [20]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -3266 (Physical)", -- [21]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -8437 (Physical)", -- [22]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -7509 (Physical)", -- [23]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2279 (Physical)", -- [24]
-				"Brimtok Rake (DoT) Squatting Virmen <Brimtok> Tick -10138 (Physical)", -- [25]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2386 (Physical)", -- [26]
-				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [27]
-				"Brimtok Melee Squatting Virmen <Brimtok> Crit -15671 (Physical)", -- [28]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2932 (Physical)", -- [29]
-				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -18637 (Physical)", -- [30]
-				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17665 (Physical)", -- [31]
-				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17330 (Physical)", -- [32]
-				"Brimtok Rip (DoT) Squatting Virmen <Brimtok> Tick -5880 (Physical)", -- [33]
-				"Squatting Virmen <Brimtok> dies.", -- [34]
-				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [35]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2887 (Physical)", -- [36]
-				"Squatting Virmen <Brimtok> Melee Brimtok Crit -4989 (Physical)", -- [37]
-				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [38]
-				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -15269 (Physical)", -- [39]
-				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -16458 (Physical)", -- [40]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2231 (Physical)", -- [41]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2731 (Physical)", -- [42]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -3172 (Physical)", -- [43]
-				"Brimtok Melee Squatting Virmen <Brimtok> Crit -15180 (Physical)", -- [44]
-				"Brimtok Ravage! Squatting Virmen <Brimtok> Hit -41226 (Physical)", -- [45]
-				"Brimtok Melee Squatting Virmen <Brimtok> Hit -9053 (Physical)", -- [46]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2475 (Physical)", -- [47]
-				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2813 (Physical)", -- [48]
-				"Brimtok Melee Squatting Virmen <Brimtok> Crit -18265 (Physical)", -- [49]
-				"Brimtok Ferocious Bite Squatting Virmen <Brimtok> Crit -39698 (Physical)", -- [50]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1878 (Physical)", -- [1]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [2]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [3]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [4]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2077 (Physical)", -- [5]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1904 (Physical)", -- [6]
+				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [7]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1901 (Physical)", -- [8]
+				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [9]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [10]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [11]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [12]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -25566 (Physical)", -- [13]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -26239 (Physical)", -- [14]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Crit -62639 (Physical)", -- [15]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1850 (Physical)", -- [16]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1848 (Physical)", -- [17]
+				"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [18]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2057 (Physical)", -- [19]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [20]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Crit -12019 (Physical)", -- [21]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [22]
+				"Squatting Virmen <Brimtok> dies.", -- [23]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1633 (Physical)", -- [24]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2222 (Physical)", -- [25]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1958 (Physical)", -- [26]
+				"Brimtok Melee Squatting Virmen <Brimtok> Hit -10173 (Physical)", -- [27]
+				"Brimtok Mangle Squatting Virmen <Brimtok> Hit -29528 (Physical)", -- [28]
+				"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [29]
+				"Squatting Virmen <Brimtok> dies.", -- [30]
+				"Squatting Virmen <Brimtok> dies.", -- [31]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2114 (Physical)", -- [32]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Crit -31865 (Physical)", -- [33]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -13101 (Physical)", -- [34]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [35]
+				"Squatting Virmen <Brimtok> Melee Brimtok Crit -4379 (Physical)", -- [36]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1731 (Physical)", -- [37]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -1912 (Physical)", -- [38]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2203 (Physical)", -- [39]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [40]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2121 (Physical)", -- [41]
+				"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [42]
+				"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [43]
+				"Brimtok Thrash Squatting Virmen <Brimtok> Hit -8395 (Physical)", -- [44]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2286 (Physical)", -- [45]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2090 (Physical)", -- [46]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -19891 (Physical)", -- [47]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -18808 (Physical)", -- [48]
+				"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17732 (Physical)", -- [49]
+				"Squatting Virmen <Brimtok> Melee Brimtok Hit -2087 (Physical)", -- [50]
 			},
 			["Name"] = "Squatting Virmen",
 			["LastEventIncoming"] = {
@@ -3976,61 +4228,1050 @@ RecountPerCharDB = {
 				true, -- [2]
 				true, -- [3]
 				true, -- [4]
-				true, -- [5]
+				false, -- [5]
 				false, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				false, -- [10]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				true, -- [10]
 				true, -- [11]
 				true, -- [12]
 				true, -- [13]
 				true, -- [14]
 				true, -- [15]
-				true, -- [16]
-				true, -- [17]
+				false, -- [16]
+				false, -- [17]
 				false, -- [18]
 				false, -- [19]
 				true, -- [20]
-				false, -- [21]
+				true, -- [21]
 				true, -- [22]
 				true, -- [23]
 				false, -- [24]
-				true, -- [25]
+				false, -- [25]
 				false, -- [26]
-				false, -- [27]
+				true, -- [27]
 				true, -- [28]
-				false, -- [29]
+				true, -- [29]
 				true, -- [30]
 				true, -- [31]
-				true, -- [32]
+				false, -- [32]
 				true, -- [33]
 				true, -- [34]
 				false, -- [35]
 				false, -- [36]
 				false, -- [37]
 				false, -- [38]
-				true, -- [39]
-				true, -- [40]
+				false, -- [39]
+				false, -- [40]
 				false, -- [41]
-				false, -- [42]
-				false, -- [43]
+				true, -- [42]
+				true, -- [43]
 				true, -- [44]
-				true, -- [45]
-				true, -- [46]
-				false, -- [47]
-				false, -- [48]
+				false, -- [45]
+				false, -- [46]
+				true, -- [47]
+				true, -- [48]
 				true, -- [49]
-				true, -- [50]
+				false, -- [50]
 			},
 			["TimeLast"] = {
-				["DeathCount"] = 1367893163,
-				["FDamage"] = 1367893160,
-				["ActiveTime"] = 1367893162,
-				["OVERALL"] = 1367893163,
-				["TimeDamage"] = 1367893162,
+				["DeathCount"] = 1369455430,
+				["FDamage"] = 1369455429,
+				["ActiveTime"] = 1369455429,
+				["OVERALL"] = 1369455430,
+				["TimeDamage"] = 1369455429,
 			},
 			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						-14.84399999998277, -- [1]
+						-14.23499999998603, -- [2]
+						-13.29800000000978, -- [3]
+						-12.78600000002189, -- [4]
+						-12.25900000002002, -- [5]
+						-12.25900000002002, -- [6]
+						-12.25900000002002, -- [7]
+						-12.25900000002002, -- [8]
+						-11.33299999998417, -- [9]
+						-10.78899999998976, -- [10]
+						-10.39699999999721, -- [11]
+						-10.39699999999721, -- [12]
+						-10.39699999999721, -- [13]
+						-10.24099999997998, -- [14]
+						-9.309999999997672, -- [15]
+						-9.185999999986962, -- [16]
+						-9.185999999986962, -- [17]
+						-9.185999999986962, -- [18]
+						-8.891999999992549, -- [19]
+						-8.260000000009313, -- [20]
+						-7.273999999975786, -- [21]
+						-6.809000000008382, -- [22]
+						-6.201000000000931, -- [23]
+						-6.201000000000931, -- [24]
+						-6.201000000000931, -- [25]
+						-6.201000000000931, -- [26]
+						-5.592999999993481, -- [27]
+						-5.592999999993481, -- [28]
+						-5.592999999993481, -- [29]
+						-5.294999999983702, -- [30]
+						-4.808000000019092, -- [31]
+						-4.341000000014901, -- [32]
+						-3.283999999985099, -- [33]
+						-3.190000000002328, -- [34]
+						-3.190000000002328, -- [35]
+						-3.190000000002328, -- [36]
+						-3.190000000002328, -- [37]
+						-2.846000000019558, -- [38]
+						-1.28100000001723, -- [39]
+						-0.7860000000218861, -- [40]
+						-0.3080000000190921, -- [41]
+						-0.3080000000190921, -- [42]
+						-0.1849999999976717, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						false, -- [2]
+						false, -- [3]
+						false, -- [4]
+						false, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						false, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						false, -- [19]
+						false, -- [20]
+						false, -- [21]
+						false, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						false, -- [31]
+						false, -- [32]
+						false, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						false, -- [38]
+						false, -- [39]
+						false, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+					},
+					["Messages"] = {
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1731 (Physical)", -- [1]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1912 (Physical)", -- [2]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2203 (Physical)", -- [3]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [4]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2121 (Physical)", -- [5]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [6]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [7]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Hit -8395 (Physical)", -- [8]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2286 (Physical)", -- [9]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2090 (Physical)", -- [10]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -19891 (Physical)", -- [11]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -18808 (Physical)", -- [12]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17732 (Physical)", -- [13]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2087 (Physical)", -- [14]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1878 (Physical)", -- [15]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [16]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [17]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [18]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2077 (Physical)", -- [19]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1904 (Physical)", -- [20]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [21]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1901 (Physical)", -- [22]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [23]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [24]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [25]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [26]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -25566 (Physical)", -- [27]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -26239 (Physical)", -- [28]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Crit -62639 (Physical)", -- [29]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1850 (Physical)", -- [30]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1848 (Physical)", -- [31]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [32]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2057 (Physical)", -- [33]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [34]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Crit -12019 (Physical)", -- [35]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [36]
+						"Squatting Virmen <Brimtok> dies.", -- [37]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1633 (Physical)", -- [38]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2222 (Physical)", -- [39]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1958 (Physical)", -- [40]
+						"Brimtok Melee Squatting Virmen <Brimtok> Hit -10173 (Physical)", -- [41]
+						"Brimtok Mangle Squatting Virmen <Brimtok> Hit -29528 (Physical)", -- [42]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [43]
+						"Squatting Virmen <Brimtok> dies.", -- [44]
+						"Squatting Virmen <Brimtok> dies.", -- [45]
+					},
+					["HealthNum"] = {
+						26.67429894324277, -- [1]
+						26.67429894324277, -- [2]
+						26.67429894324277, -- [3]
+						26.67429894324277, -- [4]
+						26.67429894324277, -- [5]
+						26.67429894324277, -- [6]
+						26.67429894324277, -- [7]
+						24.54326916974877, -- [8]
+						24.54326916974877, -- [9]
+						24.54326916974877, -- [10]
+						24.54326916974877, -- [11]
+						24.54326916974877, -- [12]
+						20.04208752072011, -- [13]
+						20.04208752072011, -- [14]
+						20.04208752072011, -- [15]
+						20.04208752072011, -- [16]
+						18.56115509682922, -- [17]
+						18.56115509682922, -- [18]
+						18.56115509682922, -- [19]
+						18.56115509682922, -- [20]
+						18.56115509682922, -- [21]
+						18.56115509682922, -- [22]
+						18.56115509682922, -- [23]
+						18.56115509682922, -- [24]
+						17.07996882781939, -- [25]
+						17.07996882781939, -- [26]
+						17.07996882781939, -- [27]
+						17.07996882781939, -- [28]
+						1.1793644225912, -- [29]
+						1.1793644225912, -- [30]
+						1.1793644225912, -- [31]
+						1.1793644225912, -- [32]
+						1.1793644225912, -- [33]
+						0.0002538451189391305, -- [34]
+						0.0002538451189391305, -- [35]
+						0.0002538451189391305, -- [36]
+						0, -- [37]
+						9.627837671123341, -- [38]
+						0.07259970401659131, -- [39]
+						9.627837671123341, -- [40]
+						9.627837671123341, -- [41]
+						2.132298999088696, -- [42]
+						2.132298999088696, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["DeathAt"] = 1369455432,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						4.390251332052261, -- [6]
+						4.390251332052261, -- [7]
+						2.131029773494, -- [8]
+						0, -- [9]
+						0, -- [10]
+						5.049233260818244, -- [11]
+						4.774318997007166, -- [12]
+						4.501181649028662, -- [13]
+						0, -- [14]
+						0, -- [15]
+						1.481186269009826, -- [16]
+						1.480932423890887, -- [17]
+						1.480932423890887, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						1.480932423890887, -- [24]
+						1.481186269009826, -- [25]
+						1.481186269009826, -- [26]
+						6.48980431079781, -- [27]
+						6.660642075843844, -- [28]
+						15.90060440522819, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						1.481186269009826, -- [34]
+						3.050964484529409, -- [35]
+						1.480932423890887, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						2.582366394967774, -- [41]
+						7.495538672034645, -- [42]
+						1.480932423890887, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["Health"] = {
+						"105081 (26%)", -- [1]
+						"105081 (26%)", -- [2]
+						"105081 (26%)", -- [3]
+						"105081 (26%)", -- [4]
+						"105081 (26%)", -- [5]
+						"105081 (26%)", -- [6]
+						"105081 (26%)", -- [7]
+						"96686 (24%)", -- [8]
+						"96686 (24%)", -- [9]
+						"96686 (24%)", -- [10]
+						"96686 (24%)", -- [11]
+						"96686 (24%)", -- [12]
+						"78954 (20%)", -- [13]
+						"78954 (20%)", -- [14]
+						"78954 (20%)", -- [15]
+						"78954 (20%)", -- [16]
+						"73120 (18%)", -- [17]
+						"73120 (18%)", -- [18]
+						"73120 (18%)", -- [19]
+						"73120 (18%)", -- [20]
+						"73120 (18%)", -- [21]
+						"73120 (18%)", -- [22]
+						"73120 (18%)", -- [23]
+						"73120 (18%)", -- [24]
+						"67285 (17%)", -- [25]
+						"67285 (17%)", -- [26]
+						"67285 (17%)", -- [27]
+						"67285 (17%)", -- [28]
+						"4646 (1%)", -- [29]
+						"4646 (1%)", -- [30]
+						"4646 (1%)", -- [31]
+						"4646 (1%)", -- [32]
+						"4646 (1%)", -- [33]
+						"1 (0%)", -- [34]
+						"1 (0%)", -- [35]
+						"1 (0%)", -- [36]
+						"0 (0%)", -- [37]
+						"37928 (9%)", -- [38]
+						"286 (0%)", -- [39]
+						"37928 (9%)", -- [40]
+						"37928 (9%)", -- [41]
+						"8400 (2%)", -- [42]
+						"8400 (2%)", -- [43]
+						"0 (0%)", -- [44]
+						"???", -- [45]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"MISC", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"MISC", -- [44]
+						"MISC", -- [45]
+					},
+				}, -- [1]
+				{
+					["MessageTimes"] = {
+						-14.84399999998277, -- [1]
+						-14.23499999998603, -- [2]
+						-13.29800000000978, -- [3]
+						-12.78600000002189, -- [4]
+						-12.25900000002002, -- [5]
+						-12.25900000002002, -- [6]
+						-12.25900000002002, -- [7]
+						-12.25900000002002, -- [8]
+						-11.33299999998417, -- [9]
+						-10.78899999998976, -- [10]
+						-10.39699999999721, -- [11]
+						-10.39699999999721, -- [12]
+						-10.39699999999721, -- [13]
+						-10.24099999997998, -- [14]
+						-9.309999999997672, -- [15]
+						-9.185999999986962, -- [16]
+						-9.185999999986962, -- [17]
+						-9.185999999986962, -- [18]
+						-8.891999999992549, -- [19]
+						-8.260000000009313, -- [20]
+						-7.273999999975786, -- [21]
+						-6.809000000008382, -- [22]
+						-6.201000000000931, -- [23]
+						-6.201000000000931, -- [24]
+						-6.201000000000931, -- [25]
+						-6.201000000000931, -- [26]
+						-5.592999999993481, -- [27]
+						-5.592999999993481, -- [28]
+						-5.592999999993481, -- [29]
+						-5.294999999983702, -- [30]
+						-4.808000000019092, -- [31]
+						-4.341000000014901, -- [32]
+						-3.283999999985099, -- [33]
+						-3.190000000002328, -- [34]
+						-3.190000000002328, -- [35]
+						-3.190000000002328, -- [36]
+						-3.190000000002328, -- [37]
+						-2.846000000019558, -- [38]
+						-1.28100000001723, -- [39]
+						-0.7860000000218861, -- [40]
+						-0.3080000000190921, -- [41]
+						-0.3080000000190921, -- [42]
+						-0.1849999999976717, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						false, -- [2]
+						false, -- [3]
+						false, -- [4]
+						false, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						false, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						false, -- [19]
+						false, -- [20]
+						false, -- [21]
+						false, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						false, -- [31]
+						false, -- [32]
+						false, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						false, -- [38]
+						false, -- [39]
+						false, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+					},
+					["Messages"] = {
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1731 (Physical)", -- [1]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1912 (Physical)", -- [2]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2203 (Physical)", -- [3]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [4]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2121 (Physical)", -- [5]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [6]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [7]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Hit -8395 (Physical)", -- [8]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2286 (Physical)", -- [9]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2090 (Physical)", -- [10]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -19891 (Physical)", -- [11]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -18808 (Physical)", -- [12]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17732 (Physical)", -- [13]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2087 (Physical)", -- [14]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1878 (Physical)", -- [15]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [16]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [17]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [18]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2077 (Physical)", -- [19]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1904 (Physical)", -- [20]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [21]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1901 (Physical)", -- [22]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [23]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [24]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [25]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [26]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -25566 (Physical)", -- [27]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -26239 (Physical)", -- [28]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Crit -62639 (Physical)", -- [29]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1850 (Physical)", -- [30]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1848 (Physical)", -- [31]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [32]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2057 (Physical)", -- [33]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [34]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Crit -12019 (Physical)", -- [35]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [36]
+						"Squatting Virmen <Brimtok> dies.", -- [37]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1633 (Physical)", -- [38]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2222 (Physical)", -- [39]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1958 (Physical)", -- [40]
+						"Brimtok Melee Squatting Virmen <Brimtok> Hit -10173 (Physical)", -- [41]
+						"Brimtok Mangle Squatting Virmen <Brimtok> Hit -29528 (Physical)", -- [42]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [43]
+						"Squatting Virmen <Brimtok> dies.", -- [44]
+						"Squatting Virmen <Brimtok> dies.", -- [45]
+					},
+					["HealthNum"] = {
+						26.67429894324277, -- [1]
+						26.67429894324277, -- [2]
+						26.67429894324277, -- [3]
+						26.67429894324277, -- [4]
+						26.67429894324277, -- [5]
+						26.67429894324277, -- [6]
+						26.67429894324277, -- [7]
+						24.54326916974877, -- [8]
+						24.54326916974877, -- [9]
+						24.54326916974877, -- [10]
+						24.54326916974877, -- [11]
+						24.54326916974877, -- [12]
+						20.04208752072011, -- [13]
+						20.04208752072011, -- [14]
+						20.04208752072011, -- [15]
+						20.04208752072011, -- [16]
+						18.56115509682922, -- [17]
+						18.56115509682922, -- [18]
+						18.56115509682922, -- [19]
+						18.56115509682922, -- [20]
+						18.56115509682922, -- [21]
+						18.56115509682922, -- [22]
+						18.56115509682922, -- [23]
+						18.56115509682922, -- [24]
+						17.07996882781939, -- [25]
+						17.07996882781939, -- [26]
+						17.07996882781939, -- [27]
+						17.07996882781939, -- [28]
+						1.1793644225912, -- [29]
+						1.1793644225912, -- [30]
+						1.1793644225912, -- [31]
+						1.1793644225912, -- [32]
+						1.1793644225912, -- [33]
+						0.0002538451189391305, -- [34]
+						0.0002538451189391305, -- [35]
+						0.0002538451189391305, -- [36]
+						0, -- [37]
+						9.627837671123341, -- [38]
+						0.07259970401659131, -- [39]
+						9.627837671123341, -- [40]
+						9.627837671123341, -- [41]
+						2.132298999088696, -- [42]
+						2.132298999088696, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["DeathAt"] = 1369455432,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						4.390251332052261, -- [6]
+						4.390251332052261, -- [7]
+						2.131029773494, -- [8]
+						0, -- [9]
+						0, -- [10]
+						5.049233260818244, -- [11]
+						4.774318997007166, -- [12]
+						4.501181649028662, -- [13]
+						0, -- [14]
+						0, -- [15]
+						1.481186269009826, -- [16]
+						1.480932423890887, -- [17]
+						1.480932423890887, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						1.480932423890887, -- [24]
+						1.481186269009826, -- [25]
+						1.481186269009826, -- [26]
+						6.48980431079781, -- [27]
+						6.660642075843844, -- [28]
+						15.90060440522819, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						1.481186269009826, -- [34]
+						3.050964484529409, -- [35]
+						1.480932423890887, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						2.582366394967774, -- [41]
+						7.495538672034645, -- [42]
+						1.480932423890887, -- [43]
+						0, -- [44]
+						0, -- [45]
+					},
+					["Health"] = {
+						"105081 (26%)", -- [1]
+						"105081 (26%)", -- [2]
+						"105081 (26%)", -- [3]
+						"105081 (26%)", -- [4]
+						"105081 (26%)", -- [5]
+						"105081 (26%)", -- [6]
+						"105081 (26%)", -- [7]
+						"96686 (24%)", -- [8]
+						"96686 (24%)", -- [9]
+						"96686 (24%)", -- [10]
+						"96686 (24%)", -- [11]
+						"96686 (24%)", -- [12]
+						"78954 (20%)", -- [13]
+						"78954 (20%)", -- [14]
+						"78954 (20%)", -- [15]
+						"78954 (20%)", -- [16]
+						"73120 (18%)", -- [17]
+						"73120 (18%)", -- [18]
+						"73120 (18%)", -- [19]
+						"73120 (18%)", -- [20]
+						"73120 (18%)", -- [21]
+						"73120 (18%)", -- [22]
+						"73120 (18%)", -- [23]
+						"73120 (18%)", -- [24]
+						"67285 (17%)", -- [25]
+						"67285 (17%)", -- [26]
+						"67285 (17%)", -- [27]
+						"67285 (17%)", -- [28]
+						"4646 (1%)", -- [29]
+						"4646 (1%)", -- [30]
+						"4646 (1%)", -- [31]
+						"4646 (1%)", -- [32]
+						"4646 (1%)", -- [33]
+						"1 (0%)", -- [34]
+						"1 (0%)", -- [35]
+						"1 (0%)", -- [36]
+						"0 (0%)", -- [37]
+						"37928 (9%)", -- [38]
+						"286 (0%)", -- [39]
+						"37928 (9%)", -- [40]
+						"37928 (9%)", -- [41]
+						"8400 (2%)", -- [42]
+						"8400 (2%)", -- [43]
+						"0 (0%)", -- [44]
+						"???", -- [45]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"MISC", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"MISC", -- [44]
+						"MISC", -- [45]
+					},
+				}, -- [2]
+				{
+					["MessageTimes"] = {
+						-14.17700000002515, -- [1]
+						-13.25900000002002, -- [2]
+						-13.25900000002002, -- [3]
+						-13.0570000000298, -- [4]
+						-12.11999999999534, -- [5]
+						-11.65399999998044, -- [6]
+						-11.0449999999837, -- [7]
+						-10.10800000000745, -- [8]
+						-9.596000000019558, -- [9]
+						-9.069000000017695, -- [10]
+						-9.069000000017695, -- [11]
+						-9.069000000017695, -- [12]
+						-9.069000000017695, -- [13]
+						-8.142999999981839, -- [14]
+						-7.598999999987427, -- [15]
+						-7.206999999994878, -- [16]
+						-7.206999999994878, -- [17]
+						-7.206999999994878, -- [18]
+						-7.050999999977648, -- [19]
+						-6.119999999995343, -- [20]
+						-5.995999999984633, -- [21]
+						-5.995999999984633, -- [22]
+						-5.995999999984633, -- [23]
+						-5.701999999990221, -- [24]
+						-5.070000000006985, -- [25]
+						-4.083999999973457, -- [26]
+						-3.619000000006054, -- [27]
+						-3.010999999998603, -- [28]
+						-3.010999999998603, -- [29]
+						-3.010999999998603, -- [30]
+						-3.010999999998603, -- [31]
+						-2.402999999991152, -- [32]
+						-2.402999999991152, -- [33]
+						-2.402999999991152, -- [34]
+						-2.104999999981374, -- [35]
+						-1.618000000016764, -- [36]
+						-1.151000000012573, -- [37]
+						-0.09399999998277053, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0.3439999999827705, -- [43]
+						1.908999999985099, -- [44]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						false, -- [4]
+						false, -- [5]
+						false, -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						false, -- [19]
+						false, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						false, -- [24]
+						false, -- [25]
+						false, -- [26]
+						false, -- [27]
+						false, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						false, -- [35]
+						false, -- [36]
+						false, -- [37]
+						false, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						false, -- [43]
+						false, -- [44]
+					},
+					["Messages"] = {
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2114 (Physical)", -- [1]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Crit -31865 (Physical)", -- [2]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -13101 (Physical)", -- [3]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [4]
+						"Squatting Virmen <Brimtok> Melee Brimtok Crit -4379 (Physical)", -- [5]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1731 (Physical)", -- [6]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1912 (Physical)", -- [7]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2203 (Physical)", -- [8]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2460 (Physical)", -- [9]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2121 (Physical)", -- [10]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [11]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Crit -17295 (Physical)", -- [12]
+						"Brimtok Thrash Squatting Virmen <Brimtok> Hit -8395 (Physical)", -- [13]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2286 (Physical)", -- [14]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2090 (Physical)", -- [15]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -19891 (Physical)", -- [16]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -18808 (Physical)", -- [17]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -17732 (Physical)", -- [18]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2087 (Physical)", -- [19]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1878 (Physical)", -- [20]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [21]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [22]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [23]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2077 (Physical)", -- [24]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1904 (Physical)", -- [25]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [26]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1901 (Physical)", -- [27]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [28]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [29]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [30]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [31]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -25566 (Physical)", -- [32]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Hit -26239 (Physical)", -- [33]
+						"Brimtok Swipe Squatting Virmen <Brimtok> Crit -62639 (Physical)", -- [34]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1850 (Physical)", -- [35]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1848 (Physical)", -- [36]
+						"Squatting Virmen <Brimtok> Melee Brimtok Dodge", -- [37]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2057 (Physical)", -- [38]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5835 (Physical)", -- [39]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Crit -12019 (Physical)", -- [40]
+						"Brimtok Thrash (DoT) Squatting Virmen <Brimtok> Tick -5834 (Physical)", -- [41]
+						"Squatting Virmen <Brimtok> dies.", -- [42]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -1633 (Physical)", -- [43]
+						"Squatting Virmen <Brimtok> Melee Brimtok Hit -2222 (Physical)", -- [44]
+					},
+					["HealthNum"] = {
+						29.99992384646432, -- [1]
+						29.99992384646432, -- [2]
+						26.67429894324277, -- [3]
+						26.67429894324277, -- [4]
+						26.67429894324277, -- [5]
+						26.67429894324277, -- [6]
+						26.67429894324277, -- [7]
+						26.67429894324277, -- [8]
+						26.67429894324277, -- [9]
+						26.67429894324277, -- [10]
+						26.67429894324277, -- [11]
+						26.67429894324277, -- [12]
+						24.54326916974877, -- [13]
+						24.54326916974877, -- [14]
+						24.54326916974877, -- [15]
+						24.54326916974877, -- [16]
+						24.54326916974877, -- [17]
+						20.04208752072011, -- [18]
+						20.04208752072011, -- [19]
+						20.04208752072011, -- [20]
+						20.04208752072011, -- [21]
+						18.56115509682922, -- [22]
+						18.56115509682922, -- [23]
+						18.56115509682922, -- [24]
+						18.56115509682922, -- [25]
+						18.56115509682922, -- [26]
+						18.56115509682922, -- [27]
+						18.56115509682922, -- [28]
+						18.56115509682922, -- [29]
+						17.07996882781939, -- [30]
+						17.07996882781939, -- [31]
+						17.07996882781939, -- [32]
+						17.07996882781939, -- [33]
+						1.1793644225912, -- [34]
+						1.1793644225912, -- [35]
+						1.1793644225912, -- [36]
+						1.1793644225912, -- [37]
+						1.1793644225912, -- [38]
+						0.0002538451189391305, -- [39]
+						0.0002538451189391305, -- [40]
+						0.0002538451189391305, -- [41]
+						0, -- [42]
+						9.627837671123341, -- [43]
+						0.07259970401659131, -- [44]
+					},
+					["DeathAt"] = 1369455429,
+					["EventNum"] = {
+						0, -- [1]
+						8.088774714995394, -- [2]
+						3.325624903221549, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						4.390251332052261, -- [11]
+						4.390251332052261, -- [12]
+						2.131029773494, -- [13]
+						0, -- [14]
+						0, -- [15]
+						5.049233260818244, -- [16]
+						4.774318997007166, -- [17]
+						4.501181649028662, -- [18]
+						0, -- [19]
+						0, -- [20]
+						1.481186269009826, -- [21]
+						1.480932423890887, -- [22]
+						1.480932423890887, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						1.480932423890887, -- [29]
+						1.481186269009826, -- [30]
+						1.481186269009826, -- [31]
+						6.48980431079781, -- [32]
+						6.660642075843844, -- [33]
+						15.90060440522819, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						1.481186269009826, -- [39]
+						3.050964484529409, -- [40]
+						1.480932423890887, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+					},
+					["Health"] = {
+						"118182 (29%)", -- [1]
+						"118182 (29%)", -- [2]
+						"105081 (26%)", -- [3]
+						"105081 (26%)", -- [4]
+						"105081 (26%)", -- [5]
+						"105081 (26%)", -- [6]
+						"105081 (26%)", -- [7]
+						"105081 (26%)", -- [8]
+						"105081 (26%)", -- [9]
+						"105081 (26%)", -- [10]
+						"105081 (26%)", -- [11]
+						"105081 (26%)", -- [12]
+						"96686 (24%)", -- [13]
+						"96686 (24%)", -- [14]
+						"96686 (24%)", -- [15]
+						"96686 (24%)", -- [16]
+						"96686 (24%)", -- [17]
+						"78954 (20%)", -- [18]
+						"78954 (20%)", -- [19]
+						"78954 (20%)", -- [20]
+						"78954 (20%)", -- [21]
+						"73120 (18%)", -- [22]
+						"73120 (18%)", -- [23]
+						"73120 (18%)", -- [24]
+						"73120 (18%)", -- [25]
+						"73120 (18%)", -- [26]
+						"73120 (18%)", -- [27]
+						"73120 (18%)", -- [28]
+						"73120 (18%)", -- [29]
+						"67285 (17%)", -- [30]
+						"67285 (17%)", -- [31]
+						"67285 (17%)", -- [32]
+						"67285 (17%)", -- [33]
+						"4646 (1%)", -- [34]
+						"4646 (1%)", -- [35]
+						"4646 (1%)", -- [36]
+						"4646 (1%)", -- [37]
+						"4646 (1%)", -- [38]
+						"1 (0%)", -- [39]
+						"1 (0%)", -- [40]
+						"1 (0%)", -- [41]
+						"0 (0%)", -- [42]
+						"37928 (9%)", -- [43]
+						"286 (0%)", -- [44]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"MISC", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+					},
+				}, -- [3]
 				{
 					["MessageTimes"] = {
 						-14.86900000000605, -- [1]
@@ -4250,7 +5491,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [28]
 						"MISC", -- [29]
 					},
-				}, -- [1]
+				}, -- [4]
 				{
 					["MessageTimes"] = {
 						-14.83100000000559, -- [1]
@@ -4554,7 +5795,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [40]
 						"DAMAGE", -- [41]
 					},
-				}, -- [2]
+				}, -- [5]
 				{
 					["MessageTimes"] = {
 						-6.456999999994878, -- [1]
@@ -4732,7 +5973,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [22]
 						"DAMAGE", -- [23]
 					},
-				}, -- [3]
+				}, -- [6]
 				{
 					["MessageTimes"] = {
 						-8.01600000000326, -- [1]
@@ -4868,7 +6109,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [16]
 						"MISC", -- [17]
 					},
-				}, -- [4]
+				}, -- [7]
 				{
 					["MessageTimes"] = {
 						-13.49300000000221, -- [1]
@@ -5074,7 +6315,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [26]
 						"MISC", -- [27]
 					},
-				}, -- [5]
+				}, -- [8]
 				{
 					["MessageTimes"] = {
 						-13.19700000000012, -- [1]
@@ -5238,7 +6479,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [20]
 						"DAMAGE", -- [21]
 					},
-				}, -- [6]
+				}, -- [9]
 				{
 					["MessageTimes"] = {
 						-14.53900000000431, -- [1]
@@ -5584,7 +6825,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [46]
 						"MISC", -- [47]
 					},
-				}, -- [7]
+				}, -- [10]
 				{
 					["MessageTimes"] = {
 						-14.44999999999709, -- [1]
@@ -5923,7 +7164,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [45]
 						"DAMAGE", -- [46]
 					},
-				}, -- [8]
+				}, -- [11]
 				{
 					["MessageTimes"] = {
 						759650.9700000001, -- [1]
@@ -6248,7 +7489,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [43]
 						"DAMAGE", -- [44]
 					},
-				}, -- [9]
+				}, -- [12]
 				{
 					["MessageTimes"] = {
 						-3.51500000001397, -- [1]
@@ -6314,7 +7555,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [6]
 						"MISC", -- [7]
 					},
-				}, -- [10]
+				}, -- [13]
 				{
 					["MessageTimes"] = {
 						-14.48300000000745, -- [1]
@@ -6597,7 +7838,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [37]
 						"MISC", -- [38]
 					},
-				}, -- [11]
+				}, -- [14]
 				{
 					["MessageTimes"] = {
 						-10.12200000003213, -- [1]
@@ -6838,7 +8079,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [31]
 						"DAMAGE", -- [32]
 					},
-				}, -- [12]
+				}, -- [15]
 				{
 					["MessageTimes"] = {
 						-4.804000000003725, -- [1]
@@ -6995,7 +8236,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [19]
 						"DAMAGE", -- [20]
 					},
-				}, -- [13]
+				}, -- [16]
 				{
 					["MessageTimes"] = {
 						-14.59399999998277, -- [1]
@@ -7243,7 +8484,7 @@ RecountPerCharDB = {
 						"DAMAGE", -- [32]
 						"MISC", -- [33]
 					},
-				}, -- [14]
+				}, -- [17]
 				{
 					["MessageTimes"] = {
 						-10.75099999998929, -- [1]
@@ -7484,10 +8725,36 @@ RecountPerCharDB = {
 						"MISC", -- [31]
 						"DAMAGE", -- [32]
 					},
-				}, -- [15]
+				}, -- [18]
 			},
 			["Fights"] = {
 				["OverallData"] = {
+					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 183.1800000000001,
+								},
+							},
+							["amount"] = 183.1800000000001,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 0,
+						},
+					},
 					["ElementHitsTaken"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -7498,6 +8765,27 @@ RecountPerCharDB = {
 							["amount"] = 1,
 						},
 					},
+					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4989,
+									["min"] = 4379,
+									["count"] = 2,
+									["amount"] = 9368,
+								},
+								["Hit"] = {
+									["max"] = 3306,
+									["min"] = 1633,
+									["count"] = 113,
+									["amount"] = 286385,
+								},
+							},
+							["count"] = 115,
+							["amount"] = 295753,
+						},
+					},
+					["FDamage"] = 295753,
 					["PartialResist"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -7512,89 +8800,7 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 					},
-					["TimeSpent"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 138.05,
-								},
-							},
-							["amount"] = 138.05,
-						},
-					},
-					["FAttacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 4989,
-									["min"] = 4989,
-									["count"] = 1,
-									["amount"] = 4989,
-								},
-								["Hit"] = {
-									["max"] = 3306,
-									["min"] = 2003,
-									["count"] = 76,
-									["amount"] = 207884,
-								},
-							},
-							["count"] = 77,
-							["amount"] = 212873,
-						},
-					},
-					["FDamagedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 212873,
-								},
-							},
-							["amount"] = 212873,
-						},
-					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 10,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 15,
-					["FDamage"] = 212873,
-					["TimeDamage"] = 138.05,
-					["TimeDamaging"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 138.05,
-								},
-							},
-							["amount"] = 138.05,
-						},
-					},
-					["ActiveTime"] = 138.05,
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-								},
-								["Dodge"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 13,
-						},
-					},
+					["DeathCount"] = 18,
 					["PartialAbsorb"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -7607,6 +8813,41 @@ RecountPerCharDB = {
 							},
 							["count"] = 1,
 							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 183.1800000000001,
+					["TimeDamaging"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 183.1800000000001,
+								},
+							},
+							["amount"] = 183.1800000000001,
+						},
+					},
+					["TimeDamage"] = 183.1800000000001,
+					["FDamagedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 295753,
+								},
+							},
+							["amount"] = 295753,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 17,
 						},
 					},
 				},
@@ -7701,15 +8942,16 @@ RecountPerCharDB = {
 							["amount"] = 1,
 						},
 					},
-					["DeathCount"] = 13,
+					["DeathCount"] = 16,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -7722,10 +8964,10 @@ RecountPerCharDB = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 182094,
+									["count"] = 264974,
 								},
 							},
-							["amount"] = 182094,
+							["amount"] = 264974,
 						},
 					},
 					["FAttacks"] = {
@@ -7733,19 +8975,19 @@ RecountPerCharDB = {
 							["Details"] = {
 								["Crit"] = {
 									["max"] = 4989,
-									["min"] = 4989,
-									["count"] = 1,
-									["amount"] = 4989,
+									["min"] = 4379,
+									["count"] = 2,
+									["amount"] = 9368,
 								},
 								["Hit"] = {
 									["max"] = 3306,
-									["min"] = 2003,
-									["count"] = 65,
-									["amount"] = 177105,
+									["min"] = 1633,
+									["count"] = 102,
+									["amount"] = 255606,
 								},
 							},
-							["count"] = 66,
-							["amount"] = 182094,
+							["count"] = 104,
+							["amount"] = 264974,
 						},
 					},
 					["RageGain"] = 0,
@@ -7753,18 +8995,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-								},
-								["Dodge"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 12,
-						},
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -7772,34 +9003,17 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 113.29,
 					["PartialResist"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -7814,11 +9028,15 @@ RecountPerCharDB = {
 							["amount"] = 0,
 						},
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 264974,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 158.42,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -7830,57 +9048,80 @@ RecountPerCharDB = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 113.29,
+									["count"] = 158.42,
 								},
 							},
-							["amount"] = 113.29,
+							["amount"] = 158.42,
 						},
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 182094,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 						["Melee"] = {
 							["Details"] = {
 								["Miss"] = {
-									["count"] = 3,
+									["count"] = 4,
 									["amount"] = 0,
 								},
 								["Dodge"] = {
-									["count"] = 9,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 16,
 							["amount"] = 0,
 						},
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 16,
+						},
 					},
-					["TimeDamage"] = 113.29,
+					["TimeDamage"] = 158.42,
 					["TimeDamaging"] = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 113.29,
+									["count"] = 158.42,
 								},
 							},
-							["amount"] = 113.29,
+							["amount"] = 158.42,
 						},
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -7957,7 +9198,7 @@ RecountPerCharDB = {
 					},
 				},
 			},
-			["LastAbility"] = 310305.3,
+			["LastAbility"] = 276575.196,
 		},
 		["Chatalaine"] = {
 			["GUID"] = "0x0500000000198C77",
@@ -7995,13 +9236,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -8019,7 +9261,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -8027,29 +9269,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -8061,27 +9302,27 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -8098,14 +9339,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -8114,32 +9354,33 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["FAttacks"] = {
 					},
 					["HealingTaken"] = 0,
 					["ElementDone"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -8147,13 +9388,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 					},
@@ -8165,14 +9407,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -8184,7 +9424,8 @@ RecountPerCharDB = {
 					["TimeDamaging"] = {
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -8195,68 +9436,69 @@ RecountPerCharDB = {
 			},
 			["level"] = 1,
 			["UnitLockout"] = 1366759314,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 		},
-		["Swooping Plainshawk <Brimtok>"] = {
-			["GUID"] = "0xF530EAA800177D89",
+		["Brimtok"] = {
+			["GUID"] = "0x050000000559228E",
 			["LastEventHealth"] = {
-				"335115 (85%)", -- [1]
-				"335115 (85%)", -- [2]
-				"325465 (82%)", -- [3]
-				"318440 (80%)", -- [4]
-				"297626 (75%)", -- [5]
-				"297626 (75%)", -- [6]
-				"280499 (71%)", -- [7]
-				"280499 (71%)", -- [8]
-				"238123 (60%)", -- [9]
-				"238123 (60%)", -- [10]
-				"228473 (57%)", -- [11]
-				"228473 (57%)", -- [12]
-				"222055 (56%)", -- [13]
-				"217193 (55%)", -- [14]
-				"207543 (52%)", -- [15]
-				"200632 (50%)", -- [16]
-				"193852 (49%)", -- [17]
-				"193852 (49%)", -- [18]
-				"173975 (44%)", -- [19]
-				"159563 (40%)", -- [20]
-				"149914 (38%)", -- [21]
-				"141632 (35%)", -- [22]
-				"133871 (33%)", -- [23]
-				"133871 (33%)", -- [24]
-				"92733 (23%)", -- [25]
-				"92733 (23%)", -- [26]
-				"83083 (21%)", -- [27]
-				"74801 (18%)", -- [28]
-				"60647 (15%)", -- [29]
-				"60647 (15%)", -- [30]
-				"39440 (10%)", -- [31]
-				"39440 (10%)", -- [32]
-				"31158 (7%)", -- [33]
-				"24391 (6%)", -- [34]
-				"24391 (6%)", -- [35]
-				"6561 (1%)", -- [36]
-				"6561 (1%)", -- [37]
-				"0 (0%)", -- [38]
-				"75200 (19%)", -- [39]
-				"75200 (19%)", -- [40]
-				"75200 (19%)", -- [41]
-				"48980 (12%)", -- [42]
-				"48980 (12%)", -- [43]
-				"48980 (12%)", -- [44]
-				"48980 (12%)", -- [45]
-				"44118 (11%)", -- [46]
-				"34469 (8%)", -- [47]
-				"1 (0%)", -- [48]
-				"0 (0%)", -- [49]
-				"339978 (86%)", -- [50]
+				"340152 (96%)", -- [1]
+				"334823 (94%)", -- [2]
+				"334823 (94%)", -- [3]
+				"334823 (94%)", -- [4]
+				"348953 (98%)", -- [5]
+				"348953 (98%)", -- [6]
+				"348953 (98%)", -- [7]
+				"348953 (98%)", -- [8]
+				"348953 (98%)", -- [9]
+				"343527 (97%)", -- [10]
+				"343527 (97%)", -- [11]
+				"343527 (97%)", -- [12]
+				"343527 (97%)", -- [13]
+				"343527 (97%)", -- [14]
+				"343527 (97%)", -- [15]
+				"343527 (97%)", -- [16]
+				"343527 (97%)", -- [17]
+				"338329 (95%)", -- [18]
+				"338329 (95%)", -- [19]
+				"338329 (95%)", -- [20]
+				"338329 (95%)", -- [21]
+				"338329 (95%)", -- [22]
+				"338329 (95%)", -- [23]
+				"338329 (95%)", -- [24]
+				"338329 (95%)", -- [25]
+				"338329 (95%)", -- [26]
+				"333735 (94%)", -- [27]
+				"333735 (94%)", -- [28]
+				"333735 (94%)", -- [29]
+				"333735 (94%)", -- [30]
+				"333735 (94%)", -- [31]
+				"347865 (98%)", -- [32]
+				"345188 (97%)", -- [33]
+				"345188 (97%)", -- [34]
+				"345188 (97%)", -- [35]
+				"345188 (97%)", -- [36]
+				"345188 (97%)", -- [37]
+				"342691 (97%)", -- [38]
+				"342691 (97%)", -- [39]
+				"342691 (97%)", -- [40]
+				"342691 (97%)", -- [41]
+				"342691 (97%)", -- [42]
+				"342691 (97%)", -- [43]
+				"339783 (96%)", -- [44]
+				"339783 (96%)", -- [45]
+				"339783 (96%)", -- [46]
+				"339783 (96%)", -- [47]
+				"340152 (96%)", -- [48]
+				"340152 (96%)", -- [49]
+				"340152 (96%)", -- [50]
 			},
+			["LastAttackedBy"] = "Chief Yip-Yip",
 			["LastEventType"] = {
 				"DAMAGE", -- [1]
 				"DAMAGE", -- [2]
 				"DAMAGE", -- [3]
 				"DAMAGE", -- [4]
-				"DAMAGE", -- [5]
+				"HEAL", -- [5]
 				"DAMAGE", -- [6]
 				"DAMAGE", -- [7]
 				"DAMAGE", -- [8]
@@ -8283,13 +9525,13 @@ RecountPerCharDB = {
 				"DAMAGE", -- [29]
 				"DAMAGE", -- [30]
 				"DAMAGE", -- [31]
-				"DAMAGE", -- [32]
+				"HEAL", -- [32]
 				"DAMAGE", -- [33]
 				"DAMAGE", -- [34]
 				"DAMAGE", -- [35]
 				"DAMAGE", -- [36]
 				"DAMAGE", -- [37]
-				"MISC", -- [38]
+				"DAMAGE", -- [38]
 				"DAMAGE", -- [39]
 				"DAMAGE", -- [40]
 				"DAMAGE", -- [41]
@@ -8300,191 +9542,1235 @@ RecountPerCharDB = {
 				"DAMAGE", -- [46]
 				"DAMAGE", -- [47]
 				"DAMAGE", -- [48]
-				"MISC", -- [49]
+				"DAMAGE", -- [49]
 				"DAMAGE", -- [50]
 			},
 			["TimeWindows"] = {
-				["ActiveTime"] = {
-					222.14, -- [1]
-				},
-				["DeathCount"] = {
-					12, -- [1]
+				["TimeHeal"] = {
+					8.07, -- [1]
 				},
 				["FDamage"] = {
-					422870, -- [1]
+					13110710, -- [1]
+				},
+				["HealingTaken"] = {
+					432551, -- [1]
+				},
+				["Healing"] = {
+					436168, -- [1]
+				},
+				["DamageTaken"] = {
+					727328, -- [1]
+				},
+				["HOT_Time"] = {
+					75, -- [1]
+				},
+				["EnergyGain"] = {
+					1020, -- [1]
+				},
+				["RageGain"] = {
+					105, -- [1]
+				},
+				["Overhealing"] = {
+					1266422, -- [1]
+				},
+				["ActiveTime"] = {
+					663.4299999999998, -- [1]
 				},
 				["TimeDamage"] = {
-					222.14, -- [1]
+					655.3599999999997, -- [1]
+				},
+				["ManaGain"] = {
+					408000, -- [1]
+				},
+				["DOT_Time"] = {
+					849, -- [1]
+				},
+				["Damage"] = {
+					15293538, -- [1]
 				},
 			},
-			["enClass"] = "PET",
-			["unit"] = "playertarget",
-			["level"] = 1,
+			["enClass"] = "DRUID",
+			["unit"] = "Brimtok",
+			["LastAbility"] = 276575.196,
+			["LastEventTimes"] = {
+				276542.757, -- [1]
+				276543.227, -- [2]
+				276543.647, -- [3]
+				276544.001, -- [4]
+				276544.454, -- [5]
+				276544.454, -- [6]
+				276544.559, -- [7]
+				276544.82, -- [8]
+				276545.182, -- [9]
+				276545.61, -- [10]
+				276545.61, -- [11]
+				276546.039, -- [12]
+				276546.435, -- [13]
+				276546.435, -- [14]
+				276546.572, -- [15]
+				276546.857, -- [16]
+				276546.857, -- [17]
+				276547.557, -- [18]
+				276547.691, -- [19]
+				276548.007, -- [20]
+				276548.111, -- [21]
+				276548.499, -- [22]
+				276548.499, -- [23]
+				276548.627, -- [24]
+				276548.766, -- [25]
+				276548.766, -- [26]
+				276549.467, -- [27]
+				276550.028, -- [28]
+				276550.402, -- [29]
+				276550.495, -- [30]
+				276550.863, -- [31]
+				276550.863, -- [32]
+				276551.35, -- [33]
+				276551.616, -- [34]
+				276552.333, -- [35]
+				276552.536, -- [36]
+				276552.861, -- [37]
+				276553.276, -- [38]
+				276553.276, -- [39]
+				276554.146, -- [40]
+				276554.524, -- [41]
+				276554.621, -- [42]
+				276554.865, -- [43]
+				276555.223, -- [44]
+				276556.172, -- [45]
+				276556.524, -- [46]
+				276556.872, -- [47]
+				276542.436, -- [48]
+				276542.567, -- [49]
+				276542.757, -- [50]
+			},
+			["level"] = 90,
+			["LastDamageAbility"] = "Melee",
 			["LastFightIn"] = 8,
 			["LastEventNum"] = {
-				1.234448813400991, -- [1]
-				1.783261960547392, -- [2]
-				2.449605397762609, -- [3]
-				1.804838795657218, -- [4]
-				5.283532305599062, -- [5]
-				nil, -- [6]
-				2.54276655641327, -- [7]
-				1.961461234042661, -- [8]
-				8.795479526121932, -- [9]
-				1.629177973351339, -- [10]
-				2.449605397762609, -- [11]
+				0.6145789101203114, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				4, -- [5]
+				0.8710544939844302, -- [6]
+				nil, -- [7]
+				0.664968152866242, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
 				nil, -- [12]
-				1.754323616988331, -- [13]
-				1.234194968282052, -- [14]
-				2.449605397762609, -- [15]
-				1.721069906407305, -- [16]
+				nil, -- [13]
+				0.8328379334748761, -- [14]
+				nil, -- [15]
+				0.6386411889596603, -- [16]
 				nil, -- [17]
-				3.658415854150749, -- [18]
-				5.045679429153097, -- [19]
-				1.970091968086592, -- [20]
-				2.44935155264367, -- [21]
-				2.102345275053879, -- [22]
-				nil, -- [23]
-				1.880992331338957, -- [24]
-				8.561688171578993, -- [25]
-				3.592923813464453, -- [26]
-				2.449605397762609, -- [27]
-				2.102345275053879, -- [28]
+				nil, -- [18]
+				nil, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				0.6590233545647558, -- [23]
+				nil, -- [24]
+				0.6414720452937014, -- [25]
+				nil, -- [26]
+				nil, -- [27]
+				nil, -- [28]
 				nil, -- [29]
-				2.103614500648575, -- [30]
-				3.279678936693566, -- [31]
-				1.717769919861096, -- [32]
-				2.102345275053879, -- [33]
+				0.7578202406227884, -- [30]
+				nil, -- [31]
+				4, -- [32]
+				nil, -- [33]
 				nil, -- [34]
-				2.076706918041027, -- [35]
-				2.44935155264367, -- [36]
-				3.377409307485131, -- [37]
+				nil, -- [35]
+				0.7068648266100496, -- [36]
+				nil, -- [37]
 				nil, -- [38]
-				1.234194968282052, -- [39]
-				1.609885744311965, -- [40]
-				nil, -- [41]
-				5.045933274272036, -- [42]
+				nil, -- [39]
+				nil, -- [40]
+				0.8232130219391366, -- [41]
+				nil, -- [42]
 				nil, -- [43]
-				2.105645261600087, -- [44]
-				2.542512711294331, -- [45]
-				1.234194968282052, -- [46]
-				2.44935155264367, -- [47]
-				9.700691220258872, -- [48]
+				nil, -- [44]
+				nil, -- [45]
+				0.6479830148619957, -- [46]
+				nil, -- [47]
+				0.8939844302901627, -- [48]
 			},
-			["type"] = "Pet",
-			["LastActive"] = 1367893443,
-			["UnitLockout"] = 1367893409,
-			["Owner"] = "Brimtok",
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["Disguised Marmot"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF530E8E2000361F7",
+					},
+				},
+				["Lost Hen"] = {
+					["LatestGuardian"] = 3,
+					["GUIDs"] = {
+						"0xF530E8DF0003610D", -- [1]
+						"0xF530E8DF00036245", -- [2]
+						"0xF530E8DF000362A8", -- [3]
+						[0] = "0xF530E8DF00035EFF",
+					},
+				},
+			},
+			["TimeLast"] = {
+				["TimeHeal"] = 1366843216,
+				["Healing"] = 1366843216,
+				["FDamage"] = 1369455605,
+				["HealingTaken"] = 1366843216,
+				["OVERALL"] = 1369455605,
+				["DamageTaken"] = 1366843214,
+				["ActiveTime"] = 1369455605,
+				["EnergyGain"] = 1369455591,
+				["RageGain"] = 1367893427,
+				["Overhealing"] = 1366843217,
+				["TimeDamage"] = 1369455605,
+				["HOT_Time"] = 1366843217,
+				["ManaGain"] = 1369455599,
+				["DOT_Time"] = 1369455605,
+				["Damage"] = 1366843217,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Ghost Iron Dragonling <Brimtok>", -- [1]
+				"Lost Hen <Brimtok>", -- [2]
+				"Disguised Marmot <Brimtok>", -- [3]
+				"Voracious Virmen <Brimtok>", -- [4]
+				"Unknown <Brimtok>", -- [5]
+				"Squatting Virmen <Brimtok>", -- [6]
+				"Swooping Plainshawk <Brimtok>", -- [7]
+			},
+			["NextEventNum"] = 48,
+			["LastEventHealthNum"] = {
+				96.29214437367304, -- [1]
+				94.78358103326256, -- [2]
+				94.78358103326256, -- [3]
+				94.78358103326256, -- [4]
+				98.78358103326256, -- [5]
+				98.78358103326256, -- [6]
+				98.78358103326256, -- [7]
+				98.78358103326256, -- [8]
+				98.78358103326256, -- [9]
+				97.2475583864119, -- [10]
+				97.2475583864119, -- [11]
+				97.2475583864119, -- [12]
+				97.2475583864119, -- [13]
+				97.2475583864119, -- [14]
+				97.2475583864119, -- [15]
+				97.2475583864119, -- [16]
+				97.2475583864119, -- [17]
+				95.77607926397735, -- [18]
+				95.77607926397735, -- [19]
+				95.77607926397735, -- [20]
+				95.77607926397735, -- [21]
+				95.77607926397735, -- [22]
+				95.77607926397735, -- [23]
+				95.77607926397735, -- [24]
+				95.77607926397735, -- [25]
+				95.77607926397735, -- [26]
+				94.4755838641189, -- [27]
+				94.4755838641189, -- [28]
+				94.4755838641189, -- [29]
+				94.4755838641189, -- [30]
+				94.4755838641189, -- [31]
+				98.4755838641189, -- [32]
+				97.71776362349611, -- [33]
+				97.71776362349611, -- [34]
+				97.71776362349611, -- [35]
+				97.71776362349611, -- [36]
+				97.71776362349611, -- [37]
+				97.01089879688605, -- [38]
+				97.01089879688605, -- [39]
+				97.01089879688605, -- [40]
+				97.01089879688605, -- [41]
+				97.01089879688605, -- [42]
+				97.01089879688605, -- [43]
+				96.18768577494693, -- [44]
+				96.18768577494693, -- [45]
+				96.18768577494693, -- [46]
+				96.18768577494693, -- [47]
+				96.29214437367304, -- [48]
+				96.29214437367304, -- [49]
+				96.29214437367304, -- [50]
+			},
+			["LastEvents"] = {
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2171 (Physical)", -- [1]
+				"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20425 (Physical)", -- [2]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16871 (Physical)", -- [3]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [4]
+				"Brimtok Leader of the Pack Brimtok Tick +14130", -- [5]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3077 (Physical)", -- [6]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9869 (Physical)", -- [7]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2349 (Physical)", -- [8]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13596 (Physical)", -- [9]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8069 (Physical)", -- [10]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [11]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [12]
+				"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [13]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2942 (Physical)", -- [14]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7175 (Physical)", -- [15]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2256 (Physical)", -- [16]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [17]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -15565 (Physical)", -- [18]
+				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -40787 (Physical)", -- [19]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [20]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [21]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9506 (Physical)", -- [22]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2328 (Physical)", -- [23]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14284 (Physical)", -- [24]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2266 (Physical)", -- [25]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [26]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7361 (Physical)", -- [27]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [28]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18757 (Physical)", -- [29]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2677 (Physical)", -- [30]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [31]
+				"Brimtok Leader of the Pack Brimtok Tick +14130", -- [32]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23778 (Physical)", -- [33]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [34]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9534 (Physical)", -- [35]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2497 (Physical)", -- [36]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [37]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7736 (Physical)", -- [38]
+				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -13596 (Physical)", -- [39]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22687 (Physical)", -- [40]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2908 (Physical)", -- [41]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13595 (Physical)", -- [42]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [43]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11620 (Physical)", -- [44]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9755 (Physical)", -- [45]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2289 (Physical)", -- [46]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [47]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3158 (Physical)", -- [48]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [49]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6470 (Physical)", -- [50]
+			},
+			["Name"] = "Brimtok",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				true, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				true, -- [23]
+				false, -- [24]
+				true, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastDamageTaken"] = 4170,
 			["Fights"] = {
-				["CurrentFightData"] = {
-					["Attacks"] = {
-						["Melee"] = {
+				["Fight3"] = {
+					["DOTs"] = {
+						["Rip (DoT)"] = {
 							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 16,
-									["amount"] = 0,
+								["Kunzen Ravager"] = {
+									["count"] = 30,
 								},
 							},
-							["count"] = 19,
-							["amount"] = 0,
+							["amount"] = 30,
 						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Ravager"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 195022,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 21,
+					["Damage"] = 1408585,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 91610,
+						["Physical"] = 103412,
+					},
+					["DOT_Time"] = 57,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 4.78,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Miss"] = {
+								["Glancing"] = {
 									["count"] = 3,
 								},
-								["Dodge"] = {
-									["count"] = 16,
+								["Crit"] = {
+									["count"] = 12,
+								},
+								["Hit"] = {
+									["count"] = 19,
 								},
 							},
-							["amount"] = 19,
+							["amount"] = 34,
 						},
-					},
-					["TimeSpent"] = {
-						["Brimtok"] = {
+						["Physical"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 222.14,
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 13,
 								},
 							},
-							["amount"] = 222.14,
+							["amount"] = 35,
 						},
 					},
 					["FAttacks"] = {
+					},
+					["HealingTaken"] = 243642,
+					["ElementDone"] = {
+						["Melee"] = 498570,
+						["Physical"] = 910015,
+					},
+					["DamagedWho"] = {
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 175326,
+								},
+								["Melee"] = {
+									["count"] = 498570,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 159215,
+								},
+								["Mangle"] = {
+									["count"] = 52498,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 8268,
+								},
+								["Rake"] = {
+									["count"] = 55052,
+								},
+								["Ravage!"] = {
+									["count"] = 459656,
+								},
+							},
+							["amount"] = 1408585,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 24000,
+								},
+							},
+							["amount"] = 24000,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["My Eye! (DoT)"] = {
+									["count"] = 27000,
+								},
+								["Tail Whip"] = {
+									["count"] = 76412,
+								},
+								["Melee"] = {
+									["count"] = 91610,
+								},
+							},
+							["amount"] = 195022,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 3485,
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 1.06,
+								},
+								["Rejuvenation"] = {
+									["count"] = 0.8500000000000001,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 2.58,
+								},
+							},
+							["amount"] = 4.49,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 0.29,
+								},
+							},
+							["amount"] = 0.29,
+						},
+					},
+					["OverHeals"] = {
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3820,
+									["min"] = 2157,
+									["count"] = 4,
+									["amount"] = 12099,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 12099,
+						},
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 14130,
+									["count"] = 1,
+									["amount"] = 14130,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14130,
+						},
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56520,
+								},
+								["Rejuvenation"] = {
+									["count"] = 21065,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 166057,
+								},
+							},
+							["amount"] = 243642,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56520,
+								},
+								["Rejuvenation"] = {
+									["count"] = 21065,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 166057,
+								},
+							},
+							["amount"] = 243642,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 3617,
+								},
+							},
+							["amount"] = 3617,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
 						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 16,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 24000,
+								},
+							},
+							["amount"] = 24000,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 26229,
+					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 1.06,
+								},
+								["Rejuvenation"] = {
+									["count"] = 0.8500000000000001,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 2.58,
+								},
+							},
+							["amount"] = 4.49,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 3.79,
+								},
+								["Melee"] = {
+									["count"] = 16.74,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 3.42,
+								},
+								["Mangle"] = {
+									["count"] = 3.77,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.11,
+								},
+								["Rake"] = {
+									["count"] = 0.37,
+								},
+								["Ravage!"] = {
+									["count"] = 3.25,
+								},
+							},
+							["amount"] = 31.44999999999999,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 0.29,
+								},
+							},
+							["amount"] = 0.29,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 14130,
+									["count"] = 4,
+									["amount"] = 56520,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 56520,
+						},
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10533,
+									["min"] = 10532,
+									["count"] = 2,
+									["amount"] = 21065,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21065,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14540,
+									["min"] = 2067,
+									["count"] = 23,
+									["amount"] = 169674,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 169674,
+						},
+					},
+					["ActiveTime"] = 36.22999999999999,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["EnergyGain"] = 60,
+					["Healing"] = 247259,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Rip (DoT)"] = {
 							["Details"] = {
 								["Crit"] = {
-									["max"] = 8233,
-									["min"] = 4406,
-									["count"] = 8,
-									["amount"] = 55660,
+									["max"] = 31481,
+									["min"] = 28594,
+									["count"] = 2,
+									["amount"] = 60075,
 								},
-								["Hit"] = {
-									["max"] = 4088,
-									["min"] = 1903,
-									["count"] = 114,
-									["amount"] = 367210,
+								["Tick"] = {
+									["max"] = 15282,
+									["min"] = 13881,
+									["count"] = 8,
+									["amount"] = 115251,
 								},
 							},
-							["count"] = 122,
-							["amount"] = 422870,
+							["count"] = 10,
+							["amount"] = 175326,
 						},
-					},
-					["ActiveTime"] = 222.14,
-					["PartialResist"] = {
 						["Melee"] = {
 							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
+								["Hit (Blocked)"] = {
+									["max"] = 8131,
+									["min"] = 8131,
+									["count"] = 1,
+									["amount"] = 8131,
+								},
+								["Glancing"] = {
+									["max"] = 11992,
+									["min"] = 10230,
+									["count"] = 3,
+									["amount"] = 32472,
+								},
+								["Crit"] = {
+									["max"] = 28277,
+									["min"] = 15823,
+									["count"] = 12,
+									["amount"] = 270184,
+								},
+								["Hit"] = {
+									["max"] = 12985,
+									["min"] = 7178,
+									["count"] = 18,
+									["amount"] = 187783,
+								},
+							},
+							["count"] = 34,
+							["amount"] = 498570,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 31161,
+									["min"] = 29807,
 									["count"] = 2,
+									["amount"] = 60968,
+								},
+								["Tick"] = {
+									["max"] = 15127,
+									["min"] = 10118,
+									["count"] = 7,
+									["amount"] = 98247,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 159215,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
 									["amount"] = 0,
 								},
+								["Crit"] = {
+									["max"] = 33973,
+									["min"] = 33973,
+									["count"] = 1,
+									["amount"] = 33973,
+								},
+								["Hit"] = {
+									["max"] = 18525,
+									["min"] = 18525,
+									["count"] = 1,
+									["amount"] = 18525,
+								},
 							},
-							["count"] = 2,
-							["amount"] = 0,
+							["count"] = 3,
+							["amount"] = 52498,
 						},
-						["Rip"] = {
+						["Ferocious Bite"] = {
 							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
+								["Hit"] = {
+									["max"] = 8268,
+									["min"] = 8268,
+									["count"] = 1,
+									["amount"] = 8268,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8268,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 29807,
+									["min"] = 29807,
+									["count"] = 1,
+									["amount"] = 29807,
+								},
+								["Hit"] = {
+									["max"] = 15127,
+									["min"] = 10118,
 									["count"] = 2,
-									["amount"] = 0,
+									["amount"] = 25245,
 								},
 							},
-							["count"] = 2,
-							["amount"] = 0,
+							["count"] = 3,
+							["amount"] = 55052,
 						},
-					},
-					["DeathCount"] = 12,
-					["FDamage"] = 422870,
-					["TimeDamage"] = 222.14,
-					["TimeDamaging"] = {
-						["Brimtok"] = {
+						["Ravage!"] = {
 							["Details"] = {
-								["Melee"] = {
-									["count"] = 222.14,
+								["Hit"] = {
+									["max"] = 58159,
+									["min"] = 37497,
+									["count"] = 9,
+									["amount"] = 459656,
 								},
 							},
-							["amount"] = 222.14,
+							["count"] = 9,
+							["amount"] = 459656,
 						},
 					},
+					["RageGain"] = 0,
 					["FDamagedWho"] = {
-						["Brimtok"] = {
+					},
+					["TimeDamage"] = 31.44999999999999,
+					["TimeDamaging"] = {
+						["Kunzen Ravager"] = {
 							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 3.79,
+								},
 								["Melee"] = {
-									["count"] = 422870,
+									["count"] = 16.74,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 3.42,
+								},
+								["Mangle"] = {
+									["count"] = 3.77,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.11,
+								},
+								["Rake"] = {
+									["count"] = 0.37,
+								},
+								["Ravage!"] = {
+									["count"] = 3.25,
 								},
 							},
-							["amount"] = 422870,
+							["amount"] = 31.44999999999999,
 						},
+					},
+					["ManaGain"] = 24000,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+						["Pounce Bleed (DoT)"] = {
+							["Details"] = {
+								["Kunzen Rockflinger"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Rockflinger"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 82938,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 13,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 3,
+					["Damage"] = 289111,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 49251,
+						["Physical"] = 33687,
+					},
+					["DOT_Time"] = 6,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0.31,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 14130,
+					["ElementDone"] = {
+						["Melee"] = 89102,
+						["Physical"] = 200009,
+					},
+					["DamagedWho"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 6056,
+								},
+								["Rake"] = {
+									["count"] = 20236,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 10118,
+								},
+								["Mangle"] = {
+									["count"] = 39479,
+								},
+								["Ravage!"] = {
+									["count"] = 76452,
+								},
+								["Melee"] = {
+									["count"] = 89102,
+								},
+								["Swipe"] = {
+									["count"] = 47668,
+								},
+							},
+							["amount"] = 289111,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 4800,
+								},
+							},
+							["amount"] = 4800,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 49251,
+								},
+								["Fling Rock"] = {
+									["count"] = 33687,
+								},
+							},
+							["amount"] = 82938,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.31,
+								},
+							},
+							["amount"] = 0.31,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 14130,
+								},
+							},
+							["amount"] = 14130,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 14130,
+								},
+							},
+							["amount"] = 14130,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
 					},
 					["PartialAbsorb"] = {
 						["Melee"] = {
@@ -8492,6 +10778,1091 @@ RecountPerCharDB = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 4800,
+								},
+							},
+							["amount"] = 4800,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 0.98,
+								},
+								["Rake"] = {
+									["count"] = 0.25,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.19,
+								},
+								["Mangle"] = {
+									["count"] = 0.42,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 14.41,
+								},
+								["Swipe"] = {
+									["count"] = 0.18,
+								},
+							},
+							["amount"] = 16.43,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.31,
+								},
+							},
+							["amount"] = 0.31,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 14130,
+									["count"] = 1,
+									["amount"] = 14130,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14130,
+						},
+					},
+					["ActiveTime"] = 16.74,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 14130,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Pounce Bleed (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6056,
+									["min"] = 6056,
+									["count"] = 1,
+									["amount"] = 6056,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6056,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10118,
+									["min"] = 10118,
+									["count"] = 2,
+									["amount"] = 20236,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20236,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10118,
+									["min"] = 10118,
+									["count"] = 1,
+									["amount"] = 10118,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 10118,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 21037,
+									["min"] = 18442,
+									["count"] = 2,
+									["amount"] = 39479,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 39479,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 76452,
+									["min"] = 76452,
+									["count"] = 1,
+									["amount"] = 76452,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 76452,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 7129,
+									["min"] = 6594,
+									["count"] = 2,
+									["amount"] = 13723,
+								},
+								["Crit"] = {
+									["max"] = 17205,
+									["min"] = 17205,
+									["count"] = 1,
+									["amount"] = 17205,
+								},
+								["Hit"] = {
+									["max"] = 7753,
+									["min"] = 6487,
+									["count"] = 8,
+									["amount"] = 58174,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 89102,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 18432,
+									["min"] = 13478,
+									["count"] = 3,
+									["amount"] = 47668,
+								},
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 47668,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 16.43,
+					["TimeDamaging"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 0.98,
+								},
+								["Rake"] = {
+									["count"] = 0.25,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.19,
+								},
+								["Mangle"] = {
+									["count"] = 0.42,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 14.41,
+								},
+								["Swipe"] = {
+									["count"] = 0.18,
+								},
+							},
+							["amount"] = 16.43,
+						},
+					},
+					["ManaGain"] = 4800,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 93,
+								},
+								["Kunzen Ravager"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 45,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 141,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 93,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 42,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 183,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 129,
+								},
+								["Kunzen Ravager"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 57,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 204,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Mangle"] = {
+									["count"] = 5,
+								},
+								["Bear Form"] = {
+									["count"] = 10,
+								},
+								["Primal Fury"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 12,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 57,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 0,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 528,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["FAttacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 31311,
+									["min"] = 18084,
+									["count"] = 9,
+									["amount"] = 206255,
+								},
+								["Tick"] = {
+									["max"] = 15878,
+									["min"] = 5880,
+									["count"] = 38,
+									["amount"] = 415968,
+								},
+							},
+							["count"] = 47,
+							["amount"] = 622223,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 20129,
+									["min"] = 10016,
+									["count"] = 20,
+									["amount"] = 290171,
+								},
+								["Tick"] = {
+									["max"] = 9772,
+									["min"] = 4862,
+									["count"] = 41,
+									["amount"] = 272936,
+								},
+							},
+							["count"] = 61,
+							["amount"] = 563107,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 42775,
+									["min"] = 19877,
+									["count"] = 22,
+									["amount"] = 612466,
+								},
+								["Hit"] = {
+									["max"] = 21815,
+									["min"] = 6755,
+									["count"] = 29,
+									["amount"] = 377918,
+								},
+							},
+							["count"] = 51,
+							["amount"] = 990384,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 42775,
+									["min"] = 19877,
+									["count"] = 20,
+									["amount"] = 555678,
+								},
+								["Tick"] = {
+									["max"] = 20764,
+									["min"] = 9649,
+									["count"] = 48,
+									["amount"] = 617370,
+								},
+							},
+							["count"] = 68,
+							["amount"] = 1173048,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 97004,
+									["min"] = 14748,
+									["count"] = 6,
+									["amount"] = 301440,
+								},
+								["Hit"] = {
+									["max"] = 31825,
+									["min"] = 12920,
+									["count"] = 4,
+									["amount"] = 94143,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 395583,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 116140,
+									["min"] = 64558,
+									["count"] = 7,
+									["amount"] = 616409,
+								},
+								["Hit"] = {
+									["max"] = 42910,
+									["min"] = 33167,
+									["count"] = 9,
+									["amount"] = 341481,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 957890,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 60255,
+									["min"] = 33728,
+									["count"] = 17,
+									["amount"] = 721912,
+								},
+								["Hit"] = {
+									["max"] = 32024,
+									["min"] = 16692,
+									["count"] = 40,
+									["amount"] = 927946,
+								},
+							},
+							["count"] = 57,
+							["amount"] = 1649858,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 28520,
+									["min"] = 14191,
+									["count"] = 9,
+									["amount"] = 184747,
+								},
+								["Hit"] = {
+									["max"] = 13844,
+									["min"] = 6889,
+									["count"] = 7,
+									["amount"] = 62253,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 247000,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 11914,
+									["min"] = 6246,
+									["count"] = 16,
+									["amount"] = 130580,
+								},
+								["Crit"] = {
+									["max"] = 25889,
+									["min"] = 12839,
+									["count"] = 90,
+									["amount"] = 1686424,
+								},
+								["Hit"] = {
+									["max"] = 12750,
+									["min"] = 5751,
+									["count"] = 206,
+									["amount"] = 1802138,
+								},
+							},
+							["count"] = 312,
+							["amount"] = 3619142,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 67751,
+									["min"] = 31865,
+									["count"] = 14,
+									["amount"] = 671855,
+								},
+								["Hit"] = {
+									["max"] = 32635,
+									["min"] = 13101,
+									["count"] = 45,
+									["amount"] = 992586,
+								},
+							},
+							["count"] = 59,
+							["amount"] = 1664441,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DamagedWho"] = {
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 273600,
+								},
+							},
+							["amount"] = 273600,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["My Eye! (DoT)"] = {
+									["count"] = 0,
+								},
+								["Tail Whip"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 660,
+								},
+							},
+							["amount"] = 660,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 57,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 57,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 57,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 57,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 273600,
+								},
+							},
+							["amount"] = 273600,
+						},
+					},
+					["FDamage"] = 11882676,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 12.92,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6.89,
+								},
+								["Rake"] = {
+									["count"] = 8.310000000000001,
+								},
+								["Rip"] = {
+									["count"] = 1,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.81,
+								},
+								["Ravage!"] = {
+									["count"] = 2.92,
+								},
+								["Mangle"] = {
+									["count"] = 12.48,
+								},
+								["Thrash"] = {
+									["count"] = 0.33,
+								},
+								["Melee"] = {
+									["count"] = 105.5,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 14.88,
+								},
+								["Swipe"] = {
+									["count"] = 6.840000000000001,
+								},
+							},
+							["amount"] = 174.8799999999999,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 5.89,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Rake"] = {
+									["count"] = 4.58,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 8,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.8999999999999999,
+								},
+								["Ravage!"] = {
+									["count"] = 2.62,
+								},
+								["Mangle"] = {
+									["count"] = 6.630000000000001,
+								},
+								["Thrash"] = {
+									["count"] = 1.69,
+								},
+								["Melee"] = {
+									["count"] = 99.64000000000006,
+								},
+								["Swipe"] = {
+									["count"] = 9.100000000000001,
+								},
+							},
+							["amount"] = 148.91,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 7.45,
+								},
+								["Rake"] = {
+									["count"] = 6.68,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 1.45,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 1.88,
+								},
+								["Ravage!"] = {
+									["count"] = 0.9300000000000001,
+								},
+								["Mangle"] = {
+									["count"] = 4.33,
+								},
+								["Melee"] = {
+									["count"] = 69.39999999999998,
+								},
+								["Thrash"] = {
+									["count"] = 3.6,
+								},
+								["Swipe"] = {
+									["count"] = 11.05,
+								},
+							},
+							["amount"] = 106.77,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 430.5599999999996,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 660,
+								},
+							},
+							["amount"] = 660,
+						},
+					},
+					["EnergyGain"] = 660,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+						["Mangle"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Primal Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["Attacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["Parry"] = {
 									["count"] = 2,
 									["amount"] = 0,
 								},
@@ -8499,7 +11870,467 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Rip"] = {
+						["Mangle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 75,
+					["FDamagedWho"] = {
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 417104,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 280834,
+								},
+								["Rake"] = {
+									["count"] = 572463,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 818437,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 244592,
+								},
+								["Ravage!"] = {
+									["count"] = 311203,
+								},
+								["Mangle"] = {
+									["count"] = 820244,
+								},
+								["Thrash"] = {
+									["count"] = 99072,
+								},
+								["Melee"] = {
+									["count"] = 1581113,
+								},
+								["Swipe"] = {
+									["count"] = 641768,
+								},
+							},
+							["amount"] = 5786830,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 199239,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 172890,
+								},
+								["Rake"] = {
+									["count"] = 254804,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 291283,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 64720,
+								},
+								["Ravage!"] = {
+									["count"] = 525111,
+								},
+								["Mangle"] = {
+									["count"] = 519385,
+								},
+								["Thrash"] = {
+									["count"] = 72663,
+								},
+								["Melee"] = {
+									["count"] = 1309817,
+								},
+								["Swipe"] = {
+									["count"] = 648440,
+								},
+							},
+							["amount"] = 4058352,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 5880,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 109383,
+								},
+								["Rake"] = {
+									["count"] = 163117,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 63328,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 86271,
+								},
+								["Ravage!"] = {
+									["count"] = 121576,
+								},
+								["Mangle"] = {
+									["count"] = 310229,
+								},
+								["Melee"] = {
+									["count"] = 728212,
+								},
+								["Thrash"] = {
+									["count"] = 75265,
+								},
+								["Swipe"] = {
+									["count"] = 374233,
+								},
+							},
+							["amount"] = 2037494,
+						},
+					},
+					["TimeDamage"] = 430.5599999999996,
+					["TimeDamaging"] = {
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 12.92,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6.89,
+								},
+								["Rake"] = {
+									["count"] = 8.310000000000001,
+								},
+								["Rip"] = {
+									["count"] = 1,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.81,
+								},
+								["Ravage!"] = {
+									["count"] = 2.92,
+								},
+								["Mangle"] = {
+									["count"] = 12.48,
+								},
+								["Thrash"] = {
+									["count"] = 0.33,
+								},
+								["Melee"] = {
+									["count"] = 105.5,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 14.88,
+								},
+								["Swipe"] = {
+									["count"] = 6.840000000000001,
+								},
+							},
+							["amount"] = 174.8799999999999,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 5.89,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Rake"] = {
+									["count"] = 4.58,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 8,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.8999999999999999,
+								},
+								["Ravage!"] = {
+									["count"] = 2.62,
+								},
+								["Mangle"] = {
+									["count"] = 6.630000000000001,
+								},
+								["Thrash"] = {
+									["count"] = 1.69,
+								},
+								["Melee"] = {
+									["count"] = 99.64000000000006,
+								},
+								["Swipe"] = {
+									["count"] = 9.100000000000001,
+								},
+							},
+							["amount"] = 148.91,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 7.45,
+								},
+								["Rake"] = {
+									["count"] = 6.68,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 1.45,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 1.88,
+								},
+								["Ravage!"] = {
+									["count"] = 0.9300000000000001,
+								},
+								["Mangle"] = {
+									["count"] = 4.33,
+								},
+								["Melee"] = {
+									["count"] = 69.39999999999998,
+								},
+								["Thrash"] = {
+									["count"] = 3.6,
+								},
+								["Swipe"] = {
+									["count"] = 11.05,
+								},
+							},
+							["amount"] = 106.77,
+						},
+					},
+					["ManaGain"] = 273600,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DOTs"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Kunzen Farm-Raider"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Farm-Raider"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 54077,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["PartialResist"] = {
+						["Burrow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Burrow"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
@@ -8511,12 +12342,403 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["WhoDamaged"] = {
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["My Eye! (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Maaka"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fling Rock"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kunzen Collector"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springtail Burrower"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41951,
+								},
+								["Burrow"] = {
+									["count"] = 12126,
+								},
+							},
+							["amount"] = 54077,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 41951,
+						["Physical"] = 12126,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["HOT_Time"] = 0,
+					["Overhealing"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 61172,
+					["RageGainedFrom"] = {
 					},
 					["ElementHitsTaken"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Parry"] = {
-									["count"] = 2,
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 3,
+					["Damage"] = 353125,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 27655,
+						["Physical"] = 33517,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0.14,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
 								},
 							},
 							["amount"] = 2,
@@ -8524,3596 +12746,4164 @@ RecountPerCharDB = {
 						["Physical"] = {
 							["Details"] = {
 								["Parry"] = {
-									["count"] = 2,
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 10,
 								},
 							},
-							["amount"] = 2,
+							["amount"] = 14,
 						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 14130,
+					["ElementDone"] = {
+						["Melee"] = 24932,
+						["Physical"] = 328193,
+					},
+					["DamagedWho"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Ravage"] = {
+									["count"] = 75629,
+								},
+								["Melee"] = {
+									["count"] = 24932,
+								},
+								["Swipe"] = {
+									["count"] = 252564,
+								},
+							},
+							["amount"] = 353125,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 4800,
+								},
+							},
+							["amount"] = 4800,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 27655,
+								},
+								["Fling Rock"] = {
+									["count"] = 33517,
+								},
+							},
+							["amount"] = 61172,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.14,
+								},
+							},
+							["amount"] = 0.14,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 14130,
+								},
+							},
+							["amount"] = 14130,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 14130,
+								},
+							},
+							["amount"] = 14130,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 4800,
+								},
+							},
+							["amount"] = 4800,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Ravage"] = {
+									["count"] = 0.27,
+								},
+								["Melee"] = {
+									["count"] = 6.029999999999999,
+								},
+								["Swipe"] = {
+									["count"] = 6.300000000000001,
+								},
+							},
+							["amount"] = 12.6,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.14,
+								},
+							},
+							["amount"] = 0.14,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 14130,
+									["count"] = 1,
+									["amount"] = 14130,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14130,
+						},
+					},
+					["ActiveTime"] = 12.74,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["EnergyGain"] = 60,
+					["Healing"] = 14130,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Ravage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 75629,
+									["min"] = 75629,
+									["count"] = 1,
+									["amount"] = 75629,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 75629,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15661,
+									["min"] = 15661,
+									["count"] = 1,
+									["amount"] = 15661,
+								},
+								["Hit"] = {
+									["max"] = 9271,
+									["min"] = 9271,
+									["count"] = 1,
+									["amount"] = 9271,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 24932,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 42573,
+									["min"] = 34384,
+									["count"] = 2,
+									["amount"] = 76957,
+								},
+								["Hit"] = {
+									["max"] = 20556,
+									["min"] = 15378,
+									["count"] = 10,
+									["amount"] = 175607,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 252564,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 12.6,
+					["TimeDamaging"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Ravage"] = {
+									["count"] = 0.27,
+								},
+								["Melee"] = {
+									["count"] = 6.029999999999999,
+								},
+								["Swipe"] = {
+									["count"] = 6.300000000000001,
+								},
+							},
+							["amount"] = 12.6,
+						},
+					},
+					["ManaGain"] = 4800,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Kunzen Ritualist"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 9,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 15,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 105,
+								},
+							},
+							["amount"] = 129,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Ritualist"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 6,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 18,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 98884,
+					["RageGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Mangle"] = {
+									["count"] = 5,
+								},
+								["Bear Form"] = {
+									["count"] = 10,
+								},
+								["Primal Fury"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 6,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 30,
+					["Damage"] = 11854045,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 98884,
+					},
+					["DOT_Time"] = 213,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 2.28,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 25,
+								},
+								["Hit"] = {
+									["count"] = 49,
+								},
+							},
+							["amount"] = 77,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 36,
+								},
+								["Crit"] = {
+									["count"] = 34,
+								},
+								["Hit"] = {
+									["count"] = 17,
+								},
+							},
+							["amount"] = 87,
+						},
+					},
+					["FAttacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 29505,
+									["min"] = 29505,
+									["count"] = 1,
+									["amount"] = 29505,
+								},
+								["Tick"] = {
+									["max"] = 14618,
+									["min"] = 10308,
+									["count"] = 7,
+									["amount"] = 89102,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 118607,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 10112,
+									["min"] = 7579,
+									["count"] = 4,
+									["amount"] = 33580,
+								},
+								["Crit"] = {
+									["max"] = 24126,
+									["min"] = 12907,
+									["count"] = 13,
+									["amount"] = 253100,
+								},
+								["Hit"] = {
+									["max"] = 10775,
+									["min"] = 6273,
+									["count"] = 14,
+									["amount"] = 118125,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 404805,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37195,
+									["min"] = 28612,
+									["count"] = 4,
+									["amount"] = 140197,
+								},
+								["Tick"] = {
+									["max"] = 18056,
+									["min"] = 9649,
+									["count"] = 4,
+									["amount"] = 47005,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 187202,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 41994,
+									["min"] = 35784,
+									["count"] = 2,
+									["amount"] = 77778,
+								},
+								["Hit"] = {
+									["max"] = 29873,
+									["min"] = 15881,
+									["count"] = 5,
+									["amount"] = 129486,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 207264,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 34970,
+									["min"] = 14391,
+									["count"] = 2,
+									["amount"] = 49361,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 49361,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37195,
+									["min"] = 19877,
+									["count"] = 4,
+									["amount"] = 114145,
+								},
+								["Hit"] = {
+									["max"] = 18056,
+									["min"] = 13889,
+									["count"] = 2,
+									["amount"] = 31945,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 146090,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 79727,
+									["min"] = 79727,
+									["count"] = 1,
+									["amount"] = 79727,
+								},
+								["Hit"] = {
+									["max"] = 34978,
+									["min"] = 34978,
+									["count"] = 1,
+									["amount"] = 34978,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 114705,
+						},
+					},
+					["HealingTaken"] = 89999,
+					["ElementDone"] = {
+						["Melee"] = 2877328,
+						["Physical"] = 8976717,
+					},
+					["DamagedWho"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1996884,
+								},
+								["Mangle"] = {
+									["count"] = 1048791,
+								},
+								["Melee"] = {
+									["count"] = 2877328,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 1615664,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 154797,
+								},
+								["Rake"] = {
+									["count"] = 275191,
+								},
+								["Shred"] = {
+									["count"] = 308456,
+								},
+								["Ravage!"] = {
+									["count"] = 3576934,
+								},
+							},
+							["amount"] = 11854045,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 72000,
+								},
+							},
+							["amount"] = 72000,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 98884,
+								},
+							},
+							["amount"] = 98884,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 120,
+								},
+							},
+							["amount"] = 120,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 24415,
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.86,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 2.28,
+						},
+					},
+					["OverHeals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 290,
+									["count"] = 9,
+									["amount"] = 91208,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 91208,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 310200,
+									["min"] = 2530,
+									["count"] = 23,
+									["amount"] = 1134855,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 1134855,
+						},
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56406,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 33593,
+								},
+							},
+							["amount"] = 89999,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56406,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 33593,
+								},
+							},
+							["amount"] = 89999,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 72000,
+								},
+							},
+							["amount"] = 72000,
+						},
+					},
+					["FDamage"] = 1228034,
+					["Interrupts"] = 0,
+					["Overhealing"] = 1226063,
+					["TimeSpent"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8400000000000001,
+								},
+								["Melee"] = {
+									["count"] = 6.11,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.55,
+								},
+								["Mangle"] = {
+									["count"] = 4.05,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.43,
+								},
+								["Rake"] = {
+									["count"] = 0.39,
+								},
+								["Ravage!"] = {
+									["count"] = 0.76,
+								},
+							},
+							["amount"] = 13.13,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Melee"] = {
+									["count"] = 18.63,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 2.59,
+								},
+								["Mangle"] = {
+									["count"] = 1.39,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.42,
+								},
+								["Rake"] = {
+									["count"] = 1.03,
+								},
+								["Ravage!"] = {
+									["count"] = 0.75,
+								},
+							},
+							["amount"] = 26.47,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.86,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 2.28,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 20444,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 56406,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 56406,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3870,
+									["min"] = 677,
+									["count"] = 14,
+									["amount"] = 33593,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 33593,
+						},
+					},
+					["ActiveTime"] = 119.3,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 120,
+								},
+							},
+							["amount"] = 120,
+						},
+					},
+					["EnergyGain"] = 120,
+					["Healing"] = 89999,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+						["Mangle"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Primal Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["Attacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 276061,
+									["min"] = 21235,
+									["count"] = 13,
+									["amount"] = 1258485,
+								},
+								["Tick"] = {
+									["max"] = 137284,
+									["min"] = 0,
+									["count"] = 22,
+									["amount"] = 738399,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 1996884,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 217057,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 270620,
+								},
+								["Crit"] = {
+									["max"] = 420287,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 778171,
+								},
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 1048791,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 106790,
+									["min"] = 8662,
+									["count"] = 2,
+									["amount"] = 115452,
+								},
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 207354,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 1376800,
+								},
+								["Hit"] = {
+									["max"] = 123288,
+									["min"] = 0,
+									["count"] = 49,
+									["amount"] = 1385076,
+								},
+							},
+							["count"] = 77,
+							["amount"] = 2877328,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 427742,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 985805,
+								},
+								["Tick"] = {
+									["max"] = 207642,
+									["min"] = 12544,
+									["count"] = 14,
+									["amount"] = 629859,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 1615664,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 56967,
+									["min"] = 56967,
+									["count"] = 1,
+									["amount"] = 56967,
+								},
+								["Crit"] = {
+									["max"] = 58322,
+									["min"] = 58322,
+									["count"] = 1,
+									["amount"] = 58322,
+								},
+								["Hit"] = {
+									["max"] = 39508,
+									["min"] = 39508,
+									["count"] = 1,
+									["amount"] = 39508,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 154797,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 208843,
+									["min"] = 208843,
+									["count"] = 1,
+									["amount"] = 208843,
+								},
+								["Hit"] = {
+									["max"] = 20764,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 66348,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 275191,
+						},
+						["Shred"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 308456,
+									["min"] = 308456,
+									["count"] = 1,
+									["amount"] = 308456,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 308456,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1240800,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 1548494,
+								},
+								["Hit"] = {
+									["max"] = 615690,
+									["min"] = 51558,
+									["count"] = 8,
+									["amount"] = 2028440,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 3576934,
+						},
+					},
+					["RageGain"] = 30,
+					["FDamagedWho"] = {
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 43853,
+								},
+								["Melee"] = {
+									["count"] = 142720,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 46845,
+								},
+								["Mangle"] = {
+									["count"] = 45369,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 34970,
+								},
+								["Rake"] = {
+									["count"] = 75129,
+								},
+								["Ravage!"] = {
+									["count"] = 34978,
+								},
+							},
+							["amount"] = 423864,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 74754,
+								},
+								["Melee"] = {
+									["count"] = 262085,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 140357,
+								},
+								["Mangle"] = {
+									["count"] = 161895,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 14391,
+								},
+								["Rake"] = {
+									["count"] = 70961,
+								},
+								["Ravage!"] = {
+									["count"] = 79727,
+								},
+							},
+							["amount"] = 804170,
+						},
+					},
+					["TimeDamage"] = 117.02,
+					["TimeDamaging"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8400000000000001,
+								},
+								["Melee"] = {
+									["count"] = 6.11,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.55,
+								},
+								["Mangle"] = {
+									["count"] = 4.05,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.43,
+								},
+								["Rake"] = {
+									["count"] = 0.39,
+								},
+								["Ravage!"] = {
+									["count"] = 0.76,
+								},
+							},
+							["amount"] = 13.13,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Melee"] = {
+									["count"] = 18.63,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 2.59,
+								},
+								["Mangle"] = {
+									["count"] = 1.39,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.42,
+								},
+								["Rake"] = {
+									["count"] = 1.03,
+								},
+								["Ravage!"] = {
+									["count"] = 0.75,
+								},
+							},
+							["amount"] = 26.47,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+					},
+					["ManaGain"] = 72000,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Kunzen Ritualist"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 9,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 15,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 105,
+								},
+							},
+							["amount"] = 129,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Ritualist"] = {
+									["count"] = 0,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 6,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 18,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 60,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 98884,
+					["RageGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Mangle"] = {
+									["count"] = 5,
+								},
+								["Bear Form"] = {
+									["count"] = 10,
+								},
+								["Primal Fury"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 6,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 28,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 30,
+					["Damage"] = 11854045,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 98884,
+					},
+					["DOT_Time"] = 213,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 2.28,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 25,
+								},
+								["Hit"] = {
+									["count"] = 49,
+								},
+							},
+							["amount"] = 77,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 36,
+								},
+								["Crit"] = {
+									["count"] = 34,
+								},
+								["Hit"] = {
+									["count"] = 17,
+								},
+							},
+							["amount"] = 87,
+						},
+					},
+					["FAttacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 29505,
+									["min"] = 29505,
+									["count"] = 1,
+									["amount"] = 29505,
+								},
+								["Tick"] = {
+									["max"] = 14618,
+									["min"] = 10308,
+									["count"] = 7,
+									["amount"] = 89102,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 118607,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 10112,
+									["min"] = 7579,
+									["count"] = 4,
+									["amount"] = 33580,
+								},
+								["Crit"] = {
+									["max"] = 24126,
+									["min"] = 12907,
+									["count"] = 13,
+									["amount"] = 253100,
+								},
+								["Hit"] = {
+									["max"] = 10775,
+									["min"] = 6273,
+									["count"] = 14,
+									["amount"] = 118125,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 404805,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37195,
+									["min"] = 28612,
+									["count"] = 4,
+									["amount"] = 140197,
+								},
+								["Tick"] = {
+									["max"] = 18056,
+									["min"] = 9649,
+									["count"] = 4,
+									["amount"] = 47005,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 187202,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 41994,
+									["min"] = 35784,
+									["count"] = 2,
+									["amount"] = 77778,
+								},
+								["Hit"] = {
+									["max"] = 29873,
+									["min"] = 15881,
+									["count"] = 5,
+									["amount"] = 129486,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 207264,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 34970,
+									["min"] = 14391,
+									["count"] = 2,
+									["amount"] = 49361,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 49361,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37195,
+									["min"] = 19877,
+									["count"] = 4,
+									["amount"] = 114145,
+								},
+								["Hit"] = {
+									["max"] = 18056,
+									["min"] = 13889,
+									["count"] = 2,
+									["amount"] = 31945,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 146090,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 79727,
+									["min"] = 79727,
+									["count"] = 1,
+									["amount"] = 79727,
+								},
+								["Hit"] = {
+									["max"] = 34978,
+									["min"] = 34978,
+									["count"] = 1,
+									["amount"] = 34978,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 114705,
+						},
+					},
+					["HealingTaken"] = 89999,
+					["ElementDone"] = {
+						["Melee"] = 2877328,
+						["Physical"] = 8976717,
+					},
+					["DamagedWho"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1996884,
+								},
+								["Mangle"] = {
+									["count"] = 1048791,
+								},
+								["Melee"] = {
+									["count"] = 2877328,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 1615664,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 154797,
+								},
+								["Rake"] = {
+									["count"] = 275191,
+								},
+								["Shred"] = {
+									["count"] = 308456,
+								},
+								["Ravage!"] = {
+									["count"] = 3576934,
+								},
+							},
+							["amount"] = 11854045,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 72000,
+								},
+							},
+							["amount"] = 72000,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 98884,
+								},
+							},
+							["amount"] = 98884,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 120,
+								},
+							},
+							["amount"] = 120,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 24415,
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.86,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 2.28,
+						},
+					},
+					["OverHeals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 290,
+									["count"] = 9,
+									["amount"] = 91208,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 91208,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 310200,
+									["min"] = 2530,
+									["count"] = 23,
+									["amount"] = 1134855,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 1134855,
+						},
+					},
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56406,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 33593,
+								},
+							},
+							["amount"] = 89999,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 56406,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 33593,
+								},
+							},
+							["amount"] = 89999,
+						},
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 28,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 72000,
+								},
+							},
+							["amount"] = 72000,
+						},
+					},
+					["FDamage"] = 1228034,
+					["Interrupts"] = 0,
+					["Overhealing"] = 1226063,
+					["TimeSpent"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8400000000000001,
+								},
+								["Melee"] = {
+									["count"] = 6.11,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.55,
+								},
+								["Mangle"] = {
+									["count"] = 4.05,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.43,
+								},
+								["Rake"] = {
+									["count"] = 0.39,
+								},
+								["Ravage!"] = {
+									["count"] = 0.76,
+								},
+							},
+							["amount"] = 13.13,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Melee"] = {
+									["count"] = 18.63,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 2.59,
+								},
+								["Mangle"] = {
+									["count"] = 1.39,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.42,
+								},
+								["Rake"] = {
+									["count"] = 1.03,
+								},
+								["Ravage!"] = {
+									["count"] = 0.75,
+								},
+							},
+							["amount"] = 26.47,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 0.86,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 1.42,
+								},
+							},
+							["amount"] = 2.28,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 20444,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 56406,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 56406,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3870,
+									["min"] = 677,
+									["count"] = 14,
+									["amount"] = 33593,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 33593,
+						},
+					},
+					["ActiveTime"] = 119.3,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 120,
+								},
+							},
+							["amount"] = 120,
+						},
+					},
+					["EnergyGain"] = 120,
+					["Healing"] = 89999,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+						["Mangle"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Primal Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["Attacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 276061,
+									["min"] = 21235,
+									["count"] = 13,
+									["amount"] = 1258485,
+								},
+								["Tick"] = {
+									["max"] = 137284,
+									["min"] = 0,
+									["count"] = 22,
+									["amount"] = 738399,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 1996884,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 217057,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 270620,
+								},
+								["Crit"] = {
+									["max"] = 420287,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 778171,
+								},
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 1048791,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 106790,
+									["min"] = 8662,
+									["count"] = 2,
+									["amount"] = 115452,
+								},
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 207354,
+									["min"] = 0,
+									["count"] = 25,
+									["amount"] = 1376800,
+								},
+								["Hit"] = {
+									["max"] = 123288,
+									["min"] = 0,
+									["count"] = 49,
+									["amount"] = 1385076,
+								},
+							},
+							["count"] = 77,
+							["amount"] = 2877328,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 427742,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 985805,
+								},
+								["Tick"] = {
+									["max"] = 207642,
+									["min"] = 12544,
+									["count"] = 14,
+									["amount"] = 629859,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 1615664,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 56967,
+									["min"] = 56967,
+									["count"] = 1,
+									["amount"] = 56967,
+								},
+								["Crit"] = {
+									["max"] = 58322,
+									["min"] = 58322,
+									["count"] = 1,
+									["amount"] = 58322,
+								},
+								["Hit"] = {
+									["max"] = 39508,
+									["min"] = 39508,
+									["count"] = 1,
+									["amount"] = 39508,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 154797,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 208843,
+									["min"] = 208843,
+									["count"] = 1,
+									["amount"] = 208843,
+								},
+								["Hit"] = {
+									["max"] = 20764,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 66348,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 275191,
+						},
+						["Shred"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 308456,
+									["min"] = 308456,
+									["count"] = 1,
+									["amount"] = 308456,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 308456,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1240800,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 1548494,
+								},
+								["Hit"] = {
+									["max"] = 615690,
+									["min"] = 51558,
+									["count"] = 8,
+									["amount"] = 2028440,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 3576934,
+						},
+					},
+					["RageGain"] = 30,
+					["FDamagedWho"] = {
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 43853,
+								},
+								["Melee"] = {
+									["count"] = 142720,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 46845,
+								},
+								["Mangle"] = {
+									["count"] = 45369,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 34970,
+								},
+								["Rake"] = {
+									["count"] = 75129,
+								},
+								["Ravage!"] = {
+									["count"] = 34978,
+								},
+							},
+							["amount"] = 423864,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 74754,
+								},
+								["Melee"] = {
+									["count"] = 262085,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 140357,
+								},
+								["Mangle"] = {
+									["count"] = 161895,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 14391,
+								},
+								["Rake"] = {
+									["count"] = 70961,
+								},
+								["Ravage!"] = {
+									["count"] = 79727,
+								},
+							},
+							["amount"] = 804170,
+						},
+					},
+					["TimeDamage"] = 117.02,
+					["TimeDamaging"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0,
+								},
+								["Mangle"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8400000000000001,
+								},
+								["Melee"] = {
+									["count"] = 6.11,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.55,
+								},
+								["Mangle"] = {
+									["count"] = 4.05,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.43,
+								},
+								["Rake"] = {
+									["count"] = 0.39,
+								},
+								["Ravage!"] = {
+									["count"] = 0.76,
+								},
+							},
+							["amount"] = 13.13,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Melee"] = {
+									["count"] = 18.63,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 2.59,
+								},
+								["Mangle"] = {
+									["count"] = 1.39,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.42,
+								},
+								["Rake"] = {
+									["count"] = 1.03,
+								},
+								["Ravage!"] = {
+									["count"] = 0.75,
+								},
+							},
+							["amount"] = 26.47,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+					},
+					["ManaGain"] = 72000,
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["DispelledWho"] = {
 					},
 				},
 				["OverallData"] = {
-					["Attacks"] = {
-						["Melee"] = {
+					["DOTs"] = {
+						["Rip (DoT)"] = {
 							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-									["amount"] = 0,
+								["Kunzen Ritualist"] = {
+									["count"] = 6,
 								},
-								["Dodge"] = {
-									["count"] = 16,
-									["amount"] = 0,
+								["Kunzen Ravager"] = {
+									["count"] = 45,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 54,
+								},
+								["Kunzen Farm-Raider"] = {
+									["count"] = 3,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 18,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 105,
+								},
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 93,
 								},
 							},
-							["count"] = 19,
-							["amount"] = 0,
+							["amount"] = 324,
 						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 93,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 42,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 183,
+						},
+						["Pounce Bleed (DoT)"] = {
+							["Details"] = {
+								["Kunzen Rockflinger"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Kunzen Rockflinger"] = {
+									["count"] = 3,
+								},
+								["Kunzen Ravager"] = {
+									["count"] = 42,
+								},
+								["Voracious Virmen <Brimtok>"] = {
+									["count"] = 63,
+								},
+								["Kunzen Farm-Raider"] = {
+									["count"] = 3,
+								},
+								["Kunzen Ritualist"] = {
+									["count"] = 3,
+								},
+								["Squatting Virmen <Brimtok>"] = {
+									["count"] = 36,
+								},
+								["Chief Yip-Yip"] = {
+									["count"] = 60,
+								},
+								["Swooping Plainshawk <Brimtok>"] = {
+									["count"] = 129,
+								},
+							},
+							["amount"] = 339,
+						},
+					},
+					["TimeSpent"] = {
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8999999999999999,
+								},
+								["Melee"] = {
+									["count"] = 8.609999999999999,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.21,
+								},
+								["Mangle"] = {
+									["count"] = 0.8200000000000001,
+								},
+								["Rake"] = {
+									["count"] = 1.28,
+								},
+								["Ravage!"] = {
+									["count"] = 0.35,
+								},
+							},
+							["amount"] = 12.17,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 5.21,
+								},
+								["Melee"] = {
+									["count"] = 29.51999999999999,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 5.43,
+								},
+								["Mangle"] = {
+									["count"] = 5.08,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.11,
+								},
+								["Rake"] = {
+									["count"] = 1.44,
+								},
+								["Ravage!"] = {
+									["count"] = 4.130000000000001,
+								},
+							},
+							["amount"] = 50.92000000000001,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 7.45,
+								},
+								["Rake"] = {
+									["count"] = 7.71,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 4.04,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.3,
+								},
+								["Ravage!"] = {
+									["count"] = 1.68,
+								},
+								["Mangle"] = {
+									["count"] = 5.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 88.02999999999997,
+								},
+								["Thrash"] = {
+									["count"] = 3.6,
+								},
+								["Swipe"] = {
+									["count"] = 11.05,
+								},
+							},
+							["amount"] = 133.24,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 0.98,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0.25,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.19,
+								},
+								["Mangle"] = {
+									["count"] = 0.42,
+								},
+								["Ravage"] = {
+									["count"] = 0.27,
+								},
+								["Melee"] = {
+									["count"] = 20.44,
+								},
+								["Swipe"] = {
+									["count"] = 6.48,
+								},
+							},
+							["amount"] = 29.03,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.67,
+								},
+								["Melee"] = {
+									["count"] = 11.67,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.23,
+								},
+								["Mangle"] = {
+									["count"] = 1.2,
+								},
+								["Rake"] = {
+									["count"] = 1.45,
+								},
+								["Ravage!"] = {
+									["count"] = 0.44,
+								},
+							},
+							["amount"] = 15.66,
+						},
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 2.93,
+								},
+								["Rejuvenation"] = {
+									["count"] = 0.8500000000000001,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7.780000000000001,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 0.29,
+								},
+							},
+							["amount"] = 0.29,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 6.73,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Rake"] = {
+									["count"] = 4.97,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 8.550000000000001,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 1.33,
+								},
+								["Ravage!"] = {
+									["count"] = 3.38,
+								},
+								["Mangle"] = {
+									["count"] = 10.68,
+								},
+								["Thrash"] = {
+									["count"] = 1.69,
+								},
+								["Melee"] = {
+									["count"] = 105.7500000000001,
+								},
+								["Swipe"] = {
+									["count"] = 9.100000000000001,
+								},
+							},
+							["amount"] = 162.0399999999999,
+						},
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 12.92,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6.89,
+								},
+								["Rake"] = {
+									["count"] = 8.310000000000001,
+								},
+								["Rip"] = {
+									["count"] = 1,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.81,
+								},
+								["Ravage!"] = {
+									["count"] = 2.92,
+								},
+								["Mangle"] = {
+									["count"] = 12.48,
+								},
+								["Thrash"] = {
+									["count"] = 0.33,
+								},
+								["Melee"] = {
+									["count"] = 105.5,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 14.88,
+								},
+								["Swipe"] = {
+									["count"] = 6.840000000000001,
+								},
+							},
+							["amount"] = 174.8799999999999,
+						},
+					},
+					["HealedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 211836,
+								},
+								["Rejuvenation"] = {
+									["count"] = 21065,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 199650,
+								},
+							},
+							["amount"] = 432551,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 3617,
+								},
+							},
+							["amount"] = 3617,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Mangle"] = {
+									["count"] = 10,
+								},
+								["Bear Form"] = {
+									["count"] = 20,
+								},
+								["Primal Fury"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 105,
+						},
+					},
+					["HOT_Time"] = 75,
+					["ElementTaken"] = {
+						["Melee"] = 483449,
+						["Physical"] = 243879,
+					},
+					["HOTs"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 69,
+								},
+							},
+							["amount"] = 69,
+						},
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Damage"] = 15293538,
+					["TimeHeal"] = 8.07,
+					["FAttacks"] = {
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 31311,
+									["min"] = 18084,
+									["count"] = 10,
+									["amount"] = 235760,
+								},
+								["Tick"] = {
+									["max"] = 15878,
+									["min"] = 5880,
+									["count"] = 45,
+									["amount"] = 505070,
+								},
+							},
+							["count"] = 55,
+							["amount"] = 740830,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 20129,
+									["min"] = 10016,
+									["count"] = 20,
+									["amount"] = 290171,
+								},
+								["Tick"] = {
+									["max"] = 9772,
+									["min"] = 4862,
+									["count"] = 41,
+									["amount"] = 272936,
+								},
+							},
+							["count"] = 61,
+							["amount"] = 563107,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 42775,
+									["min"] = 19877,
+									["count"] = 26,
+									["amount"] = 726611,
+								},
+								["Hit"] = {
+									["max"] = 21815,
+									["min"] = 6755,
+									["count"] = 31,
+									["amount"] = 409863,
+								},
+							},
+							["count"] = 57,
+							["amount"] = 1136474,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 42775,
+									["min"] = 19877,
+									["count"] = 24,
+									["amount"] = 695875,
+								},
+								["Tick"] = {
+									["max"] = 20764,
+									["min"] = 9649,
+									["count"] = 52,
+									["amount"] = 664375,
+								},
+							},
+							["count"] = 76,
+							["amount"] = 1360250,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 97004,
+									["min"] = 14748,
+									["count"] = 6,
+									["amount"] = 301440,
+								},
+								["Hit"] = {
+									["max"] = 34970,
+									["min"] = 12920,
+									["count"] = 6,
+									["amount"] = 143504,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 444944,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 116140,
+									["min"] = 64558,
+									["count"] = 8,
+									["amount"] = 696136,
+								},
+								["Hit"] = {
+									["max"] = 42910,
+									["min"] = 33167,
+									["count"] = 10,
+									["amount"] = 376459,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 1072595,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 60255,
+									["min"] = 33728,
+									["count"] = 19,
+									["amount"] = 799690,
+								},
+								["Hit"] = {
+									["max"] = 32024,
+									["min"] = 15881,
+									["count"] = 45,
+									["amount"] = 1057432,
+								},
+							},
+							["count"] = 64,
+							["amount"] = 1857122,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 28520,
+									["min"] = 14191,
+									["count"] = 9,
+									["amount"] = 184747,
+								},
+								["Hit"] = {
+									["max"] = 13844,
+									["min"] = 6889,
+									["count"] = 7,
+									["amount"] = 62253,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 247000,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 11914,
+									["min"] = 6246,
+									["count"] = 20,
+									["amount"] = 164160,
+								},
+								["Crit"] = {
+									["max"] = 25889,
+									["min"] = 12839,
+									["count"] = 103,
+									["amount"] = 1939524,
+								},
+								["Hit"] = {
+									["max"] = 12750,
+									["min"] = 5751,
+									["count"] = 220,
+									["amount"] = 1920263,
+								},
+							},
+							["count"] = 343,
+							["amount"] = 4023947,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 67751,
+									["min"] = 31865,
+									["count"] = 14,
+									["amount"] = 671855,
+								},
+								["Hit"] = {
+									["max"] = 32635,
+									["min"] = 13101,
+									["count"] = 45,
+									["amount"] = 992586,
+								},
+							},
+							["count"] = 59,
+							["amount"] = 1664441,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 3971347,
+						["Physical"] = 11322191,
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Miss"] = {
-									["count"] = 3,
-								},
-								["Dodge"] = {
-									["count"] = 16,
-								},
-							},
-							["amount"] = 19,
-						},
-					},
-					["TimeSpent"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 222.14,
-								},
-							},
-							["amount"] = 222.14,
-						},
-					},
-					["FAttacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 8233,
-									["min"] = 4406,
+								["Glancing"] = {
 									["count"] = 8,
-									["amount"] = 55660,
+								},
+								["Parry"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 51,
 								},
 								["Hit"] = {
-									["max"] = 4088,
-									["min"] = 1903,
-									["count"] = 114,
-									["amount"] = 367210,
+									["count"] = 104,
 								},
 							},
-							["count"] = 122,
-							["amount"] = 422870,
-						},
-					},
-					["ActiveTime"] = 222.14,
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Rip"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 12,
-					["FDamage"] = 422870,
-					["TimeDamage"] = 222.14,
-					["TimeDamaging"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 222.14,
-								},
-							},
-							["amount"] = 222.14,
-						},
-					},
-					["FDamagedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 422870,
-								},
-							},
-							["amount"] = 422870,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Rip"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
+							["amount"] = 170,
 						},
 						["Physical"] = {
 							["Details"] = {
 								["Parry"] = {
-									["count"] = 2,
+									["count"] = 7,
+								},
+								["Tick"] = {
+									["count"] = 61,
+								},
+								["Crit"] = {
+									["count"] = 58,
+								},
+								["Hit"] = {
+									["count"] = 58,
 								},
 							},
-							["amount"] = 2,
+							["amount"] = 184,
+						},
+					},
+					["WhoDamaged"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 76906,
+								},
+								["Fling Rock"] = {
+									["count"] = 67204,
+								},
+							},
+							["amount"] = 144110,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["My Eye! (DoT)"] = {
+									["count"] = 54000,
+								},
+								["Tail Whip"] = {
+									["count"] = 102464,
+								},
+								["Melee"] = {
+									["count"] = 144090,
+								},
+							},
+							["amount"] = 300554,
+						},
+						["Maaka"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 33849,
+								},
+							},
+							["amount"] = 33849,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 22457,
+								},
+								["Fling Rock"] = {
+									["count"] = 8085,
+								},
+							},
+							["amount"] = 30542,
+						},
+						["Springtail Burrower"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41951,
+								},
+								["Burrow"] = {
+									["count"] = 12126,
+								},
+							},
+							["amount"] = 54077,
+						},
+						["Kunzen Collector"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 23760,
+								},
+							},
+							["amount"] = 23760,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 98884,
+								},
+							},
+							["amount"] = 98884,
+						},
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41552,
+								},
+							},
+							["amount"] = 41552,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Tiger's Fury"] = {
+									["count"] = 1020,
+								},
+							},
+							["amount"] = 1020,
+						},
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 3485,
+						["Physical"] = 24415,
+					},
+					["TimeHealing"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 2.93,
+								},
+								["Rejuvenation"] = {
+									["count"] = 0.8500000000000001,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7.780000000000001,
+						},
+						["Ollatha"] = {
+							["Details"] = {
+								["Nature's Vigil"] = {
+									["count"] = 0.29,
+								},
+							},
+							["amount"] = 0.29,
+						},
+					},
+					["OverHeals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14130,
+									["min"] = 290,
+									["count"] = 11,
+									["amount"] = 119468,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 119468,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 310200,
+									["min"] = 2157,
+									["count"] = 27,
+									["amount"] = 1146954,
+								},
+							},
+							["count"] = 27,
+							["amount"] = 1146954,
+						},
+					},
+					["PartialResist"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 151,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 151,
+							["amount"] = 0,
+						},
+						["Burrow"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 408000,
+								},
+							},
+							["amount"] = 408000,
+						},
+					},
+					["PartialAbsorb"] = {
+						["My Eye! (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 151,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 151,
+							["amount"] = 0,
+						},
+						["Burrow"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Tail Whip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Fling Rock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 663.4299999999998,
+					["FDamagedWho"] = {
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 417104,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 280834,
+								},
+								["Rake"] = {
+									["count"] = 572463,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 818437,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 244592,
+								},
+								["Ravage!"] = {
+									["count"] = 311203,
+								},
+								["Mangle"] = {
+									["count"] = 820244,
+								},
+								["Thrash"] = {
+									["count"] = 99072,
+								},
+								["Melee"] = {
+									["count"] = 1581113,
+								},
+								["Swipe"] = {
+									["count"] = 641768,
+								},
+							},
+							["amount"] = 5786830,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 80634,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 109383,
+								},
+								["Rake"] = {
+									["count"] = 234078,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 203685,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 100662,
+								},
+								["Ravage!"] = {
+									["count"] = 201303,
+								},
+								["Mangle"] = {
+									["count"] = 472124,
+								},
+								["Melee"] = {
+									["count"] = 990297,
+								},
+								["Thrash"] = {
+									["count"] = 75265,
+								},
+								["Swipe"] = {
+									["count"] = 374233,
+								},
+							},
+							["amount"] = 2841664,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 243092,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 172890,
+								},
+								["Rake"] = {
+									["count"] = 329933,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 338128,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 99690,
+								},
+								["Ravage!"] = {
+									["count"] = 560089,
+								},
+								["Mangle"] = {
+									["count"] = 564754,
+								},
+								["Thrash"] = {
+									["count"] = 72663,
+								},
+								["Melee"] = {
+									["count"] = 1452537,
+								},
+								["Swipe"] = {
+									["count"] = 648440,
+								},
+							},
+							["amount"] = 4482216,
+						},
+					},
+					["FDamage"] = 13110710,
+					["ManaGainedFrom"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 408000,
+								},
+							},
+							["amount"] = 408000,
+						},
+					},
+					["DOT_Time"] = 849,
+					["EnergyGain"] = 1020,
+					["Heals"] = {
+						["Leader of the Pack"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 20444,
+									["min"] = 1948,
+									["count"] = 17,
+									["amount"] = 211836,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 211836,
+						},
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10533,
+									["min"] = 10532,
+									["count"] = 2,
+									["amount"] = 21065,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21065,
+						},
+						["Nature's Vigil"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14540,
+									["min"] = 677,
+									["count"] = 37,
+									["amount"] = 203267,
+								},
+							},
+							["count"] = 37,
+							["amount"] = 203267,
+						},
+					},
+					["DamageTaken"] = 727328,
+					["EnergyGained"] = {
+						["Tiger's Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 1020,
+								},
+							},
+							["amount"] = 1020,
+						},
+					},
+					["HealingTaken"] = 432551,
+					["Healing"] = 436168,
+					["Overhealing"] = 1266422,
+					["WhoHealed"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Leader of the Pack"] = {
+									["count"] = 211836,
+								},
+								["Rejuvenation"] = {
+									["count"] = 21065,
+								},
+								["Nature's Vigil"] = {
+									["count"] = 199650,
+								},
+							},
+							["amount"] = 432551,
+						},
+					},
+					["Attacks"] = {
+						["Pounce Bleed (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6056,
+									["min"] = 6056,
+									["count"] = 1,
+									["amount"] = 6056,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6056,
+						},
+						["Rake"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 208843,
+									["min"] = 29741,
+									["count"] = 5,
+									["amount"] = 344524,
+								},
+								["Hit"] = {
+									["max"] = 20764,
+									["min"] = 10118,
+									["count"] = 10,
+									["amount"] = 137255,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 481779,
+						},
+						["Rake (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 427742,
+									["min"] = 20884,
+									["count"] = 11,
+									["amount"] = 1152921,
+								},
+								["Tick"] = {
+									["max"] = 207642,
+									["min"] = 10118,
+									["count"] = 26,
+									["amount"] = 802026,
+								},
+							},
+							["count"] = 37,
+							["amount"] = 1954947,
+						},
+						["Ferocious Bite"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 56967,
+									["min"] = 56967,
+									["count"] = 1,
+									["amount"] = 56967,
+								},
+								["Crit"] = {
+									["max"] = 75766,
+									["min"] = 58322,
+									["count"] = 2,
+									["amount"] = 134088,
+								},
+								["Hit"] = {
+									["max"] = 39508,
+									["min"] = 8268,
+									["count"] = 2,
+									["amount"] = 47776,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 238831,
+						},
+						["Ravage!"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1240800,
+									["min"] = 64668,
+									["count"] = 7,
+									["amount"] = 1764010,
+								},
+								["Hit"] = {
+									["max"] = 615690,
+									["min"] = 35149,
+									["count"] = 18,
+									["amount"] = 2523245,
+								},
+							},
+							["count"] = 25,
+							["amount"] = 4287255,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 106790,
+									["min"] = 6594,
+									["count"] = 8,
+									["amount"] = 172357,
+								},
+								["Hit"] = {
+									["max"] = 123288,
+									["min"] = 6321,
+									["count"] = 103,
+									["amount"] = 1879018,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 8131,
+									["min"] = 8131,
+									["count"] = 1,
+									["amount"] = 8131,
+								},
+								["Crit"] = {
+									["max"] = 207354,
+									["min"] = 15285,
+									["count"] = 51,
+									["amount"] = 1911841,
+								},
+								["Parry"] = {
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 170,
+							["amount"] = 3971347,
+						},
+						["Rip (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 276061,
+									["min"] = 21235,
+									["count"] = 18,
+									["amount"] = 1384605,
+								},
+								["Tick"] = {
+									["max"] = 137284,
+									["min"] = 10308,
+									["count"] = 35,
+									["amount"] = 919173,
+								},
+							},
+							["count"] = 53,
+							["amount"] = 2303778,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 420287,
+									["min"] = 33973,
+									["count"] = 10,
+									["amount"] = 851054,
+								},
+								["Hit"] = {
+									["max"] = 217057,
+									["min"] = 16773,
+									["count"] = 14,
+									["amount"] = 514174,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 1365228,
+						},
+						["Ravage"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 75629,
+									["min"] = 75629,
+									["count"] = 1,
+									["amount"] = 75629,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 75629,
+						},
+						["Shred"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 308456,
+									["min"] = 308456,
+									["count"] = 1,
+									["amount"] = 308456,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 308456,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20556,
+									["min"] = 13478,
+									["count"] = 13,
+									["amount"] = 223275,
+								},
+								["Crit"] = {
+									["max"] = 42573,
+									["min"] = 34384,
+									["count"] = 2,
+									["amount"] = 76957,
+								},
+								["Parry"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 17,
+							["amount"] = 300232,
+						},
+					},
+					["RageGain"] = 105,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 70,
+								},
+								["Miss"] = {
+									["count"] = 17,
+								},
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Dodge"] = {
+									["count"] = 59,
+								},
+							},
+							["amount"] = 151,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 12,
+								},
+								["Hit"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 27,
+						},
+					},
+					["TimeDamage"] = 655.3599999999997,
+					["TimeDamaging"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 0.98,
+								},
+								["Ravage!"] = {
+									["count"] = 0,
+								},
+								["Rake"] = {
+									["count"] = 0.25,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.19,
+								},
+								["Mangle"] = {
+									["count"] = 0.42,
+								},
+								["Ravage"] = {
+									["count"] = 0.27,
+								},
+								["Melee"] = {
+									["count"] = 20.44,
+								},
+								["Swipe"] = {
+									["count"] = 6.48,
+								},
+							},
+							["amount"] = 29.03,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 5.21,
+								},
+								["Melee"] = {
+									["count"] = 29.51999999999999,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 5.43,
+								},
+								["Mangle"] = {
+									["count"] = 5.08,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.11,
+								},
+								["Rake"] = {
+									["count"] = 1.44,
+								},
+								["Ravage!"] = {
+									["count"] = 4.130000000000001,
+								},
+							},
+							["amount"] = 50.92000000000001,
+						},
+						["Voracious Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 6.73,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 9.859999999999999,
+								},
+								["Rake"] = {
+									["count"] = 4.97,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 8.550000000000001,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 1.33,
+								},
+								["Ravage!"] = {
+									["count"] = 3.38,
+								},
+								["Mangle"] = {
+									["count"] = 10.68,
+								},
+								["Thrash"] = {
+									["count"] = 1.69,
+								},
+								["Melee"] = {
+									["count"] = 105.7500000000001,
+								},
+								["Swipe"] = {
+									["count"] = 9.100000000000001,
+								},
+							},
+							["amount"] = 162.0399999999999,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.67,
+								},
+								["Melee"] = {
+									["count"] = 11.67,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.23,
+								},
+								["Mangle"] = {
+									["count"] = 1.2,
+								},
+								["Rake"] = {
+									["count"] = 1.45,
+								},
+								["Ravage!"] = {
+									["count"] = 0.44,
+								},
+							},
+							["amount"] = 15.66,
+						},
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 0.8999999999999999,
+								},
+								["Melee"] = {
+									["count"] = 8.609999999999999,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 0.21,
+								},
+								["Mangle"] = {
+									["count"] = 0.8200000000000001,
+								},
+								["Rake"] = {
+									["count"] = 1.28,
+								},
+								["Ravage!"] = {
+									["count"] = 0.35,
+								},
+							},
+							["amount"] = 12.17,
+						},
+						["Squatting Virmen <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1.66,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 7.45,
+								},
+								["Rake"] = {
+									["count"] = 7.71,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 4.04,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.3,
+								},
+								["Ravage!"] = {
+									["count"] = 1.68,
+								},
+								["Mangle"] = {
+									["count"] = 5.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 88.02999999999997,
+								},
+								["Thrash"] = {
+									["count"] = 3.6,
+								},
+								["Swipe"] = {
+									["count"] = 11.05,
+								},
+							},
+							["amount"] = 133.24,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 17.63,
+								},
+								["Mangle"] = {
+									["count"] = 5.33,
+								},
+								["Melee"] = {
+									["count"] = 38.21,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 6.710000000000002,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 0.9500000000000001,
+								},
+								["Rake"] = {
+									["count"] = 3.33,
+								},
+								["Shred"] = {
+									["count"] = 0.19,
+								},
+								["Ravage!"] = {
+									["count"] = 5.07,
+								},
+							},
+							["amount"] = 77.41999999999997,
+						},
+						["Swooping Plainshawk <Brimtok>"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 12.92,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6.89,
+								},
+								["Rake"] = {
+									["count"] = 8.310000000000001,
+								},
+								["Rip"] = {
+									["count"] = 1,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 2.81,
+								},
+								["Ravage!"] = {
+									["count"] = 2.92,
+								},
+								["Mangle"] = {
+									["count"] = 12.48,
+								},
+								["Thrash"] = {
+									["count"] = 0.33,
+								},
+								["Melee"] = {
+									["count"] = 105.5,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 14.88,
+								},
+								["Swipe"] = {
+									["count"] = 6.840000000000001,
+								},
+							},
+							["amount"] = 174.8799999999999,
+						},
+					},
+					["ManaGain"] = 408000,
+					["DamagedWho"] = {
+						["Kunzen Rockflinger"] = {
+							["Details"] = {
+								["Pounce Bleed (DoT)"] = {
+									["count"] = 6056,
+								},
+								["Ravage!"] = {
+									["count"] = 76452,
+								},
+								["Rake"] = {
+									["count"] = 20236,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 10118,
+								},
+								["Mangle"] = {
+									["count"] = 39479,
+								},
+								["Ravage"] = {
+									["count"] = 75629,
+								},
+								["Melee"] = {
+									["count"] = 114034,
+								},
+								["Swipe"] = {
+									["count"] = 300232,
+								},
+							},
+							["amount"] = 642236,
+						},
+						["Kunzen Ravager"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 262745,
+								},
+								["Melee"] = {
+									["count"] = 721967,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 267889,
+								},
+								["Mangle"] = {
+									["count"] = 148499,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 84034,
+								},
+								["Rake"] = {
+									["count"] = 110043,
+								},
+								["Ravage!"] = {
+									["count"] = 524324,
+								},
+							},
+							["amount"] = 2119501,
+						},
+						["Kunzen Farm-Raider"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 14147,
+								},
+								["Melee"] = {
+									["count"] = 148089,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 29741,
+								},
+								["Mangle"] = {
+									["count"] = 60465,
+								},
+								["Rake"] = {
+									["count"] = 61001,
+								},
+								["Ravage!"] = {
+									["count"] = 35149,
+								},
+							},
+							["amount"] = 348592,
+						},
+						["Chief Yip-Yip"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 1996884,
+								},
+								["Mangle"] = {
+									["count"] = 1048791,
+								},
+								["Melee"] = {
+									["count"] = 2877328,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 1615664,
+								},
+								["Ferocious Bite"] = {
+									["count"] = 154797,
+								},
+								["Rake"] = {
+									["count"] = 275191,
+								},
+								["Shred"] = {
+									["count"] = 308456,
+								},
+								["Ravage!"] = {
+									["count"] = 3576934,
+								},
+							},
+							["amount"] = 11854045,
+						},
+						["Kunzen Ritualist"] = {
+							["Details"] = {
+								["Rip (DoT)"] = {
+									["count"] = 30002,
+								},
+								["Melee"] = {
+									["count"] = 109929,
+								},
+								["Rake (DoT)"] = {
+									["count"] = 31535,
+								},
+								["Mangle"] = {
+									["count"] = 67994,
+								},
+								["Rake"] = {
+									["count"] = 15308,
+								},
+								["Ravage!"] = {
+									["count"] = 74396,
+								},
+							},
+							["amount"] = 329164,
+						},
+					},
+					["RageGained"] = {
+						["Mangle"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Primal Fury"] = {
+							["Details"] = {
+								["Brimtok"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 75,
 						},
 					},
 				},
 			},
-			["NextEventNum"] = 39,
-			["LastEventHealthNum"] = {
-				85.06730703328671, -- [1]
-				85.06730703328671, -- [2]
-				82.6177016355241, -- [3]
-				80.83443967497671, -- [4]
-				75.55090736937765, -- [5]
-				75.55090736937765, -- [6]
-				71.20330201730717, -- [7]
-				71.20330201730717, -- [8]
-				60.44636125714257, -- [9]
-				60.44636125714257, -- [10]
-				57.99675585937996, -- [11]
-				57.99675585937996, -- [12]
-				56.36757788602862, -- [13]
-				55.13338291774657, -- [14]
-				52.68377751998396, -- [15]
-				50.92945390299563, -- [16]
-				49.20838399658832, -- [17]
-				49.20838399658832, -- [18]
-				44.16270456743523, -- [19]
-				40.50428871328447, -- [20]
-				38.0549371606408, -- [21]
-				35.95259188558693, -- [22]
-				33.98249991750033, -- [23]
-				33.98249991750033, -- [24]
-				23.53981941458239, -- [25]
-				23.53981941458239, -- [26]
-				21.09021401681978, -- [27]
-				18.9878687417659, -- [28]
-				15.39494492830145, -- [29]
-				15.39494492830145, -- [30]
-				10.01165149095931, -- [31]
-				10.01165149095931, -- [32]
-				7.909306215905428, -- [33]
-				6.191536296044331, -- [34]
-				6.191536296044331, -- [35]
-				1.665477825359635, -- [36]
-				1.665477825359635, -- [37]
-				0, -- [38]
-				19.08915294422261, -- [39]
-				19.08915294422261, -- [40]
-				19.08915294422261, -- [41]
-				12.43333392563861, -- [42]
-				12.43333392563861, -- [43]
-				12.43333392563861, -- [44]
-				12.43333392563861, -- [45]
-				11.19913895735656, -- [46]
-				8.749787404712889, -- [47]
-				0.0002538451189391305, -- [48]
-				0, -- [49]
-				86.3017558466877, -- [50]
-			},
-			["LastEvents"] = {
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [1]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [2]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [3]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7110 (Physical)", -- [4]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20814 (Physical)", -- [5]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [6]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [7]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7727 (Physical)", -- [8]
-				"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -34649 (Physical)", -- [9]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6418 (Physical)", -- [10]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [11]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3263 (Physical)", -- [12]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6911 (Physical)", -- [13]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [14]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [15]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6780 (Physical)", -- [16]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3718 (Physical)", -- [17]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14412 (Physical)", -- [18]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [19]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7761 (Physical)", -- [20]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9649 (Physical)", -- [21]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [22]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3240 (Physical)", -- [23]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7410 (Physical)", -- [24]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -33728 (Physical)", -- [25]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14154 (Physical)", -- [26]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [27]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [28]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2827 (Physical)", -- [29]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8287 (Physical)", -- [30]
-				"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -12920 (Physical)", -- [31]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6767 (Physical)", -- [32]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [33]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3480 (Physical)", -- [34]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8181 (Physical)", -- [35]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [36]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13305 (Physical)", -- [37]
-				"Swooping Plainshawk <Brimtok> dies.", -- [38]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [39]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [40]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [41]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [42]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3176 (Physical)", -- [43]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8295 (Physical)", -- [44]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [45]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [46]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [47]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [48]
-				"Swooping Plainshawk <Brimtok> dies.", -- [49]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [50]
-			},
-			["Name"] = "Swooping Plainshawk",
-			["TimeLast"] = {
-				["DeathCount"] = 1367893445,
-				["FDamage"] = 1367893443,
-				["ActiveTime"] = 1367893443,
-				["OVERALL"] = 1367893445,
-				["TimeDamage"] = 1367893443,
-			},
-			["LastEventIncoming"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				false, -- [6]
-				true, -- [7]
-				true, -- [8]
-				true, -- [9]
-				true, -- [10]
-				true, -- [11]
-				false, -- [12]
-				true, -- [13]
-				true, -- [14]
-				true, -- [15]
-				true, -- [16]
-				false, -- [17]
-				true, -- [18]
-				true, -- [19]
-				true, -- [20]
-				true, -- [21]
-				true, -- [22]
-				false, -- [23]
-				true, -- [24]
-				true, -- [25]
-				true, -- [26]
-				true, -- [27]
-				true, -- [28]
-				false, -- [29]
-				true, -- [30]
-				true, -- [31]
-				true, -- [32]
-				true, -- [33]
-				false, -- [34]
-				true, -- [35]
-				true, -- [36]
-				true, -- [37]
-				true, -- [38]
-				true, -- [39]
-				true, -- [40]
-				false, -- [41]
-				true, -- [42]
-				false, -- [43]
-				true, -- [44]
-				true, -- [45]
-				true, -- [46]
-				true, -- [47]
-				true, -- [48]
-				true, -- [49]
-				false, -- [50]
-			},
-			["DeathLogs"] = {
-				{
-					["MessageTimes"] = {
-						-14.98999999999069, -- [1]
-						-14.5229999999865, -- [2]
-						-14.1589999999851, -- [3]
-						-13.47399999998743, -- [4]
-						-13.14400000002934, -- [5]
-						-12.95900000003167, -- [6]
-						-12.95900000003167, -- [7]
-						-12.09899999998743, -- [8]
-						-11.71199999999953, -- [9]
-						-11.47600000002421, -- [10]
-						-11.08600000001025, -- [11]
-						-11.08600000001025, -- [12]
-						-10.14199999999255, -- [13]
-						-10.14199999999255, -- [14]
-						-9.872000000032131, -- [15]
-						-9.457999999984168, -- [16]
-						-9.097999999998137, -- [17]
-						-9.097999999998137, -- [18]
-						-8.532000000006519, -- [19]
-						-8.142999999981839, -- [20]
-						-7.451000000000931, -- [21]
-						-7.173000000009779, -- [22]
-						-6.864000000001397, -- [23]
-						-6.222000000008848, -- [24]
-						-6.081000000005588, -- [25]
-						-5.722000000008848, -- [26]
-						-5.441999999980908, -- [27]
-						-5.255999999993946, -- [28]
-						-4.838999999978114, -- [29]
-						-4.292000000015833, -- [30]
-						-3.875, -- [31]
-						-3.722000000008848, -- [32]
-						-3.444000000017695, -- [33]
-						-3.444000000017695, -- [34]
-						-2.924999999988359, -- [35]
-						-2.441999999980908, -- [36]
-						-1.715000000025611, -- [37]
-						-1.450000000011642, -- [38]
-						-1.450000000011642, -- [39]
-						-0.8589999999967404, -- [40]
-						-0.4579999999841675, -- [41]
-						0, -- [42]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						false, -- [4]
-						true, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						false, -- [10]
-						true, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-						false, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						false, -- [21]
-						true, -- [22]
-						true, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						false, -- [27]
-						true, -- [28]
-						true, -- [29]
-						true, -- [30]
-						true, -- [31]
-						true, -- [32]
-						false, -- [33]
-						true, -- [34]
-						true, -- [35]
-						true, -- [36]
-						true, -- [37]
-						false, -- [38]
-						true, -- [39]
-						true, -- [40]
-						true, -- [41]
-						true, -- [42]
-					},
-					["Messages"] = {
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [1]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> dies.", -- [3]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [4]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [5]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [6]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [7]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7110 (Physical)", -- [8]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20814 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [10]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [11]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7727 (Physical)", -- [12]
-						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -34649 (Physical)", -- [13]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6418 (Physical)", -- [14]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [15]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3263 (Physical)", -- [16]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6911 (Physical)", -- [17]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [18]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [19]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6780 (Physical)", -- [20]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3718 (Physical)", -- [21]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14412 (Physical)", -- [22]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [23]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7761 (Physical)", -- [24]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9649 (Physical)", -- [25]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [26]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3240 (Physical)", -- [27]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7410 (Physical)", -- [28]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -33728 (Physical)", -- [29]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14154 (Physical)", -- [30]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [31]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [32]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2827 (Physical)", -- [33]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8287 (Physical)", -- [34]
-						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -12920 (Physical)", -- [35]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6767 (Physical)", -- [36]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [37]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3480 (Physical)", -- [38]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8181 (Physical)", -- [39]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [40]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13305 (Physical)", -- [41]
-						"Swooping Plainshawk <Brimtok> dies.", -- [42]
-					},
-					["EventNum"] = {
-						2.44935155264367, -- [1]
-						9.700691220258872, -- [2]
-						0, -- [3]
-						0, -- [4]
-						1.234448813400991, -- [5]
-						1.783261960547392, -- [6]
-						2.449605397762609, -- [7]
-						1.804838795657218, -- [8]
-						5.283532305599062, -- [9]
-						0, -- [10]
-						2.54276655641327, -- [11]
-						1.961461234042661, -- [12]
-						8.795479526121932, -- [13]
-						1.629177973351339, -- [14]
-						2.449605397762609, -- [15]
-						0, -- [16]
-						1.754323616988331, -- [17]
-						1.234194968282052, -- [18]
-						2.449605397762609, -- [19]
-						1.721069906407305, -- [20]
-						0, -- [21]
-						3.658415854150749, -- [22]
-						5.045679429153097, -- [23]
-						1.970091968086592, -- [24]
-						2.44935155264367, -- [25]
-						2.102345275053879, -- [26]
-						0, -- [27]
-						1.880992331338957, -- [28]
-						8.561688171578993, -- [29]
-						3.592923813464453, -- [30]
-						2.449605397762609, -- [31]
-						2.102345275053879, -- [32]
-						0, -- [33]
-						2.103614500648575, -- [34]
-						3.279678936693566, -- [35]
-						1.717769919861096, -- [36]
-						2.102345275053879, -- [37]
-						0, -- [38]
-						2.076706918041027, -- [39]
-						2.44935155264367, -- [40]
-						3.377409307485131, -- [41]
-						0, -- [42]
-					},
-					["DeathAt"] = 1367893447,
-					["HealthNum"] = {
-						8.749787404712889, -- [1]
-						0.0002538451189391305, -- [2]
-						0, -- [3]
-						86.3017558466877, -- [4]
-						85.06730703328671, -- [5]
-						85.06730703328671, -- [6]
-						82.6177016355241, -- [7]
-						80.83443967497671, -- [8]
-						75.55090736937765, -- [9]
-						75.55090736937765, -- [10]
-						71.20330201730717, -- [11]
-						71.20330201730717, -- [12]
-						60.44636125714257, -- [13]
-						60.44636125714257, -- [14]
-						57.99675585937996, -- [15]
-						57.99675585937996, -- [16]
-						56.36757788602862, -- [17]
-						55.13338291774657, -- [18]
-						52.68377751998396, -- [19]
-						50.92945390299563, -- [20]
-						49.20838399658832, -- [21]
-						49.20838399658832, -- [22]
-						44.16270456743523, -- [23]
-						40.50428871328447, -- [24]
-						38.0549371606408, -- [25]
-						35.95259188558693, -- [26]
-						33.98249991750033, -- [27]
-						33.98249991750033, -- [28]
-						23.53981941458239, -- [29]
-						23.53981941458239, -- [30]
-						21.09021401681978, -- [31]
-						18.9878687417659, -- [32]
-						15.39494492830145, -- [33]
-						15.39494492830145, -- [34]
-						10.01165149095931, -- [35]
-						10.01165149095931, -- [36]
-						7.909306215905428, -- [37]
-						6.191536296044331, -- [38]
-						6.191536296044331, -- [39]
-						1.665477825359635, -- [40]
-						1.665477825359635, -- [41]
-						0, -- [42]
-					},
-					["Health"] = {
-						"34469 (8%)", -- [1]
-						"1 (0%)", -- [2]
-						"0 (0%)", -- [3]
-						"339978 (86%)", -- [4]
-						"335115 (85%)", -- [5]
-						"335115 (85%)", -- [6]
-						"325465 (82%)", -- [7]
-						"318440 (80%)", -- [8]
-						"297626 (75%)", -- [9]
-						"297626 (75%)", -- [10]
-						"280499 (71%)", -- [11]
-						"280499 (71%)", -- [12]
-						"238123 (60%)", -- [13]
-						"238123 (60%)", -- [14]
-						"228473 (57%)", -- [15]
-						"228473 (57%)", -- [16]
-						"222055 (56%)", -- [17]
-						"217193 (55%)", -- [18]
-						"207543 (52%)", -- [19]
-						"200632 (50%)", -- [20]
-						"193852 (49%)", -- [21]
-						"193852 (49%)", -- [22]
-						"173975 (44%)", -- [23]
-						"159563 (40%)", -- [24]
-						"149914 (38%)", -- [25]
-						"141632 (35%)", -- [26]
-						"133871 (33%)", -- [27]
-						"133871 (33%)", -- [28]
-						"92733 (23%)", -- [29]
-						"92733 (23%)", -- [30]
-						"83083 (21%)", -- [31]
-						"74801 (18%)", -- [32]
-						"60647 (15%)", -- [33]
-						"60647 (15%)", -- [34]
-						"39440 (10%)", -- [35]
-						"39440 (10%)", -- [36]
-						"31158 (7%)", -- [37]
-						"24391 (6%)", -- [38]
-						"24391 (6%)", -- [39]
-						"6561 (1%)", -- [40]
-						"6561 (1%)", -- [41]
-						"0 (0%)", -- [42]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"MISC", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"DAMAGE", -- [33]
-						"DAMAGE", -- [34]
-						"DAMAGE", -- [35]
-						"DAMAGE", -- [36]
-						"DAMAGE", -- [37]
-						"DAMAGE", -- [38]
-						"DAMAGE", -- [39]
-						"DAMAGE", -- [40]
-						"DAMAGE", -- [41]
-						"MISC", -- [42]
-					},
-				}, -- [1]
-				{
-					["MessageTimes"] = {
-						-9.834000000031665, -- [1]
-						-9.834000000031665, -- [2]
-						-9.290000000037253, -- [3]
-						-9.290000000037253, -- [4]
-						-9.290000000037253, -- [5]
-						-9.119000000006054, -- [6]
-						-8.932000000029802, -- [7]
-						-8.932000000029802, -- [8]
-						-8.932000000029802, -- [9]
-						-8.01300000003539, -- [10]
-						-8.01300000003539, -- [11]
-						-7.315000000002328, -- [12]
-						-7.315000000002328, -- [13]
-						-6.910000000032596, -- [14]
-						-6.910000000032596, -- [15]
-						-6.910000000032596, -- [16]
-						-6.910000000032596, -- [17]
-						-6.817000000039116, -- [18]
-						-6.817000000039116, -- [19]
-						-6.025000000023283, -- [20]
-						-6.025000000023283, -- [21]
-						-5.314000000013039, -- [22]
-						-5.314000000013039, -- [23]
-						-4.909000000043307, -- [24]
-						-4.909000000043307, -- [25]
-						-4.909000000043307, -- [26]
-						-4.441000000049826, -- [27]
-						-3.988000000012107, -- [28]
-						-3.988000000012107, -- [29]
-						-3.833000000042375, -- [30]
-						-3.833000000042375, -- [31]
-						-3.325000000011642, -- [32]
-						-3.325000000011642, -- [33]
-						-3.325000000011642, -- [34]
-						-2.918000000005122, -- [35]
-						-2.918000000005122, -- [36]
-						-2.075000000011642, -- [37]
-						-1.965000000025611, -- [38]
-						-1.573000000033062, -- [39]
-						-1.319000000017695, -- [40]
-						-1.210000000020955, -- [41]
-						-0.9239999999990687, -- [42]
-						-0.9239999999990687, -- [43]
-						-0.8310000000055879, -- [44]
-						-0.364000000001397, -- [45]
-						0, -- [46]
-						0.6849999999976717, -- [47]
-						1.014999999955762, -- [48]
-						1.199999999953434, -- [49]
-						1.199999999953434, -- [50]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-						true, -- [2]
-						false, -- [3]
-						true, -- [4]
-						true, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						false, -- [10]
-						false, -- [11]
-						false, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						false, -- [20]
-						false, -- [21]
-						false, -- [22]
-						true, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						false, -- [28]
-						false, -- [29]
-						true, -- [30]
-						true, -- [31]
-						false, -- [32]
-						true, -- [33]
-						true, -- [34]
-						true, -- [35]
-						true, -- [36]
-						true, -- [37]
-						false, -- [38]
-						true, -- [39]
-						false, -- [40]
-						true, -- [41]
-						true, -- [42]
-						true, -- [43]
-						true, -- [44]
-						true, -- [45]
-						true, -- [46]
-						false, -- [47]
-						true, -- [48]
-						true, -- [49]
-						true, -- [50]
-					},
-					["Messages"] = {
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13890 (Physical)", -- [1]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2127 (Physical)", -- [3]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [4]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30121 (Physical)", -- [5]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23205 (Physical)", -- [6]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [7]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [8]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2339 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [11]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2293 (Physical)", -- [12]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -18084 (Physical)", -- [13]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [14]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [15]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [16]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [17]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [18]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -19407 (Physical)", -- [19]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2145 (Physical)", -- [20]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2236 (Physical)", -- [21]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -1903 (Physical)", -- [22]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [23]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [24]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [25]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [26]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21051 (Physical)", -- [27]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -4406 (Physical)", -- [28]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2140 (Physical)", -- [29]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -28612 (Physical)", -- [30]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [31]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2682 (Physical)", -- [32]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8778 (Physical)", -- [33]
-						"Swooping Plainshawk <Brimtok> dies.", -- [34]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [35]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [36]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [37]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [38]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [39]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3176 (Physical)", -- [40]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8295 (Physical)", -- [41]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [42]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [43]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [44]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [45]
-						"Swooping Plainshawk <Brimtok> dies.", -- [46]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [47]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [48]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [49]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [50]
-					},
-					["EventNum"] = {
-						3.525908702064522, -- [1]
-						5.270840049652105, -- [2]
-						0, -- [3]
-						2.228506299166627, -- [4]
-						7.646068827565549, -- [5]
-						5.890475984982523, -- [6]
-						1.234194968282052, -- [7]
-						2.542512711294331, -- [8]
-						1.234194968282052, -- [9]
-						0, -- [10]
-						0, -- [11]
-						0, -- [12]
-						4.590535130895236, -- [13]
-						2.542512711294331, -- [14]
-						2.54276655641327, -- [15]
-						1.234194968282052, -- [16]
-						3.525654856945583, -- [17]
-						10.85797111750237, -- [18]
-						4.926372223251705, -- [19]
-						0, -- [20]
-						0, -- [21]
-						0, -- [22]
-						2.228506299166627, -- [23]
-						1.234194968282052, -- [24]
-						1.234194968282052, -- [25]
-						2.542512711294331, -- [26]
-						5.343693598787636, -- [27]
-						0, -- [28]
-						0, -- [29]
-						7.263016543086401, -- [30]
-						10.85822496262131, -- [31]
-						0, -- [32]
-						2.228252454047687, -- [33]
-						0, -- [34]
-						2.542512711294331, -- [35]
-						1.234194968282052, -- [36]
-						1.609885744311965, -- [37]
-						0, -- [38]
-						5.045933274272036, -- [39]
-						0, -- [40]
-						2.105645261600087, -- [41]
-						2.542512711294331, -- [42]
-						1.234194968282052, -- [43]
-						2.44935155264367, -- [44]
-						9.700691220258872, -- [45]
-						0, -- [46]
-						0, -- [47]
-						1.234448813400991, -- [48]
-						1.783261960547392, -- [49]
-						2.449605397762609, -- [50]
-					},
-					["DeathAt"] = 1367893433,
-					["HealthNum"] = {
-						76.12789732472629, -- [1]
-						70.85705727507418, -- [2]
-						70.85705727507418, -- [3]
-						70.85705727507418, -- [4]
-						63.21098844750864, -- [5]
-						63.21098844750864, -- [6]
-						63.21098844750864, -- [7]
-						60.66847573621431, -- [8]
-						60.66847573621431, -- [9]
-						54.77799975123178, -- [10]
-						54.77799975123178, -- [11]
-						54.77799975123178, -- [12]
-						54.77799975123178, -- [13]
-						54.77799975123178, -- [14]
-						54.77799975123178, -- [15]
-						53.54380478294973, -- [16]
-						53.54380478294973, -- [17]
-						42.68583366544736, -- [18]
-						42.68583366544736, -- [19]
-						37.75946144219566, -- [20]
-						37.75946144219566, -- [21]
-						37.75946144219566, -- [22]
-						37.75946144219566, -- [23]
-						36.5252664739136, -- [24]
-						36.5252664739136, -- [25]
-						36.5252664739136, -- [26]
-						36.5252664739136, -- [27]
-						31.18157287512597, -- [28]
-						31.18157287512597, -- [29]
-						31.18157287512597, -- [30]
-						20.32334791250467, -- [31]
-						20.32334791250467, -- [32]
-						20.32334791250467, -- [33]
-						20.32334791250467, -- [34]
-						20.32334791250467, -- [35]
-						19.08915294422261, -- [36]
-						19.08915294422261, -- [37]
-						19.08915294422261, -- [38]
-						12.43333392563861, -- [39]
-						12.43333392563861, -- [40]
-						12.43333392563861, -- [41]
-						12.43333392563861, -- [42]
-						11.19913895735656, -- [43]
-						8.749787404712889, -- [44]
-						0.0002538451189391305, -- [45]
-						0, -- [46]
-						86.3017558466877, -- [47]
-						85.06730703328671, -- [48]
-						85.06730703328671, -- [49]
-						82.6177016355241, -- [50]
-					},
-					["Health"] = {
-						"299899 (76%)", -- [1]
-						"279135 (70%)", -- [2]
-						"279135 (70%)", -- [3]
-						"279135 (70%)", -- [4]
-						"249014 (63%)", -- [5]
-						"249014 (63%)", -- [6]
-						"249014 (63%)", -- [7]
-						"238998 (60%)", -- [8]
-						"238998 (60%)", -- [9]
-						"215793 (54%)", -- [10]
-						"215793 (54%)", -- [11]
-						"215793 (54%)", -- [12]
-						"215793 (54%)", -- [13]
-						"215793 (54%)", -- [14]
-						"215793 (54%)", -- [15]
-						"210931 (53%)", -- [16]
-						"210931 (53%)", -- [17]
-						"168157 (42%)", -- [18]
-						"168157 (42%)", -- [19]
-						"148750 (37%)", -- [20]
-						"148750 (37%)", -- [21]
-						"148750 (37%)", -- [22]
-						"148750 (37%)", -- [23]
-						"143888 (36%)", -- [24]
-						"143888 (36%)", -- [25]
-						"143888 (36%)", -- [26]
-						"143888 (36%)", -- [27]
-						"122837 (31%)", -- [28]
-						"122837 (31%)", -- [29]
-						"122837 (31%)", -- [30]
-						"80062 (20%)", -- [31]
-						"80062 (20%)", -- [32]
-						"80062 (20%)", -- [33]
-						"80062 (20%)", -- [34]
-						"80062 (20%)", -- [35]
-						"75200 (19%)", -- [36]
-						"75200 (19%)", -- [37]
-						"75200 (19%)", -- [38]
-						"48980 (12%)", -- [39]
-						"48980 (12%)", -- [40]
-						"48980 (12%)", -- [41]
-						"48980 (12%)", -- [42]
-						"44118 (11%)", -- [43]
-						"34469 (8%)", -- [44]
-						"1 (0%)", -- [45]
-						"0 (0%)", -- [46]
-						"339978 (86%)", -- [47]
-						"335115 (85%)", -- [48]
-						"335115 (85%)", -- [49]
-						"325465 (82%)", -- [50]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"DAMAGE", -- [33]
-						"MISC", -- [34]
-						"DAMAGE", -- [35]
-						"DAMAGE", -- [36]
-						"DAMAGE", -- [37]
-						"DAMAGE", -- [38]
-						"DAMAGE", -- [39]
-						"DAMAGE", -- [40]
-						"DAMAGE", -- [41]
-						"DAMAGE", -- [42]
-						"DAMAGE", -- [43]
-						"DAMAGE", -- [44]
-						"DAMAGE", -- [45]
-						"MISC", -- [46]
-						"DAMAGE", -- [47]
-						"DAMAGE", -- [48]
-						"DAMAGE", -- [49]
-						"DAMAGE", -- [50]
-					},
-				}, -- [2]
-				{
-					["MessageTimes"] = {
-						-9.103999999992084, -- [1]
-						-8.755000000004657, -- [2]
-						-8.755000000004657, -- [3]
-						-8.149000000033993, -- [4]
-						-8.041000000026543, -- [5]
-						-7.916000000026543, -- [6]
-						-7.589000000036322, -- [7]
-						-7.589000000036322, -- [8]
-						-7.589000000036322, -- [9]
-						-6.679999999993015, -- [10]
-						-6.679999999993015, -- [11]
-						-6.509000000020023, -- [12]
-						-6.509000000020023, -- [13]
-						-5.965000000025611, -- [14]
-						-5.965000000025611, -- [15]
-						-5.965000000025611, -- [16]
-						-5.793999999994412, -- [17]
-						-5.607000000018161, -- [18]
-						-5.607000000018161, -- [19]
-						-5.607000000018161, -- [20]
-						-4.688000000023749, -- [21]
-						-4.688000000023749, -- [22]
-						-3.989999999990687, -- [23]
-						-3.989999999990687, -- [24]
-						-3.585000000020955, -- [25]
-						-3.585000000020955, -- [26]
-						-3.585000000020955, -- [27]
-						-3.585000000020955, -- [28]
-						-3.492000000027474, -- [29]
-						-3.492000000027474, -- [30]
-						-2.700000000011642, -- [31]
-						-2.700000000011642, -- [32]
-						-1.989000000001397, -- [33]
-						-1.989000000001397, -- [34]
-						-1.584000000031665, -- [35]
-						-1.584000000031665, -- [36]
-						-1.584000000031665, -- [37]
-						-1.116000000038184, -- [38]
-						-0.6630000000004657, -- [39]
-						-0.6630000000004657, -- [40]
-						-0.5080000000307336, -- [41]
-						-0.5080000000307336, -- [42]
-						0, -- [43]
-						0, -- [44]
-						0, -- [45]
-						0.4070000000065193, -- [46]
-						0.4070000000065193, -- [47]
-						1.25, -- [48]
-						1.35999999998603, -- [49]
-						1.75199999997858, -- [50]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-						false, -- [2]
-						false, -- [3]
-						true, -- [4]
-						false, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						false, -- [10]
-						false, -- [11]
-						true, -- [12]
-						true, -- [13]
-						false, -- [14]
-						true, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						false, -- [21]
-						false, -- [22]
-						false, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-						true, -- [30]
-						false, -- [31]
-						false, -- [32]
-						false, -- [33]
-						true, -- [34]
-						true, -- [35]
-						true, -- [36]
-						true, -- [37]
-						true, -- [38]
-						false, -- [39]
-						false, -- [40]
-						true, -- [41]
-						true, -- [42]
-						false, -- [43]
-						true, -- [44]
-						true, -- [45]
-						true, -- [46]
-						true, -- [47]
-						true, -- [48]
-						false, -- [49]
-						true, -- [50]
-					},
-					["Messages"] = {
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24021 (Physical)", -- [1]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2123 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2538 (Physical)", -- [3]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9619 (Physical)", -- [4]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2816 (Physical)", -- [5]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [6]
-						"Brimtok Thrash Swooping Plainshawk <Brimtok> Hit -6889 (Physical)", -- [7]
-						"Brimtok Thrash Swooping Plainshawk <Brimtok> Hit -6889 (Physical)", -- [8]
-						"Brimtok Thrash Swooping Plainshawk <Brimtok> Crit -14191 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2769 (Physical)", -- [11]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13890 (Physical)", -- [12]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [13]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2127 (Physical)", -- [14]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [15]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30121 (Physical)", -- [16]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23205 (Physical)", -- [17]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [18]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [19]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [20]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2339 (Physical)", -- [21]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [22]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2293 (Physical)", -- [23]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -18084 (Physical)", -- [24]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [25]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [26]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [27]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [28]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [29]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -19407 (Physical)", -- [30]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2145 (Physical)", -- [31]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2236 (Physical)", -- [32]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -1903 (Physical)", -- [33]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [34]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [35]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [36]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [37]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21051 (Physical)", -- [38]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -4406 (Physical)", -- [39]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2140 (Physical)", -- [40]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -28612 (Physical)", -- [41]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [42]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2682 (Physical)", -- [43]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8778 (Physical)", -- [44]
-						"Swooping Plainshawk <Brimtok> dies.", -- [45]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [46]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [47]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [48]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [49]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [50]
-					},
-					["EventNum"] = {
-						6.097613602036853, -- [1]
-						0, -- [2]
-						0, -- [3]
-						2.441736199075496, -- [4]
-						0, -- [5]
-						2.228506299166627, -- [6]
-						1.74873902437167, -- [7]
-						1.74873902437167, -- [8]
-						3.602316082865201, -- [9]
-						0, -- [10]
-						0, -- [11]
-						3.525908702064522, -- [12]
-						5.270840049652105, -- [13]
-						0, -- [14]
-						2.228506299166627, -- [15]
-						7.646068827565549, -- [16]
-						5.890475984982523, -- [17]
-						1.234194968282052, -- [18]
-						2.542512711294331, -- [19]
-						1.234194968282052, -- [20]
-						0, -- [21]
-						0, -- [22]
-						0, -- [23]
-						4.590535130895236, -- [24]
-						2.542512711294331, -- [25]
-						2.54276655641327, -- [26]
-						1.234194968282052, -- [27]
-						3.525654856945583, -- [28]
-						10.85797111750237, -- [29]
-						4.926372223251705, -- [30]
-						0, -- [31]
-						0, -- [32]
-						0, -- [33]
-						2.228506299166627, -- [34]
-						1.234194968282052, -- [35]
-						1.234194968282052, -- [36]
-						2.542512711294331, -- [37]
-						5.343693598787636, -- [38]
-						0, -- [39]
-						0, -- [40]
-						7.263016543086401, -- [41]
-						10.85822496262131, -- [42]
-						0, -- [43]
-						2.228252454047687, -- [44]
-						0, -- [45]
-						2.542512711294331, -- [46]
-						1.234194968282052, -- [47]
-						1.609885744311965, -- [48]
-						0, -- [49]
-						5.045933274272036, -- [50]
-					},
-					["DeathAt"] = 1367893429,
-					["HealthNum"] = {
-						86.41598615021032, -- [1]
-						86.41598615021032, -- [2]
-						86.41598615021032, -- [3]
-						80.31837254817346, -- [4]
-						80.31837254817346, -- [5]
-						80.31837254817346, -- [6]
-						76.12789732472629, -- [7]
-						76.12789732472629, -- [8]
-						76.12789732472629, -- [9]
-						76.12789732472629, -- [10]
-						76.12789732472629, -- [11]
-						76.12789732472629, -- [12]
-						70.85705727507418, -- [13]
-						70.85705727507418, -- [14]
-						70.85705727507418, -- [15]
-						63.21098844750864, -- [16]
-						63.21098844750864, -- [17]
-						63.21098844750864, -- [18]
-						60.66847573621431, -- [19]
-						60.66847573621431, -- [20]
-						54.77799975123178, -- [21]
-						54.77799975123178, -- [22]
-						54.77799975123178, -- [23]
-						54.77799975123178, -- [24]
-						54.77799975123178, -- [25]
-						54.77799975123178, -- [26]
-						53.54380478294973, -- [27]
-						53.54380478294973, -- [28]
-						42.68583366544736, -- [29]
-						42.68583366544736, -- [30]
-						37.75946144219566, -- [31]
-						37.75946144219566, -- [32]
-						37.75946144219566, -- [33]
-						37.75946144219566, -- [34]
-						36.5252664739136, -- [35]
-						36.5252664739136, -- [36]
-						36.5252664739136, -- [37]
-						36.5252664739136, -- [38]
-						31.18157287512597, -- [39]
-						31.18157287512597, -- [40]
-						31.18157287512597, -- [41]
-						20.32334791250467, -- [42]
-						20.32334791250467, -- [43]
-						20.32334791250467, -- [44]
-						20.32334791250467, -- [45]
-						20.32334791250467, -- [46]
-						19.08915294422261, -- [47]
-						19.08915294422261, -- [48]
-						19.08915294422261, -- [49]
-						12.43333392563861, -- [50]
-					},
-					["Health"] = {
-						"340428 (86%)", -- [1]
-						"340428 (86%)", -- [2]
-						"340428 (86%)", -- [3]
-						"316407 (80%)", -- [4]
-						"316407 (80%)", -- [5]
-						"316407 (80%)", -- [6]
-						"299899 (76%)", -- [7]
-						"299899 (76%)", -- [8]
-						"299899 (76%)", -- [9]
-						"299899 (76%)", -- [10]
-						"299899 (76%)", -- [11]
-						"299899 (76%)", -- [12]
-						"279135 (70%)", -- [13]
-						"279135 (70%)", -- [14]
-						"279135 (70%)", -- [15]
-						"249014 (63%)", -- [16]
-						"249014 (63%)", -- [17]
-						"249014 (63%)", -- [18]
-						"238998 (60%)", -- [19]
-						"238998 (60%)", -- [20]
-						"215793 (54%)", -- [21]
-						"215793 (54%)", -- [22]
-						"215793 (54%)", -- [23]
-						"215793 (54%)", -- [24]
-						"215793 (54%)", -- [25]
-						"215793 (54%)", -- [26]
-						"210931 (53%)", -- [27]
-						"210931 (53%)", -- [28]
-						"168157 (42%)", -- [29]
-						"168157 (42%)", -- [30]
-						"148750 (37%)", -- [31]
-						"148750 (37%)", -- [32]
-						"148750 (37%)", -- [33]
-						"148750 (37%)", -- [34]
-						"143888 (36%)", -- [35]
-						"143888 (36%)", -- [36]
-						"143888 (36%)", -- [37]
-						"143888 (36%)", -- [38]
-						"122837 (31%)", -- [39]
-						"122837 (31%)", -- [40]
-						"122837 (31%)", -- [41]
-						"80062 (20%)", -- [42]
-						"80062 (20%)", -- [43]
-						"80062 (20%)", -- [44]
-						"80062 (20%)", -- [45]
-						"80062 (20%)", -- [46]
-						"75200 (19%)", -- [47]
-						"75200 (19%)", -- [48]
-						"75200 (19%)", -- [49]
-						"48980 (12%)", -- [50]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"DAMAGE", -- [33]
-						"DAMAGE", -- [34]
-						"DAMAGE", -- [35]
-						"DAMAGE", -- [36]
-						"DAMAGE", -- [37]
-						"DAMAGE", -- [38]
-						"DAMAGE", -- [39]
-						"DAMAGE", -- [40]
-						"DAMAGE", -- [41]
-						"DAMAGE", -- [42]
-						"DAMAGE", -- [43]
-						"DAMAGE", -- [44]
-						"MISC", -- [45]
-						"DAMAGE", -- [46]
-						"DAMAGE", -- [47]
-						"DAMAGE", -- [48]
-						"DAMAGE", -- [49]
-						"DAMAGE", -- [50]
-					},
-				}, -- [3]
-				{
-					["MessageTimes"] = {
-						-8.513000000006286, -- [1]
-						-8.24100000000908, -- [2]
-						-8.12300000002142, -- [3]
-						-7.317999999999302, -- [4]
-						-6.505000000004657, -- [5]
-						-6.505000000004657, -- [6]
-						-6.346000000019558, -- [7]
-						-5.437000000005355, -- [8]
-						-5.320999999996275, -- [9]
-						-5.135999999998603, -- [10]
-						-4.610000000015134, -- [11]
-						-4.437999999994645, -- [12]
-						-3.668999999994412, -- [13]
-						-2.634000000020023, -- [14]
-						-2.634000000020023, -- [15]
-						-2.517000000021653, -- [16]
-						-2.415000000008149, -- [17]
-						-2.157000000006519, -- [18]
-						-1.701000000000931, -- [19]
-						-1.214000000007218, -- [20]
-						-0.8030000000144355, -- [21]
-						-0.5, -- [22]
-						-0.3830000000016298, -- [23]
-						-0.1290000000153668, -- [24]
-						0, -- [25]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						true, -- [10]
-						true, -- [11]
-						false, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-						true, -- [16]
-						false, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						true, -- [21]
-						true, -- [22]
-						false, -- [23]
-						true, -- [24]
-						true, -- [25]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3969 (Physical)", -- [1]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7245 (Physical)", -- [2]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [3]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8069 (Physical)", -- [4]
-						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -74856 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [6]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7744 (Physical)", -- [7]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8070 (Physical)", -- [8]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20366 (Physical)", -- [9]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [10]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7419 (Physical)", -- [11]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -7224 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12063 (Physical)", -- [13]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10718 (Physical)", -- [14]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [15]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13729 (Physical)", -- [16]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [17]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [18]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11112 (Physical)", -- [19]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -56380 (Physical)", -- [20]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -25889 (Physical)", -- [21]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13729 (Physical)", -- [22]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2991 (Physical)", -- [23]
-						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -97004 (Physical)", -- [24]
-						"Swooping Plainshawk <Brimtok> dies.", -- [25]
-					},
-					["HealthNum"] = {
-						100, -- [1]
-						100, -- [2]
-						94.95406672572797, -- [3]
-						93.11495883901397, -- [4]
-						72.06485235098657, -- [5]
-						72.06485235098657, -- [6]
-						72.06485235098657, -- [7]
-						70.09907574992194, -- [8]
-						64.92926605760761, -- [9]
-						62.47991450496394, -- [10]
-						60.43138439512516, -- [11]
-						60.43138439512516, -- [12]
-						58.54810745771575, -- [13]
-						55.48597378795302, -- [14]
-						44.62774882533171, -- [15]
-						41.14270918741639, -- [16]
-						38.42199720262679, -- [17]
-						27.56402608512442, -- [18]
-						27.56402608512442, -- [19]
-						10.43151131768463, -- [20]
-						10.43151131768463, -- [21]
-						6.946471679769306, -- [22]
-						6.946471679769306, -- [23]
-						0.0002538451189391305, -- [24]
-						0, -- [25]
-					},
-					["DeathAt"] = 1367784504,
-					["EventNum"] = {
-						0, -- [1]
-						1.839107886714, -- [2]
-						5.045933274272036, -- [3]
-						2.048276264719844, -- [4]
-						19.00183022330755, -- [5]
-						0, -- [6]
-						1.965776601064627, -- [7]
-						2.048530109838783, -- [8]
-						5.169809692314331, -- [9]
-						2.44935155264367, -- [10]
-						1.883276937409409, -- [11]
-						0, -- [12]
-						3.062133669762731, -- [13]
-						2.720711984789601, -- [14]
-						10.85822496262131, -- [15]
-						3.485039637915322, -- [16]
-						0, -- [17]
-						10.85797111750237, -- [18]
-						2.820726961651618, -- [19]
-						14.31178780578818, -- [20]
-						6.571796284215149, -- [21]
-						3.485039637915322, -- [22]
-						0, -- [23]
-						24.62399191757141, -- [24]
-						0, -- [25]
-					},
-					["Health"] = {
-						"393941 (100%)", -- [1]
-						"393941 (100%)", -- [2]
-						"374063 (94%)", -- [3]
-						"366818 (93%)", -- [4]
-						"283893 (72%)", -- [5]
-						"283893 (72%)", -- [6]
-						"283893 (72%)", -- [7]
-						"276149 (70%)", -- [8]
-						"255783 (64%)", -- [9]
-						"246134 (62%)", -- [10]
-						"238064 (60%)", -- [11]
-						"238064 (60%)", -- [12]
-						"230645 (58%)", -- [13]
-						"218582 (55%)", -- [14]
-						"175807 (44%)", -- [15]
-						"162078 (41%)", -- [16]
-						"151360 (38%)", -- [17]
-						"108586 (27%)", -- [18]
-						"108586 (27%)", -- [19]
-						"41094 (10%)", -- [20]
-						"41094 (10%)", -- [21]
-						"27365 (6%)", -- [22]
-						"27365 (6%)", -- [23]
-						"1 (0%)", -- [24]
-						"0 (0%)", -- [25]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"MISC", -- [25]
-					},
-				}, -- [4]
-				{
-					["MessageTimes"] = {
-						830813.694, -- [1]
-						830814.616, -- [2]
-						830814.616, -- [3]
-						830814.616, -- [4]
-						830815.022, -- [5]
-						830815.5850000001, -- [6]
-						830815.991, -- [7]
-						830816.241, -- [8]
-						830816.522, -- [9]
-						830816.522, -- [10]
-						830816.522, -- [11]
-						830817.0380000001, -- [12]
-						830817.444, -- [13]
-						830818.382, -- [14]
-						830818.616, -- [15]
-						830819.0850000001, -- [16]
-						830819.257, -- [17]
-						830819.491, -- [18]
-						830819.8810000001, -- [19]
-						-11.68100000000413, -- [20]
-						-11.68100000000413, -- [21]
-						-11.55900000000111, -- [22]
-						-10.70300000000134, -- [23]
-						-10.36000000000058, -- [24]
-						-9.768000000003667, -- [25]
-						-9.645000000004075, -- [26]
-						-8.88300000000163, -- [27]
-						-8.477000000006228, -- [28]
-						-7.915000000000873, -- [29]
-						-7.666000000004715, -- [30]
-						-7.334000000002561, -- [31]
-						-7.334000000002561, -- [32]
-						-6.976000000002387, -- [33]
-						-6.054000000003725, -- [34]
-						-5.635000000002037, -- [35]
-						-5.120000000002619, -- [36]
-						-4.417000000001281, -- [37]
-						-4.182000000000699, -- [38]
-						-4.044000000001688, -- [39]
-						-3.686000000001513, -- [40]
-						-3.686000000001513, -- [41]
-						-3.226000000002387, -- [42]
-						-2.667000000001281, -- [43]
-						-2.290000000000873, -- [44]
-						-2.010000000002037, -- [45]
-						-1.620000000002619, -- [46]
-						-1.386000000005879, -- [47]
-						-1.386000000005879, -- [48]
-						-0.4220000000059372, -- [49]
-						0, -- [50]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-						false, -- [2]
-						false, -- [3]
-						true, -- [4]
-						true, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						false, -- [10]
-						false, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						false, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						false, -- [20]
-						true, -- [21]
-						true, -- [22]
-						true, -- [23]
-						true, -- [24]
-						true, -- [25]
-						false, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-						false, -- [30]
-						true, -- [31]
-						true, -- [32]
-						true, -- [33]
-						true, -- [34]
-						false, -- [35]
-						true, -- [36]
-						true, -- [37]
-						true, -- [38]
-						true, -- [39]
-						true, -- [40]
-						false, -- [41]
-						true, -- [42]
-						true, -- [43]
-						true, -- [44]
-						true, -- [45]
-						false, -- [46]
-						true, -- [47]
-						true, -- [48]
-						true, -- [49]
-						true, -- [50]
-					},
-					["Messages"] = {
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [1]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [3]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [4]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [5]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [6]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [7]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [8]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [11]
-						"Swooping Plainshawk <Brimtok> dies.", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [13]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [15]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [16]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21658 (Physical)", -- [17]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -24473 (Physical)", -- [18]
-						"Swooping Plainshawk <Brimtok> dies.", -- [19]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -5897 (Physical)", -- [20]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7656 (Physical)", -- [21]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -16692 (Physical)", -- [22]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13470 (Physical)", -- [23]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [24]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8356 (Physical)", -- [25]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3556 (Physical)", -- [26]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18151 (Physical)", -- [27]
-						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -35229 (Physical)", -- [28]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8683 (Physical)", -- [29]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3589 (Physical)", -- [30]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [31]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -13889 (Physical)", -- [32]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9042 (Physical)", -- [33]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7302 (Physical)", -- [34]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3549 (Physical)", -- [35]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8266 (Physical)", -- [36]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [37]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24579 (Physical)", -- [38]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13728 (Physical)", -- [39]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14534 (Physical)", -- [40]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3445 (Physical)", -- [41]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Parry", -- [42]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27623 (Physical)", -- [43]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22910 (Physical)", -- [44]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13728 (Physical)", -- [45]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3269 (Physical)", -- [46]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Parry", -- [47]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [48]
-						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -59119 (Physical)", -- [49]
-						"Swooping Plainshawk <Brimtok> dies.", -- [50]
-					},
-					["EventNum"] = {
-						2.136614366110661, -- [1]
-						0, -- [2]
-						0, -- [3]
-						5.313739874752819, -- [4]
-						3.184233171972453, -- [5]
-						2.675273708499496, -- [6]
-						3.184233171972453, -- [7]
-						4.619981164692175, -- [8]
-						2.297298326399131, -- [9]
-						0, -- [10]
-						0, -- [11]
-						0, -- [12]
-						2.3528904074468, -- [13]
-						2.689742880279026, -- [14]
-						0, -- [15]
-						6.559611718506071, -- [16]
-						5.497777585983688, -- [17]
-						6.21235159579734, -- [18]
-						0, -- [19]
-						0, -- [20]
-						1.943438230597983, -- [21]
-						4.237182725331966, -- [22]
-						3.419293752110088, -- [23]
-						5.045679429153097, -- [24]
-						2.121129813855375, -- [25]
-						0, -- [26]
-						4.607542753864157, -- [27]
-						8.942709695106627, -- [28]
-						2.20413716774847, -- [29]
-						0, -- [30]
-						5.045933274272036, -- [31]
-						3.525654856945583, -- [32]
-						2.295267565447618, -- [33]
-						1.853577058493531, -- [34]
-						0, -- [35]
-						2.098283753150853, -- [36]
-						3.525654856945583, -- [37]
-						6.239259178404888, -- [38]
-						3.484785792796383, -- [39]
-						3.689384958661322, -- [40]
-						0, -- [41]
-						0, -- [42]
-						7.011963720455602, -- [43]
-						5.81559167489548, -- [44]
-						3.484785792796383, -- [45]
-						0, -- [46]
-						0, -- [47]
-						5.270840049652105, -- [48]
-						15.00706958656246, -- [49]
-						0, -- [50]
-					},
-					["DeathAt"] = 1367616154,
-					["HealthNum"] = {
-						24.28434714843086, -- [1]
-						16.20598008331197, -- [2]
-						16.20598008331197, -- [3]
-						16.20598008331197, -- [4]
-						7.708007036586697, -- [5]
-						7.708007036586697, -- [6]
-						7.708007036586697, -- [7]
-						0.4127521633950262, -- [8]
-						0.4127521633950262, -- [9]
-						0.4127521633950262, -- [10]
-						0.4127521633950262, -- [11]
-						18.96349961034774, -- [12]
-						18.96349961034774, -- [13]
-						16.61060920290094, -- [14]
-						16.61060920290094, -- [15]
-						7.361254604115845, -- [16]
-						7.361254604115845, -- [17]
-						1.148903008318505, -- [18]
-						0, -- [19]
-						100, -- [20]
-						100, -- [21]
-						95.76281727466804, -- [22]
-						93.81937904407005, -- [23]
-						88.77369961491695, -- [24]
-						85.35440586280687, -- [25]
-						85.35440586280687, -- [26]
-						83.2332760489515, -- [27]
-						74.29056635384487, -- [28]
-						69.68302359998071, -- [29]
-						67.47888643223224, -- [30]
-						62.4329531579602, -- [31]
-						58.90729830101462, -- [32]
-						58.90729830101462, -- [33]
-						56.612030735567, -- [34]
-						56.612030735567, -- [35]
-						54.75845367707347, -- [36]
-						49.13451506697704, -- [37]
-						49.13451506697704, -- [38]
-						45.64972927418065, -- [39]
-						35.72108513711444, -- [40]
-						35.72108513711444, -- [41]
-						35.72108513711444, -- [42]
-						28.70912141665884, -- [43]
-						28.70912141665884, -- [44]
-						19.40874394896698, -- [45]
-						19.40874394896698, -- [46]
-						19.40874394896698, -- [47]
-						14.13790389931487, -- [48]
-						0.0002538451189391305, -- [49]
-						0, -- [50]
-					},
-					["Health"] = {
-						"95666 (24%)", -- [1]
-						"63842 (16%)", -- [2]
-						"63842 (16%)", -- [3]
-						"63842 (16%)", -- [4]
-						"30365 (7%)", -- [5]
-						"30365 (7%)", -- [6]
-						"30365 (7%)", -- [7]
-						"1626 (0%)", -- [8]
-						"1626 (0%)", -- [9]
-						"1626 (0%)", -- [10]
-						"1626 (0%)", -- [11]
-						"74705 (18%)", -- [12]
-						"74705 (18%)", -- [13]
-						"65436 (16%)", -- [14]
-						"65436 (16%)", -- [15]
-						"28999 (7%)", -- [16]
-						"28999 (7%)", -- [17]
-						"4526 (1%)", -- [18]
-						"0 (0%)", -- [19]
-						"393941 (100%)", -- [20]
-						"393941 (100%)", -- [21]
-						"377249 (95%)", -- [22]
-						"369593 (93%)", -- [23]
-						"349716 (88%)", -- [24]
-						"336246 (85%)", -- [25]
-						"336246 (85%)", -- [26]
-						"327890 (83%)", -- [27]
-						"292661 (74%)", -- [28]
-						"274510 (69%)", -- [29]
-						"265827 (67%)", -- [30]
-						"245949 (62%)", -- [31]
-						"232060 (58%)", -- [32]
-						"232060 (58%)", -- [33]
-						"223018 (56%)", -- [34]
-						"223018 (56%)", -- [35]
-						"215716 (54%)", -- [36]
-						"193561 (49%)", -- [37]
-						"193561 (49%)", -- [38]
-						"179833 (45%)", -- [39]
-						"140720 (35%)", -- [40]
-						"140720 (35%)", -- [41]
-						"140720 (35%)", -- [42]
-						"113097 (28%)", -- [43]
-						"113097 (28%)", -- [44]
-						"76459 (19%)", -- [45]
-						"76459 (19%)", -- [46]
-						"76459 (19%)", -- [47]
-						"55695 (14%)", -- [48]
-						"1 (0%)", -- [49]
-						"0 (0%)", -- [50]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"MISC", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"MISC", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"DAMAGE", -- [33]
-						"DAMAGE", -- [34]
-						"DAMAGE", -- [35]
-						"DAMAGE", -- [36]
-						"DAMAGE", -- [37]
-						"DAMAGE", -- [38]
-						"DAMAGE", -- [39]
-						"DAMAGE", -- [40]
-						"DAMAGE", -- [41]
-						"DAMAGE", -- [42]
-						"DAMAGE", -- [43]
-						"DAMAGE", -- [44]
-						"DAMAGE", -- [45]
-						"DAMAGE", -- [46]
-						"DAMAGE", -- [47]
-						"DAMAGE", -- [48]
-						"DAMAGE", -- [49]
-						"MISC", -- [50]
-					},
-				}, -- [5]
-				{
-					["MessageTimes"] = {
-						-13.68700000003446, -- [1]
-						-13.68700000003446, -- [2]
-						-12.46799999999348, -- [3]
-						-12.46799999999348, -- [4]
-						-11.56200000003446, -- [5]
-						-11.56200000003446, -- [6]
-						-11.26500000001397, -- [7]
-						-11.26500000001397, -- [8]
-						-9.64000000001397, -- [9]
-						-9.64000000001397, -- [10]
-						-7.64000000001397, -- [11]
-						-7.64000000001397, -- [12]
-						-7.217999999993481, -- [13]
-						-6.812000000034459, -- [14]
-						-6.187000000034459, -- [15]
-						-5.26500000001397, -- [16]
-						-5.26500000001397, -- [17]
-						-5.26500000001397, -- [18]
-						-4.859000000054948, -- [19]
-						-4.295999999972992, -- [20]
-						-3.89000000001397, -- [21]
-						-3.64000000001397, -- [22]
-						-3.359000000054948, -- [23]
-						-3.359000000054948, -- [24]
-						-3.359000000054948, -- [25]
-						-2.842999999993481, -- [26]
-						-2.437000000034459, -- [27]
-						-1.499000000068918, -- [28]
-						-1.26500000001397, -- [29]
-						-0.7959999999729917, -- [30]
-						-0.6240000000689179, -- [31]
-						-0.3900000000139698, -- [32]
-						0, -- [33]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						false, -- [2]
-						true, -- [3]
-						true, -- [4]
-						false, -- [5]
-						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						false, -- [9]
-						false, -- [10]
-						false, -- [11]
-						false, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-						false, -- [16]
-						false, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						true, -- [21]
-						true, -- [22]
-						true, -- [23]
-						false, -- [24]
-						false, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-						false, -- [29]
-						true, -- [30]
-						true, -- [31]
-						true, -- [32]
-						true, -- [33]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3459 (Physical)", -- [1]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3041 (Physical)", -- [2]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42208 (Physical)", -- [3]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -19113 (Physical)", -- [4]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2905 (Physical)", -- [6]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -18350 (Physical)", -- [7]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42514 (Physical)", -- [8]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3539 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3099 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2843 (Physical)", -- [11]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3565 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17854 (Physical)", -- [13]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [14]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [15]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [16]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [17]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [18]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [19]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [20]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [21]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [22]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [23]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [24]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [25]
-						"Swooping Plainshawk <Brimtok> dies.", -- [26]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [27]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [28]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [29]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [30]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21658 (Physical)", -- [31]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -24473 (Physical)", -- [32]
-						"Swooping Plainshawk <Brimtok> dies.", -- [33]
-					},
-					["EventNum"] = {
-						0, -- [1]
-						0, -- [2]
-						10.71429478018282, -- [3]
-						4.851741758283601, -- [4]
-						0, -- [5]
-						0, -- [6]
-						4.658057932533044, -- [7]
-						10.79197138657819, -- [8]
-						0, -- [9]
-						0, -- [10]
-						0, -- [11]
-						0, -- [12]
-						4.532150753539235, -- [13]
-						3.184233171972453, -- [14]
-						2.136614366110661, -- [15]
-						0, -- [16]
-						0, -- [17]
-						5.313739874752819, -- [18]
-						3.184233171972453, -- [19]
-						2.675273708499496, -- [20]
-						3.184233171972453, -- [21]
-						4.619981164692175, -- [22]
-						2.297298326399131, -- [23]
-						0, -- [24]
-						0, -- [25]
-						0, -- [26]
-						2.3528904074468, -- [27]
-						2.689742880279026, -- [28]
-						0, -- [29]
-						6.559611718506071, -- [30]
-						5.497777585983688, -- [31]
-						6.21235159579734, -- [32]
-						0, -- [33]
-					},
-					["DeathAt"] = 1367359783,
-					["HealthNum"] = {
-						47.64444421880434, -- [1]
-						47.64444421880434, -- [2]
-						47.64444421880434, -- [3]
-						42.79270246052074, -- [4]
-						42.79270246052074, -- [5]
-						42.79270246052074, -- [6]
-						42.79270246052074, -- [7]
-						32.00073107394255, -- [8]
-						32.00073107394255, -- [9]
-						32.00073107394255, -- [10]
-						32.00073107394255, -- [11]
-						32.00073107394255, -- [12]
-						32.00073107394255, -- [13]
-						28.81649790197009, -- [14]
-						24.28434714843086, -- [15]
-						16.20598008331197, -- [16]
-						16.20598008331197, -- [17]
-						16.20598008331197, -- [18]
-						7.708007036586697, -- [19]
-						7.708007036586697, -- [20]
-						7.708007036586697, -- [21]
-						0.4127521633950262, -- [22]
-						0.4127521633950262, -- [23]
-						0.4127521633950262, -- [24]
-						0.4127521633950262, -- [25]
-						18.96349961034774, -- [26]
-						18.96349961034774, -- [27]
-						16.61060920290094, -- [28]
-						16.61060920290094, -- [29]
-						7.361254604115845, -- [30]
-						7.361254604115845, -- [31]
-						1.148903008318505, -- [32]
-						0, -- [33]
-					},
-					["Health"] = {
-						"187691 (47%)", -- [1]
-						"187691 (47%)", -- [2]
-						"187691 (47%)", -- [3]
-						"168578 (42%)", -- [4]
-						"168578 (42%)", -- [5]
-						"168578 (42%)", -- [6]
-						"168578 (42%)", -- [7]
-						"126064 (32%)", -- [8]
-						"126064 (32%)", -- [9]
-						"126064 (32%)", -- [10]
-						"126064 (32%)", -- [11]
-						"126064 (32%)", -- [12]
-						"126064 (32%)", -- [13]
-						"113520 (28%)", -- [14]
-						"95666 (24%)", -- [15]
-						"63842 (16%)", -- [16]
-						"63842 (16%)", -- [17]
-						"63842 (16%)", -- [18]
-						"30365 (7%)", -- [19]
-						"30365 (7%)", -- [20]
-						"30365 (7%)", -- [21]
-						"1626 (0%)", -- [22]
-						"1626 (0%)", -- [23]
-						"1626 (0%)", -- [24]
-						"1626 (0%)", -- [25]
-						"74705 (18%)", -- [26]
-						"74705 (18%)", -- [27]
-						"65436 (16%)", -- [28]
-						"65436 (16%)", -- [29]
-						"28999 (7%)", -- [30]
-						"28999 (7%)", -- [31]
-						"4526 (1%)", -- [32]
-						"0 (0%)", -- [33]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"MISC", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"MISC", -- [33]
-					},
-				}, -- [6]
-				{
-					["MessageTimes"] = {
-						-14.89100000006147, -- [1]
-						-14.89100000006147, -- [2]
-						-14.75, -- [3]
-						-14.75, -- [4]
-						-12.84400000004098, -- [5]
-						-12.84400000004098, -- [6]
-						-10.84400000004098, -- [7]
-						-10.84400000004098, -- [8]
-						-9.625, -- [9]
-						-9.625, -- [10]
-						-8.719000000040978, -- [11]
-						-8.719000000040978, -- [12]
-						-8.422000000020489, -- [13]
-						-8.422000000020489, -- [14]
-						-6.797000000020489, -- [15]
-						-6.797000000020489, -- [16]
-						-4.797000000020489, -- [17]
-						-4.797000000020489, -- [18]
-						-4.375, -- [19]
-						-3.969000000040978, -- [20]
-						-3.344000000040978, -- [21]
-						-2.422000000020489, -- [22]
-						-2.422000000020489, -- [23]
-						-2.422000000020489, -- [24]
-						-2.016000000061467, -- [25]
-						-1.452999999979511, -- [26]
-						-1.047000000020489, -- [27]
-						-0.7970000000204891, -- [28]
-						-0.5160000000614673, -- [29]
-						-0.5160000000614673, -- [30]
-						-0.5160000000614673, -- [31]
-						0, -- [32]
-						0.4059999999590218, -- [33]
-						1.343999999924563, -- [34]
-						1.577999999979511, -- [35]
-					},
-					["MessageIncoming"] = {
-						true, -- [1]
-						true, -- [2]
-						false, -- [3]
-						false, -- [4]
-						false, -- [5]
-						false, -- [6]
-						false, -- [7]
-						false, -- [8]
-						true, -- [9]
-						true, -- [10]
-						false, -- [11]
-						false, -- [12]
-						true, -- [13]
-						true, -- [14]
-						false, -- [15]
-						false, -- [16]
-						false, -- [17]
-						false, -- [18]
-						true, -- [19]
-						true, -- [20]
-						true, -- [21]
-						false, -- [22]
-						false, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-						false, -- [30]
-						false, -- [31]
-						true, -- [32]
-						true, -- [33]
-						true, -- [34]
-						false, -- [35]
-					},
-					["Messages"] = {
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -17386 (Physical)", -- [1]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -20692 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2725 (Physical)", -- [3]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3600 (Physical)", -- [4]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2776 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Miss", -- [6]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3459 (Physical)", -- [7]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3041 (Physical)", -- [8]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42208 (Physical)", -- [9]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -19113 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [11]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2905 (Physical)", -- [12]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -18350 (Physical)", -- [13]
-						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42514 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3539 (Physical)", -- [15]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3099 (Physical)", -- [16]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2843 (Physical)", -- [17]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3565 (Physical)", -- [18]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17854 (Physical)", -- [19]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [20]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [21]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [22]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [23]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [24]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [25]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [26]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [27]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [28]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [29]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [30]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [31]
-						"Swooping Plainshawk <Brimtok> dies.", -- [32]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [33]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [34]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [35]
-					},
-					["EventNum"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						0, -- [7]
-						0, -- [8]
-						10.71429478018282, -- [9]
-						4.851741758283601, -- [10]
-						0, -- [11]
-						0, -- [12]
-						4.658057932533044, -- [13]
-						10.79197138657819, -- [14]
-						0, -- [15]
-						0, -- [16]
-						0, -- [17]
-						0, -- [18]
-						4.532150753539235, -- [19]
-						3.184233171972453, -- [20]
-						2.136614366110661, -- [21]
-						0, -- [22]
-						0, -- [23]
-						5.313739874752819, -- [24]
-						3.184233171972453, -- [25]
-						2.675273708499496, -- [26]
-						3.184233171972453, -- [27]
-						4.619981164692175, -- [28]
-						2.297298326399131, -- [29]
-						0, -- [30]
-						0, -- [31]
-						0, -- [32]
-						2.3528904074468, -- [33]
-						2.689742880279026, -- [34]
-						0, -- [35]
-					},
-					["DeathAt"] = 1367359780,
-					["HealthNum"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						47.64444421880434, -- [7]
-						47.64444421880434, -- [8]
-						47.64444421880434, -- [9]
-						42.79270246052074, -- [10]
-						42.79270246052074, -- [11]
-						42.79270246052074, -- [12]
-						42.79270246052074, -- [13]
-						32.00073107394255, -- [14]
-						32.00073107394255, -- [15]
-						32.00073107394255, -- [16]
-						32.00073107394255, -- [17]
-						32.00073107394255, -- [18]
-						32.00073107394255, -- [19]
-						28.81649790197009, -- [20]
-						24.28434714843086, -- [21]
-						16.20598008331197, -- [22]
-						16.20598008331197, -- [23]
-						16.20598008331197, -- [24]
-						7.708007036586697, -- [25]
-						7.708007036586697, -- [26]
-						7.708007036586697, -- [27]
-						0.4127521633950262, -- [28]
-						0.4127521633950262, -- [29]
-						0.4127521633950262, -- [30]
-						0.4127521633950262, -- [31]
-						18.96349961034774, -- [32]
-						18.96349961034774, -- [33]
-						16.61060920290094, -- [34]
-						16.61060920290094, -- [35]
-					},
-					["Health"] = {
-						"???", -- [1]
-						"???", -- [2]
-						"???", -- [3]
-						"???", -- [4]
-						"???", -- [5]
-						"???", -- [6]
-						"187691 (47%)", -- [7]
-						"187691 (47%)", -- [8]
-						"187691 (47%)", -- [9]
-						"168578 (42%)", -- [10]
-						"168578 (42%)", -- [11]
-						"168578 (42%)", -- [12]
-						"168578 (42%)", -- [13]
-						"126064 (32%)", -- [14]
-						"126064 (32%)", -- [15]
-						"126064 (32%)", -- [16]
-						"126064 (32%)", -- [17]
-						"126064 (32%)", -- [18]
-						"126064 (32%)", -- [19]
-						"113520 (28%)", -- [20]
-						"95666 (24%)", -- [21]
-						"63842 (16%)", -- [22]
-						"63842 (16%)", -- [23]
-						"63842 (16%)", -- [24]
-						"30365 (7%)", -- [25]
-						"30365 (7%)", -- [26]
-						"30365 (7%)", -- [27]
-						"1626 (0%)", -- [28]
-						"1626 (0%)", -- [29]
-						"1626 (0%)", -- [30]
-						"1626 (0%)", -- [31]
-						"74705 (18%)", -- [32]
-						"74705 (18%)", -- [33]
-						"65436 (16%)", -- [34]
-						"65436 (16%)", -- [35]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"MISC", -- [32]
-						"DAMAGE", -- [33]
-						"DAMAGE", -- [34]
-						"DAMAGE", -- [35]
-					},
-				}, -- [7]
-				{
-					["MessageTimes"] = {
-						-14.11000000010245, -- [1]
-						-14.11000000010245, -- [2]
-						-13.06300000008196, -- [3]
-						-12.90700000000652, -- [4]
-						-12.07800000009593, -- [5]
-						-12.07800000009593, -- [6]
-						-11.70300000009593, -- [7]
-						-11.14100000006147, -- [8]
-						-10.5, -- [9]
-						-10.17200000002049, -- [10]
-						-10.01600000006147, -- [11]
-						-9.891000000061467, -- [12]
-						-9.282000000006519, -- [13]
-						-8.235000000102446, -- [14]
-						-8.078000000095926, -- [15]
-						-7.735000000102446, -- [16]
-						-7.266000000061467, -- [17]
-						-6.875, -- [18]
-						-6.735000000102446, -- [19]
-						-6.313000000081956, -- [20]
-						-6.031000000075437, -- [21]
-						-5.360000000102446, -- [22]
-						-4.438000000081956, -- [23]
-						-4, -- [24]
-						-3.875, -- [25]
-						-3.516000000061467, -- [26]
-						-3.219000000040978, -- [27]
-						-2.469000000040978, -- [28]
-						-2.469000000040978, -- [29]
-						-2.031000000075437, -- [30]
-						-1.516000000061467, -- [31]
-						-1.234000000054948, -- [32]
-						-1.234000000054948, -- [33]
-						-0.875, -- [34]
-						-0.625, -- [35]
-						-0.2810000000754371, -- [36]
-						0, -- [37]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						true, -- [10]
-						false, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						false, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						false, -- [21]
-						true, -- [22]
-						true, -- [23]
-						false, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-						false, -- [30]
-						true, -- [31]
-						true, -- [32]
-						true, -- [33]
-						true, -- [34]
-						true, -- [35]
-						true, -- [36]
-						true, -- [37]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3455 (Physical)", -- [1]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8422 (Physical)", -- [2]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10238 (Physical)", -- [3]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [4]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9430 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2790 (Physical)", -- [6]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -25092 (Physical)", -- [7]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8241 (Physical)", -- [8]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [9]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9047 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3932 (Physical)", -- [11]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6169 (Physical)", -- [13]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9323 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [15]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [16]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8898 (Physical)", -- [17]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [18]
-						"Brimtok Rip Swooping Plainshawk <Brimtok> Parry (Physical)", -- [19]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8569 (Physical)", -- [20]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3423 (Physical)", -- [21]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16857 (Physical)", -- [22]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16473 (Physical)", -- [23]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [24]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [25]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11395 (Physical)", -- [26]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -31311 (Physical)", -- [27]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -10434 (Physical)", -- [28]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [29]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4068 (Physical)", -- [30]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12151 (Physical)", -- [31]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -31311 (Physical)", -- [32]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27504 (Physical)", -- [33]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14426 (Physical)", -- [34]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11994 (Physical)", -- [35]
-						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -45907 (Physical)", -- [36]
-						"Swooping Plainshawk <Brimtok> dies.", -- [37]
-					},
-					["HealthNum"] = {
-						100, -- [1]
-						100, -- [2]
-						97.86211640829464, -- [3]
-						94.67788323632219, -- [4]
-						92.07901690862337, -- [5]
-						92.07901690862337, -- [6]
-						83.31577571260671, -- [7]
-						83.31577571260671, -- [8]
-						74.66422636892327, -- [9]
-						74.66422636892327, -- [10]
-						74.66422636892327, -- [11]
-						71.47999319695082, -- [12]
-						69.1834564059085, -- [13]
-						67.617485867173, -- [14]
-						67.617485867173, -- [15]
-						62.06665465133104, -- [16]
-						62.06665465133104, -- [17]
-						58.88242147935858, -- [18]
-						56.6237076110382, -- [19]
-						56.6237076110382, -- [20]
-						54.44850878684879, -- [21]
-						54.44850878684879, -- [22]
-						50.16944161689187, -- [23]
-						45.98785097260758, -- [24]
-						42.80361780063512, -- [25]
-						42.80361780063512, -- [26]
-						34.85547328153201, -- [27]
-						31.96290815122061, -- [28]
-						28.30093846540472, -- [29]
-						25.65231849439383, -- [30]
-						25.65231849439383, -- [31]
-						17.70417397529072, -- [32]
-						10.72241782398887, -- [33]
-						7.060448138172975, -- [34]
-						3.975976097943601, -- [35]
-						0.0002538451189391305, -- [36]
-						0, -- [37]
-					},
-					["DeathAt"] = 1367288597,
-					["EventNum"] = {
-						0, -- [1]
-						2.137883591705357, -- [2]
-						2.598866327698818, -- [3]
-						3.184233171972453, -- [4]
-						2.393759471596, -- [5]
-						0, -- [6]
-						6.369481724420662, -- [7]
-						2.091937625177375, -- [8]
-						6.559611718506071, -- [9]
-						2.296536791042314, -- [10]
-						0, -- [11]
-						3.184233171972453, -- [12]
-						1.565970538735496, -- [13]
-						2.366598043869514, -- [14]
-						0, -- [15]
-						3.184233171972453, -- [16]
-						2.258713868320383, -- [17]
-						3.184233171972453, -- [18]
-						0, -- [19]
-						2.175198824189409, -- [20]
-						0, -- [21]
-						4.279067169956923, -- [22]
-						4.181590644284296, -- [23]
-						0, -- [24]
-						3.184233171972453, -- [25]
-						2.892565130311392, -- [26]
-						7.948144519103114, -- [27]
-						2.648619971010887, -- [28]
-						3.661969685815896, -- [29]
-						0, -- [30]
-						3.084472040229374, -- [31]
-						7.948144519103114, -- [32]
-						6.981756151301845, -- [33]
-						3.661969685815896, -- [34]
-						3.044618356555931, -- [35]
-						11.65326787513866, -- [36]
-						0, -- [37]
-					},
-					["Health"] = {
-						"393941 (100%)", -- [1]
-						"393941 (100%)", -- [2]
-						"385519 (97%)", -- [3]
-						"372975 (94%)", -- [4]
-						"362737 (92%)", -- [5]
-						"362737 (92%)", -- [6]
-						"328215 (83%)", -- [7]
-						"328215 (83%)", -- [8]
-						"294133 (74%)", -- [9]
-						"294133 (74%)", -- [10]
-						"294133 (74%)", -- [11]
-						"281589 (71%)", -- [12]
-						"272542 (69%)", -- [13]
-						"266373 (67%)", -- [14]
-						"266373 (67%)", -- [15]
-						"244506 (62%)", -- [16]
-						"244506 (62%)", -- [17]
-						"231962 (58%)", -- [18]
-						"223064 (56%)", -- [19]
-						"223064 (56%)", -- [20]
-						"214495 (54%)", -- [21]
-						"214495 (54%)", -- [22]
-						"197638 (50%)", -- [23]
-						"181165 (45%)", -- [24]
-						"168621 (42%)", -- [25]
-						"168621 (42%)", -- [26]
-						"137310 (34%)", -- [27]
-						"125915 (31%)", -- [28]
-						"111489 (28%)", -- [29]
-						"101055 (25%)", -- [30]
-						"101055 (25%)", -- [31]
-						"69744 (17%)", -- [32]
-						"42240 (10%)", -- [33]
-						"27814 (7%)", -- [34]
-						"15663 (3%)", -- [35]
-						"1 (0%)", -- [36]
-						"0 (0%)", -- [37]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"DAMAGE", -- [30]
-						"DAMAGE", -- [31]
-						"DAMAGE", -- [32]
-						"DAMAGE", -- [33]
-						"DAMAGE", -- [34]
-						"DAMAGE", -- [35]
-						"DAMAGE", -- [36]
-						"MISC", -- [37]
-					},
-				}, -- [8]
-				{
-					["MessageTimes"] = {
-						-14.07900000002701, -- [1]
-						-12.20400000002701, -- [2]
-						-12.06299999996554, -- [3]
-						-10.07900000002701, -- [4]
-						-9.125, -- [5]
-						-8.047000000020489, -- [6]
-						-6.032000000006519, -- [7]
-						-4.015999999945052, -- [8]
-						-2.875, -- [9]
-						-2.875, -- [10]
-						-1.98499999998603, -- [11]
-						-1.98499999998603, -- [12]
-						-0.9529999999795109, -- [13]
-						-0.4220000000204891, -- [14]
-						0, -- [15]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						false, -- [3]
-						false, -- [4]
-						true, -- [5]
-						false, -- [6]
-						false, -- [7]
-						false, -- [8]
-						true, -- [9]
-						true, -- [10]
-						false, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						true, -- [15]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2835 (Physical)", -- [1]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -20129 (Physical)", -- [2]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3680 (Physical)", -- [3]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [4]
-						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -9771 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3404 (Physical)", -- [6]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2962 (Physical)", -- [7]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2759 (Physical)", -- [8]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10780 (Physical)", -- [9]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3073 (Physical)", -- [11]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8692 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8987 (Physical)", -- [13]
-						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -92247 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> dies.", -- [15]
-					},
-					["HealthNum"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						0, -- [7]
-						0, -- [8]
-						28.45223015629244, -- [9]
-						21.89261843778637, -- [10]
-						19.15616805562254, -- [11]
-						19.15616805562254, -- [12]
-						16.94974628180362, -- [13]
-						0.0002538451189391305, -- [14]
-						0, -- [15]
-					},
-					["DeathAt"] = 1367288572,
-					["EventNum"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						0, -- [6]
-						0, -- [7]
-						0, -- [8]
-						2.736450382163826, -- [9]
-						6.559611718506071, -- [10]
-						0, -- [11]
-						2.206421773818922, -- [12]
-						2.281306083905966, -- [13]
-						23.41645068677797, -- [14]
-						0, -- [15]
-					},
-					["Health"] = {
-						"???", -- [1]
-						"???", -- [2]
-						"???", -- [3]
-						"???", -- [4]
-						"???", -- [5]
-						"???", -- [6]
-						"???", -- [7]
-						"???", -- [8]
-						"112085 (28%)", -- [9]
-						"86244 (21%)", -- [10]
-						"75464 (19%)", -- [11]
-						"75464 (19%)", -- [12]
-						"66772 (16%)", -- [13]
-						"1 (0%)", -- [14]
-						"0 (0%)", -- [15]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"MISC", -- [15]
-					},
-				}, -- [9]
-				{
-					["MessageTimes"] = {
-						-13.89399999997113, -- [1]
-						-11.80999999999767, -- [2]
-						-11.18599999998696, -- [3]
-						-10.79599999997299, -- [4]
-						-10.32399999996414, -- [5]
-						-9.809000000008382, -- [6]
-						-9.729999999981374, -- [7]
-						-9.26500000001397, -- [8]
-						-8.334999999962747, -- [9]
-						-7.848999999987427, -- [10]
-						-7.848999999987427, -- [11]
-						-7.393999999971129, -- [12]
-						-6.456000000005588, -- [13]
-						-6.348999999987427, -- [14]
-						-5.793999999994412, -- [15]
-						-5.452999999979511, -- [16]
-						-5.310999999986962, -- [17]
-						-4.87400000001071, -- [18]
-						-4.453999999968801, -- [19]
-						-4.268999999971129, -- [20]
-						-3.782000000006519, -- [21]
-						-3.550999999977648, -- [22]
-						-2.931999999971595, -- [23]
-						-2.692999999970198, -- [24]
-						-1.820999999996275, -- [25]
-						-1.820999999996275, -- [26]
-						-1.664999999979045, -- [27]
-						-0.6379999999771826, -- [28]
-						0, -- [29]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						false, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						true, -- [10]
-						false, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						false, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						true, -- [19]
-						true, -- [20]
-						false, -- [21]
-						true, -- [22]
-						true, -- [23]
-						true, -- [24]
-						true, -- [25]
-						false, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [1]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3044 (Physical)", -- [2]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24646 (Physical)", -- [3]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -18056 (Physical)", -- [4]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11130 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3476 (Physical)", -- [6]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30031 (Physical)", -- [7]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9748 (Physical)", -- [8]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -9870 (Physical)", -- [9]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -18055 (Physical)", -- [10]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3910 (Physical)", -- [11]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8278 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10075 (Physical)", -- [13]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2784 (Physical)", -- [15]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9672 (Physical)", -- [16]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -31073 (Physical)", -- [17]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -29717 (Physical)", -- [18]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -11914 (Physical)", -- [19]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -60255 (Physical)", -- [20]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Miss", -- [21]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23891 (Physical)", -- [22]
-						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -29642 (Physical)", -- [23]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12512 (Physical)", -- [24]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14426 (Physical)", -- [25]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [26]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8593 (Physical)", -- [27]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11159 (Physical)", -- [28]
-						"Swooping Plainshawk <Brimtok> dies.", -- [29]
-					},
-					["EventNum"] = {
-						0, -- [1]
-						0, -- [2]
-						6.25626680137381, -- [3]
-						4.58342746756494, -- [4]
-						2.825296173792522, -- [5]
-						0, -- [6]
-						7.623222766861027, -- [7]
-						2.474482219418644, -- [8]
-						2.505451323929218, -- [9]
-						4.583173622446001, -- [10]
-						0, -- [11]
-						2.101329894578122, -- [12]
-						2.55748957331174, -- [13]
-						3.661969685815896, -- [14]
-						0, -- [15]
-						2.45518999037927, -- [16]
-						7.887729380795602, -- [17]
-						7.54351539951414, -- [18]
-						3.024310747040801, -- [19]
-						15.29543764167731, -- [20]
-						0, -- [21]
-						6.064613736574766, -- [22]
-						7.524477015593706, -- [23]
-						3.176110128166401, -- [24]
-						3.661969685815896, -- [25]
-						0, -- [26]
-						2.181291107043948, -- [27]
-						2.832657682241757, -- [28]
-						0, -- [29]
-					},
-					["DeathAt"] = 1366935433,
-					["HealthNum"] = {
-						0, -- [1]
-						100, -- [2]
-						100, -- [3]
-						95.41657253243506, -- [4]
-						89.16030573106126, -- [5]
-						89.16030573106126, -- [6]
-						78.7117867904077, -- [7]
-						78.7117867904077, -- [8]
-						76.23730457098905, -- [9]
-						71.65413094854306, -- [10]
-						71.65413094854306, -- [11]
-						69.14867962461383, -- [12]
-						67.04734973003572, -- [13]
-						63.38538004421982, -- [14]
-						60.82789047090808, -- [15]
-						60.82789047090808, -- [16]
-						52.94016109011248, -- [17]
-						42.94145570021907, -- [18]
-						42.94145570021907, -- [19]
-						27.64601805854176, -- [20]
-						24.62170731150096, -- [21]
-						24.62170731150096, -- [22]
-						11.03261655933249, -- [23]
-						11.03261655933249, -- [24]
-						4.194536745350192, -- [25]
-						4.194536745350192, -- [26]
-						4.194536745350192, -- [27]
-						2.013245638306244, -- [28]
-						0, -- [29]
-					},
-					["Health"] = {
-						"???", -- [1]
-						"393941 (100%)", -- [2]
-						"393941 (100%)", -- [3]
-						"375885 (95%)", -- [4]
-						"351239 (89%)", -- [5]
-						"351239 (89%)", -- [6]
-						"310078 (78%)", -- [7]
-						"310078 (78%)", -- [8]
-						"300330 (76%)", -- [9]
-						"282275 (71%)", -- [10]
-						"282275 (71%)", -- [11]
-						"272405 (69%)", -- [12]
-						"264127 (67%)", -- [13]
-						"249701 (63%)", -- [14]
-						"239626 (60%)", -- [15]
-						"239626 (60%)", -- [16]
-						"208553 (52%)", -- [17]
-						"169164 (42%)", -- [18]
-						"169164 (42%)", -- [19]
-						"108909 (27%)", -- [20]
-						"96995 (24%)", -- [21]
-						"96995 (24%)", -- [22]
-						"43462 (11%)", -- [23]
-						"43462 (11%)", -- [24]
-						"16524 (4%)", -- [25]
-						"16524 (4%)", -- [26]
-						"16524 (4%)", -- [27]
-						"7931 (2%)", -- [28]
-						"0 (0%)", -- [29]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"MISC", -- [29]
-					},
-				}, -- [10]
-				{
-					["MessageTimes"] = {
-						-11.90599999995902, -- [1]
-						-11.21899999998277, -- [2]
-						-10.82799999997951, -- [3]
-						-10.25, -- [4]
-						-10.01600000000326, -- [5]
-						-10.01600000000326, -- [6]
-						-9.280999999959022, -- [7]
-						-8.780999999959022, -- [8]
-						-8.405999999959022, -- [9]
-						-8, -- [10]
-						-7.593999999982771, -- [11]
-						-7.35899999999674, -- [12]
-						-6.5, -- [13]
-						-6.5, -- [14]
-						-5.968999999982771, -- [15]
-						-5.452999999979511, -- [16]
-						-4.593999999982771, -- [17]
-						-4.48399999999674, -- [18]
-						-3.937999999965541, -- [19]
-						-3.593999999982771, -- [20]
-						-3.14100000000326, -- [21]
-						-2.577999999979511, -- [22]
-						-1.936999999976251, -- [23]
-						-1.577999999979511, -- [24]
-						-1.577999999979511, -- [25]
-						-1.125, -- [26]
-						-0.75, -- [27]
-						-0.6410000000032596, -- [28]
-						0, -- [29]
-						0, -- [30]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						true, -- [7]
-						true, -- [8]
-						true, -- [9]
-						false, -- [10]
-						true, -- [11]
-						true, -- [12]
-						true, -- [13]
-						true, -- [14]
-						false, -- [15]
-						true, -- [16]
-						true, -- [17]
-						true, -- [18]
-						false, -- [19]
-						true, -- [20]
-						true, -- [21]
-						true, -- [22]
-						false, -- [23]
-						true, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-						true, -- [29]
-						true, -- [30]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8149 (Physical)", -- [1]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7495 (Physical)", -- [2]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -19528 (Physical)", -- [3]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6900 (Physical)", -- [4]
-						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -74222 (Physical)", -- [5]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3888 (Physical)", -- [6]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7628 (Physical)", -- [7]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -36154 (Physical)", -- [8]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8492 (Physical)", -- [9]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3425 (Physical)", -- [10]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -30060 (Physical)", -- [11]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9230 (Physical)", -- [12]
-						"Brimtok Rip Swooping Plainshawk <Brimtok> Parry (Physical)", -- [13]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9494 (Physical)", -- [14]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3740 (Physical)", -- [15]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8831 (Physical)", -- [16]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -30061 (Physical)", -- [17]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6434 (Physical)", -- [18]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4027 (Physical)", -- [19]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17276 (Physical)", -- [20]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -14424 (Physical)", -- [21]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10910 (Physical)", -- [22]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3003 (Physical)", -- [23]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12667 (Physical)", -- [24]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14592 (Physical)", -- [25]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -14424 (Physical)", -- [26]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -21815 (Physical)", -- [27]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23003 (Physical)", -- [28]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -32024 (Physical)", -- [29]
-						"Swooping Plainshawk <Brimtok> dies.", -- [30]
-					},
-					["HealthNum"] = {
-						100, -- [1]
-						100, -- [2]
-						95.04291251735666, -- [3]
-						93.14034335090788, -- [4]
-						74.29945093300773, -- [5]
-						74.29945093300773, -- [6]
-						72.54791961232773, -- [7]
-						61.43407261493472, -- [8]
-						61.43407261493472, -- [9]
-						61.43407261493472, -- [10]
-						53.80348833962446, -- [11]
-						51.64783558959336, -- [12]
-						49.30484514178519, -- [13]
-						49.30484514178519, -- [14]
-						46.89483958257709, -- [15]
-						46.89483958257709, -- [16]
-						37.02229521679642, -- [17]
-						37.02229521679642, -- [18]
-						35.38905572154206, -- [19]
-						35.38905572154206, -- [20]
-						31.72759372596404, -- [21]
-						27.34216545117162, -- [22]
-						24.57271520354571, -- [23]
-						24.57271520354571, -- [24]
-						20.86860722798592, -- [25]
-						17.2071452324079, -- [26]
-						8.454057841148801, -- [27]
-						8.454057841148801, -- [28]
-						0.324921752242087, -- [29]
-						0, -- [30]
-					},
-					["DeathAt"] = 1366844344,
-					["EventNum"] = {
-						0, -- [1]
-						1.902569166448783, -- [2]
-						4.95708748264334, -- [3]
-						1.75153132068, -- [4]
-						18.84089241790014, -- [5]
-						0, -- [6]
-						1.936330567267687, -- [7]
-						9.177516430125323, -- [8]
-						2.155652750031096, -- [9]
-						0, -- [10]
-						7.630584275310262, -- [11]
-						2.342990447808174, -- [12]
-						0, -- [13]
-						2.410005559208105, -- [14]
-						0, -- [15]
-						2.241706245351461, -- [16]
-						7.630838120429202, -- [17]
-						1.633239495254365, -- [18]
-						0, -- [19]
-						4.385428274792418, -- [20]
-						3.661461995578018, -- [21]
-						2.769450247625914, -- [22]
-						0, -- [23]
-						3.215456121601966, -- [24]
-						3.704107975559792, -- [25]
-						3.661461995578018, -- [26]
-						5.537631269657132, -- [27]
-						5.839199270956819, -- [28]
-						8.129136088906714, -- [29]
-						0, -- [30]
-					},
-					["Health"] = {
-						"393941 (100%)", -- [1]
-						"393941 (100%)", -- [2]
-						"374413 (95%)", -- [3]
-						"366918 (93%)", -- [4]
-						"292696 (74%)", -- [5]
-						"292696 (74%)", -- [6]
-						"285796 (72%)", -- [7]
-						"242014 (61%)", -- [8]
-						"242014 (61%)", -- [9]
-						"242014 (61%)", -- [10]
-						"211954 (53%)", -- [11]
-						"203462 (51%)", -- [12]
-						"194232 (49%)", -- [13]
-						"194232 (49%)", -- [14]
-						"184738 (46%)", -- [15]
-						"184738 (46%)", -- [16]
-						"145846 (37%)", -- [17]
-						"145846 (37%)", -- [18]
-						"139412 (35%)", -- [19]
-						"139412 (35%)", -- [20]
-						"124988 (31%)", -- [21]
-						"107712 (27%)", -- [22]
-						"96802 (24%)", -- [23]
-						"96802 (24%)", -- [24]
-						"82210 (20%)", -- [25]
-						"67786 (17%)", -- [26]
-						"33304 (8%)", -- [27]
-						"33304 (8%)", -- [28]
-						"1280 (0%)", -- [29]
-						"0 (0%)", -- [30]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"DAMAGE", -- [28]
-						"DAMAGE", -- [29]
-						"MISC", -- [30]
-					},
-				}, -- [11]
-				{
-					["MessageTimes"] = {
-						-12.10999999998603, -- [1]
-						-10.46899999998277, -- [2]
-						-10.46899999998277, -- [3]
-						-9.468999999982771, -- [4]
-						-9.25099999998929, -- [5]
-						-8.48499999998603, -- [6]
-						-8.187999999965541, -- [7]
-						-7.547999999951571, -- [8]
-						-6.85999999998603, -- [9]
-						-6.562999999965541, -- [10]
-						-6.265999999945052, -- [11]
-						-5.98499999998603, -- [12]
-						-5.640999999945052, -- [13]
-						-4.843999999982771, -- [14]
-						-4.640999999945052, -- [15]
-						-3.765999999945052, -- [16]
-						-3.23499999998603, -- [17]
-						-2.85999999998603, -- [18]
-						-2.73499999998603, -- [19]
-						-2.437999999965541, -- [20]
-						-2.437999999965541, -- [21]
-						-1.781999999948312, -- [22]
-						-1.60999999998603, -- [23]
-						-0.8289999999688007, -- [24]
-						-0.8289999999688007, -- [25]
-						-0.390999999945052, -- [26]
-						-0.2509999999892898, -- [27]
-						0, -- [28]
-					},
-					["MessageIncoming"] = {
-						false, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						true, -- [6]
-						true, -- [7]
-						true, -- [8]
-						false, -- [9]
-						true, -- [10]
-						true, -- [11]
-						true, -- [12]
-						true, -- [13]
-						false, -- [14]
-						true, -- [15]
-						true, -- [16]
-						true, -- [17]
-						false, -- [18]
-						true, -- [19]
-						true, -- [20]
-						true, -- [21]
-						true, -- [22]
-						true, -- [23]
-						false, -- [24]
-						true, -- [25]
-						true, -- [26]
-						true, -- [27]
-						true, -- [28]
-					},
-					["Messages"] = {
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3262 (Physical)", -- [1]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27354 (Physical)", -- [2]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10270 (Physical)", -- [3]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22472 (Physical)", -- [4]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [5]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20117 (Physical)", -- [6]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27925 (Physical)", -- [7]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9047 (Physical)", -- [8]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3413 (Physical)", -- [9]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8750 (Physical)", -- [10]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [11]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [12]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10360 (Physical)", -- [13]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3575 (Physical)", -- [14]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9552 (Physical)", -- [15]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9747 (Physical)", -- [16]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25842 (Physical)", -- [17]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4088 (Physical)", -- [18]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10450 (Physical)", -- [19]
-						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30331 (Physical)", -- [20]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13401 (Physical)", -- [21]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12750 (Physical)", -- [22]
-						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [23]
-						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2878 (Physical)", -- [24]
-						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24994 (Physical)", -- [25]
-						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13401 (Physical)", -- [26]
-						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -29718 (Physical)", -- [27]
-						"Swooping Plainshawk <Brimtok> dies.", -- [28]
-					},
-					["HealthNum"] = {
-						100, -- [1]
-						93.05632061653903, -- [2]
-						93.05632061653903, -- [3]
-						90.44933124503416, -- [4]
-						83.88971952652808, -- [5]
-						78.18531201372794, -- [6]
-						71.09668706735273, -- [7]
-						65.99008480965424, -- [8]
-						65.99008480965424, -- [9]
-						63.69354801861192, -- [10]
-						60.50931484663947, -- [11]
-						51.72855833741601, -- [12]
-						51.72855833741601, -- [13]
-						51.72855833741601, -- [14]
-						49.09872290520661, -- [15]
-						46.67399432910004, -- [16]
-						40.11412876547503, -- [17]
-						37.63990039117533, -- [18]
-						37.63990039117533, -- [19]
-						29.94052408863256, -- [20]
-						23.88606415681536, -- [21]
-						23.88606415681536, -- [22]
-						16.98756920452555, -- [23]
-						16.98756920452555, -- [24]
-						16.98756920452555, -- [25]
-						7.241185862857636, -- [26]
-						0.0002538451189391305, -- [27]
-						0, -- [28]
-					},
-					["DeathAt"] = 1366843609,
-					["EventNum"] = {
-						0, -- [1]
-						6.943679383460975, -- [2]
-						2.60698937150487, -- [3]
-						5.70440751280014, -- [4]
-						6.559611718506071, -- [5]
-						5.106602257698488, -- [6]
-						7.088624946375218, -- [7]
-						2.296536791042314, -- [8]
-						0, -- [9]
-						2.221144790717392, -- [10]
-						3.184233171972453, -- [11]
-						6.559611718506071, -- [12]
-						2.629835432209392, -- [13]
-						0, -- [14]
-						2.424728576106574, -- [15]
-						2.474228374299705, -- [16]
-						6.55986556362501, -- [17]
-						0, -- [18]
-						2.652681492913914, -- [19]
-						7.699376302542767, -- [20]
-						3.401778438903288, -- [21]
-						3.236525266473914, -- [22]
-						3.661969685815896, -- [23]
-						0, -- [24]
-						6.344604902764627, -- [25]
-						3.401778438903288, -- [26]
-						7.543769244633079, -- [27]
-						0, -- [28]
-					},
-					["Health"] = {
-						"393941 (100%)", -- [1]
-						"366587 (93%)", -- [2]
-						"366587 (93%)", -- [3]
-						"356317 (90%)", -- [4]
-						"330476 (83%)", -- [5]
-						"308004 (78%)", -- [6]
-						"280079 (71%)", -- [7]
-						"259962 (65%)", -- [8]
-						"259962 (65%)", -- [9]
-						"250915 (63%)", -- [10]
-						"238371 (60%)", -- [11]
-						"203780 (51%)", -- [12]
-						"203780 (51%)", -- [13]
-						"203780 (51%)", -- [14]
-						"193420 (49%)", -- [15]
-						"183868 (46%)", -- [16]
-						"158026 (40%)", -- [17]
-						"148279 (37%)", -- [18]
-						"148279 (37%)", -- [19]
-						"117948 (29%)", -- [20]
-						"94097 (23%)", -- [21]
-						"94097 (23%)", -- [22]
-						"66921 (16%)", -- [23]
-						"66921 (16%)", -- [24]
-						"66921 (16%)", -- [25]
-						"28526 (7%)", -- [26]
-						"1 (0%)", -- [27]
-						"0 (0%)", -- [28]
-					},
-					["MessageType"] = {
-						"DAMAGE", -- [1]
-						"DAMAGE", -- [2]
-						"DAMAGE", -- [3]
-						"DAMAGE", -- [4]
-						"DAMAGE", -- [5]
-						"DAMAGE", -- [6]
-						"DAMAGE", -- [7]
-						"DAMAGE", -- [8]
-						"DAMAGE", -- [9]
-						"DAMAGE", -- [10]
-						"DAMAGE", -- [11]
-						"DAMAGE", -- [12]
-						"DAMAGE", -- [13]
-						"DAMAGE", -- [14]
-						"DAMAGE", -- [15]
-						"DAMAGE", -- [16]
-						"DAMAGE", -- [17]
-						"DAMAGE", -- [18]
-						"DAMAGE", -- [19]
-						"DAMAGE", -- [20]
-						"DAMAGE", -- [21]
-						"DAMAGE", -- [22]
-						"DAMAGE", -- [23]
-						"DAMAGE", -- [24]
-						"DAMAGE", -- [25]
-						"DAMAGE", -- [26]
-						"DAMAGE", -- [27]
-						"MISC", -- [28]
-					},
-				}, -- [12]
-			},
-			["LastEventTimes"] = {
-				310575.42, -- [1]
-				310575.605, -- [2]
-				310575.605, -- [3]
-				310576.465, -- [4]
-				310576.852, -- [5]
-				310577.088, -- [6]
-				310577.478, -- [7]
-				310577.478, -- [8]
-				310578.422, -- [9]
-				310578.422, -- [10]
-				310578.692, -- [11]
-				310579.106, -- [12]
-				310579.466, -- [13]
-				310579.466, -- [14]
-				310580.032, -- [15]
-				310580.421, -- [16]
-				310581.113, -- [17]
-				310581.391, -- [18]
-				310581.7, -- [19]
-				310582.342, -- [20]
-				310582.483, -- [21]
-				310582.842, -- [22]
-				310583.122, -- [23]
-				310583.308, -- [24]
-				310583.725, -- [25]
-				310584.272, -- [26]
-				310584.689, -- [27]
-				310584.842, -- [28]
-				310585.12, -- [29]
-				310585.12, -- [30]
-				310585.639, -- [31]
-				310586.122, -- [32]
-				310586.849, -- [33]
-				310587.114, -- [34]
-				310587.114, -- [35]
-				310587.705, -- [36]
-				310588.106, -- [37]
-				310588.564, -- [38]
-				310571.487, -- [39]
-				310572.33, -- [40]
-				310572.44, -- [41]
-				310572.832, -- [42]
-				310573.086, -- [43]
-				310573.195, -- [44]
-				310573.481, -- [45]
-				310573.481, -- [46]
-				310573.574, -- [47]
-				310574.041, -- [48]
-				310574.405, -- [49]
-				310575.09, -- [50]
-			},
-			["LastAbility"] = 310587.114,
+			["UnitLockout"] = 1366758913,
+			["LastActive"] = 1369455605,
 		},
 		["Unknown <Brimtok>"] = {
 			["GUID"] = "0xF530EB0E00174D14",
 			["LastEventHealth"] = {
 				"???", -- [1]
+				"???", -- [2]
 			},
 			["LastEventType"] = {
 				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
 			},
 			["TimeWindows"] = {
 				["ActiveTime"] = {
-					3.5, -- [1]
+					7, -- [1]
+				},
+				["FDamage"] = {
+					2226, -- [1]
 				},
 				["TimeDamage"] = {
-					3.5, -- [1]
+					7, -- [1]
 				},
 			},
 			["enClass"] = "PET",
 			["level"] = 1,
-			["LastFightIn"] = 7,
+			["LastFightIn"] = 8,
 			["type"] = "Pet",
 			["FightsSaved"] = 1,
-			["LastActive"] = 1366842977,
+			["LastActive"] = 1369455558,
 			["Owner"] = "Brimtok",
-			["UnitLockout"] = 1366842977,
-			["NextEventNum"] = 2,
+			["UnitLockout"] = 1369455558,
+			["NextEventNum"] = 3,
 			["LastEventHealthNum"] = {
 				0, -- [1]
+				0, -- [2]
 			},
 			["LastEvents"] = {
 				"Unknown <Brimtok> Melee Brimtok Dodge", -- [1]
+				"Unknown <Brimtok> Melee Brimtok Hit -2226 (Physical)", -- [2]
 			},
 			["Name"] = "Unknown",
 			["Fights"] = {
 				["OverallData"] = {
+					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2226,
+									["min"] = 2226,
+									["count"] = 1,
+									["amount"] = 2226,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2226,
+						},
+					},
 					["Attacks"] = {
 						["Melee"] = {
 							["Details"] = {
@@ -12136,28 +16926,29 @@ RecountPerCharDB = {
 							["amount"] = 1,
 						},
 					},
-					["ActiveTime"] = 3.5,
+					["TimeDamage"] = 7,
 					["TimeDamaging"] = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 3.5,
+									["count"] = 7,
 								},
 							},
-							["amount"] = 3.5,
+							["amount"] = 7,
 						},
 					},
-					["TimeSpent"] = {
+					["ActiveTime"] = 7,
+					["FDamage"] = 2226,
+					["FDamagedWho"] = {
 						["Brimtok"] = {
 							["Details"] = {
 								["Melee"] = {
-									["count"] = 3.5,
+									["count"] = 2226,
 								},
 							},
-							["amount"] = 3.5,
+							["amount"] = 2226,
 						},
 					},
-					["TimeDamage"] = 3.5,
 				},
 				["LastFightData"] = {
 					["Attacks"] = {
@@ -12218,13 +17009,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -12234,15 +17026,35 @@ RecountPerCharDB = {
 					["PartialBlock"] = {
 					},
 					["FDamagedWho"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2226,
+								},
+							},
+							["amount"] = 2226,
+						},
 					},
 					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2226,
+									["min"] = 2226,
+									["count"] = 1,
+									["amount"] = 2226,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2226,
+						},
 					},
 					["RageGain"] = 0,
 					["ElementDone"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -12250,29 +17062,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 2226,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 3.5,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -12281,30 +17092,46 @@ RecountPerCharDB = {
 					["WhoDispelled"] = {
 					},
 					["TimeSpent"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
-					["TimeDamage"] = 0,
+					["TimeDamage"] = 3.5,
 					["TimeDamaging"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -12356,17 +17183,20 @@ RecountPerCharDB = {
 				},
 			},
 			["TimeLast"] = {
-				["OVERALL"] = 1366842977,
-				["ActiveTime"] = 1366842977,
-				["TimeDamage"] = 1366842977,
+				["ActiveTime"] = 1369455558,
+				["OVERALL"] = 1369455558,
+				["FDamage"] = 1369455558,
+				["TimeDamage"] = 1369455558,
 			},
 			["LastEventIncoming"] = {
 				false, -- [1]
+				false, -- [2]
 			},
 			["LastEventTimes"] = {
 				347303.552, -- [1]
+				276509.305, -- [2]
 			},
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 		},
 		["Shadowy Apparition <Ollatha>"] = {
 			["GUID"] = "0xF530F20E00035A6D",
@@ -12398,7 +17228,7 @@ RecountPerCharDB = {
 			["LastFightIn"] = 6,
 			["type"] = "Pet",
 			["FightsSaved"] = 3,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 			["LastEventTimes"] = {
 				263469.539, -- [1]
 				263469.872, -- [2]
@@ -12447,14 +17277,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -12463,10 +17292,10 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
-						["Kunzen Ravager"] = {
+					["ElementHitsDone"] = {
+						["Shadow"] = {
 							["Details"] = {
-								["Shadowy Apparition"] = {
+								["Hit"] = {
 									["count"] = 0,
 								},
 							},
@@ -12479,10 +17308,10 @@ RecountPerCharDB = {
 					["ElementDone"] = {
 						["Shadow"] = 0,
 					},
-					["ElementHitsDone"] = {
-						["Shadow"] = {
+					["DamagedWho"] = {
+						["Kunzen Ravager"] = {
 							["Details"] = {
-								["Hit"] = {
+								["Shadowy Apparition"] = {
 									["count"] = 0,
 								},
 							},
@@ -12491,21 +17320,22 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -12513,13 +17343,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 						["Kunzen Ravager"] = {
@@ -12539,14 +17370,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -12578,7 +17407,8 @@ RecountPerCharDB = {
 						},
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -12595,13 +17425,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -12619,7 +17450,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -12627,29 +17458,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -12661,27 +17491,27 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -12698,14 +17528,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -12714,32 +17543,33 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["FAttacks"] = {
 					},
 					["HealingTaken"] = 0,
 					["ElementDone"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -12747,13 +17577,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 					},
@@ -12765,14 +17596,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -12784,7 +17613,8 @@ RecountPerCharDB = {
 					["TimeDamaging"] = {
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -12990,7 +17820,7 @@ RecountPerCharDB = {
 			["LastFightIn"] = 0,
 			["type"] = "Pet",
 			["FightsSaved"] = 5,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 			["Owner"] = "Brimtok",
 			["LastEventTimes"] = {
 				263245.205, -- [1]
@@ -13042,14 +17872,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13058,32 +17887,33 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["FAttacks"] = {
 					},
 					["HealingTaken"] = 0,
 					["ElementDone"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -13091,13 +17921,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 					},
@@ -13109,14 +17940,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -13128,7 +17957,8 @@ RecountPerCharDB = {
 					["TimeDamaging"] = {
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -13145,13 +17975,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13169,7 +18000,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -13177,29 +18008,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -13211,27 +18041,27 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -13384,13 +18214,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13408,7 +18239,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -13416,29 +18247,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -13450,27 +18280,27 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -13487,14 +18317,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13503,32 +18332,33 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["FAttacks"] = {
 					},
 					["HealingTaken"] = 0,
 					["ElementDone"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -13536,13 +18366,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 					},
@@ -13554,14 +18385,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -13573,7 +18402,8 @@ RecountPerCharDB = {
 					["TimeDamaging"] = {
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -13586,7 +18416,7 @@ RecountPerCharDB = {
 			},
 			["level"] = 1,
 			["UnitLockout"] = 1366759236,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 		},
 		["Ollatha"] = {
 			["GUID"] = "0x0500000004013C46",
@@ -13621,13 +18451,14 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["HOTs"] = {
-					},
+					["DOT_Time"] = 0,
 					["ManaGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["DOT_Time"] = 0,
-					["Damage"] = 0,
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13645,7 +18476,7 @@ RecountPerCharDB = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["RageGained"] = {
 					},
@@ -13653,29 +18484,28 @@ RecountPerCharDB = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["Dispelled"] = 0,
-					["RunicPowerGainedFrom"] = {
+					["OverHeals"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["WhoHealed"] = {
 					},
-					["EnergyGain"] = 0,
-					["CCBreak"] = 0,
-					["PartialAbsorb"] = {
-					},
-					["ActiveTime"] = 0,
 					["PartialResist"] = {
 					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
 					["ManaGained"] = {
 					},
 					["ElementTakenAbsorb"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["Overhealing"] = 0,
 					["ElementTakenResist"] = {
 					},
@@ -13687,27 +18517,27 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["FDamage"] = 0,
+					["PartialAbsorb"] = {
+					},
 					["EnergyGained"] = {
 					},
 					["HealedWho"] = {
 					},
 					["Healing"] = 0,
-					["CCBroken"] = {
+					["RunicPowerGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["Attacks"] = {
 					},
 					["HealingTaken"] = 0,
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["TimeDamage"] = 0,
 					["TimeDamaging"] = {
 					},
 					["RunicPowerGain"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["DispelledWho"] = {
 					},
 				},
@@ -13724,14 +18554,13 @@ RecountPerCharDB = {
 					},
 					["DeathCount"] = 0,
 					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
+					["Damage"] = 0,
 					["RunicPowerGain"] = 0,
 					["ElementTaken"] = {
 					},
-					["HOTs"] = {
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
 					},
-					["Damage"] = 0,
 					["ElementDoneAbsorb"] = {
 					},
 					["TimeHeal"] = 0,
@@ -13740,32 +18569,33 @@ RecountPerCharDB = {
 					["Dispels"] = 0,
 					["PartialBlock"] = {
 					},
-					["DamagedWho"] = {
+					["ElementHitsDone"] = {
 					},
 					["FAttacks"] = {
 					},
 					["HealingTaken"] = 0,
 					["ElementDone"] = {
 					},
-					["ElementHitsDone"] = {
+					["DamagedWho"] = {
 					},
 					["ManaGainedFrom"] = {
 					},
-					["RunicPowerGained"] = {
+					["CCBroken"] = {
 					},
 					["WhoDamaged"] = {
 					},
 					["EnergyGainedFrom"] = {
 					},
-					["CCBroken"] = {
-					},
 					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
 					},
 					["ElementDoneBlock"] = {
 					},
 					["TimeHealing"] = {
 					},
-					["Dispelled"] = 0,
+					["OverHeals"] = {
+					},
 					["WhoHealed"] = {
 					},
 					["HealedWho"] = {
@@ -13773,13 +18603,14 @@ RecountPerCharDB = {
 					["CCBreak"] = 0,
 					["ElementTakenAbsorb"] = {
 					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-					},
 					["PartialAbsorb"] = {
 					},
-					["ActiveTime"] = 0,
+					["PartialResist"] = {
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
 					["Overhealing"] = 0,
 					["TimeSpent"] = {
 					},
@@ -13791,14 +18622,12 @@ RecountPerCharDB = {
 					},
 					["Heals"] = {
 					},
-					["Interrupts"] = 0,
+					["ActiveTime"] = 0,
 					["EnergyGained"] = {
 					},
-					["PartialResist"] = {
-					},
+					["EnergyGain"] = 0,
 					["Healing"] = 0,
-					["OverHeals"] = {
-					},
+					["Dispelled"] = 0,
 					["RageGained"] = {
 					},
 					["Attacks"] = {
@@ -13810,7 +18639,8 @@ RecountPerCharDB = {
 					["TimeDamaging"] = {
 					},
 					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
+					["HOTs"] = {
+					},
 					["DispelledWho"] = {
 					},
 				},
@@ -13820,7 +18650,7 @@ RecountPerCharDB = {
 			},
 			["level"] = 1,
 			["UnitLockout"] = 1366759142,
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 		},
 		["Galleon"] = {
 			["GUID"] = "0xF150F38A004ABB52",
@@ -13949,7 +18779,7 @@ RecountPerCharDB = {
 			["LastDamageAbility"] = "Frostbolt",
 			["LastFightIn"] = 8,
 			["type"] = "Boss",
-			["LastAbility"] = 310137.051,
+			["LastAbility"] = 276575.196,
 			["Owner"] = false,
 			["LastEventTimes"] = {
 				116449.223, -- [1]
@@ -15536,16 +20366,16 @@ RecountPerCharDB = {
 							["count"] = 7,
 							["amount"] = 0,
 						},
-						["Shield of the Righteous"] = {
+						["Immolate (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Agony (DoT)"] = {
@@ -15584,28 +20414,28 @@ RecountPerCharDB = {
 							["count"] = 24,
 							["amount"] = 0,
 						},
-						["Harvest Life (DoT)"] = {
+						["Moonfire"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Immolate (DoT)"] = {
+						["Hand of Light"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 21,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Raging Blow Off-Hand"] = {
@@ -15620,7 +20450,7 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Hand of Light"] = {
+						["Heart Strike"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -15740,16 +20570,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Tiger Palm"] = {
+						["Claw"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 3,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 3,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Improved Serpent Sting"] = {
@@ -15776,16 +20606,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Explosive Shot (DoT)"] = {
+						["Shadow Word: Pain (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 22,
+									["count"] = 39,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 22,
+							["count"] = 39,
 							["amount"] = 0,
 						},
 						["Smite"] = {
@@ -15800,16 +20630,16 @@ RecountPerCharDB = {
 							["count"] = 27,
 							["amount"] = 0,
 						},
-						["Shadow Word: Pain (DoT)"] = {
+						["Explosive Trap"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 39,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 39,
+							["count"] = 1,
 							["amount"] = 0,
 						},
 						["Bite"] = {
@@ -15824,16 +20654,16 @@ RecountPerCharDB = {
 							["count"] = 38,
 							["amount"] = 0,
 						},
-						["Sinister Strike"] = {
+						["Arcane Blast"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 19,
+									["count"] = 4,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
+							["count"] = 4,
 							["amount"] = 0,
 						},
 						["Tiger Strikes"] = {
@@ -15848,16 +20678,16 @@ RecountPerCharDB = {
 							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Arcane Blast"] = {
+						["Explosive Shot (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 4,
+									["count"] = 22,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 4,
+							["count"] = 22,
 							["amount"] = 0,
 						},
 						["Lava Burst"] = {
@@ -15872,16 +20702,16 @@ RecountPerCharDB = {
 							["count"] = 11,
 							["amount"] = 0,
 						},
-						["Divine Storm"] = {
+						["Cobra Shot"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Blackout Kick"] = {
@@ -15932,16 +20762,16 @@ RecountPerCharDB = {
 							["count"] = 21,
 							["amount"] = 0,
 						},
-						["Cobra Shot"] = {
+						["Divine Storm"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 2,
 							["amount"] = 0,
 						},
 						["Mind Blast"] = {
@@ -15968,16 +20798,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Claw"] = {
+						["Sinister Strike"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 19,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 19,
 							["amount"] = 0,
 						},
 						["Holy Fire (DoT)"] = {
@@ -16004,16 +20834,16 @@ RecountPerCharDB = {
 							["count"] = 15,
 							["amount"] = 0,
 						},
-						["Explosive Trap"] = {
+						["Tiger Palm"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 3,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 3,
 							["amount"] = 0,
 						},
 						["Fulmination"] = {
@@ -16088,16 +20918,16 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Moonfire"] = {
+						["Harvest Life (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Arcane Missiles"] = {
@@ -16136,6 +20966,18 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
+						["Shield of the Righteous"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
 						["Glaive Toss"] = {
 							["Details"] = {
 								["No Resist"] = {
@@ -16146,18 +20988,6 @@ RecountPerCharDB = {
 								},
 							},
 							["count"] = 10,
-							["amount"] = 0,
-						},
-						["Heart Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 21,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Blood Plague (DoT)"] = {
@@ -17434,16 +22264,16 @@ RecountPerCharDB = {
 							["count"] = 7,
 							["amount"] = 0,
 						},
-						["Shield of the Righteous"] = {
+						["Immolate (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Agony (DoT)"] = {
@@ -17482,28 +22312,28 @@ RecountPerCharDB = {
 							["count"] = 24,
 							["amount"] = 0,
 						},
-						["Harvest Life (DoT)"] = {
+						["Moonfire"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Immolate (DoT)"] = {
+						["Hand of Light"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 21,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Raging Blow Off-Hand"] = {
@@ -17518,7 +22348,7 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Hand of Light"] = {
+						["Heart Strike"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
@@ -17638,16 +22468,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Tiger Palm"] = {
+						["Claw"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 3,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 3,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Improved Serpent Sting"] = {
@@ -17674,16 +22504,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Explosive Shot (DoT)"] = {
+						["Shadow Word: Pain (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 22,
+									["count"] = 39,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 22,
+							["count"] = 39,
 							["amount"] = 0,
 						},
 						["Smite"] = {
@@ -17698,16 +22528,16 @@ RecountPerCharDB = {
 							["count"] = 27,
 							["amount"] = 0,
 						},
-						["Shadow Word: Pain (DoT)"] = {
+						["Explosive Trap"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 39,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 39,
+							["count"] = 1,
 							["amount"] = 0,
 						},
 						["Bite"] = {
@@ -17722,16 +22552,16 @@ RecountPerCharDB = {
 							["count"] = 38,
 							["amount"] = 0,
 						},
-						["Sinister Strike"] = {
+						["Arcane Blast"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 19,
+									["count"] = 4,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
+							["count"] = 4,
 							["amount"] = 0,
 						},
 						["Tiger Strikes"] = {
@@ -17746,16 +22576,16 @@ RecountPerCharDB = {
 							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Arcane Blast"] = {
+						["Explosive Shot (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 4,
+									["count"] = 22,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 4,
+							["count"] = 22,
 							["amount"] = 0,
 						},
 						["Lava Burst"] = {
@@ -17770,16 +22600,16 @@ RecountPerCharDB = {
 							["count"] = 11,
 							["amount"] = 0,
 						},
-						["Divine Storm"] = {
+						["Cobra Shot"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Blackout Kick"] = {
@@ -17830,16 +22660,16 @@ RecountPerCharDB = {
 							["count"] = 21,
 							["amount"] = 0,
 						},
-						["Cobra Shot"] = {
+						["Divine Storm"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 2,
 							["amount"] = 0,
 						},
 						["Mind Blast"] = {
@@ -17866,16 +22696,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Claw"] = {
+						["Sinister Strike"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 19,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 19,
 							["amount"] = 0,
 						},
 						["Holy Fire (DoT)"] = {
@@ -17902,16 +22732,16 @@ RecountPerCharDB = {
 							["count"] = 15,
 							["amount"] = 0,
 						},
-						["Explosive Trap"] = {
+						["Tiger Palm"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 3,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 3,
 							["amount"] = 0,
 						},
 						["Fulmination"] = {
@@ -17986,16 +22816,16 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Moonfire"] = {
+						["Harvest Life (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Arcane Missiles"] = {
@@ -18034,6 +22864,18 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
+						["Shield of the Righteous"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
 						["Glaive Toss"] = {
 							["Details"] = {
 								["No Absorb"] = {
@@ -18044,18 +22886,6 @@ RecountPerCharDB = {
 								},
 							},
 							["count"] = 10,
-							["amount"] = 0,
-						},
-						["Heart Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 21,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Blood Plague (DoT)"] = {
@@ -18146,37 +22976,8 @@ RecountPerCharDB = {
 					["ElementTakenBlock"] = {
 						["Physical"] = 57302,
 					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["Parry"] = {
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 333650,
-									["min"] = 56951,
-									["count"] = 14,
-									["amount"] = 2930851,
-								},
-							},
-							["count"] = 19,
-							["amount"] = 2930851,
-						},
-					},
-					["DamagedWho"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 2930851,
-								},
-							},
-							["amount"] = 2930851,
-						},
+					["ElementDone"] = {
+						["Melee"] = 2930851,
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
@@ -18194,27 +22995,17 @@ RecountPerCharDB = {
 							["amount"] = 19,
 						},
 					},
+					["DamagedWho"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2930851,
+								},
+							},
+							["amount"] = 2930851,
+						},
+					},
 					["TimeDamage"] = 41.41,
-					["TimeDamaging"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41.41,
-								},
-							},
-							["amount"] = 41.41,
-						},
-					},
-					["TimeSpent"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41.41,
-								},
-							},
-							["amount"] = 41.41,
-						},
-					},
 					["WhoDamaged"] = {
 						["Keeph"] = {
 							["Details"] = {
@@ -18368,25 +23159,40 @@ RecountPerCharDB = {
 							},
 							["amount"] = 410791,
 						},
-						["Galthand"] = {
+						["Rashtask"] = {
 							["Details"] = {
-								["Cobra Shot"] = {
-									["count"] = 317639,
+								["Flametongue Attack"] = {
+									["count"] = 3932,
 								},
-								["Serpent Sting (DoT)"] = {
-									["count"] = 212620,
+								["Lava Burst"] = {
+									["count"] = 93525,
 								},
-								["Auto Shot"] = {
-									["count"] = 359625,
+								["Lightning Bolt"] = {
+									["count"] = 94596,
 								},
-								["Glaive Toss"] = {
-									["count"] = 146861,
+								["Flame Shock"] = {
+									["count"] = 33084,
 								},
-								["Arcane Shot"] = {
-									["count"] = 68874,
+								["Flame Shock (DoT)"] = {
+									["count"] = 151206,
+								},
+								["Earthquake"] = {
+									["count"] = 23680,
+								},
+								["Fulmination"] = {
+									["count"] = 24860,
+								},
+								["Elemental Blast"] = {
+									["count"] = 64968,
+								},
+								["Chain Lightning"] = {
+									["count"] = 138844,
+								},
+								["Earth Shock"] = {
+									["count"] = 20038,
 								},
 							},
-							["amount"] = 1105619,
+							["amount"] = 648733,
 						},
 						["Xuen"] = {
 							["Details"] = {
@@ -18433,25 +23239,16 @@ RecountPerCharDB = {
 							},
 							["amount"] = 999819,
 						},
-						["Safetypin"] = {
+						["Sinjo"] = {
 							["Details"] = {
-								["Holy Fire"] = {
-									["count"] = 191360,
+								["Bite"] = {
+									["count"] = 262145,
 								},
-								["Penance"] = {
-									["count"] = 597782,
-								},
-								["Holy Fire (DoT)"] = {
-									["count"] = 37554,
-								},
-								["Smite"] = {
-									["count"] = 499305,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 29281,
+								["Kill Command"] = {
+									["count"] = 383983,
 								},
 							},
-							["amount"] = 1355282,
+							["amount"] = 646128,
 						},
 						["Shadowy Apparition"] = {
 							["Details"] = {
@@ -18481,40 +23278,25 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1921640,
 						},
-						["Rashtask"] = {
+						["Galthand"] = {
 							["Details"] = {
-								["Flametongue Attack"] = {
-									["count"] = 3932,
+								["Cobra Shot"] = {
+									["count"] = 317639,
 								},
-								["Lava Burst"] = {
-									["count"] = 93525,
+								["Serpent Sting (DoT)"] = {
+									["count"] = 212620,
 								},
-								["Lightning Bolt"] = {
-									["count"] = 94596,
+								["Auto Shot"] = {
+									["count"] = 359625,
 								},
-								["Flame Shock"] = {
-									["count"] = 33084,
+								["Glaive Toss"] = {
+									["count"] = 146861,
 								},
-								["Flame Shock (DoT)"] = {
-									["count"] = 151206,
-								},
-								["Earthquake"] = {
-									["count"] = 23680,
-								},
-								["Fulmination"] = {
-									["count"] = 24860,
-								},
-								["Elemental Blast"] = {
-									["count"] = 64968,
-								},
-								["Chain Lightning"] = {
-									["count"] = 138844,
-								},
-								["Earth Shock"] = {
-									["count"] = 20038,
+								["Arcane Shot"] = {
+									["count"] = 68874,
 								},
 							},
-							["amount"] = 648733,
+							["amount"] = 1105619,
 						},
 						["Anonswift"] = {
 							["Details"] = {
@@ -18567,19 +23349,31 @@ RecountPerCharDB = {
 							},
 							["amount"] = 24888,
 						},
-						["Sawonk"] = {
+						["Deadlytank"] = {
 							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 119341,
+								["Heart Strike"] = {
+									["count"] = 438103,
 								},
-								["Flame Shock (DoT)"] = {
-									["count"] = 20671,
+								["Blood Plague (DoT)"] = {
+									["count"] = 372686,
 								},
-								["Lightning Bolt"] = {
-									["count"] = 132438,
+								["Death and Decay"] = {
+									["count"] = 99765,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 349900,
+								},
+								["Rune Strike"] = {
+									["count"] = 724527,
+								},
+								["Death Strike"] = {
+									["count"] = 322215,
+								},
+								["Blood Boil"] = {
+									["count"] = 32382,
 								},
 							},
-							["amount"] = 272450,
+							["amount"] = 2339578,
 						},
 						["Risen Ally"] = {
 							["Details"] = {
@@ -18606,28 +23400,19 @@ RecountPerCharDB = {
 							},
 							["amount"] = 136225,
 						},
-						["Feraldknight"] = {
+						["Sawonk"] = {
 							["Details"] = {
-								["Blood Plague (DoT)"] = {
-									["count"] = 31993,
+								["Lava Burst"] = {
+									["count"] = 119341,
 								},
-								["Heart Strike"] = {
-									["count"] = 105357,
+								["Flame Shock (DoT)"] = {
+									["count"] = 20671,
 								},
-								["Death Strike"] = {
-									["count"] = 35076,
-								},
-								["Rune Strike"] = {
-									["count"] = 129015,
-								},
-								["Frost Fever (DoT)"] = {
-									["count"] = 31585,
-								},
-								["Blood Boil"] = {
-									["count"] = 9143,
+								["Lightning Bolt"] = {
+									["count"] = 132438,
 								},
 							},
-							["amount"] = 342169,
+							["amount"] = 272450,
 						},
 						["Rulu"] = {
 							["Details"] = {
@@ -18658,32 +23443,6 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1592584,
 						},
-						["Deadlytank"] = {
-							["Details"] = {
-								["Heart Strike"] = {
-									["count"] = 438103,
-								},
-								["Blood Plague (DoT)"] = {
-									["count"] = 372686,
-								},
-								["Death and Decay"] = {
-									["count"] = 99765,
-								},
-								["Frost Fever (DoT)"] = {
-									["count"] = 349900,
-								},
-								["Rune Strike"] = {
-									["count"] = 724527,
-								},
-								["Death Strike"] = {
-									["count"] = 322215,
-								},
-								["Blood Boil"] = {
-									["count"] = 32382,
-								},
-							},
-							["amount"] = 2339578,
-						},
 						["Arcanepath"] = {
 							["Details"] = {
 								["Frost Bomb"] = {
@@ -18704,6 +23463,35 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1698137,
 						},
+						["Shinyuu"] = {
+							["Details"] = {
+								["Ancient Fury"] = {
+									["count"] = 38374,
+								},
+								["Exorcism"] = {
+									["count"] = 137563,
+								},
+								["Hand of Light"] = {
+									["count"] = 121029,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 255533,
+								},
+								["Judgment"] = {
+									["count"] = 131377,
+								},
+								["Crusader Strike"] = {
+									["count"] = 114896,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 181035,
+								},
+								["Seal of Truth"] = {
+									["count"] = 121134,
+								},
+							},
+							["amount"] = 1100941,
+						},
 						["No One"] = {
 							["Details"] = {
 								["Bite"] = {
@@ -18718,31 +23506,28 @@ RecountPerCharDB = {
 							},
 							["amount"] = 210221,
 						},
-						["Furong"] = {
+						["Feraldknight"] = {
 							["Details"] = {
-								["Expel Harm"] = {
-									["count"] = 14812,
+								["Blood Plague (DoT)"] = {
+									["count"] = 31993,
 								},
-								["Blackout Kick"] = {
-									["count"] = 24165,
+								["Heart Strike"] = {
+									["count"] = 105357,
 								},
-								["Fists of Fury"] = {
-									["count"] = 29497,
+								["Death Strike"] = {
+									["count"] = 35076,
 								},
-								["Blackout Kick (DoT)"] = {
-									["count"] = 5317,
+								["Rune Strike"] = {
+									["count"] = 129015,
 								},
-								["Rising Sun Kick"] = {
-									["count"] = 82432,
+								["Frost Fever (DoT)"] = {
+									["count"] = 31585,
 								},
-								["Jab"] = {
-									["count"] = 11556,
-								},
-								["Tiger Strikes"] = {
-									["count"] = 12085,
+								["Blood Boil"] = {
+									["count"] = 9143,
 								},
 							},
-							["amount"] = 179864,
+							["amount"] = 342169,
 						},
 						["pusspuss"] = {
 							["Details"] = {
@@ -18788,43 +23573,34 @@ RecountPerCharDB = {
 							},
 							["amount"] = 7333,
 						},
-						["Snuffed"] = {
+						["Maudriin"] = {
 							["Details"] = {
-								["Vampiric Touch (DoT)"] = {
-									["count"] = 186706,
+								["Drain Life (DoT)"] = {
+									["count"] = 37296,
+								},
+								["Archimonde's Vengeance"] = {
+									["count"] = 8376,
+								},
+								["Chaos Bolt"] = {
+									["count"] = 141213,
 								},
 								["Touch of the Grave"] = {
-									["count"] = 36264,
+									["count"] = 27111,
 								},
-								["Shadow Word: Pain"] = {
-									["count"] = 66027,
+								["Incinerate"] = {
+									["count"] = 262265,
 								},
-								["Mind Flay"] = {
-									["count"] = 115852,
+								["Immolate (DoT)"] = {
+									["count"] = 127047,
 								},
-								["Mind Flay (DoT)"] = {
-									["count"] = 375464,
+								["Immolate"] = {
+									["count"] = 31467,
 								},
-								["Mind Blast"] = {
-									["count"] = 186584,
-								},
-								["Devouring Plague"] = {
-									["count"] = 98096,
-								},
-								["Shadow Word: Pain (DoT)"] = {
-									["count"] = 214021,
-								},
-								["Vampiric Touch"] = {
-									["count"] = 32072,
-								},
-								["Halo"] = {
-									["count"] = 65598,
-								},
-								["Devouring Plague (DoT)"] = {
-									["count"] = 85835,
+								["Conflagrate"] = {
+									["count"] = 161268,
 								},
 							},
-							["amount"] = 1462519,
+							["amount"] = 796043,
 						},
 						["Mariny"] = {
 							["Details"] = {
@@ -18952,8 +23728,8 @@ RecountPerCharDB = {
 								["Halo"] = {
 									["count"] = 101109,
 								},
-								["Devouring Plague (DoT)"] = {
-									["count"] = 156416,
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 256069,
 								},
 								["Vampiric Touch"] = {
 									["count"] = 61799,
@@ -18961,40 +23737,49 @@ RecountPerCharDB = {
 								["Touch of the Grave"] = {
 									["count"] = 36734,
 								},
-								["Shadow Word: Pain (DoT)"] = {
-									["count"] = 256069,
+								["Devouring Plague (DoT)"] = {
+									["count"] = 156416,
 								},
 							},
 							["amount"] = 2167187,
 						},
-						["Maudriin"] = {
+						["Snuffed"] = {
 							["Details"] = {
-								["Drain Life (DoT)"] = {
-									["count"] = 37296,
-								},
-								["Archimonde's Vengeance"] = {
-									["count"] = 8376,
-								},
-								["Chaos Bolt"] = {
-									["count"] = 141213,
+								["Vampiric Touch (DoT)"] = {
+									["count"] = 186706,
 								},
 								["Touch of the Grave"] = {
-									["count"] = 27111,
+									["count"] = 36264,
 								},
-								["Incinerate"] = {
-									["count"] = 262265,
+								["Shadow Word: Pain"] = {
+									["count"] = 66027,
 								},
-								["Immolate (DoT)"] = {
-									["count"] = 127047,
+								["Mind Flay"] = {
+									["count"] = 115852,
 								},
-								["Immolate"] = {
-									["count"] = 31467,
+								["Mind Flay (DoT)"] = {
+									["count"] = 375464,
 								},
-								["Conflagrate"] = {
-									["count"] = 161268,
+								["Mind Blast"] = {
+									["count"] = 186584,
+								},
+								["Devouring Plague"] = {
+									["count"] = 98096,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 214021,
+								},
+								["Vampiric Touch"] = {
+									["count"] = 32072,
+								},
+								["Halo"] = {
+									["count"] = 65598,
+								},
+								["Devouring Plague (DoT)"] = {
+									["count"] = 85835,
 								},
 							},
-							["amount"] = 796043,
+							["amount"] = 1462519,
 						},
 						["Puffín"] = {
 							["Details"] = {
@@ -19036,11 +23821,11 @@ RecountPerCharDB = {
 								["Improved Serpent Sting"] = {
 									["count"] = 59395,
 								},
-								["Glaive Toss"] = {
-									["count"] = 64772,
-								},
 								["Multi-Shot"] = {
 									["count"] = 25879,
+								},
+								["Glaive Toss"] = {
+									["count"] = 64772,
 								},
 								["A Murder of Crows"] = {
 									["count"] = 120219,
@@ -19128,14 +23913,14 @@ RecountPerCharDB = {
 								["Hammer of the Righteous"] = {
 									["count"] = 26990,
 								},
+								["Crusader Strike"] = {
+									["count"] = 48727,
+								},
 								["Hand of Light"] = {
 									["count"] = 54531,
 								},
 								["Templar's Verdict"] = {
 									["count"] = 35954,
-								},
-								["Crusader Strike"] = {
-									["count"] = 48727,
 								},
 								["Censure (DoT)"] = {
 									["count"] = 102806,
@@ -19261,34 +24046,31 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1394670,
 						},
-						["Shinyuu"] = {
+						["Furong"] = {
 							["Details"] = {
-								["Templar's Verdict"] = {
-									["count"] = 255533,
+								["Expel Harm"] = {
+									["count"] = 14812,
 								},
-								["Exorcism"] = {
-									["count"] = 137563,
+								["Blackout Kick"] = {
+									["count"] = 24165,
 								},
-								["Crusader Strike"] = {
-									["count"] = 114896,
+								["Fists of Fury"] = {
+									["count"] = 29497,
 								},
-								["Ancient Fury"] = {
-									["count"] = 38374,
+								["Blackout Kick (DoT)"] = {
+									["count"] = 5317,
 								},
-								["Judgment"] = {
-									["count"] = 131377,
+								["Rising Sun Kick"] = {
+									["count"] = 82432,
 								},
-								["Hand of Light"] = {
-									["count"] = 121029,
+								["Jab"] = {
+									["count"] = 11556,
 								},
-								["Censure (DoT)"] = {
-									["count"] = 181035,
-								},
-								["Seal of Truth"] = {
-									["count"] = 121134,
+								["Tiger Strikes"] = {
+									["count"] = 12085,
 								},
 							},
-							["amount"] = 1100941,
+							["amount"] = 179864,
 						},
 						["Orsonspells"] = {
 							["Details"] = {
@@ -19401,16 +24183,25 @@ RecountPerCharDB = {
 							},
 							["amount"] = 70616,
 						},
-						["Sinjo"] = {
+						["Safetypin"] = {
 							["Details"] = {
-								["Bite"] = {
-									["count"] = 262145,
+								["Holy Fire"] = {
+									["count"] = 191360,
 								},
-								["Kill Command"] = {
-									["count"] = 383983,
+								["Penance"] = {
+									["count"] = 597782,
+								},
+								["Holy Fire (DoT)"] = {
+									["count"] = 37554,
+								},
+								["Smite"] = {
+									["count"] = 499305,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 29281,
 								},
 							},
-							["amount"] = 646128,
+							["amount"] = 1355282,
 						},
 						["Kazuzel"] = {
 							["Details"] = {
@@ -19439,8 +24230,47 @@ RecountPerCharDB = {
 							["amount"] = 2063527,
 						},
 					},
-					["ElementDone"] = {
-						["Melee"] = 2930851,
+					["TimeSpent"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41.41,
+								},
+							},
+							["amount"] = 41.41,
+						},
+					},
+					["TimeDamaging"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41.41,
+								},
+							},
+							["amount"] = 41.41,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 333650,
+									["min"] = 56951,
+									["count"] = 14,
+									["amount"] = 2930851,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 2930851,
+						},
 					},
 				},
 				["OverallData"] = {
@@ -20810,16 +25640,16 @@ RecountPerCharDB = {
 							["count"] = 7,
 							["amount"] = 0,
 						},
-						["Shield of the Righteous"] = {
+						["Immolate (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Agony (DoT)"] = {
@@ -20858,28 +25688,28 @@ RecountPerCharDB = {
 							["count"] = 24,
 							["amount"] = 0,
 						},
-						["Harvest Life (DoT)"] = {
+						["Moonfire"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Immolate (DoT)"] = {
+						["Hand of Light"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 21,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Raging Blow Off-Hand"] = {
@@ -20894,7 +25724,7 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Hand of Light"] = {
+						["Heart Strike"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
@@ -21014,16 +25844,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Tiger Palm"] = {
+						["Claw"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 3,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 3,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Improved Serpent Sting"] = {
@@ -21050,16 +25880,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Explosive Shot (DoT)"] = {
+						["Shadow Word: Pain (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 22,
+									["count"] = 39,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 22,
+							["count"] = 39,
 							["amount"] = 0,
 						},
 						["Smite"] = {
@@ -21074,16 +25904,16 @@ RecountPerCharDB = {
 							["count"] = 27,
 							["amount"] = 0,
 						},
-						["Shadow Word: Pain (DoT)"] = {
+						["Explosive Trap"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 39,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 39,
+							["count"] = 1,
 							["amount"] = 0,
 						},
 						["Bite"] = {
@@ -21098,16 +25928,16 @@ RecountPerCharDB = {
 							["count"] = 38,
 							["amount"] = 0,
 						},
-						["Sinister Strike"] = {
+						["Arcane Blast"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 19,
+									["count"] = 4,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
+							["count"] = 4,
 							["amount"] = 0,
 						},
 						["Tiger Strikes"] = {
@@ -21122,16 +25952,16 @@ RecountPerCharDB = {
 							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Arcane Blast"] = {
+						["Explosive Shot (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 4,
+									["count"] = 22,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 4,
+							["count"] = 22,
 							["amount"] = 0,
 						},
 						["Lava Burst"] = {
@@ -21146,16 +25976,16 @@ RecountPerCharDB = {
 							["count"] = 11,
 							["amount"] = 0,
 						},
-						["Divine Storm"] = {
+						["Cobra Shot"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Blackout Kick"] = {
@@ -21206,16 +26036,16 @@ RecountPerCharDB = {
 							["count"] = 21,
 							["amount"] = 0,
 						},
-						["Cobra Shot"] = {
+						["Divine Storm"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 2,
 							["amount"] = 0,
 						},
 						["Mind Blast"] = {
@@ -21242,16 +26072,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Claw"] = {
+						["Sinister Strike"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 19,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 19,
 							["amount"] = 0,
 						},
 						["Holy Fire (DoT)"] = {
@@ -21278,16 +26108,16 @@ RecountPerCharDB = {
 							["count"] = 15,
 							["amount"] = 0,
 						},
-						["Explosive Trap"] = {
+						["Tiger Palm"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 3,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 3,
 							["amount"] = 0,
 						},
 						["Fulmination"] = {
@@ -21362,16 +26192,16 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Moonfire"] = {
+						["Harvest Life (DoT)"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Arcane Missiles"] = {
@@ -21410,6 +26240,18 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
+						["Shield of the Righteous"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
 						["Glaive Toss"] = {
 							["Details"] = {
 								["No Resist"] = {
@@ -21420,18 +26262,6 @@ RecountPerCharDB = {
 								},
 							},
 							["count"] = 10,
-							["amount"] = 0,
-						},
-						["Heart Strike"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 21,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Blood Plague (DoT)"] = {
@@ -22708,16 +27538,16 @@ RecountPerCharDB = {
 							["count"] = 7,
 							["amount"] = 0,
 						},
-						["Shield of the Righteous"] = {
+						["Immolate (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Agony (DoT)"] = {
@@ -22756,28 +27586,28 @@ RecountPerCharDB = {
 							["count"] = 24,
 							["amount"] = 0,
 						},
-						["Harvest Life (DoT)"] = {
+						["Moonfire"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Immolate (DoT)"] = {
+						["Hand of Light"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 12,
+									["count"] = 21,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 12,
+							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Raging Blow Off-Hand"] = {
@@ -22792,7 +27622,7 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Hand of Light"] = {
+						["Heart Strike"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
@@ -22912,16 +27742,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Tiger Palm"] = {
+						["Claw"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 3,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 3,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Improved Serpent Sting"] = {
@@ -22948,16 +27778,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Explosive Shot (DoT)"] = {
+						["Shadow Word: Pain (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 22,
+									["count"] = 39,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 22,
+							["count"] = 39,
 							["amount"] = 0,
 						},
 						["Smite"] = {
@@ -22972,16 +27802,16 @@ RecountPerCharDB = {
 							["count"] = 27,
 							["amount"] = 0,
 						},
-						["Shadow Word: Pain (DoT)"] = {
+						["Explosive Trap"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 39,
+									["count"] = 1,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 39,
+							["count"] = 1,
 							["amount"] = 0,
 						},
 						["Bite"] = {
@@ -22996,16 +27826,16 @@ RecountPerCharDB = {
 							["count"] = 38,
 							["amount"] = 0,
 						},
-						["Sinister Strike"] = {
+						["Arcane Blast"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 19,
+									["count"] = 4,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 19,
+							["count"] = 4,
 							["amount"] = 0,
 						},
 						["Tiger Strikes"] = {
@@ -23020,16 +27850,16 @@ RecountPerCharDB = {
 							["count"] = 1,
 							["amount"] = 0,
 						},
-						["Arcane Blast"] = {
+						["Explosive Shot (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 4,
+									["count"] = 22,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 4,
+							["count"] = 22,
 							["amount"] = 0,
 						},
 						["Lava Burst"] = {
@@ -23044,16 +27874,16 @@ RecountPerCharDB = {
 							["count"] = 11,
 							["amount"] = 0,
 						},
-						["Divine Storm"] = {
+						["Cobra Shot"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 2,
+									["count"] = 51,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 2,
+							["count"] = 51,
 							["amount"] = 0,
 						},
 						["Blackout Kick"] = {
@@ -23104,16 +27934,16 @@ RecountPerCharDB = {
 							["count"] = 21,
 							["amount"] = 0,
 						},
-						["Cobra Shot"] = {
+						["Divine Storm"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 2,
 							["amount"] = 0,
 						},
 						["Mind Blast"] = {
@@ -23140,16 +27970,16 @@ RecountPerCharDB = {
 							["count"] = 3,
 							["amount"] = 0,
 						},
-						["Claw"] = {
+						["Sinister Strike"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 51,
+									["count"] = 19,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
+							["count"] = 19,
 							["amount"] = 0,
 						},
 						["Holy Fire (DoT)"] = {
@@ -23176,16 +28006,16 @@ RecountPerCharDB = {
 							["count"] = 15,
 							["amount"] = 0,
 						},
-						["Explosive Trap"] = {
+						["Tiger Palm"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 3,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 3,
 							["amount"] = 0,
 						},
 						["Fulmination"] = {
@@ -23260,16 +28090,16 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Moonfire"] = {
+						["Harvest Life (DoT)"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 1,
+									["count"] = 12,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 1,
+							["count"] = 12,
 							["amount"] = 0,
 						},
 						["Arcane Missiles"] = {
@@ -23308,6 +28138,18 @@ RecountPerCharDB = {
 							["count"] = 2,
 							["amount"] = 0,
 						},
+						["Shield of the Righteous"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
 						["Glaive Toss"] = {
 							["Details"] = {
 								["No Absorb"] = {
@@ -23318,18 +28160,6 @@ RecountPerCharDB = {
 								},
 							},
 							["count"] = 10,
-							["amount"] = 0,
-						},
-						["Heart Strike"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 21,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 21,
 							["amount"] = 0,
 						},
 						["Blood Plague (DoT)"] = {
@@ -23420,37 +28250,8 @@ RecountPerCharDB = {
 					["ElementTakenBlock"] = {
 						["Physical"] = 57302,
 					},
-					["Attacks"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Absorb"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["Parry"] = {
-									["count"] = 3,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 333650,
-									["min"] = 56951,
-									["count"] = 14,
-									["amount"] = 2930851,
-								},
-							},
-							["count"] = 19,
-							["amount"] = 2930851,
-						},
-					},
-					["DamagedWho"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 2930851,
-								},
-							},
-							["amount"] = 2930851,
-						},
+					["ElementDone"] = {
+						["Melee"] = 2930851,
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
@@ -23468,27 +28269,17 @@ RecountPerCharDB = {
 							["amount"] = 19,
 						},
 					},
+					["DamagedWho"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2930851,
+								},
+							},
+							["amount"] = 2930851,
+						},
+					},
 					["TimeDamage"] = 41.41,
-					["TimeDamaging"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41.41,
-								},
-							},
-							["amount"] = 41.41,
-						},
-					},
-					["TimeSpent"] = {
-						["Deadlytank"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41.41,
-								},
-							},
-							["amount"] = 41.41,
-						},
-					},
 					["WhoDamaged"] = {
 						["Keeph"] = {
 							["Details"] = {
@@ -23642,25 +28433,40 @@ RecountPerCharDB = {
 							},
 							["amount"] = 410791,
 						},
-						["Galthand"] = {
+						["Rashtask"] = {
 							["Details"] = {
-								["Cobra Shot"] = {
-									["count"] = 317639,
+								["Flametongue Attack"] = {
+									["count"] = 3932,
 								},
-								["Serpent Sting (DoT)"] = {
-									["count"] = 212620,
+								["Lava Burst"] = {
+									["count"] = 93525,
 								},
-								["Auto Shot"] = {
-									["count"] = 359625,
+								["Lightning Bolt"] = {
+									["count"] = 94596,
 								},
-								["Glaive Toss"] = {
-									["count"] = 146861,
+								["Flame Shock"] = {
+									["count"] = 33084,
 								},
-								["Arcane Shot"] = {
-									["count"] = 68874,
+								["Flame Shock (DoT)"] = {
+									["count"] = 151206,
+								},
+								["Earthquake"] = {
+									["count"] = 23680,
+								},
+								["Fulmination"] = {
+									["count"] = 24860,
+								},
+								["Elemental Blast"] = {
+									["count"] = 64968,
+								},
+								["Chain Lightning"] = {
+									["count"] = 138844,
+								},
+								["Earth Shock"] = {
+									["count"] = 20038,
 								},
 							},
-							["amount"] = 1105619,
+							["amount"] = 648733,
 						},
 						["Xuen"] = {
 							["Details"] = {
@@ -23707,25 +28513,16 @@ RecountPerCharDB = {
 							},
 							["amount"] = 999819,
 						},
-						["Safetypin"] = {
+						["Sinjo"] = {
 							["Details"] = {
-								["Holy Fire"] = {
-									["count"] = 191360,
+								["Bite"] = {
+									["count"] = 262145,
 								},
-								["Penance"] = {
-									["count"] = 597782,
-								},
-								["Holy Fire (DoT)"] = {
-									["count"] = 37554,
-								},
-								["Smite"] = {
-									["count"] = 499305,
-								},
-								["Touch of the Grave"] = {
-									["count"] = 29281,
+								["Kill Command"] = {
+									["count"] = 383983,
 								},
 							},
-							["amount"] = 1355282,
+							["amount"] = 646128,
 						},
 						["Shadowy Apparition"] = {
 							["Details"] = {
@@ -23755,40 +28552,25 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1921640,
 						},
-						["Rashtask"] = {
+						["Galthand"] = {
 							["Details"] = {
-								["Flametongue Attack"] = {
-									["count"] = 3932,
+								["Cobra Shot"] = {
+									["count"] = 317639,
 								},
-								["Lava Burst"] = {
-									["count"] = 93525,
+								["Serpent Sting (DoT)"] = {
+									["count"] = 212620,
 								},
-								["Lightning Bolt"] = {
-									["count"] = 94596,
+								["Auto Shot"] = {
+									["count"] = 359625,
 								},
-								["Flame Shock"] = {
-									["count"] = 33084,
+								["Glaive Toss"] = {
+									["count"] = 146861,
 								},
-								["Flame Shock (DoT)"] = {
-									["count"] = 151206,
-								},
-								["Earthquake"] = {
-									["count"] = 23680,
-								},
-								["Fulmination"] = {
-									["count"] = 24860,
-								},
-								["Elemental Blast"] = {
-									["count"] = 64968,
-								},
-								["Chain Lightning"] = {
-									["count"] = 138844,
-								},
-								["Earth Shock"] = {
-									["count"] = 20038,
+								["Arcane Shot"] = {
+									["count"] = 68874,
 								},
 							},
-							["amount"] = 648733,
+							["amount"] = 1105619,
 						},
 						["Anonswift"] = {
 							["Details"] = {
@@ -23841,19 +28623,31 @@ RecountPerCharDB = {
 							},
 							["amount"] = 24888,
 						},
-						["Sawonk"] = {
+						["Deadlytank"] = {
 							["Details"] = {
-								["Lava Burst"] = {
-									["count"] = 119341,
+								["Heart Strike"] = {
+									["count"] = 438103,
 								},
-								["Flame Shock (DoT)"] = {
-									["count"] = 20671,
+								["Blood Plague (DoT)"] = {
+									["count"] = 372686,
 								},
-								["Lightning Bolt"] = {
-									["count"] = 132438,
+								["Death and Decay"] = {
+									["count"] = 99765,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 349900,
+								},
+								["Rune Strike"] = {
+									["count"] = 724527,
+								},
+								["Death Strike"] = {
+									["count"] = 322215,
+								},
+								["Blood Boil"] = {
+									["count"] = 32382,
 								},
 							},
-							["amount"] = 272450,
+							["amount"] = 2339578,
 						},
 						["Risen Ally"] = {
 							["Details"] = {
@@ -23880,28 +28674,19 @@ RecountPerCharDB = {
 							},
 							["amount"] = 136225,
 						},
-						["Feraldknight"] = {
+						["Sawonk"] = {
 							["Details"] = {
-								["Blood Plague (DoT)"] = {
-									["count"] = 31993,
+								["Lava Burst"] = {
+									["count"] = 119341,
 								},
-								["Heart Strike"] = {
-									["count"] = 105357,
+								["Flame Shock (DoT)"] = {
+									["count"] = 20671,
 								},
-								["Death Strike"] = {
-									["count"] = 35076,
-								},
-								["Rune Strike"] = {
-									["count"] = 129015,
-								},
-								["Frost Fever (DoT)"] = {
-									["count"] = 31585,
-								},
-								["Blood Boil"] = {
-									["count"] = 9143,
+								["Lightning Bolt"] = {
+									["count"] = 132438,
 								},
 							},
-							["amount"] = 342169,
+							["amount"] = 272450,
 						},
 						["Rulu"] = {
 							["Details"] = {
@@ -23932,32 +28717,6 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1592584,
 						},
-						["Deadlytank"] = {
-							["Details"] = {
-								["Heart Strike"] = {
-									["count"] = 438103,
-								},
-								["Blood Plague (DoT)"] = {
-									["count"] = 372686,
-								},
-								["Death and Decay"] = {
-									["count"] = 99765,
-								},
-								["Frost Fever (DoT)"] = {
-									["count"] = 349900,
-								},
-								["Rune Strike"] = {
-									["count"] = 724527,
-								},
-								["Death Strike"] = {
-									["count"] = 322215,
-								},
-								["Blood Boil"] = {
-									["count"] = 32382,
-								},
-							},
-							["amount"] = 2339578,
-						},
 						["Arcanepath"] = {
 							["Details"] = {
 								["Frost Bomb"] = {
@@ -23978,6 +28737,35 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1698137,
 						},
+						["Shinyuu"] = {
+							["Details"] = {
+								["Ancient Fury"] = {
+									["count"] = 38374,
+								},
+								["Exorcism"] = {
+									["count"] = 137563,
+								},
+								["Hand of Light"] = {
+									["count"] = 121029,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 255533,
+								},
+								["Judgment"] = {
+									["count"] = 131377,
+								},
+								["Crusader Strike"] = {
+									["count"] = 114896,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 181035,
+								},
+								["Seal of Truth"] = {
+									["count"] = 121134,
+								},
+							},
+							["amount"] = 1100941,
+						},
 						["No One"] = {
 							["Details"] = {
 								["Bite"] = {
@@ -23992,31 +28780,28 @@ RecountPerCharDB = {
 							},
 							["amount"] = 210221,
 						},
-						["Furong"] = {
+						["Feraldknight"] = {
 							["Details"] = {
-								["Expel Harm"] = {
-									["count"] = 14812,
+								["Blood Plague (DoT)"] = {
+									["count"] = 31993,
 								},
-								["Blackout Kick"] = {
-									["count"] = 24165,
+								["Heart Strike"] = {
+									["count"] = 105357,
 								},
-								["Fists of Fury"] = {
-									["count"] = 29497,
+								["Death Strike"] = {
+									["count"] = 35076,
 								},
-								["Blackout Kick (DoT)"] = {
-									["count"] = 5317,
+								["Rune Strike"] = {
+									["count"] = 129015,
 								},
-								["Rising Sun Kick"] = {
-									["count"] = 82432,
+								["Frost Fever (DoT)"] = {
+									["count"] = 31585,
 								},
-								["Jab"] = {
-									["count"] = 11556,
-								},
-								["Tiger Strikes"] = {
-									["count"] = 12085,
+								["Blood Boil"] = {
+									["count"] = 9143,
 								},
 							},
-							["amount"] = 179864,
+							["amount"] = 342169,
 						},
 						["pusspuss"] = {
 							["Details"] = {
@@ -24062,43 +28847,34 @@ RecountPerCharDB = {
 							},
 							["amount"] = 7333,
 						},
-						["Snuffed"] = {
+						["Maudriin"] = {
 							["Details"] = {
-								["Vampiric Touch (DoT)"] = {
-									["count"] = 186706,
+								["Drain Life (DoT)"] = {
+									["count"] = 37296,
+								},
+								["Archimonde's Vengeance"] = {
+									["count"] = 8376,
+								},
+								["Chaos Bolt"] = {
+									["count"] = 141213,
 								},
 								["Touch of the Grave"] = {
-									["count"] = 36264,
+									["count"] = 27111,
 								},
-								["Shadow Word: Pain"] = {
-									["count"] = 66027,
+								["Incinerate"] = {
+									["count"] = 262265,
 								},
-								["Mind Flay"] = {
-									["count"] = 115852,
+								["Immolate (DoT)"] = {
+									["count"] = 127047,
 								},
-								["Mind Flay (DoT)"] = {
-									["count"] = 375464,
+								["Immolate"] = {
+									["count"] = 31467,
 								},
-								["Mind Blast"] = {
-									["count"] = 186584,
-								},
-								["Devouring Plague"] = {
-									["count"] = 98096,
-								},
-								["Shadow Word: Pain (DoT)"] = {
-									["count"] = 214021,
-								},
-								["Vampiric Touch"] = {
-									["count"] = 32072,
-								},
-								["Halo"] = {
-									["count"] = 65598,
-								},
-								["Devouring Plague (DoT)"] = {
-									["count"] = 85835,
+								["Conflagrate"] = {
+									["count"] = 161268,
 								},
 							},
-							["amount"] = 1462519,
+							["amount"] = 796043,
 						},
 						["Mariny"] = {
 							["Details"] = {
@@ -24226,8 +29002,8 @@ RecountPerCharDB = {
 								["Halo"] = {
 									["count"] = 101109,
 								},
-								["Devouring Plague (DoT)"] = {
-									["count"] = 156416,
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 256069,
 								},
 								["Vampiric Touch"] = {
 									["count"] = 61799,
@@ -24235,40 +29011,49 @@ RecountPerCharDB = {
 								["Touch of the Grave"] = {
 									["count"] = 36734,
 								},
-								["Shadow Word: Pain (DoT)"] = {
-									["count"] = 256069,
+								["Devouring Plague (DoT)"] = {
+									["count"] = 156416,
 								},
 							},
 							["amount"] = 2167187,
 						},
-						["Maudriin"] = {
+						["Snuffed"] = {
 							["Details"] = {
-								["Drain Life (DoT)"] = {
-									["count"] = 37296,
-								},
-								["Archimonde's Vengeance"] = {
-									["count"] = 8376,
-								},
-								["Chaos Bolt"] = {
-									["count"] = 141213,
+								["Vampiric Touch (DoT)"] = {
+									["count"] = 186706,
 								},
 								["Touch of the Grave"] = {
-									["count"] = 27111,
+									["count"] = 36264,
 								},
-								["Incinerate"] = {
-									["count"] = 262265,
+								["Shadow Word: Pain"] = {
+									["count"] = 66027,
 								},
-								["Immolate (DoT)"] = {
-									["count"] = 127047,
+								["Mind Flay"] = {
+									["count"] = 115852,
 								},
-								["Immolate"] = {
-									["count"] = 31467,
+								["Mind Flay (DoT)"] = {
+									["count"] = 375464,
 								},
-								["Conflagrate"] = {
-									["count"] = 161268,
+								["Mind Blast"] = {
+									["count"] = 186584,
+								},
+								["Devouring Plague"] = {
+									["count"] = 98096,
+								},
+								["Shadow Word: Pain (DoT)"] = {
+									["count"] = 214021,
+								},
+								["Vampiric Touch"] = {
+									["count"] = 32072,
+								},
+								["Halo"] = {
+									["count"] = 65598,
+								},
+								["Devouring Plague (DoT)"] = {
+									["count"] = 85835,
 								},
 							},
-							["amount"] = 796043,
+							["amount"] = 1462519,
 						},
 						["Puffín"] = {
 							["Details"] = {
@@ -24310,11 +29095,11 @@ RecountPerCharDB = {
 								["Improved Serpent Sting"] = {
 									["count"] = 59395,
 								},
-								["Glaive Toss"] = {
-									["count"] = 64772,
-								},
 								["Multi-Shot"] = {
 									["count"] = 25879,
+								},
+								["Glaive Toss"] = {
+									["count"] = 64772,
 								},
 								["A Murder of Crows"] = {
 									["count"] = 120219,
@@ -24402,14 +29187,14 @@ RecountPerCharDB = {
 								["Hammer of the Righteous"] = {
 									["count"] = 26990,
 								},
+								["Crusader Strike"] = {
+									["count"] = 48727,
+								},
 								["Hand of Light"] = {
 									["count"] = 54531,
 								},
 								["Templar's Verdict"] = {
 									["count"] = 35954,
-								},
-								["Crusader Strike"] = {
-									["count"] = 48727,
 								},
 								["Censure (DoT)"] = {
 									["count"] = 102806,
@@ -24535,34 +29320,31 @@ RecountPerCharDB = {
 							},
 							["amount"] = 1394670,
 						},
-						["Shinyuu"] = {
+						["Furong"] = {
 							["Details"] = {
-								["Templar's Verdict"] = {
-									["count"] = 255533,
+								["Expel Harm"] = {
+									["count"] = 14812,
 								},
-								["Exorcism"] = {
-									["count"] = 137563,
+								["Blackout Kick"] = {
+									["count"] = 24165,
 								},
-								["Crusader Strike"] = {
-									["count"] = 114896,
+								["Fists of Fury"] = {
+									["count"] = 29497,
 								},
-								["Ancient Fury"] = {
-									["count"] = 38374,
+								["Blackout Kick (DoT)"] = {
+									["count"] = 5317,
 								},
-								["Judgment"] = {
-									["count"] = 131377,
+								["Rising Sun Kick"] = {
+									["count"] = 82432,
 								},
-								["Hand of Light"] = {
-									["count"] = 121029,
+								["Jab"] = {
+									["count"] = 11556,
 								},
-								["Censure (DoT)"] = {
-									["count"] = 181035,
-								},
-								["Seal of Truth"] = {
-									["count"] = 121134,
+								["Tiger Strikes"] = {
+									["count"] = 12085,
 								},
 							},
-							["amount"] = 1100941,
+							["amount"] = 179864,
 						},
 						["Orsonspells"] = {
 							["Details"] = {
@@ -24675,16 +29457,25 @@ RecountPerCharDB = {
 							},
 							["amount"] = 70616,
 						},
-						["Sinjo"] = {
+						["Safetypin"] = {
 							["Details"] = {
-								["Bite"] = {
-									["count"] = 262145,
+								["Holy Fire"] = {
+									["count"] = 191360,
 								},
-								["Kill Command"] = {
-									["count"] = 383983,
+								["Penance"] = {
+									["count"] = 597782,
+								},
+								["Holy Fire (DoT)"] = {
+									["count"] = 37554,
+								},
+								["Smite"] = {
+									["count"] = 499305,
+								},
+								["Touch of the Grave"] = {
+									["count"] = 29281,
 								},
 							},
-							["amount"] = 646128,
+							["amount"] = 1355282,
 						},
 						["Kazuzel"] = {
 							["Details"] = {
@@ -24713,86 +29504,124 @@ RecountPerCharDB = {
 							["amount"] = 2063527,
 						},
 					},
-					["ElementDone"] = {
-						["Melee"] = 2930851,
+					["TimeSpent"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41.41,
+								},
+							},
+							["amount"] = 41.41,
+						},
+					},
+					["TimeDamaging"] = {
+						["Deadlytank"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41.41,
+								},
+							},
+							["amount"] = 41.41,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 333650,
+									["min"] = 56951,
+									["count"] = 14,
+									["amount"] = 2930851,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 2930851,
+						},
 					},
 				},
 			},
 			["UnitLockout"] = 1367699306,
 			["LastActive"] = 1367699306,
 		},
-		["Brimtok"] = {
-			["GUID"] = "0x050000000559228E",
+		["Swooping Plainshawk <Brimtok>"] = {
+			["GUID"] = "0xF530EAA800177D89",
 			["LastEventHealth"] = {
-				"347183 (98%)", -- [1]
-				"347183 (98%)", -- [2]
-				"343703 (97%)", -- [3]
-				"343703 (97%)", -- [4]
-				"353250 (100%)", -- [5]
-				"353250 (100%)", -- [6]
-				"353250 (100%)", -- [7]
-				"353250 (100%)", -- [8]
-				"353250 (100%)", -- [9]
-				"353250 (100%)", -- [10]
-				"353250 (100%)", -- [11]
-				"353250 (100%)", -- [12]
-				"353250 (100%)", -- [13]
-				"353250 (100%)", -- [14]
-				"350074 (99%)", -- [15]
-				"350074 (99%)", -- [16]
-				"346867 (98%)", -- [17]
-				"346867 (98%)", -- [18]
-				"346867 (98%)", -- [19]
-				"346867 (98%)", -- [20]
-				"346867 (98%)", -- [21]
-				"346867 (98%)", -- [22]
-				"346867 (98%)", -- [23]
-				"346867 (98%)", -- [24]
-				"346867 (98%)", -- [25]
-				"346867 (98%)", -- [26]
-				"346867 (98%)", -- [27]
-				"346867 (98%)", -- [28]
-				"343604 (97%)", -- [29]
-				"343604 (97%)", -- [30]
-				"343604 (97%)", -- [31]
-				"343604 (97%)", -- [32]
-				"343604 (97%)", -- [33]
-				"339886 (96%)", -- [34]
-				"339886 (96%)", -- [35]
-				"353250 (100%)", -- [36]
-				"353250 (100%)", -- [37]
-				"353250 (100%)", -- [38]
-				"353250 (100%)", -- [39]
-				"353250 (100%)", -- [40]
-				"353250 (100%)", -- [41]
-				"350010 (99%)", -- [42]
-				"350010 (99%)", -- [43]
-				"350010 (99%)", -- [44]
-				"350010 (99%)", -- [45]
-				"350010 (99%)", -- [46]
-				"350010 (99%)", -- [47]
-				"347183 (98%)", -- [48]
-				"347183 (98%)", -- [49]
-				"347183 (98%)", -- [50]
+				"166432 (42%)", -- [1]
+				"152149 (38%)", -- [2]
+				"128371 (32%)", -- [3]
+				"128371 (32%)", -- [4]
+				"107656 (27%)", -- [5]
+				"98122 (24%)", -- [6]
+				"84526 (21%)", -- [7]
+				"76790 (19%)", -- [8]
+				"76790 (19%)", -- [9]
+				"63195 (16%)", -- [10]
+				"53139 (13%)", -- [11]
+				"30452 (7%)", -- [12]
+				"18832 (4%)", -- [13]
+				"9077 (2%)", -- [14]
+				"1 (0%)", -- [15]
+				"0 (0%)", -- [16]
+				"311813 (79%)", -- [17]
+				"297530 (75%)", -- [18]
+				"297530 (75%)", -- [19]
+				"297530 (75%)", -- [20]
+				"270635 (68%)", -- [21]
+				"270635 (68%)", -- [22]
+				"270635 (68%)", -- [23]
+				"253764 (64%)", -- [24]
+				"253764 (64%)", -- [25]
+				"253764 (64%)", -- [26]
+				"253764 (64%)", -- [27]
+				"243895 (61%)", -- [28]
+				"229612 (58%)", -- [29]
+				"155589 (39%)", -- [30]
+				"132583 (33%)", -- [31]
+				"132583 (33%)", -- [32]
+				"132583 (33%)", -- [33]
+				"132583 (33%)", -- [34]
+				"132583 (33%)", -- [35]
+				"125408 (31%)", -- [36]
+				"84621 (21%)", -- [37]
+				"75375 (19%)", -- [38]
+				"36804 (9%)", -- [39]
+				"36804 (9%)", -- [40]
+				"36804 (9%)", -- [41]
+				"36804 (9%)", -- [42]
+				"36804 (9%)", -- [43]
+				"36804 (9%)", -- [44]
+				"27298 (6%)", -- [45]
+				"18052 (4%)", -- [46]
+				"10691 (2%)", -- [47]
+				"10691 (2%)", -- [48]
+				"10691 (2%)", -- [49]
+				"0 (0%)", -- [50]
 			},
-			["LastAttackedBy"] = "Chief Yip-Yip",
 			["LastEventType"] = {
 				"DAMAGE", -- [1]
 				"DAMAGE", -- [2]
 				"DAMAGE", -- [3]
 				"DAMAGE", -- [4]
-				"HEAL", -- [5]
+				"DAMAGE", -- [5]
 				"DAMAGE", -- [6]
 				"DAMAGE", -- [7]
 				"DAMAGE", -- [8]
 				"DAMAGE", -- [9]
-				"HEAL", -- [10]
+				"DAMAGE", -- [10]
 				"DAMAGE", -- [11]
 				"DAMAGE", -- [12]
 				"DAMAGE", -- [13]
 				"DAMAGE", -- [14]
 				"DAMAGE", -- [15]
-				"DAMAGE", -- [16]
+				"MISC", -- [16]
 				"DAMAGE", -- [17]
 				"DAMAGE", -- [18]
 				"DAMAGE", -- [19]
@@ -24812,7 +29641,7 @@ RecountPerCharDB = {
 				"DAMAGE", -- [33]
 				"DAMAGE", -- [34]
 				"DAMAGE", -- [35]
-				"HEAL", -- [36]
+				"DAMAGE", -- [36]
 				"DAMAGE", -- [37]
 				"DAMAGE", -- [38]
 				"DAMAGE", -- [39]
@@ -24826,3196 +29655,104 @@ RecountPerCharDB = {
 				"DAMAGE", -- [47]
 				"DAMAGE", -- [48]
 				"DAMAGE", -- [49]
-				"DAMAGE", -- [50]
+				"MISC", -- [50]
 			},
 			["TimeWindows"] = {
-				["TimeHeal"] = {
-					8.07, -- [1]
+				["ActiveTime"] = {
+					249.43, -- [1]
 				},
-				["HOT_Time"] = {
-					75, -- [1]
-				},
-				["HealingTaken"] = {
-					432551, -- [1]
-				},
-				["Healing"] = {
-					436168, -- [1]
-				},
-				["DamageTaken"] = {
-					727328, -- [1]
-				},
-				["Overhealing"] = {
-					1266422, -- [1]
-				},
-				["EnergyGain"] = {
-					960, -- [1]
-				},
-				["RageGain"] = {
-					105, -- [1]
+				["DeathCount"] = {
+					14, -- [1]
 				},
 				["FDamage"] = {
-					11536338, -- [1]
-				},
-				["ActiveTime"] = {
-					599.2299999999993, -- [1]
+					472398, -- [1]
 				},
 				["TimeDamage"] = {
-					591.1599999999992, -- [1]
-				},
-				["ManaGain"] = {
-					369600, -- [1]
-				},
-				["DOT_Time"] = {
-					732, -- [1]
-				},
-				["Damage"] = {
-					15293538, -- [1]
+					249.43, -- [1]
 				},
 			},
-			["enClass"] = "DRUID",
-			["unit"] = "Brimtok",
-			["LastAbility"] = 310588.106,
-			["LastEventTimes"] = {
-				310587.114, -- [1]
-				310587.114, -- [2]
-				310587.705, -- [3]
-				310588.106, -- [4]
-				310588.106, -- [5]
-				310572.33, -- [6]
-				310572.44, -- [7]
-				310572.832, -- [8]
-				310573.086, -- [9]
-				310573.195, -- [10]
-				310573.195, -- [11]
-				310573.481, -- [12]
-				310573.481, -- [13]
-				310573.574, -- [14]
-				310574.041, -- [15]
-				310575.09, -- [16]
-				310575.42, -- [17]
-				310575.605, -- [18]
-				310575.605, -- [19]
-				310576.465, -- [20]
-				310576.852, -- [21]
-				310577.088, -- [22]
-				310577.478, -- [23]
-				310577.478, -- [24]
-				310578.422, -- [25]
-				310578.422, -- [26]
-				310578.692, -- [27]
-				310579.106, -- [28]
-				310579.466, -- [29]
-				310579.466, -- [30]
-				310580.032, -- [31]
-				310580.421, -- [32]
-				310581.113, -- [33]
-				310581.391, -- [34]
-				310581.7, -- [35]
-				310582.108, -- [36]
-				310582.342, -- [37]
-				310582.483, -- [38]
-				310582.842, -- [39]
-				310583.122, -- [40]
-				310583.308, -- [41]
-				310583.725, -- [42]
-				310584.272, -- [43]
-				310584.689, -- [44]
-				310584.842, -- [45]
-				310585.12, -- [46]
-				310585.12, -- [47]
-				310585.639, -- [48]
-				310586.122, -- [49]
-				310586.849, -- [50]
-			},
-			["level"] = 90,
-			["LastDamageAbility"] = "Melee",
+			["enClass"] = "PET",
+			["unit"] = "playertarget",
+			["level"] = 1,
 			["LastFightIn"] = 8,
 			["LastEventNum"] = {
-				0.9851380042462845, -- [1]
-				[46] = 0.8002830856334041,
-				[16] = 0.9078556263269639,
-				[9] = 0.8990799716914366,
-				[5] = 4,
-				[36] = 4,
-				[40] = 0.9171974522292994,
-				[33] = 1.052512384996462,
-				[28] = 0.9237084217975938,
-				[10] = 4,
+				6.035929238134645, -- [1]
+				3.625669833807601, -- [2]
+				2.42015936396567, -- [3]
+				nil, -- [4]
+				5.258401638824088, -- [5]
+				1.963745840113113, -- [6]
+				3.451278237096418, -- [7]
+				5.758984213372053, -- [8]
+				nil, -- [9]
+				3.451024391977479, -- [10]
+				2.552666516051896, -- [11]
+				2.949680282072696, -- [12]
+				2.476259135251218, -- [13]
+				[15] = 5.258401638824088,
+				[30] = 2.3470519697112,
+				[31] = 5.839960806313636,
+				[33] = 1.821338728388261,
+				[18] = 3.625669833807601,
+				[36] = 3.951099276287566,
+				[19] = 1.642377919536174,
+				[38] = 2.3470519697112,
+				[39] = 5.839960806313636,
+				[40] = 2.413051700635374,
+				[21] = 5.18478655433174,
+				[42] = 3.62592367892654,
+				[22] = 4.28262100162207,
+				[44] = 5.258401638824088,
+				[23] = 2.3470519697112,
+				[46] = 2.3470519697112,
+				[47] = 4.76137289594127,
+				[25] = 2.505197478810279,
+				[49] = 2.552666516051896,
+				[27] = 3.451278237096418,
+				[45] = 1.868553920510939,
+				[28] = 2.048276264719844,
+				[37] = 10.35358086617032,
+				[29] = 3.625669833807601,
+				[35] = 2.552666516051896,
 			},
-			["type"] = "Self",
-			["FightsSaved"] = 5,
-			["GuardianReverseGUIDs"] = {
-				["Disguised Marmot"] = {
-					["LatestGuardian"] = 0,
-					["GUIDs"] = {
-						[0] = "0xF530E8E2000361F7",
-					},
-				},
-				["Lost Hen"] = {
-					["LatestGuardian"] = 3,
-					["GUIDs"] = {
-						"0xF530E8DF0003610D", -- [1]
-						"0xF530E8DF00036245", -- [2]
-						"0xF530E8DF000362A8", -- [3]
-						[0] = "0xF530E8DF00035EFF",
-					},
-				},
-			},
-			["TimeLast"] = {
-				["TimeHeal"] = 1366843216,
-				["Healing"] = 1366843216,
-				["HOT_Time"] = 1366843217,
-				["HealingTaken"] = 1366843216,
-				["OVERALL"] = 1367893444,
-				["DamageTaken"] = 1366843214,
-				["TimeDamage"] = 1367893444,
-				["EnergyGain"] = 1367893415,
-				["RageGain"] = 1367893427,
-				["Overhealing"] = 1366843217,
-				["ActiveTime"] = 1367893444,
-				["FDamage"] = 1367893444,
-				["ManaGain"] = 1367893444,
-				["DOT_Time"] = 1367893444,
-				["Damage"] = 1366843217,
-			},
-			["Owner"] = false,
-			["Pet"] = {
-				"Ghost Iron Dragonling <Brimtok>", -- [1]
-				"Lost Hen <Brimtok>", -- [2]
-				"Disguised Marmot <Brimtok>", -- [3]
-				"Voracious Virmen <Brimtok>", -- [4]
-				"Unknown <Brimtok>", -- [5]
-				"Squatting Virmen <Brimtok>", -- [6]
-				"Swooping Plainshawk <Brimtok>", -- [7]
-			},
-			["NextEventNum"] = 6,
-			["LastEventHealthNum"] = {
-				98.2825194621373, -- [1]
-				98.2825194621373, -- [2]
-				97.29738145789101, -- [3]
-				97.29738145789101, -- [4]
-				100, -- [5]
-				100, -- [6]
-				100, -- [7]
-				100, -- [8]
-				100, -- [9]
-				100, -- [10]
-				100, -- [11]
-				100, -- [12]
-				100, -- [13]
-				100, -- [14]
-				99.10092002830857, -- [15]
-				99.10092002830857, -- [16]
-				98.1930644019816, -- [17]
-				98.1930644019816, -- [18]
-				98.1930644019816, -- [19]
-				98.1930644019816, -- [20]
-				98.1930644019816, -- [21]
-				98.1930644019816, -- [22]
-				98.1930644019816, -- [23]
-				98.1930644019816, -- [24]
-				98.1930644019816, -- [25]
-				98.1930644019816, -- [26]
-				98.1930644019816, -- [27]
-				98.1930644019816, -- [28]
-				97.269355980184, -- [29]
-				97.269355980184, -- [30]
-				97.269355980184, -- [31]
-				97.269355980184, -- [32]
-				97.269355980184, -- [33]
-				96.21684359518754, -- [34]
-				96.21684359518754, -- [35]
-				100, -- [36]
-				100, -- [37]
-				100, -- [38]
-				100, -- [39]
-				100, -- [40]
-				100, -- [41]
-				99.0828025477707, -- [42]
-				99.0828025477707, -- [43]
-				99.0828025477707, -- [44]
-				99.0828025477707, -- [45]
-				99.0828025477707, -- [46]
-				99.0828025477707, -- [47]
-				98.2825194621373, -- [48]
-				98.2825194621373, -- [49]
-				98.2825194621373, -- [50]
-			},
-			["LastEvents"] = {
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3480 (Physical)", -- [1]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8181 (Physical)", -- [2]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [3]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13305 (Physical)", -- [4]
-				"Brimtok Leader of the Pack Brimtok Tick +14130 (4583 overheal)", -- [5]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [6]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [7]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [8]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3176 (Physical)", -- [9]
-				"Brimtok Leader of the Pack Brimtok Tick +14130 (14130 overheal)", -- [10]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8295 (Physical)", -- [11]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [12]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [13]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [14]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [15]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [16]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [17]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [18]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [19]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7110 (Physical)", -- [20]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20814 (Physical)", -- [21]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [22]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [23]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7727 (Physical)", -- [24]
-				"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -34649 (Physical)", -- [25]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6418 (Physical)", -- [26]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [27]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3263 (Physical)", -- [28]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6911 (Physical)", -- [29]
-				"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [30]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [31]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6780 (Physical)", -- [32]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3718 (Physical)", -- [33]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14412 (Physical)", -- [34]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [35]
-				"Brimtok Leader of the Pack Brimtok Tick +14130 (766 overheal)", -- [36]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7761 (Physical)", -- [37]
-				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9649 (Physical)", -- [38]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [39]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3240 (Physical)", -- [40]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7410 (Physical)", -- [41]
-				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -33728 (Physical)", -- [42]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14154 (Physical)", -- [43]
-				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [44]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [45]
-				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2827 (Physical)", -- [46]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8287 (Physical)", -- [47]
-				"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -12920 (Physical)", -- [48]
-				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6767 (Physical)", -- [49]
-				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [50]
-			},
-			["Name"] = "Brimtok",
-			["LastEventIncoming"] = {
-				true, -- [1]
-				false, -- [2]
-				false, -- [3]
-				false, -- [4]
-				true, -- [5]
-				false, -- [6]
-				true, -- [7]
-				false, -- [8]
-				true, -- [9]
-				true, -- [10]
-				false, -- [11]
-				false, -- [12]
-				false, -- [13]
-				false, -- [14]
-				false, -- [15]
-				true, -- [16]
-				false, -- [17]
-				false, -- [18]
-				false, -- [19]
-				false, -- [20]
-				false, -- [21]
-				true, -- [22]
-				false, -- [23]
-				false, -- [24]
-				false, -- [25]
-				false, -- [26]
-				false, -- [27]
-				true, -- [28]
-				false, -- [29]
-				false, -- [30]
-				false, -- [31]
-				false, -- [32]
-				true, -- [33]
-				false, -- [34]
-				false, -- [35]
-				true, -- [36]
-				false, -- [37]
-				false, -- [38]
-				false, -- [39]
-				true, -- [40]
-				false, -- [41]
-				false, -- [42]
-				false, -- [43]
-				false, -- [44]
-				false, -- [45]
-				true, -- [46]
-				false, -- [47]
-				false, -- [48]
-				false, -- [49]
-				false, -- [50]
-			},
-			["LastDamageTaken"] = 4170,
+			["type"] = "Pet",
+			["LastActive"] = 1369455605,
+			["UnitLockout"] = 1367893409,
+			["Owner"] = "Brimtok",
 			["Fights"] = {
-				["Fight3"] = {
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ravager"] = {
-									["count"] = 30,
-								},
-							},
-							["amount"] = 30,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ravager"] = {
-									["count"] = 27,
-								},
-							},
-							["amount"] = 27,
-						},
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 195022,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 1,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 14,
-								},
-							},
-							["amount"] = 16,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 9,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 21,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 91610,
-						["Physical"] = 103412,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-						["Rejuvenation"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["Damage"] = 1408585,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 4.78,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 175326,
-								},
-								["Melee"] = {
-									["count"] = 498570,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 159215,
-								},
-								["Mangle"] = {
-									["count"] = 52498,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 8268,
-								},
-								["Rake"] = {
-									["count"] = 55052,
-								},
-								["Ravage!"] = {
-									["count"] = 459656,
-								},
-							},
-							["amount"] = 1408585,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 243642,
-					["ElementDone"] = {
-						["Melee"] = 498570,
-						["Physical"] = 910015,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["count"] = 3,
-								},
-								["Crit"] = {
-									["count"] = 12,
-								},
-								["Hit"] = {
-									["count"] = 19,
-								},
-							},
-							["amount"] = 34,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Tick"] = {
-									["count"] = 15,
-								},
-								["Crit"] = {
-									["count"] = 6,
-								},
-								["Hit"] = {
-									["count"] = 13,
-								},
-							},
-							["amount"] = 35,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 24000,
-								},
-							},
-							["amount"] = 24000,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["My Eye! (DoT)"] = {
-									["count"] = 27000,
-								},
-								["Tail Whip"] = {
-									["count"] = 76412,
-								},
-								["Melee"] = {
-									["count"] = 91610,
-								},
-							},
-							["amount"] = 195022,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 60,
-						},
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-						["Melee"] = 3485,
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 1.06,
-								},
-								["Rejuvenation"] = {
-									["count"] = 0.8500000000000001,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 2.58,
-								},
-							},
-							["amount"] = 4.49,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 0.29,
-								},
-							},
-							["amount"] = 0.29,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56520,
-								},
-								["Rejuvenation"] = {
-									["count"] = 21065,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 166057,
-								},
-							},
-							["amount"] = 243642,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56520,
-								},
-								["Rejuvenation"] = {
-									["count"] = 21065,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 166057,
-								},
-							},
-							["amount"] = 243642,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 3617,
-								},
-							},
-							["amount"] = 3617,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 60,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 24000,
-								},
-							},
-							["amount"] = 24000,
-						},
-					},
-					["PartialAbsorb"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 16,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 16,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 36.22999999999999,
-					["Overhealing"] = 26229,
-					["TimeSpent"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 1.06,
-								},
-								["Rejuvenation"] = {
-									["count"] = 0.8500000000000001,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 2.58,
-								},
-							},
-							["amount"] = 4.49,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 3.79,
-								},
-								["Melee"] = {
-									["count"] = 16.74,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 3.42,
-								},
-								["Mangle"] = {
-									["count"] = 3.77,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.11,
-								},
-								["Rake"] = {
-									["count"] = 0.37,
-								},
-								["Ravage!"] = {
-									["count"] = 3.25,
-								},
-							},
-							["amount"] = 31.44999999999999,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 0.29,
-								},
-							},
-							["amount"] = 0.29,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 14130,
-									["count"] = 4,
-									["amount"] = 56520,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 56520,
-						},
-						["Rejuvenation"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 10533,
-									["min"] = 10532,
-									["count"] = 2,
-									["amount"] = 21065,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 21065,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 14540,
-									["min"] = 2067,
-									["count"] = 23,
-									["amount"] = 169674,
-								},
-							},
-							["count"] = 23,
-							["amount"] = 169674,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 60,
-						},
-					},
-					["PartialResist"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 16,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 16,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 247259,
-					["OverHeals"] = {
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 3820,
-									["min"] = 2157,
-									["count"] = 4,
-									["amount"] = 12099,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 12099,
-						},
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 14130,
-									["count"] = 1,
-									["amount"] = 14130,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 14130,
-						},
-					},
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 31481,
-									["min"] = 28594,
-									["count"] = 2,
-									["amount"] = 60075,
-								},
-								["Tick"] = {
-									["max"] = 15282,
-									["min"] = 13881,
-									["count"] = 8,
-									["amount"] = 115251,
-								},
-							},
-							["count"] = 10,
-							["amount"] = 175326,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Hit (Blocked)"] = {
-									["max"] = 8131,
-									["min"] = 8131,
-									["count"] = 1,
-									["amount"] = 8131,
-								},
-								["Glancing"] = {
-									["max"] = 11992,
-									["min"] = 10230,
-									["count"] = 3,
-									["amount"] = 32472,
-								},
-								["Crit"] = {
-									["max"] = 28277,
-									["min"] = 15823,
-									["count"] = 12,
-									["amount"] = 270184,
-								},
-								["Hit"] = {
-									["max"] = 12985,
-									["min"] = 7178,
-									["count"] = 18,
-									["amount"] = 187783,
-								},
-							},
-							["count"] = 34,
-							["amount"] = 498570,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 31161,
-									["min"] = 29807,
-									["count"] = 2,
-									["amount"] = 60968,
-								},
-								["Tick"] = {
-									["max"] = 15127,
-									["min"] = 10118,
-									["count"] = 7,
-									["amount"] = 98247,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 159215,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 33973,
-									["min"] = 33973,
-									["count"] = 1,
-									["amount"] = 33973,
-								},
-								["Hit"] = {
-									["max"] = 18525,
-									["min"] = 18525,
-									["count"] = 1,
-									["amount"] = 18525,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 52498,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 8268,
-									["min"] = 8268,
-									["count"] = 1,
-									["amount"] = 8268,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 8268,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 29807,
-									["min"] = 29807,
-									["count"] = 1,
-									["amount"] = 29807,
-								},
-								["Hit"] = {
-									["max"] = 15127,
-									["min"] = 10118,
-									["count"] = 2,
-									["amount"] = 25245,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 55052,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 58159,
-									["min"] = 37497,
-									["count"] = 9,
-									["amount"] = 459656,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 459656,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 31.44999999999999,
-					["TimeDamaging"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 3.79,
-								},
-								["Melee"] = {
-									["count"] = 16.74,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 3.42,
-								},
-								["Mangle"] = {
-									["count"] = 3.77,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.11,
-								},
-								["Rake"] = {
-									["count"] = 0.37,
-								},
-								["Ravage!"] = {
-									["count"] = 3.25,
-								},
-							},
-							["amount"] = 31.44999999999999,
-						},
-					},
-					["ManaGain"] = 24000,
-					["DOT_Time"] = 57,
-					["DispelledWho"] = {
-					},
-				},
-				["Fight5"] = {
-					["DOTs"] = {
-						["Pounce Bleed (DoT)"] = {
-							["Details"] = {
-								["Kunzen Rockflinger"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Rockflinger"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 82938,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Dodge"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 9,
-								},
-							},
-							["amount"] = 13,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 3,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 49251,
-						["Physical"] = 33687,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["Damage"] = 289111,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0.31,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 6056,
-								},
-								["Rake"] = {
-									["count"] = 20236,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 10118,
-								},
-								["Mangle"] = {
-									["count"] = 39479,
-								},
-								["Ravage!"] = {
-									["count"] = 76452,
-								},
-								["Melee"] = {
-									["count"] = 89102,
-								},
-								["Swipe"] = {
-									["count"] = 47668,
-								},
-							},
-							["amount"] = 289111,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 14130,
-					["ElementDone"] = {
-						["Melee"] = 89102,
-						["Physical"] = 200009,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["count"] = 2,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 8,
-								},
-							},
-							["amount"] = 11,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 1,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 2,
-								},
-								["Hit"] = {
-									["count"] = 7,
-								},
-							},
-							["amount"] = 11,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 4800,
-								},
-							},
-							["amount"] = 4800,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 49251,
-								},
-								["Fling Rock"] = {
-									["count"] = 33687,
-								},
-							},
-							["amount"] = 82938,
-						},
-					},
-					["EnergyGainedFrom"] = {
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.31,
-								},
-							},
-							["amount"] = 0.31,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 14130,
-								},
-							},
-							["amount"] = 14130,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 14130,
-								},
-							},
-							["amount"] = 14130,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 0,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 4800,
-								},
-							},
-							["amount"] = 4800,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 13,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 16.74,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 0.98,
-								},
-								["Rake"] = {
-									["count"] = 0.25,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.19,
-								},
-								["Mangle"] = {
-									["count"] = 0.42,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 14.41,
-								},
-								["Swipe"] = {
-									["count"] = 0.18,
-								},
-							},
-							["amount"] = 16.43,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.31,
-								},
-							},
-							["amount"] = 0.31,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 14130,
-									["count"] = 1,
-									["amount"] = 14130,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 14130,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 13,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 14130,
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Pounce Bleed (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 6056,
-									["min"] = 6056,
-									["count"] = 1,
-									["amount"] = 6056,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 6056,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 10118,
-									["min"] = 10118,
-									["count"] = 2,
-									["amount"] = 20236,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 20236,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 10118,
-									["min"] = 10118,
-									["count"] = 1,
-									["amount"] = 10118,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 10118,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 21037,
-									["min"] = 18442,
-									["count"] = 2,
-									["amount"] = 39479,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 39479,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 76452,
-									["min"] = 76452,
-									["count"] = 1,
-									["amount"] = 76452,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 76452,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 7129,
-									["min"] = 6594,
-									["count"] = 2,
-									["amount"] = 13723,
-								},
-								["Crit"] = {
-									["max"] = 17205,
-									["min"] = 17205,
-									["count"] = 1,
-									["amount"] = 17205,
-								},
-								["Hit"] = {
-									["max"] = 7753,
-									["min"] = 6487,
-									["count"] = 8,
-									["amount"] = 58174,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 89102,
-						},
-						["Swipe"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 18432,
-									["min"] = 13478,
-									["count"] = 3,
-									["amount"] = 47668,
-								},
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 47668,
-						},
-					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 16.43,
-					["TimeDamaging"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 0.98,
-								},
-								["Rake"] = {
-									["count"] = 0.25,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.19,
-								},
-								["Mangle"] = {
-									["count"] = 0.42,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 14.41,
-								},
-								["Swipe"] = {
-									["count"] = 0.18,
-								},
-							},
-							["amount"] = 16.43,
-						},
-					},
-					["ManaGain"] = 4800,
-					["DOT_Time"] = 6,
-					["DispelledWho"] = {
-					},
-				},
 				["CurrentFightData"] = {
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 57,
-								},
-								["Kunzen Ravager"] = {
-									["count"] = 0,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 36,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 96,
-						},
-						["Thrash (DoT)"] = {
-							["Details"] = {
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 93,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 42,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 18,
-								},
-							},
-							["amount"] = 153,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 99,
-								},
-								["Kunzen Ravager"] = {
-									["count"] = 0,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 45,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 18,
-								},
-							},
-							["amount"] = 162,
-						},
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 0,
-					["RageGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Mangle"] = {
-									["count"] = 5,
-								},
-								["Bear Form"] = {
-									["count"] = 10,
-								},
-								["Primal Fury"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 75,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 11,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Dodge"] = {
-									["count"] = 39,
-								},
-							},
-							["amount"] = 50,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 0,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 0,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["FAttacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 31311,
-									["min"] = 18084,
-									["count"] = 6,
-									["amount"] = 144110,
-								},
-								["Tick"] = {
-									["max"] = 15878,
-									["min"] = 5880,
-									["count"] = 26,
-									["amount"] = 312617,
-								},
-							},
-							["count"] = 32,
-							["amount"] = 456727,
-						},
-						["Thrash (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 20129,
-									["min"] = 10016,
-									["count"] = 19,
-									["amount"] = 278152,
-								},
-								["Tick"] = {
-									["max"] = 9772,
-									["min"] = 4862,
-									["count"] = 32,
-									["amount"] = 220426,
-								},
-							},
-							["count"] = 51,
-							["amount"] = 498578,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 42775,
-									["min"] = 19877,
-									["count"] = 19,
-									["amount"] = 519792,
-								},
-								["Hit"] = {
-									["max"] = 21815,
-									["min"] = 6755,
-									["count"] = 26,
-									["amount"] = 341016,
-								},
-							},
-							["count"] = 45,
-							["amount"] = 860808,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 42775,
-									["min"] = 19877,
-									["count"] = 18,
-									["amount"] = 504665,
-								},
-								["Tick"] = {
-									["max"] = 20764,
-									["min"] = 9649,
-									["count"] = 36,
-									["amount"] = 467012,
-								},
-							},
-							["count"] = 54,
-							["amount"] = 971677,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 97004,
-									["min"] = 14748,
-									["count"] = 6,
-									["amount"] = 301440,
-								},
-								["Hit"] = {
-									["max"] = 31825,
-									["min"] = 12920,
-									["count"] = 4,
-									["amount"] = 94143,
-								},
-							},
-							["count"] = 10,
-							["amount"] = 395583,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 116140,
-									["min"] = 64558,
-									["count"] = 7,
-									["amount"] = 616409,
-								},
-								["Hit"] = {
-									["max"] = 42910,
-									["min"] = 33167,
-									["count"] = 8,
-									["amount"] = 302054,
-								},
-							},
-							["count"] = 15,
-							["amount"] = 918463,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 60255,
-									["min"] = 33728,
-									["count"] = 15,
-									["amount"] = 624728,
-								},
-								["Hit"] = {
-									["max"] = 32024,
-									["min"] = 16692,
-									["count"] = 34,
-									["amount"] = 791446,
-								},
-							},
-							["count"] = 49,
-							["amount"] = 1416174,
-						},
-						["Thrash"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 28520,
-									["min"] = 14191,
-									["count"] = 7,
-									["amount"] = 150157,
-								},
-								["Hit"] = {
-									["max"] = 13844,
-									["min"] = 6889,
-									["count"] = 6,
-									["amount"] = 53858,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 204015,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 11914,
-									["min"] = 6246,
-									["count"] = 13,
-									["amount"] = 107461,
-								},
-								["Crit"] = {
-									["max"] = 25889,
-									["min"] = 12839,
-									["count"] = 78,
-									["amount"] = 1468028,
-								},
-								["Hit"] = {
-									["max"] = 12750,
-									["min"] = 5751,
-									["count"] = 179,
-									["amount"] = 1562190,
-								},
-							},
-							["count"] = 270,
-							["amount"] = 3137679,
-						},
-						["Swipe"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 67751,
-									["min"] = 36483,
-									["count"] = 12,
-									["amount"] = 577351,
-								},
-								["Hit"] = {
-									["max"] = 32635,
-									["min"] = 15269,
-									["count"] = 39,
-									["amount"] = 871249,
-								},
-							},
-							["count"] = 51,
-							["amount"] = 1448600,
-						},
-					},
-					["HealingTaken"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["count"] = 0,
-								},
-								["Parry"] = {
-									["count"] = 4,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Parry"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 235200,
-								},
-							},
-							["amount"] = 235200,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["My Eye! (DoT)"] = {
-									["count"] = 0,
-								},
-								["Tail Whip"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 600,
-								},
-							},
-							["amount"] = 600,
-						},
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 10308304,
-					["EnergyGain"] = 600,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 235200,
-								},
-							},
-							["amount"] = 235200,
-						},
-					},
-					["PartialAbsorb"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 50,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 50,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 366.3599999999997,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 8.52,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 6.89,
-								},
-								["Rake"] = {
-									["count"] = 7.540000000000001,
-								},
-								["Rip"] = {
-									["count"] = 1,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.81,
-								},
-								["Ravage!"] = {
-									["count"] = 2.92,
-								},
-								["Mangle"] = {
-									["count"] = 10.29,
-								},
-								["Thrash"] = {
-									["count"] = 0.33,
-								},
-								["Melee"] = {
-									["count"] = 88.23000000000003,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 12.27,
-								},
-								["Swipe"] = {
-									["count"] = 6.840000000000001,
-								},
-							},
-							["amount"] = 147.64,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 4.1,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Rake"] = {
-									["count"] = 4.58,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.83,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.8999999999999999,
-								},
-								["Ravage!"] = {
-									["count"] = 2.14,
-								},
-								["Mangle"] = {
-									["count"] = 6.430000000000001,
-								},
-								["Thrash"] = {
-									["count"] = 1.69,
-								},
-								["Melee"] = {
-									["count"] = 85.38000000000005,
-								},
-								["Swipe"] = {
-									["count"] = 9.100000000000001,
-								},
-							},
-							["amount"] = 131.01,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 0.74,
-								},
-								["Rake"] = {
-									["count"] = 6.68,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 1.45,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 1.88,
-								},
-								["Ravage!"] = {
-									["count"] = 0.9300000000000001,
-								},
-								["Mangle"] = {
-									["count"] = 4.33,
-								},
-								["Melee"] = {
-									["count"] = 66.51999999999998,
-								},
-								["Thrash"] = {
-									["count"] = 0.1,
-								},
-								["Swipe"] = {
-									["count"] = 5.08,
-								},
-							},
-							["amount"] = 87.70999999999998,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 600,
-								},
-							},
-							["amount"] = 600,
-						},
-					},
 					["PartialResist"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
 						["Melee"] = {
 							["Details"] = {
 								["No Resist"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 50,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 50,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-						["Mangle"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Bear Form"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Primal Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 60,
-						},
-					},
-					["Attacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Parry"] = {
-									["count"] = 4,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
+							["count"] = 2,
 							["amount"] = 0,
 						},
 						["Rip"] = {
 							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 472398,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
 								["Parry"] = {
 									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["RageGain"] = 75,
-					["FDamagedWho"] = {
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 269315,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 280834,
-								},
-								["Rake"] = {
-									["count"] = 492842,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 655910,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 244592,
-								},
-								["Ravage!"] = {
-									["count"] = 311203,
-								},
-								["Mangle"] = {
-									["count"] = 691657,
-								},
-								["Thrash"] = {
-									["count"] = 99072,
-								},
-								["Melee"] = {
-									["count"] = 1292051,
-								},
-								["Swipe"] = {
-									["count"] = 641768,
-								},
-							},
-							["amount"] = 4979244,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 181532,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 172890,
-								},
-								["Rake"] = {
-									["count"] = 204849,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 252439,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 64720,
-								},
-								["Ravage!"] = {
-									["count"] = 485684,
-								},
-								["Mangle"] = {
-									["count"] = 443816,
-								},
-								["Thrash"] = {
-									["count"] = 72663,
-								},
-								["Melee"] = {
-									["count"] = 1127589,
-								},
-								["Swipe"] = {
-									["count"] = 648440,
-								},
-							},
-							["amount"] = 3654622,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 5880,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 44854,
-								},
-								["Rake"] = {
-									["count"] = 163117,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 63328,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 86271,
-								},
-								["Ravage!"] = {
-									["count"] = 121576,
-								},
-								["Mangle"] = {
-									["count"] = 280701,
-								},
-								["Melee"] = {
-									["count"] = 718039,
-								},
-								["Thrash"] = {
-									["count"] = 32280,
-								},
-								["Swipe"] = {
-									["count"] = 158392,
-								},
-							},
-							["amount"] = 1674438,
-						},
-					},
-					["TimeDamage"] = 366.3599999999997,
-					["TimeDamaging"] = {
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 8.52,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 6.89,
-								},
-								["Rake"] = {
-									["count"] = 7.540000000000001,
-								},
-								["Rip"] = {
-									["count"] = 1,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.81,
-								},
-								["Ravage!"] = {
-									["count"] = 2.92,
-								},
-								["Mangle"] = {
-									["count"] = 10.29,
-								},
-								["Thrash"] = {
-									["count"] = 0.33,
-								},
-								["Melee"] = {
-									["count"] = 88.23000000000003,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 12.27,
-								},
-								["Swipe"] = {
-									["count"] = 6.840000000000001,
-								},
-							},
-							["amount"] = 147.64,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 4.1,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Rake"] = {
-									["count"] = 4.58,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.83,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.8999999999999999,
-								},
-								["Ravage!"] = {
-									["count"] = 2.14,
-								},
-								["Mangle"] = {
-									["count"] = 6.430000000000001,
-								},
-								["Thrash"] = {
-									["count"] = 1.69,
-								},
-								["Melee"] = {
-									["count"] = 85.38000000000005,
-								},
-								["Swipe"] = {
-									["count"] = 9.100000000000001,
-								},
-							},
-							["amount"] = 131.01,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 0.74,
-								},
-								["Rake"] = {
-									["count"] = 6.68,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 1.45,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 1.88,
-								},
-								["Ravage!"] = {
-									["count"] = 0.9300000000000001,
-								},
-								["Mangle"] = {
-									["count"] = 4.33,
-								},
-								["Melee"] = {
-									["count"] = 66.51999999999998,
-								},
-								["Thrash"] = {
-									["count"] = 0.1,
-								},
-								["Swipe"] = {
-									["count"] = 5.08,
-								},
-							},
-							["amount"] = 87.70999999999998,
-						},
-					},
-					["ManaGain"] = 235200,
-					["DOT_Time"] = 411,
-					["DispelledWho"] = {
-					},
-				},
-				["Fight2"] = {
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["OverHeals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Kunzen Farm-Raider"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Farm-Raider"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeSpent"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["DamageTaken"] = 54077,
-					["TimeHeal"] = 0,
-					["PartialResist"] = {
-						["Burrow"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Burrow"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 0,
-					["WhoDamaged"] = {
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["My Eye! (DoT)"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Maaka"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Fling Rock"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Kunzen Collector"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Springtail Burrower"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41951,
-								},
-								["Burrow"] = {
-									["count"] = 12126,
-								},
-							},
-							["amount"] = 54077,
-						},
-					},
-					["ElementTaken"] = {
-						["Melee"] = 41951,
-						["Physical"] = 12126,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Damage"] = 0,
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["DamagedWho"] = {
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["Attacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 0,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 0,
-					["HOT_Time"] = 0,
-					["Overhealing"] = 0,
-					["ElementDone"] = {
-						["Melee"] = 0,
-						["Physical"] = 0,
-					},
-					["HealingTaken"] = 0,
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["TimeDamage"] = 0,
-					["TimeDamaging"] = {
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-					},
-					["ManaGain"] = 0,
-					["DOT_Time"] = 0,
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 3,
-								},
-								["Miss"] = {
-									["count"] = 0,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Dodge"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 4,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 0,
-								},
-								["Hit"] = {
-									["count"] = 2,
-								},
-							},
-							["amount"] = 2,
-						},
-					},
-				},
-				["Fight4"] = {
-					["DOTs"] = {
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 61172,
-					["RageGainedFrom"] = {
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 6,
-								},
-								["Dodge"] = {
-									["count"] = 1,
-								},
-							},
-							["amount"] = 8,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 4,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 3,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 27655,
-						["Physical"] = 33517,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-					},
-					["Damage"] = 353125,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 0.14,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Ravage"] = {
-									["count"] = 75629,
-								},
-								["Melee"] = {
-									["count"] = 24932,
-								},
-								["Swipe"] = {
-									["count"] = 252564,
-								},
-							},
-							["amount"] = 353125,
-						},
-					},
-					["FAttacks"] = {
-					},
-					["HealingTaken"] = 14130,
-					["ElementDone"] = {
-						["Melee"] = 24932,
-						["Physical"] = 328193,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 1,
 								},
 							},
 							["amount"] = 2,
@@ -28023,4066 +29760,4403 @@ RecountPerCharDB = {
 						["Physical"] = {
 							["Details"] = {
 								["Parry"] = {
-									["count"] = 1,
+									["count"] = 2,
 								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
 								["Crit"] = {
-									["count"] = 3,
+									["max"] = 8233,
+									["min"] = 4406,
+									["count"] = 9,
+									["amount"] = 60340,
 								},
 								["Hit"] = {
-									["count"] = 10,
+									["max"] = 4088,
+									["min"] = 1903,
+									["count"] = 131,
+									["amount"] = 412058,
 								},
 							},
-							["amount"] = 14,
+							["count"] = 140,
+							["amount"] = 472398,
 						},
 					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
+					["TimeDamage"] = 249.43,
+					["Attacks"] = {
+						["Melee"] = {
 							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 4800,
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 18,
+									["amount"] = 0,
 								},
 							},
-							["amount"] = 4800,
+							["count"] = 21,
+							["amount"] = 0,
 						},
 					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 27655,
-								},
-								["Fling Rock"] = {
-									["count"] = 33517,
-								},
-							},
-							["amount"] = 61172,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 60,
-						},
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.14,
-								},
-							},
-							["amount"] = 0.14,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 14130,
-								},
-							},
-							["amount"] = 14130,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 14130,
-								},
-							},
-							["amount"] = 14130,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 0,
-					["EnergyGain"] = 60,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 4800,
-								},
-							},
-							["amount"] = 4800,
-						},
-					},
+					["DeathCount"] = 14,
 					["PartialAbsorb"] = {
 						["Melee"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 8,
+									["count"] = 2,
 									["amount"] = 0,
 								},
 							},
-							["count"] = 8,
+							["count"] = 2,
 							["amount"] = 0,
 						},
-						["Fling Rock"] = {
+						["Rip"] = {
 							["Details"] = {
 								["No Absorb"] = {
 									["max"] = 0,
 									["min"] = 0,
-									["count"] = 4,
+									["count"] = 2,
 									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 12.74,
-					["Overhealing"] = 0,
-					["TimeSpent"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Ravage"] = {
-									["count"] = 0.27,
-								},
-								["Melee"] = {
-									["count"] = 6.029999999999999,
-								},
-								["Swipe"] = {
-									["count"] = 6.300000000000001,
-								},
-							},
-							["amount"] = 12.6,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.14,
-								},
-							},
-							["amount"] = 0.14,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 14130,
-									["count"] = 1,
-									["amount"] = 14130,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 14130,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 60,
-								},
-							},
-							["amount"] = 60,
-						},
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 14130,
-					["OverHeals"] = {
-					},
-					["RageGained"] = {
-					},
-					["Attacks"] = {
-						["Ravage"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 75629,
-									["min"] = 75629,
-									["count"] = 1,
-									["amount"] = 75629,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 75629,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 15661,
-									["min"] = 15661,
-									["count"] = 1,
-									["amount"] = 15661,
-								},
-								["Hit"] = {
-									["max"] = 9271,
-									["min"] = 9271,
-									["count"] = 1,
-									["amount"] = 9271,
 								},
 							},
 							["count"] = 2,
-							["amount"] = 24932,
-						},
-						["Swipe"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 42573,
-									["min"] = 34384,
-									["count"] = 2,
-									["amount"] = 76957,
-								},
-								["Hit"] = {
-									["max"] = 20556,
-									["min"] = 15378,
-									["count"] = 10,
-									["amount"] = 175607,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 252564,
+							["amount"] = 0,
 						},
 					},
-					["RageGain"] = 0,
-					["FDamagedWho"] = {
-					},
-					["TimeDamage"] = 12.6,
+					["ActiveTime"] = 249.43,
 					["TimeDamaging"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Ravage"] = {
-									["count"] = 0.27,
-								},
-								["Melee"] = {
-									["count"] = 6.029999999999999,
-								},
-								["Swipe"] = {
-									["count"] = 6.300000000000001,
-								},
-							},
-							["amount"] = 12.6,
-						},
-					},
-					["ManaGain"] = 4800,
-					["DOT_Time"] = 0,
-					["DispelledWho"] = {
-					},
-				},
-				["LastFightData"] = {
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ritualist"] = {
-									["count"] = 0,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 105,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 9,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 129,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ritualist"] = {
-									["count"] = 0,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 60,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 6,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 18,
-								},
-							},
-							["amount"] = 84,
-						},
-					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 98884,
-					["RageGainedFrom"] = {
 						["Brimtok"] = {
 							["Details"] = {
-								["Mangle"] = {
-									["count"] = 5,
-								},
-								["Bear Form"] = {
-									["count"] = 10,
-								},
-								["Primal Fury"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 30,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 6,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 20,
-								},
-							},
-							["amount"] = 28,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 30,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 98884,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 30,
-								},
-							},
-							["amount"] = 30,
-						},
-					},
-					["Damage"] = 11854045,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 2.28,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
 								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
+									["count"] = 249.43,
 								},
 							},
-							["amount"] = 0,
+							["amount"] = 249.43,
 						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1996884,
-								},
-								["Mangle"] = {
-									["count"] = 1048791,
-								},
-								["Melee"] = {
-									["count"] = 2877328,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 1615664,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 154797,
-								},
-								["Rake"] = {
-									["count"] = 275191,
-								},
-								["Shred"] = {
-									["count"] = 308456,
-								},
-								["Ravage!"] = {
-									["count"] = 3576934,
-								},
-							},
-							["amount"] = 11854045,
-						},
-					},
-					["FAttacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 29505,
-									["min"] = 29505,
-									["count"] = 1,
-									["amount"] = 29505,
-								},
-								["Tick"] = {
-									["max"] = 14618,
-									["min"] = 10308,
-									["count"] = 7,
-									["amount"] = 89102,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 118607,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 10112,
-									["min"] = 7579,
-									["count"] = 4,
-									["amount"] = 33580,
-								},
-								["Crit"] = {
-									["max"] = 24126,
-									["min"] = 12907,
-									["count"] = 13,
-									["amount"] = 253100,
-								},
-								["Hit"] = {
-									["max"] = 10775,
-									["min"] = 6273,
-									["count"] = 14,
-									["amount"] = 118125,
-								},
-							},
-							["count"] = 31,
-							["amount"] = 404805,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 37195,
-									["min"] = 28612,
-									["count"] = 4,
-									["amount"] = 140197,
-								},
-								["Tick"] = {
-									["max"] = 18056,
-									["min"] = 9649,
-									["count"] = 4,
-									["amount"] = 47005,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 187202,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 41994,
-									["min"] = 35784,
-									["count"] = 2,
-									["amount"] = 77778,
-								},
-								["Hit"] = {
-									["max"] = 29873,
-									["min"] = 15881,
-									["count"] = 5,
-									["amount"] = 129486,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 207264,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 34970,
-									["min"] = 14391,
-									["count"] = 2,
-									["amount"] = 49361,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 49361,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 37195,
-									["min"] = 19877,
-									["count"] = 4,
-									["amount"] = 114145,
-								},
-								["Hit"] = {
-									["max"] = 18056,
-									["min"] = 13889,
-									["count"] = 2,
-									["amount"] = 31945,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 146090,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 79727,
-									["min"] = 79727,
-									["count"] = 1,
-									["amount"] = 79727,
-								},
-								["Hit"] = {
-									["max"] = 34978,
-									["min"] = 34978,
-									["count"] = 1,
-									["amount"] = 34978,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 114705,
-						},
-					},
-					["HealingTaken"] = 89999,
-					["ElementDone"] = {
-						["Melee"] = 2877328,
-						["Physical"] = 8976717,
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Glancing"] = {
-									["count"] = 2,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 25,
-								},
-								["Hit"] = {
-									["count"] = 49,
-								},
-							},
-							["amount"] = 77,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 36,
-								},
-								["Crit"] = {
-									["count"] = 34,
-								},
-								["Hit"] = {
-									["count"] = 17,
-								},
-							},
-							["amount"] = 87,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 72000,
-								},
-							},
-							["amount"] = 72000,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 98884,
-								},
-							},
-							["amount"] = 98884,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 120,
-								},
-							},
-							["amount"] = 120,
-						},
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 24415,
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.86,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 1.42,
-								},
-							},
-							["amount"] = 2.28,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56406,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 33593,
-								},
-							},
-							["amount"] = 89999,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56406,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 33593,
-								},
-							},
-							["amount"] = 89999,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 1228034,
-					["EnergyGain"] = 120,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 72000,
-								},
-							},
-							["amount"] = 72000,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 28,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 28,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 119.3,
-					["Overhealing"] = 1226063,
-					["TimeSpent"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8400000000000001,
-								},
-								["Melee"] = {
-									["count"] = 6.11,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.55,
-								},
-								["Mangle"] = {
-									["count"] = 4.05,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.43,
-								},
-								["Rake"] = {
-									["count"] = 0.39,
-								},
-								["Ravage!"] = {
-									["count"] = 0.76,
-								},
-							},
-							["amount"] = 13.13,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Melee"] = {
-									["count"] = 18.63,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 2.59,
-								},
-								["Mangle"] = {
-									["count"] = 1.39,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.42,
-								},
-								["Rake"] = {
-									["count"] = 1.03,
-								},
-								["Ravage!"] = {
-									["count"] = 0.75,
-								},
-							},
-							["amount"] = 26.47,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.86,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 1.42,
-								},
-							},
-							["amount"] = 2.28,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 20444,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 56406,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 56406,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 3870,
-									["min"] = 677,
-									["count"] = 14,
-									["amount"] = 33593,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 33593,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 120,
-								},
-							},
-							["amount"] = 120,
-						},
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 28,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 28,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 89999,
-					["OverHeals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 290,
-									["count"] = 9,
-									["amount"] = 91208,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 91208,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 310200,
-									["min"] = 2530,
-									["count"] = 23,
-									["amount"] = 1134855,
-								},
-							},
-							["count"] = 23,
-							["amount"] = 1134855,
-						},
-					},
-					["RageGained"] = {
-						["Mangle"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Bear Form"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Primal Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-					},
-					["Attacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 276061,
-									["min"] = 21235,
-									["count"] = 13,
-									["amount"] = 1258485,
-								},
-								["Tick"] = {
-									["max"] = 137284,
-									["min"] = 0,
-									["count"] = 22,
-									["amount"] = 738399,
-								},
-							},
-							["count"] = 35,
-							["amount"] = 1996884,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 217057,
-									["min"] = 0,
+								["Miss"] = {
 									["count"] = 3,
-									["amount"] = 270620,
 								},
-								["Crit"] = {
-									["max"] = 420287,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 778171,
-								},
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 1048791,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 106790,
-									["min"] = 8662,
-									["count"] = 2,
-									["amount"] = 115452,
-								},
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 207354,
-									["min"] = 0,
-									["count"] = 25,
-									["amount"] = 1376800,
-								},
-								["Hit"] = {
-									["max"] = 123288,
-									["min"] = 0,
-									["count"] = 49,
-									["amount"] = 1385076,
-								},
-							},
-							["count"] = 77,
-							["amount"] = 2877328,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 427742,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 985805,
-								},
-								["Tick"] = {
-									["max"] = 207642,
-									["min"] = 12544,
-									["count"] = 14,
-									["amount"] = 629859,
-								},
-							},
-							["count"] = 20,
-							["amount"] = 1615664,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit (Blocked)"] = {
-									["max"] = 56967,
-									["min"] = 56967,
-									["count"] = 1,
-									["amount"] = 56967,
-								},
-								["Crit"] = {
-									["max"] = 58322,
-									["min"] = 58322,
-									["count"] = 1,
-									["amount"] = 58322,
-								},
-								["Hit"] = {
-									["max"] = 39508,
-									["min"] = 39508,
-									["count"] = 1,
-									["amount"] = 39508,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 154797,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 208843,
-									["min"] = 208843,
-									["count"] = 1,
-									["amount"] = 208843,
-								},
-								["Hit"] = {
-									["max"] = 20764,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 66348,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 275191,
-						},
-						["Shred"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 308456,
-									["min"] = 308456,
-									["count"] = 1,
-									["amount"] = 308456,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 308456,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1240800,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 1548494,
-								},
-								["Hit"] = {
-									["max"] = 615690,
-									["min"] = 51558,
-									["count"] = 8,
-									["amount"] = 2028440,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 3576934,
-						},
-					},
-					["RageGain"] = 30,
-					["FDamagedWho"] = {
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 43853,
-								},
-								["Melee"] = {
-									["count"] = 142720,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 46845,
-								},
-								["Mangle"] = {
-									["count"] = 45369,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 34970,
-								},
-								["Rake"] = {
-									["count"] = 75129,
-								},
-								["Ravage!"] = {
-									["count"] = 34978,
-								},
-							},
-							["amount"] = 423864,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 74754,
-								},
-								["Melee"] = {
-									["count"] = 262085,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 140357,
-								},
-								["Mangle"] = {
-									["count"] = 161895,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 14391,
-								},
-								["Rake"] = {
-									["count"] = 70961,
-								},
-								["Ravage!"] = {
-									["count"] = 79727,
-								},
-							},
-							["amount"] = 804170,
-						},
-					},
-					["TimeDamage"] = 117.02,
-					["TimeDamaging"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8400000000000001,
-								},
-								["Melee"] = {
-									["count"] = 6.11,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.55,
-								},
-								["Mangle"] = {
-									["count"] = 4.05,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.43,
-								},
-								["Rake"] = {
-									["count"] = 0.39,
-								},
-								["Ravage!"] = {
-									["count"] = 0.76,
-								},
-							},
-							["amount"] = 13.13,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Melee"] = {
-									["count"] = 18.63,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 2.59,
-								},
-								["Mangle"] = {
-									["count"] = 1.39,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.42,
-								},
-								["Rake"] = {
-									["count"] = 1.03,
-								},
-								["Ravage!"] = {
-									["count"] = 0.75,
-								},
-							},
-							["amount"] = 26.47,
-						},
-					},
-					["ManaGain"] = 72000,
-					["DOT_Time"] = 213,
-					["DispelledWho"] = {
-					},
-				},
-				["Fight1"] = {
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ritualist"] = {
-									["count"] = 0,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 105,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 9,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 129,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ritualist"] = {
-									["count"] = 0,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 60,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 6,
-								},
-								["Squatting Virmen <Brimtok>"] = {
+								["Dodge"] = {
 									["count"] = 18,
 								},
 							},
-							["amount"] = 84,
+							["amount"] = 21,
 						},
 					},
-					["ElementDoneResist"] = {
-					},
-					["Ressed"] = 0,
-					["DamageTaken"] = 98884,
-					["RageGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Mangle"] = {
-									["count"] = 5,
-								},
-								["Bear Form"] = {
-									["count"] = 10,
-								},
-								["Primal Fury"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 30,
-						},
-					},
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Dodge"] = {
-									["count"] = 6,
-								},
-								["Miss"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 1,
-								},
-								["Hit"] = {
-									["count"] = 20,
-								},
-							},
-							["amount"] = 28,
-						},
-					},
-					["DeathCount"] = 0,
-					["HOT_Time"] = 30,
-					["ElementTakenBlock"] = {
-					},
-					["RunicPowerGain"] = 0,
-					["ElementTaken"] = {
-						["Melee"] = 98884,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 30,
-								},
-							},
-							["amount"] = 30,
-						},
-					},
-					["Damage"] = 11854045,
-					["ElementDoneAbsorb"] = {
-					},
-					["TimeHeal"] = 2.28,
-					["RessedWho"] = {
-					},
-					["Dispels"] = 0,
-					["PartialBlock"] = {
-					},
-					["DamagedWho"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1996884,
-								},
-								["Mangle"] = {
-									["count"] = 1048791,
-								},
-								["Melee"] = {
-									["count"] = 2877328,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 1615664,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 154797,
-								},
-								["Rake"] = {
-									["count"] = 275191,
-								},
-								["Shred"] = {
-									["count"] = 308456,
-								},
-								["Ravage!"] = {
-									["count"] = 3576934,
-								},
-							},
-							["amount"] = 11854045,
-						},
-					},
-					["FAttacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 29505,
-									["min"] = 29505,
-									["count"] = 1,
-									["amount"] = 29505,
-								},
-								["Tick"] = {
-									["max"] = 14618,
-									["min"] = 10308,
-									["count"] = 7,
-									["amount"] = 89102,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 118607,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 10112,
-									["min"] = 7579,
-									["count"] = 4,
-									["amount"] = 33580,
-								},
-								["Crit"] = {
-									["max"] = 24126,
-									["min"] = 12907,
-									["count"] = 13,
-									["amount"] = 253100,
-								},
-								["Hit"] = {
-									["max"] = 10775,
-									["min"] = 6273,
-									["count"] = 14,
-									["amount"] = 118125,
-								},
-							},
-							["count"] = 31,
-							["amount"] = 404805,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 37195,
-									["min"] = 28612,
-									["count"] = 4,
-									["amount"] = 140197,
-								},
-								["Tick"] = {
-									["max"] = 18056,
-									["min"] = 9649,
-									["count"] = 4,
-									["amount"] = 47005,
-								},
-							},
-							["count"] = 8,
-							["amount"] = 187202,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 41994,
-									["min"] = 35784,
-									["count"] = 2,
-									["amount"] = 77778,
-								},
-								["Hit"] = {
-									["max"] = 29873,
-									["min"] = 15881,
-									["count"] = 5,
-									["amount"] = 129486,
-								},
-							},
-							["count"] = 7,
-							["amount"] = 207264,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 34970,
-									["min"] = 14391,
-									["count"] = 2,
-									["amount"] = 49361,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 49361,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 37195,
-									["min"] = 19877,
-									["count"] = 4,
-									["amount"] = 114145,
-								},
-								["Hit"] = {
-									["max"] = 18056,
-									["min"] = 13889,
-									["count"] = 2,
-									["amount"] = 31945,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 146090,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 79727,
-									["min"] = 79727,
-									["count"] = 1,
-									["amount"] = 79727,
-								},
-								["Hit"] = {
-									["max"] = 34978,
-									["min"] = 34978,
-									["count"] = 1,
-									["amount"] = 34978,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 114705,
-						},
-					},
-					["HealingTaken"] = 89999,
-					["ElementDone"] = {
-						["Melee"] = 2877328,
-						["Physical"] = 8976717,
-					},
-					["ElementHitsDone"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["count"] = 2,
-								},
-								["Parry"] = {
-									["count"] = 1,
-								},
-								["Crit"] = {
-									["count"] = 25,
-								},
-								["Hit"] = {
-									["count"] = 49,
-								},
-							},
-							["amount"] = 77,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-								},
-								["Tick"] = {
-									["count"] = 36,
-								},
-								["Crit"] = {
-									["count"] = 34,
-								},
-								["Hit"] = {
-									["count"] = 17,
-								},
-							},
-							["amount"] = 87,
-						},
-					},
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 72000,
-								},
-							},
-							["amount"] = 72000,
-						},
-					},
-					["RunicPowerGained"] = {
-					},
-					["WhoDamaged"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 98884,
-								},
-							},
-							["amount"] = 98884,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 120,
-								},
-							},
-							["amount"] = 120,
-						},
-					},
-					["CCBroken"] = {
-					},
-					["RunicPowerGainedFrom"] = {
-					},
-					["ElementDoneBlock"] = {
-						["Physical"] = 24415,
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.86,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 1.42,
-								},
-							},
-							["amount"] = 2.28,
-						},
-					},
-					["Dispelled"] = 0,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56406,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 33593,
-								},
-							},
-							["amount"] = 89999,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 56406,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 33593,
-								},
-							},
-							["amount"] = 89999,
-						},
-					},
-					["CCBreak"] = 0,
-					["ElementTakenAbsorb"] = {
-					},
-					["FDamage"] = 1228034,
-					["EnergyGain"] = 120,
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 72000,
-								},
-							},
-							["amount"] = 72000,
-						},
-					},
-					["PartialAbsorb"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 28,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 28,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 119.3,
-					["Overhealing"] = 1226063,
-					["TimeSpent"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
-								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-							},
-							["amount"] = 0,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8400000000000001,
-								},
-								["Melee"] = {
-									["count"] = 6.11,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.55,
-								},
-								["Mangle"] = {
-									["count"] = 4.05,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.43,
-								},
-								["Rake"] = {
-									["count"] = 0.39,
-								},
-								["Ravage!"] = {
-									["count"] = 0.76,
-								},
-							},
-							["amount"] = 13.13,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Melee"] = {
-									["count"] = 18.63,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 2.59,
-								},
-								["Mangle"] = {
-									["count"] = 1.39,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.42,
-								},
-								["Rake"] = {
-									["count"] = 1.03,
-								},
-								["Ravage!"] = {
-									["count"] = 0.75,
-								},
-							},
-							["amount"] = 26.47,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 0.86,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 1.42,
-								},
-							},
-							["amount"] = 2.28,
-						},
-					},
-					["WhoDispelled"] = {
-					},
-					["InterruptData"] = {
-					},
-					["ElementTakenResist"] = {
-					},
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 20444,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 56406,
-								},
-							},
-							["count"] = 6,
-							["amount"] = 56406,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 3870,
-									["min"] = 677,
-									["count"] = 14,
-									["amount"] = 33593,
-								},
-							},
-							["count"] = 14,
-							["amount"] = 33593,
-						},
-					},
-					["Interrupts"] = 0,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 120,
-								},
-							},
-							["amount"] = 120,
-						},
-					},
-					["PartialResist"] = {
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 28,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 28,
-							["amount"] = 0,
-						},
-					},
-					["Healing"] = 89999,
-					["OverHeals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 290,
-									["count"] = 9,
-									["amount"] = 91208,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 91208,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 310200,
-									["min"] = 2530,
-									["count"] = 23,
-									["amount"] = 1134855,
-								},
-							},
-							["count"] = 23,
-							["amount"] = 1134855,
-						},
-					},
-					["RageGained"] = {
-						["Mangle"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 5,
-								},
-							},
-							["amount"] = 5,
-						},
-						["Bear Form"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Primal Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 15,
-						},
-					},
-					["Attacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 276061,
-									["min"] = 21235,
-									["count"] = 13,
-									["amount"] = 1258485,
-								},
-								["Tick"] = {
-									["max"] = 137284,
-									["min"] = 0,
-									["count"] = 22,
-									["amount"] = 738399,
-								},
-							},
-							["count"] = 35,
-							["amount"] = 1996884,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 217057,
-									["min"] = 0,
-									["count"] = 3,
-									["amount"] = 270620,
-								},
-								["Crit"] = {
-									["max"] = 420287,
-									["min"] = 0,
-									["count"] = 8,
-									["amount"] = 778171,
-								},
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 1048791,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 106790,
-									["min"] = 8662,
-									["count"] = 2,
-									["amount"] = 115452,
-								},
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 207354,
-									["min"] = 0,
-									["count"] = 25,
-									["amount"] = 1376800,
-								},
-								["Hit"] = {
-									["max"] = 123288,
-									["min"] = 0,
-									["count"] = 49,
-									["amount"] = 1385076,
-								},
-							},
-							["count"] = 77,
-							["amount"] = 2877328,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 427742,
-									["min"] = 0,
-									["count"] = 6,
-									["amount"] = 985805,
-								},
-								["Tick"] = {
-									["max"] = 207642,
-									["min"] = 12544,
-									["count"] = 14,
-									["amount"] = 629859,
-								},
-							},
-							["count"] = 20,
-							["amount"] = 1615664,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit (Blocked)"] = {
-									["max"] = 56967,
-									["min"] = 56967,
-									["count"] = 1,
-									["amount"] = 56967,
-								},
-								["Crit"] = {
-									["max"] = 58322,
-									["min"] = 58322,
-									["count"] = 1,
-									["amount"] = 58322,
-								},
-								["Hit"] = {
-									["max"] = 39508,
-									["min"] = 39508,
-									["count"] = 1,
-									["amount"] = 39508,
-								},
-							},
-							["count"] = 3,
-							["amount"] = 154797,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 0,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 208843,
-									["min"] = 208843,
-									["count"] = 1,
-									["amount"] = 208843,
-								},
-								["Hit"] = {
-									["max"] = 20764,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 66348,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 275191,
-						},
-						["Shred"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 308456,
-									["min"] = 308456,
-									["count"] = 1,
-									["amount"] = 308456,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 308456,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1240800,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 1548494,
-								},
-								["Hit"] = {
-									["max"] = 615690,
-									["min"] = 51558,
-									["count"] = 8,
-									["amount"] = 2028440,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 3576934,
-						},
-					},
-					["RageGain"] = 30,
 					["FDamagedWho"] = {
-						["Voracious Virmen <Brimtok>"] = {
+						["Brimtok"] = {
 							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 43853,
-								},
 								["Melee"] = {
-									["count"] = 142720,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 46845,
-								},
-								["Mangle"] = {
-									["count"] = 45369,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 34970,
-								},
-								["Rake"] = {
-									["count"] = 75129,
-								},
-								["Ravage!"] = {
-									["count"] = 34978,
+									["count"] = 472398,
 								},
 							},
-							["amount"] = 423864,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 74754,
-								},
-								["Melee"] = {
-									["count"] = 262085,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 140357,
-								},
-								["Mangle"] = {
-									["count"] = 161895,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 14391,
-								},
-								["Rake"] = {
-									["count"] = 70961,
-								},
-								["Ravage!"] = {
-									["count"] = 79727,
-								},
-							},
-							["amount"] = 804170,
+							["amount"] = 472398,
 						},
 					},
-					["TimeDamage"] = 117.02,
-					["TimeDamaging"] = {
-						["Kunzen Ritualist"] = {
+					["TimeSpent"] = {
+						["Brimtok"] = {
 							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0,
-								},
 								["Melee"] = {
-									["count"] = 0,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0,
-								},
-								["Mangle"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
+									["count"] = 249.43,
 								},
 							},
-							["amount"] = 0,
+							["amount"] = 249.43,
 						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8400000000000001,
-								},
-								["Melee"] = {
-									["count"] = 6.11,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.55,
-								},
-								["Mangle"] = {
-									["count"] = 4.05,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.43,
-								},
-								["Rake"] = {
-									["count"] = 0.39,
-								},
-								["Ravage!"] = {
-									["count"] = 0.76,
-								},
-							},
-							["amount"] = 13.13,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Melee"] = {
-									["count"] = 18.63,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 2.59,
-								},
-								["Mangle"] = {
-									["count"] = 1.39,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.42,
-								},
-								["Rake"] = {
-									["count"] = 1.03,
-								},
-								["Ravage!"] = {
-									["count"] = 0.75,
-								},
-							},
-							["amount"] = 26.47,
-						},
-					},
-					["ManaGain"] = 72000,
-					["DOT_Time"] = 213,
-					["DispelledWho"] = {
 					},
 				},
 				["OverallData"] = {
-					["DOTs"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Kunzen Ritualist"] = {
-									["count"] = 6,
-								},
-								["Kunzen Ravager"] = {
-									["count"] = 45,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 45,
-								},
-								["Kunzen Farm-Raider"] = {
-									["count"] = 3,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 18,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 105,
-								},
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 57,
-								},
-							},
-							["amount"] = 279,
-						},
-						["Thrash (DoT)"] = {
-							["Details"] = {
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 93,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 42,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 18,
-								},
-							},
-							["amount"] = 153,
-						},
-						["Pounce Bleed (DoT)"] = {
-							["Details"] = {
-								["Kunzen Rockflinger"] = {
-									["count"] = 3,
-								},
-							},
-							["amount"] = 3,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Kunzen Rockflinger"] = {
-									["count"] = 3,
-								},
-								["Kunzen Ravager"] = {
-									["count"] = 42,
-								},
-								["Voracious Virmen <Brimtok>"] = {
-									["count"] = 51,
-								},
-								["Kunzen Farm-Raider"] = {
-									["count"] = 3,
-								},
-								["Kunzen Ritualist"] = {
-									["count"] = 3,
-								},
-								["Squatting Virmen <Brimtok>"] = {
-									["count"] = 36,
-								},
-								["Chief Yip-Yip"] = {
-									["count"] = 60,
-								},
-								["Swooping Plainshawk <Brimtok>"] = {
-									["count"] = 99,
-								},
-							},
-							["amount"] = 297,
-						},
-					},
-					["TimeSpent"] = {
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8999999999999999,
-								},
-								["Melee"] = {
-									["count"] = 8.609999999999999,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.21,
-								},
-								["Mangle"] = {
-									["count"] = 0.8200000000000001,
-								},
-								["Rake"] = {
-									["count"] = 1.28,
-								},
-								["Ravage!"] = {
-									["count"] = 0.35,
-								},
-							},
-							["amount"] = 12.17,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 5.21,
-								},
-								["Melee"] = {
-									["count"] = 29.51999999999999,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 5.43,
-								},
-								["Mangle"] = {
-									["count"] = 5.08,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.11,
-								},
-								["Rake"] = {
-									["count"] = 1.44,
-								},
-								["Ravage!"] = {
-									["count"] = 4.130000000000001,
-								},
-							},
-							["amount"] = 50.92000000000001,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 0.74,
-								},
-								["Rake"] = {
-									["count"] = 7.71,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 4.04,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.3,
-								},
-								["Ravage!"] = {
-									["count"] = 1.68,
-								},
-								["Mangle"] = {
-									["count"] = 5.720000000000001,
-								},
-								["Melee"] = {
-									["count"] = 85.14999999999998,
-								},
-								["Thrash"] = {
-									["count"] = 0.1,
-								},
-								["Swipe"] = {
-									["count"] = 5.08,
-								},
-							},
-							["amount"] = 114.18,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 0.98,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0.25,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.19,
-								},
-								["Mangle"] = {
-									["count"] = 0.42,
-								},
-								["Ravage"] = {
-									["count"] = 0.27,
-								},
-								["Melee"] = {
-									["count"] = 20.44,
-								},
-								["Swipe"] = {
-									["count"] = 6.48,
-								},
-							},
-							["amount"] = 29.03,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.67,
-								},
-								["Melee"] = {
-									["count"] = 11.67,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.23,
-								},
-								["Mangle"] = {
-									["count"] = 1.2,
-								},
-								["Rake"] = {
-									["count"] = 1.45,
-								},
-								["Ravage!"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 15.66,
-						},
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 2.93,
-								},
-								["Rejuvenation"] = {
-									["count"] = 0.8500000000000001,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7.780000000000001,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 0.29,
-								},
-							},
-							["amount"] = 0.29,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 4.94,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Rake"] = {
-									["count"] = 4.97,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 7.380000000000001,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 1.33,
-								},
-								["Ravage!"] = {
-									["count"] = 2.9,
-								},
-								["Mangle"] = {
-									["count"] = 10.48,
-								},
-								["Thrash"] = {
-									["count"] = 1.69,
-								},
-								["Melee"] = {
-									["count"] = 91.49000000000005,
-								},
-								["Swipe"] = {
-									["count"] = 9.100000000000001,
-								},
-							},
-							["amount"] = 144.1399999999999,
-						},
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 8.52,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 6.89,
-								},
-								["Rake"] = {
-									["count"] = 7.540000000000001,
-								},
-								["Rip"] = {
-									["count"] = 1,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.81,
-								},
-								["Ravage!"] = {
-									["count"] = 2.92,
-								},
-								["Mangle"] = {
-									["count"] = 10.29,
-								},
-								["Thrash"] = {
-									["count"] = 0.33,
-								},
-								["Melee"] = {
-									["count"] = 88.23000000000003,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 12.27,
-								},
-								["Swipe"] = {
-									["count"] = 6.840000000000001,
-								},
-							},
-							["amount"] = 147.64,
-						},
-					},
-					["HealedWho"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 211836,
-								},
-								["Rejuvenation"] = {
-									["count"] = 21065,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 199650,
-								},
-							},
-							["amount"] = 432551,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 3617,
-								},
-							},
-							["amount"] = 3617,
-						},
-					},
-					["RageGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Mangle"] = {
-									["count"] = 10,
-								},
-								["Bear Form"] = {
-									["count"] = 20,
-								},
-								["Primal Fury"] = {
-									["count"] = 75,
-								},
-							},
-							["amount"] = 105,
-						},
-					},
-					["HOT_Time"] = 75,
-					["ElementTaken"] = {
-						["Melee"] = 483449,
-						["Physical"] = 243879,
-					},
-					["HOTs"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 69,
-								},
-							},
-							["amount"] = 69,
-						},
-						["Rejuvenation"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 6,
-								},
-							},
-							["amount"] = 6,
-						},
-					},
-					["Damage"] = 15293538,
-					["TimeHeal"] = 8.07,
-					["FAttacks"] = {
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 31311,
-									["min"] = 18084,
-									["count"] = 7,
-									["amount"] = 173615,
-								},
-								["Tick"] = {
-									["max"] = 15878,
-									["min"] = 5880,
-									["count"] = 33,
-									["amount"] = 401719,
-								},
-							},
-							["count"] = 40,
-							["amount"] = 575334,
-						},
-						["Thrash (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 20129,
-									["min"] = 10016,
-									["count"] = 19,
-									["amount"] = 278152,
-								},
-								["Tick"] = {
-									["max"] = 9772,
-									["min"] = 4862,
-									["count"] = 32,
-									["amount"] = 220426,
-								},
-							},
-							["count"] = 51,
-							["amount"] = 498578,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 42775,
-									["min"] = 19877,
-									["count"] = 23,
-									["amount"] = 633937,
-								},
-								["Hit"] = {
-									["max"] = 21815,
-									["min"] = 6755,
-									["count"] = 28,
-									["amount"] = 372961,
-								},
-							},
-							["count"] = 51,
-							["amount"] = 1006898,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 42775,
-									["min"] = 19877,
-									["count"] = 22,
-									["amount"] = 644862,
-								},
-								["Tick"] = {
-									["max"] = 20764,
-									["min"] = 9649,
-									["count"] = 40,
-									["amount"] = 514017,
-								},
-							},
-							["count"] = 62,
-							["amount"] = 1158879,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 97004,
-									["min"] = 14748,
-									["count"] = 6,
-									["amount"] = 301440,
-								},
-								["Hit"] = {
-									["max"] = 34970,
-									["min"] = 12920,
-									["count"] = 6,
-									["amount"] = 143504,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 444944,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 116140,
-									["min"] = 64558,
-									["count"] = 8,
-									["amount"] = 696136,
-								},
-								["Hit"] = {
-									["max"] = 42910,
-									["min"] = 33167,
-									["count"] = 9,
-									["amount"] = 337032,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 1033168,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 60255,
-									["min"] = 33728,
-									["count"] = 17,
-									["amount"] = 702506,
-								},
-								["Hit"] = {
-									["max"] = 32024,
-									["min"] = 15881,
-									["count"] = 39,
-									["amount"] = 920932,
-								},
-							},
-							["count"] = 56,
-							["amount"] = 1623438,
-						},
-						["Thrash"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 28520,
-									["min"] = 14191,
-									["count"] = 7,
-									["amount"] = 150157,
-								},
-								["Hit"] = {
-									["max"] = 13844,
-									["min"] = 6889,
-									["count"] = 6,
-									["amount"] = 53858,
-								},
-							},
-							["count"] = 13,
-							["amount"] = 204015,
-						},
+					["PartialResist"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Glancing"] = {
-									["max"] = 11914,
-									["min"] = 6246,
-									["count"] = 17,
-									["amount"] = 141041,
-								},
-								["Crit"] = {
-									["max"] = 25889,
-									["min"] = 12839,
-									["count"] = 91,
-									["amount"] = 1721128,
-								},
-								["Hit"] = {
-									["max"] = 12750,
-									["min"] = 5751,
-									["count"] = 193,
-									["amount"] = 1680315,
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
 								},
 							},
-							["count"] = 301,
-							["amount"] = 3542484,
+							["count"] = 2,
+							["amount"] = 0,
 						},
-						["Swipe"] = {
+						["Rip"] = {
 							["Details"] = {
-								["Crit"] = {
-									["max"] = 67751,
-									["min"] = 36483,
-									["count"] = 12,
-									["amount"] = 577351,
-								},
-								["Hit"] = {
-									["max"] = 32635,
-									["min"] = 15269,
-									["count"] = 39,
-									["amount"] = 871249,
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
 								},
 							},
-							["count"] = 51,
-							["amount"] = 1448600,
+							["count"] = 2,
+							["amount"] = 0,
 						},
 					},
-					["ElementDone"] = {
-						["Melee"] = 3971347,
-						["Physical"] = 11322191,
+					["FDamage"] = 472398,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["FAttacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8233,
+									["min"] = 4406,
+									["count"] = 9,
+									["amount"] = 60340,
+								},
+								["Hit"] = {
+									["max"] = 4088,
+									["min"] = 1903,
+									["count"] = 131,
+									["amount"] = 412058,
+								},
+							},
+							["count"] = 140,
+							["amount"] = 472398,
+						},
+					},
+					["TimeDamage"] = 249.43,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 14,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Rip"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 249.43,
+					["TimeDamaging"] = {
+						["Brimtok"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 249.43,
+								},
+							},
+							["amount"] = 249.43,
+						},
 					},
 					["ElementHitsDone"] = {
 						["Melee"] = {
 							["Details"] = {
-								["Glancing"] = {
-									["count"] = 8,
-								},
-								["Parry"] = {
-									["count"] = 7,
-								},
-								["Crit"] = {
-									["count"] = 51,
-								},
-								["Hit"] = {
-									["count"] = 104,
-								},
-							},
-							["amount"] = 170,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 7,
-								},
-								["Tick"] = {
-									["count"] = 61,
-								},
-								["Crit"] = {
-									["count"] = 58,
-								},
-								["Hit"] = {
-									["count"] = 58,
-								},
-							},
-							["amount"] = 184,
-						},
-					},
-					["WhoDamaged"] = {
-						["Kunzen Rockflinger"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 76906,
-								},
-								["Fling Rock"] = {
-									["count"] = 67204,
-								},
-							},
-							["amount"] = 144110,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["My Eye! (DoT)"] = {
-									["count"] = 54000,
-								},
-								["Tail Whip"] = {
-									["count"] = 102464,
-								},
-								["Melee"] = {
-									["count"] = 144090,
-								},
-							},
-							["amount"] = 300554,
-						},
-						["Maaka"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 33849,
-								},
-							},
-							["amount"] = 33849,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 22457,
-								},
-								["Fling Rock"] = {
-									["count"] = 8085,
-								},
-							},
-							["amount"] = 30542,
-						},
-						["Kunzen Collector"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 23760,
-								},
-							},
-							["amount"] = 23760,
-						},
-						["Springtail Burrower"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41951,
-								},
-								["Burrow"] = {
-									["count"] = 12126,
-								},
-							},
-							["amount"] = 54077,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 98884,
-								},
-							},
-							["amount"] = 98884,
-						},
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Melee"] = {
-									["count"] = 41552,
-								},
-							},
-							["amount"] = 41552,
-						},
-					},
-					["EnergyGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Tiger's Fury"] = {
-									["count"] = 960,
-								},
-							},
-							["amount"] = 960,
-						},
-					},
-					["ElementDoneBlock"] = {
-						["Melee"] = 3485,
-						["Physical"] = 24415,
-					},
-					["TimeHealing"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 2.93,
-								},
-								["Rejuvenation"] = {
-									["count"] = 0.8500000000000001,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 4,
-								},
-							},
-							["amount"] = 7.780000000000001,
-						},
-						["Ollatha"] = {
-							["Details"] = {
-								["Nature's Vigil"] = {
-									["count"] = 0.29,
-								},
-							},
-							["amount"] = 0.29,
-						},
-					},
-					["OverHeals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 14130,
-									["min"] = 290,
-									["count"] = 11,
-									["amount"] = 119468,
-								},
-							},
-							["count"] = 11,
-							["amount"] = 119468,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 310200,
-									["min"] = 2157,
-									["count"] = 27,
-									["amount"] = 1146954,
-								},
-							},
-							["count"] = 27,
-							["amount"] = 1146954,
-						},
-					},
-					["PartialResist"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 144,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 144,
-							["amount"] = 0,
-						},
-						["Burrow"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Resist"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-					},
-					["ManaGained"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 369600,
-								},
-							},
-							["amount"] = 369600,
-						},
-					},
-					["PartialAbsorb"] = {
-						["My Eye! (DoT)"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 12,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 12,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 144,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 144,
-							["amount"] = 0,
-						},
-						["Burrow"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Tail Whip"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 4,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 4,
-							["amount"] = 0,
-						},
-						["Fling Rock"] = {
-							["Details"] = {
-								["No Absorb"] = {
-									["max"] = 0,
-									["min"] = 0,
-									["count"] = 9,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 9,
-							["amount"] = 0,
-						},
-					},
-					["ActiveTime"] = 599.2299999999993,
-					["FDamagedWho"] = {
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 269315,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 280834,
-								},
-								["Rake"] = {
-									["count"] = 492842,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 655910,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 244592,
-								},
-								["Ravage!"] = {
-									["count"] = 311203,
-								},
-								["Mangle"] = {
-									["count"] = 691657,
-								},
-								["Thrash"] = {
-									["count"] = 99072,
-								},
-								["Melee"] = {
-									["count"] = 1292051,
-								},
-								["Swipe"] = {
-									["count"] = 641768,
-								},
-							},
-							["amount"] = 4979244,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 80634,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 44854,
-								},
-								["Rake"] = {
-									["count"] = 234078,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 203685,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 100662,
-								},
-								["Ravage!"] = {
-									["count"] = 201303,
-								},
-								["Mangle"] = {
-									["count"] = 442596,
-								},
-								["Melee"] = {
-									["count"] = 980124,
-								},
-								["Thrash"] = {
-									["count"] = 32280,
-								},
-								["Swipe"] = {
-									["count"] = 158392,
-								},
-							},
-							["amount"] = 2478608,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 225385,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 172890,
-								},
-								["Rake"] = {
-									["count"] = 279978,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 299284,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 99690,
-								},
-								["Ravage!"] = {
-									["count"] = 520662,
-								},
-								["Mangle"] = {
-									["count"] = 489185,
-								},
-								["Thrash"] = {
-									["count"] = 72663,
-								},
-								["Melee"] = {
-									["count"] = 1270309,
-								},
-								["Swipe"] = {
-									["count"] = 648440,
-								},
-							},
-							["amount"] = 4078486,
-						},
-					},
-					["FDamage"] = 11536338,
-					["ManaGainedFrom"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 369600,
-								},
-							},
-							["amount"] = 369600,
-						},
-					},
-					["DOT_Time"] = 732,
-					["EnergyGain"] = 960,
-					["Heals"] = {
-						["Leader of the Pack"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 20444,
-									["min"] = 1948,
-									["count"] = 17,
-									["amount"] = 211836,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 211836,
-						},
-						["Rejuvenation"] = {
-							["Details"] = {
-								["Tick"] = {
-									["max"] = 10533,
-									["min"] = 10532,
-									["count"] = 2,
-									["amount"] = 21065,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 21065,
-						},
-						["Nature's Vigil"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 14540,
-									["min"] = 677,
-									["count"] = 37,
-									["amount"] = 203267,
-								},
-							},
-							["count"] = 37,
-							["amount"] = 203267,
-						},
-					},
-					["DamageTaken"] = 727328,
-					["EnergyGained"] = {
-						["Tiger's Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 960,
-								},
-							},
-							["amount"] = 960,
-						},
-					},
-					["HealingTaken"] = 432551,
-					["Healing"] = 436168,
-					["Overhealing"] = 1266422,
-					["WhoHealed"] = {
-						["Brimtok"] = {
-							["Details"] = {
-								["Leader of the Pack"] = {
-									["count"] = 211836,
-								},
-								["Rejuvenation"] = {
-									["count"] = 21065,
-								},
-								["Nature's Vigil"] = {
-									["count"] = 199650,
-								},
-							},
-							["amount"] = 432551,
-						},
-					},
-					["Attacks"] = {
-						["Pounce Bleed (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 6056,
-									["min"] = 6056,
-									["count"] = 1,
-									["amount"] = 6056,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 6056,
-						},
-						["Rake"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 1,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 208843,
-									["min"] = 29741,
-									["count"] = 5,
-									["amount"] = 344524,
-								},
-								["Hit"] = {
-									["max"] = 20764,
-									["min"] = 10118,
-									["count"] = 10,
-									["amount"] = 137255,
-								},
-							},
-							["count"] = 16,
-							["amount"] = 481779,
-						},
-						["Rake (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 427742,
-									["min"] = 20884,
-									["count"] = 11,
-									["amount"] = 1152921,
-								},
-								["Tick"] = {
-									["max"] = 207642,
-									["min"] = 10118,
-									["count"] = 26,
-									["amount"] = 802026,
-								},
-							},
-							["count"] = 37,
-							["amount"] = 1954947,
-						},
-						["Ferocious Bite"] = {
-							["Details"] = {
-								["Crit (Blocked)"] = {
-									["max"] = 56967,
-									["min"] = 56967,
-									["count"] = 1,
-									["amount"] = 56967,
-								},
-								["Crit"] = {
-									["max"] = 75766,
-									["min"] = 58322,
-									["count"] = 2,
-									["amount"] = 134088,
-								},
-								["Hit"] = {
-									["max"] = 39508,
-									["min"] = 8268,
-									["count"] = 2,
-									["amount"] = 47776,
-								},
-							},
-							["count"] = 5,
-							["amount"] = 238831,
-						},
-						["Ravage!"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 1240800,
-									["min"] = 64668,
-									["count"] = 7,
-									["amount"] = 1764010,
-								},
-								["Hit"] = {
-									["max"] = 615690,
-									["min"] = 35149,
-									["count"] = 18,
-									["amount"] = 2523245,
-								},
-							},
-							["count"] = 25,
-							["amount"] = 4287255,
-						},
-						["Rip"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 2,
-							["amount"] = 0,
-						},
-						["Melee"] = {
-							["Details"] = {
-								["Glancing"] = {
-									["max"] = 106790,
-									["min"] = 6594,
-									["count"] = 8,
-									["amount"] = 172357,
-								},
-								["Hit"] = {
-									["max"] = 123288,
-									["min"] = 6321,
-									["count"] = 103,
-									["amount"] = 1879018,
-								},
-								["Hit (Blocked)"] = {
-									["max"] = 8131,
-									["min"] = 8131,
-									["count"] = 1,
-									["amount"] = 8131,
-								},
-								["Crit"] = {
-									["max"] = 207354,
-									["min"] = 15285,
-									["count"] = 51,
-									["amount"] = 1911841,
-								},
-								["Parry"] = {
-									["count"] = 7,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 170,
-							["amount"] = 3971347,
-						},
-						["Rip (DoT)"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 276061,
-									["min"] = 21235,
-									["count"] = 18,
-									["amount"] = 1384605,
-								},
-								["Tick"] = {
-									["max"] = 137284,
-									["min"] = 10308,
-									["count"] = 35,
-									["amount"] = 919173,
-								},
-							},
-							["count"] = 53,
-							["amount"] = 2303778,
-						},
-						["Mangle"] = {
-							["Details"] = {
-								["Parry"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-								["Crit"] = {
-									["max"] = 420287,
-									["min"] = 33973,
-									["count"] = 10,
-									["amount"] = 851054,
-								},
-								["Hit"] = {
-									["max"] = 217057,
-									["min"] = 16773,
-									["count"] = 14,
-									["amount"] = 514174,
-								},
-							},
-							["count"] = 26,
-							["amount"] = 1365228,
-						},
-						["Ravage"] = {
-							["Details"] = {
-								["Crit"] = {
-									["max"] = 75629,
-									["min"] = 75629,
-									["count"] = 1,
-									["amount"] = 75629,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 75629,
-						},
-						["Shred"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 308456,
-									["min"] = 308456,
-									["count"] = 1,
-									["amount"] = 308456,
-								},
-							},
-							["count"] = 1,
-							["amount"] = 308456,
-						},
-						["Swipe"] = {
-							["Details"] = {
-								["Hit"] = {
-									["max"] = 20556,
-									["min"] = 13478,
-									["count"] = 13,
-									["amount"] = 223275,
-								},
-								["Crit"] = {
-									["max"] = 42573,
-									["min"] = 34384,
-									["count"] = 2,
-									["amount"] = 76957,
-								},
-								["Parry"] = {
-									["count"] = 2,
-									["amount"] = 0,
-								},
-							},
-							["count"] = 17,
-							["amount"] = 300232,
-						},
-					},
-					["RageGain"] = 105,
-					["ElementHitsTaken"] = {
-						["Melee"] = {
-							["Details"] = {
-								["Hit"] = {
-									["count"] = 70,
-								},
 								["Miss"] = {
-									["count"] = 16,
-								},
-								["Crit"] = {
-									["count"] = 5,
+									["count"] = 3,
 								},
 								["Dodge"] = {
-									["count"] = 53,
+									["count"] = 18,
 								},
 							},
-							["amount"] = 144,
-						},
-						["Physical"] = {
-							["Details"] = {
-								["Tick"] = {
-									["count"] = 12,
-								},
-								["Hit"] = {
-									["count"] = 15,
-								},
-							},
-							["amount"] = 27,
+							["amount"] = 21,
 						},
 					},
-					["TimeDamage"] = 591.1599999999992,
-					["TimeDamaging"] = {
-						["Kunzen Rockflinger"] = {
+					["FDamagedWho"] = {
+						["Brimtok"] = {
 							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 0.98,
-								},
-								["Ravage!"] = {
-									["count"] = 0,
-								},
-								["Rake"] = {
-									["count"] = 0.25,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.19,
-								},
-								["Mangle"] = {
-									["count"] = 0.42,
-								},
-								["Ravage"] = {
-									["count"] = 0.27,
-								},
 								["Melee"] = {
-									["count"] = 20.44,
-								},
-								["Swipe"] = {
-									["count"] = 6.48,
+									["count"] = 472398,
 								},
 							},
-							["amount"] = 29.03,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 5.21,
-								},
-								["Melee"] = {
-									["count"] = 29.51999999999999,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 5.43,
-								},
-								["Mangle"] = {
-									["count"] = 5.08,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.11,
-								},
-								["Rake"] = {
-									["count"] = 1.44,
-								},
-								["Ravage!"] = {
-									["count"] = 4.130000000000001,
-								},
-							},
-							["amount"] = 50.92000000000001,
-						},
-						["Voracious Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 4.94,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 9.859999999999999,
-								},
-								["Rake"] = {
-									["count"] = 4.97,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 7.380000000000001,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 1.33,
-								},
-								["Ravage!"] = {
-									["count"] = 2.9,
-								},
-								["Mangle"] = {
-									["count"] = 10.48,
-								},
-								["Thrash"] = {
-									["count"] = 1.69,
-								},
-								["Melee"] = {
-									["count"] = 91.49000000000005,
-								},
-								["Swipe"] = {
-									["count"] = 9.100000000000001,
-								},
-							},
-							["amount"] = 144.1399999999999,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.67,
-								},
-								["Melee"] = {
-									["count"] = 11.67,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.23,
-								},
-								["Mangle"] = {
-									["count"] = 1.2,
-								},
-								["Rake"] = {
-									["count"] = 1.45,
-								},
-								["Ravage!"] = {
-									["count"] = 0.44,
-								},
-							},
-							["amount"] = 15.66,
-						},
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 0.8999999999999999,
-								},
-								["Melee"] = {
-									["count"] = 8.609999999999999,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 0.21,
-								},
-								["Mangle"] = {
-									["count"] = 0.8200000000000001,
-								},
-								["Rake"] = {
-									["count"] = 1.28,
-								},
-								["Ravage!"] = {
-									["count"] = 0.35,
-								},
-							},
-							["amount"] = 12.17,
-						},
-						["Squatting Virmen <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1.66,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 0.74,
-								},
-								["Rake"] = {
-									["count"] = 7.71,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 4.04,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.3,
-								},
-								["Ravage!"] = {
-									["count"] = 1.68,
-								},
-								["Mangle"] = {
-									["count"] = 5.720000000000001,
-								},
-								["Melee"] = {
-									["count"] = 85.14999999999998,
-								},
-								["Thrash"] = {
-									["count"] = 0.1,
-								},
-								["Swipe"] = {
-									["count"] = 5.08,
-								},
-							},
-							["amount"] = 114.18,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 17.63,
-								},
-								["Mangle"] = {
-									["count"] = 5.33,
-								},
-								["Melee"] = {
-									["count"] = 38.21,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 6.710000000000002,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 0.9500000000000001,
-								},
-								["Rake"] = {
-									["count"] = 3.33,
-								},
-								["Shred"] = {
-									["count"] = 0.19,
-								},
-								["Ravage!"] = {
-									["count"] = 5.07,
-								},
-							},
-							["amount"] = 77.41999999999997,
-						},
-						["Swooping Plainshawk <Brimtok>"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 8.52,
-								},
-								["Thrash (DoT)"] = {
-									["count"] = 6.89,
-								},
-								["Rake"] = {
-									["count"] = 7.540000000000001,
-								},
-								["Rip"] = {
-									["count"] = 1,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 2.81,
-								},
-								["Ravage!"] = {
-									["count"] = 2.92,
-								},
-								["Mangle"] = {
-									["count"] = 10.29,
-								},
-								["Thrash"] = {
-									["count"] = 0.33,
-								},
-								["Melee"] = {
-									["count"] = 88.23000000000003,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 12.27,
-								},
-								["Swipe"] = {
-									["count"] = 6.840000000000001,
-								},
-							},
-							["amount"] = 147.64,
+							["amount"] = 472398,
 						},
 					},
-					["ManaGain"] = 369600,
-					["DamagedWho"] = {
-						["Kunzen Rockflinger"] = {
+					["TimeSpent"] = {
+						["Brimtok"] = {
 							["Details"] = {
-								["Pounce Bleed (DoT)"] = {
-									["count"] = 6056,
-								},
-								["Ravage!"] = {
-									["count"] = 76452,
-								},
-								["Rake"] = {
-									["count"] = 20236,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 10118,
-								},
-								["Mangle"] = {
-									["count"] = 39479,
-								},
-								["Ravage"] = {
-									["count"] = 75629,
-								},
 								["Melee"] = {
-									["count"] = 114034,
-								},
-								["Swipe"] = {
-									["count"] = 300232,
+									["count"] = 249.43,
 								},
 							},
-							["amount"] = 642236,
-						},
-						["Kunzen Ravager"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 262745,
-								},
-								["Melee"] = {
-									["count"] = 721967,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 267889,
-								},
-								["Mangle"] = {
-									["count"] = 148499,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 84034,
-								},
-								["Rake"] = {
-									["count"] = 110043,
-								},
-								["Ravage!"] = {
-									["count"] = 524324,
-								},
-							},
-							["amount"] = 2119501,
-						},
-						["Kunzen Farm-Raider"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 14147,
-								},
-								["Melee"] = {
-									["count"] = 148089,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 29741,
-								},
-								["Mangle"] = {
-									["count"] = 60465,
-								},
-								["Rake"] = {
-									["count"] = 61001,
-								},
-								["Ravage!"] = {
-									["count"] = 35149,
-								},
-							},
-							["amount"] = 348592,
-						},
-						["Chief Yip-Yip"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 1996884,
-								},
-								["Mangle"] = {
-									["count"] = 1048791,
-								},
-								["Melee"] = {
-									["count"] = 2877328,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 1615664,
-								},
-								["Ferocious Bite"] = {
-									["count"] = 154797,
-								},
-								["Rake"] = {
-									["count"] = 275191,
-								},
-								["Shred"] = {
-									["count"] = 308456,
-								},
-								["Ravage!"] = {
-									["count"] = 3576934,
-								},
-							},
-							["amount"] = 11854045,
-						},
-						["Kunzen Ritualist"] = {
-							["Details"] = {
-								["Rip (DoT)"] = {
-									["count"] = 30002,
-								},
-								["Melee"] = {
-									["count"] = 109929,
-								},
-								["Rake (DoT)"] = {
-									["count"] = 31535,
-								},
-								["Mangle"] = {
-									["count"] = 67994,
-								},
-								["Rake"] = {
-									["count"] = 15308,
-								},
-								["Ravage!"] = {
-									["count"] = 74396,
-								},
-							},
-							["amount"] = 329164,
-						},
-					},
-					["RageGained"] = {
-						["Mangle"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 10,
-								},
-							},
-							["amount"] = 10,
-						},
-						["Bear Form"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 20,
-								},
-							},
-							["amount"] = 20,
-						},
-						["Primal Fury"] = {
-							["Details"] = {
-								["Brimtok"] = {
-									["count"] = 75,
-								},
-							},
-							["amount"] = 75,
+							["amount"] = 249.43,
 						},
 					},
 				},
 			},
-			["UnitLockout"] = 1366758913,
-			["LastActive"] = 1367893444,
+			["NextEventNum"] = 17,
+			["LastEventHealthNum"] = {
+				42.24795083527737, -- [1]
+				38.62228100146977, -- [2]
+				32.58635176333512, -- [3]
+				32.58635176333512, -- [4]
+				27.32795012451103, -- [5]
+				24.90779076054536, -- [6]
+				21.45651252344894, -- [7]
+				19.49276668333583, -- [8]
+				19.49276668333583, -- [9]
+				16.04174229135835, -- [10]
+				13.48907577530646, -- [11]
+				7.730091561934401, -- [12]
+				4.780411279861705, -- [13]
+				2.304152144610487, -- [14]
+				0.0002538451189391305, -- [15]
+				0, -- [16]
+				79.15220807176709, -- [17]
+				75.52653823795949, -- [18]
+				75.52653823795949, -- [19]
+				75.52653823795949, -- [20]
+				68.69937376409158, -- [21]
+				68.69937376409158, -- [22]
+				68.69937376409158, -- [23]
+				64.4167527624695, -- [24]
+				64.4167527624695, -- [25]
+				64.4167527624695, -- [26]
+				64.4167527624695, -- [27]
+				61.91155528365923, -- [28]
+				58.28588544985163, -- [29]
+				39.49550821062037, -- [30]
+				33.65554740430674, -- [31]
+				33.65554740430674, -- [32]
+				33.65554740430674, -- [33]
+				33.65554740430674, -- [34]
+				33.65554740430674, -- [35]
+				31.83420867591848, -- [36]
+				21.48062780974816, -- [37]
+				19.13357584003696, -- [38]
+				9.342515757435757, -- [39]
+				9.342515757435757, -- [40]
+				9.342515757435757, -- [41]
+				9.342515757435757, -- [42]
+				9.342515757435757, -- [43]
+				9.342515757435757, -- [44]
+				6.929464056800384, -- [45]
+				4.582412087089184, -- [46]
+				2.713858166578244, -- [47]
+				2.713858166578244, -- [48]
+				2.713858166578244, -- [49]
+				0, -- [50]
+			},
+			["LastEvents"] = {
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23778 (Physical)", -- [1]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [2]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9534 (Physical)", -- [3]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2497 (Physical)", -- [4]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [5]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7736 (Physical)", -- [6]
+				"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -13596 (Physical)", -- [7]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22687 (Physical)", -- [8]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2908 (Physical)", -- [9]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13595 (Physical)", -- [10]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [11]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11620 (Physical)", -- [12]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9755 (Physical)", -- [13]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2289 (Physical)", -- [14]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [15]
+				"Swooping Plainshawk <Brimtok> dies.", -- [16]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3158 (Physical)", -- [17]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [18]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6470 (Physical)", -- [19]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2171 (Physical)", -- [20]
+				"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20425 (Physical)", -- [21]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16871 (Physical)", -- [22]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [23]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3077 (Physical)", -- [24]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9869 (Physical)", -- [25]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2349 (Physical)", -- [26]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13596 (Physical)", -- [27]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8069 (Physical)", -- [28]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [29]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [30]
+				"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [31]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2942 (Physical)", -- [32]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7175 (Physical)", -- [33]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2256 (Physical)", -- [34]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [35]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -15565 (Physical)", -- [36]
+				"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -40787 (Physical)", -- [37]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [38]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [39]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9506 (Physical)", -- [40]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2328 (Physical)", -- [41]
+				"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14284 (Physical)", -- [42]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2266 (Physical)", -- [43]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [44]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7361 (Physical)", -- [45]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [46]
+				"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18757 (Physical)", -- [47]
+				"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2677 (Physical)", -- [48]
+				"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [49]
+				"Swooping Plainshawk <Brimtok> dies.", -- [50]
+			},
+			["Name"] = "Swooping Plainshawk",
+			["TimeLast"] = {
+				["DeathCount"] = 1369455605,
+				["FDamage"] = 1369455605,
+				["ActiveTime"] = 1369455605,
+				["OVERALL"] = 1369455605,
+				["TimeDamage"] = 1369455605,
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				true, -- [16]
+				false, -- [17]
+				true, -- [18]
+				true, -- [19]
+				false, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				true, -- [25]
+				false, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				false, -- [41]
+				true, -- [42]
+				false, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						-14.43600000004517, -- [1]
+						-14.30500000005122, -- [2]
+						-14.11500000004889, -- [3]
+						-14.11500000004889, -- [4]
+						-13.64500000001863, -- [5]
+						-13.22500000003493, -- [6]
+						-12.87100000004284, -- [7]
+						-12.41800000000512, -- [8]
+						-12.31300000002375, -- [9]
+						-12.05200000002515, -- [10]
+						-11.69000000000233, -- [11]
+						-11.2620000000461, -- [12]
+						-11.2620000000461, -- [13]
+						-10.83300000004238, -- [14]
+						-10.43700000003446, -- [15]
+						-10.43700000003446, -- [16]
+						-10.30000000004657, -- [17]
+						-10.01500000001397, -- [18]
+						-10.01500000001397, -- [19]
+						-9.315000000002328, -- [20]
+						-9.181000000040513, -- [21]
+						-8.865000000048894, -- [22]
+						-8.760999999998603, -- [23]
+						-8.37300000002142, -- [24]
+						-8.37300000002142, -- [25]
+						-8.245000000053551, -- [26]
+						-8.106000000028871, -- [27]
+						-8.106000000028871, -- [28]
+						-7.40500000002794, -- [29]
+						-6.844000000040978, -- [30]
+						-6.470000000030268, -- [31]
+						-6.377000000036787, -- [32]
+						-6.009000000020023, -- [33]
+						-6.009000000020023, -- [34]
+						-5.522000000055414, -- [35]
+						-5.256000000052154, -- [36]
+						-4.539000000047963, -- [37]
+						-4.336000000010245, -- [38]
+						-4.010999999998603, -- [39]
+						-3.596000000019558, -- [40]
+						-3.596000000019558, -- [41]
+						-2.726000000024214, -- [42]
+						-2.347999999998137, -- [43]
+						-2.251000000047498, -- [44]
+						-2.007000000041444, -- [45]
+						-1.649000000033993, -- [46]
+						-0.7000000000116415, -- [47]
+						-0.3479999999981374, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						false, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						false, -- [8]
+						true, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						false, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						false, -- [25]
+						true, -- [26]
+						false, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						false, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						false, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						false, -- [43]
+						true, -- [44]
+						true, -- [45]
+						true, -- [46]
+						true, -- [47]
+						false, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3158 (Physical)", -- [1]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [2]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6470 (Physical)", -- [3]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2171 (Physical)", -- [4]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20425 (Physical)", -- [5]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16871 (Physical)", -- [6]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [7]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3077 (Physical)", -- [8]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9869 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2349 (Physical)", -- [10]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13596 (Physical)", -- [11]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8069 (Physical)", -- [12]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [13]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [14]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [15]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2942 (Physical)", -- [16]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7175 (Physical)", -- [17]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2256 (Physical)", -- [18]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [19]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -15565 (Physical)", -- [20]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -40787 (Physical)", -- [21]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [22]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9506 (Physical)", -- [24]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2328 (Physical)", -- [25]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14284 (Physical)", -- [26]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2266 (Physical)", -- [27]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [28]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7361 (Physical)", -- [29]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [30]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18757 (Physical)", -- [31]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2677 (Physical)", -- [32]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [33]
+						"Swooping Plainshawk <Brimtok> dies.", -- [34]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23778 (Physical)", -- [35]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [36]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9534 (Physical)", -- [37]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2497 (Physical)", -- [38]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [39]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7736 (Physical)", -- [40]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -13596 (Physical)", -- [41]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22687 (Physical)", -- [42]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2908 (Physical)", -- [43]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13595 (Physical)", -- [44]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [45]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11620 (Physical)", -- [46]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9755 (Physical)", -- [47]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2289 (Physical)", -- [48]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [49]
+						"Swooping Plainshawk <Brimtok> dies.", -- [50]
+					},
+					["HealthNum"] = {
+						79.15220807176709, -- [1]
+						75.52653823795949, -- [2]
+						75.52653823795949, -- [3]
+						75.52653823795949, -- [4]
+						68.69937376409158, -- [5]
+						68.69937376409158, -- [6]
+						68.69937376409158, -- [7]
+						64.4167527624695, -- [8]
+						64.4167527624695, -- [9]
+						64.4167527624695, -- [10]
+						64.4167527624695, -- [11]
+						61.91155528365923, -- [12]
+						58.28588544985163, -- [13]
+						39.49550821062037, -- [14]
+						33.65554740430674, -- [15]
+						33.65554740430674, -- [16]
+						33.65554740430674, -- [17]
+						33.65554740430674, -- [18]
+						33.65554740430674, -- [19]
+						31.83420867591848, -- [20]
+						21.48062780974816, -- [21]
+						19.13357584003696, -- [22]
+						9.342515757435757, -- [23]
+						9.342515757435757, -- [24]
+						9.342515757435757, -- [25]
+						9.342515757435757, -- [26]
+						9.342515757435757, -- [27]
+						9.342515757435757, -- [28]
+						6.929464056800384, -- [29]
+						4.582412087089184, -- [30]
+						2.713858166578244, -- [31]
+						2.713858166578244, -- [32]
+						2.713858166578244, -- [33]
+						0, -- [34]
+						42.24795083527737, -- [35]
+						38.62228100146977, -- [36]
+						32.58635176333512, -- [37]
+						32.58635176333512, -- [38]
+						27.32795012451103, -- [39]
+						24.90779076054536, -- [40]
+						21.45651252344894, -- [41]
+						19.49276668333583, -- [42]
+						19.49276668333583, -- [43]
+						16.04174229135835, -- [44]
+						13.48907577530646, -- [45]
+						7.730091561934401, -- [46]
+						4.780411279861705, -- [47]
+						2.304152144610487, -- [48]
+						0.0002538451189391305, -- [49]
+						0, -- [50]
+					},
+					["DeathAt"] = 1369455607,
+					["EventNum"] = {
+						0, -- [1]
+						3.625669833807601, -- [2]
+						1.642377919536174, -- [3]
+						0, -- [4]
+						5.18478655433174, -- [5]
+						4.28262100162207, -- [6]
+						2.3470519697112, -- [7]
+						0, -- [8]
+						2.505197478810279, -- [9]
+						0, -- [10]
+						3.451278237096418, -- [11]
+						2.048276264719844, -- [12]
+						3.625669833807601, -- [13]
+						2.3470519697112, -- [14]
+						5.839960806313636, -- [15]
+						0, -- [16]
+						1.821338728388261, -- [17]
+						0, -- [18]
+						2.552666516051896, -- [19]
+						3.951099276287566, -- [20]
+						10.35358086617032, -- [21]
+						2.3470519697112, -- [22]
+						5.839960806313636, -- [23]
+						2.413051700635374, -- [24]
+						0, -- [25]
+						3.62592367892654, -- [26]
+						0, -- [27]
+						5.258401638824088, -- [28]
+						1.868553920510939, -- [29]
+						2.3470519697112, -- [30]
+						4.76137289594127, -- [31]
+						0, -- [32]
+						2.552666516051896, -- [33]
+						0, -- [34]
+						6.035929238134645, -- [35]
+						3.625669833807601, -- [36]
+						2.42015936396567, -- [37]
+						0, -- [38]
+						5.258401638824088, -- [39]
+						1.963745840113113, -- [40]
+						3.451278237096418, -- [41]
+						5.758984213372053, -- [42]
+						0, -- [43]
+						3.451024391977479, -- [44]
+						2.552666516051896, -- [45]
+						2.949680282072696, -- [46]
+						2.476259135251218, -- [47]
+						0, -- [48]
+						5.258401638824088, -- [49]
+						0, -- [50]
+					},
+					["Health"] = {
+						"311813 (79%)", -- [1]
+						"297530 (75%)", -- [2]
+						"297530 (75%)", -- [3]
+						"297530 (75%)", -- [4]
+						"270635 (68%)", -- [5]
+						"270635 (68%)", -- [6]
+						"270635 (68%)", -- [7]
+						"253764 (64%)", -- [8]
+						"253764 (64%)", -- [9]
+						"253764 (64%)", -- [10]
+						"253764 (64%)", -- [11]
+						"243895 (61%)", -- [12]
+						"229612 (58%)", -- [13]
+						"155589 (39%)", -- [14]
+						"132583 (33%)", -- [15]
+						"132583 (33%)", -- [16]
+						"132583 (33%)", -- [17]
+						"132583 (33%)", -- [18]
+						"132583 (33%)", -- [19]
+						"125408 (31%)", -- [20]
+						"84621 (21%)", -- [21]
+						"75375 (19%)", -- [22]
+						"36804 (9%)", -- [23]
+						"36804 (9%)", -- [24]
+						"36804 (9%)", -- [25]
+						"36804 (9%)", -- [26]
+						"36804 (9%)", -- [27]
+						"36804 (9%)", -- [28]
+						"27298 (6%)", -- [29]
+						"18052 (4%)", -- [30]
+						"10691 (2%)", -- [31]
+						"10691 (2%)", -- [32]
+						"10691 (2%)", -- [33]
+						"0 (0%)", -- [34]
+						"166432 (42%)", -- [35]
+						"152149 (38%)", -- [36]
+						"128371 (32%)", -- [37]
+						"128371 (32%)", -- [38]
+						"107656 (27%)", -- [39]
+						"98122 (24%)", -- [40]
+						"84526 (21%)", -- [41]
+						"76790 (19%)", -- [42]
+						"76790 (19%)", -- [43]
+						"63195 (16%)", -- [44]
+						"53139 (13%)", -- [45]
+						"30452 (7%)", -- [46]
+						"18832 (4%)", -- [47]
+						"9077 (2%)", -- [48]
+						"1 (0%)", -- [49]
+						"0 (0%)", -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"MISC", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [1]
+				{
+					["MessageTimes"] = {
+						-11.95100000000093, -- [1]
+						-11.67999999999302, -- [2]
+						-11.31300000002375, -- [3]
+						-10.98999999999069, -- [4]
+						-10.86100000003353, -- [5]
+						-10.42999999999302, -- [6]
+						-10.14100000000326, -- [7]
+						-10.04800000000978, -- [8]
+						-10.04800000000978, -- [9]
+						-9.095000000030268, -- [10]
+						-8.845000000030268, -- [11]
+						-8.694000000017695, -- [12]
+						-8.427000000025146, -- [13]
+						-8.296000000031199, -- [14]
+						-8.106000000028871, -- [15]
+						-8.106000000028871, -- [16]
+						-7.635999999998603, -- [17]
+						-7.216000000014901, -- [18]
+						-6.862000000022817, -- [19]
+						-6.408999999985099, -- [20]
+						-6.304000000003725, -- [21]
+						-6.043000000005122, -- [22]
+						-5.680999999982305, -- [23]
+						-5.253000000026077, -- [24]
+						-5.253000000026077, -- [25]
+						-4.824000000022352, -- [26]
+						-4.428000000014436, -- [27]
+						-4.428000000014436, -- [28]
+						-4.291000000026543, -- [29]
+						-4.005999999993946, -- [30]
+						-4.005999999993946, -- [31]
+						-3.305999999982305, -- [32]
+						-3.172000000020489, -- [33]
+						-2.856000000028871, -- [34]
+						-2.75199999997858, -- [35]
+						-2.364000000001397, -- [36]
+						-2.364000000001397, -- [37]
+						-2.236000000033528, -- [38]
+						-2.097000000008848, -- [39]
+						-2.097000000008848, -- [40]
+						-1.396000000007916, -- [41]
+						-0.8350000000209548, -- [42]
+						-0.4610000000102446, -- [43]
+						-0.3680000000167638, -- [44]
+						0, -- [45]
+						0, -- [46]
+						0.4869999999646097, -- [47]
+						0.7529999999678694, -- [48]
+						1.46999999997206, -- [49]
+						1.673000000009779, -- [50]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						false, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						false, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						false, -- [20]
+						true, -- [21]
+						false, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						false, -- [28]
+						true, -- [29]
+						false, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						false, -- [37]
+						true, -- [38]
+						false, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						false, -- [44]
+						true, -- [45]
+						true, -- [46]
+						true, -- [47]
+						true, -- [48]
+						true, -- [49]
+						false, -- [50]
+					},
+					["Messages"] = {
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10096 (Physical)", -- [1]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13595 (Physical)", -- [2]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -29424 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10750 (Physical)", -- [4]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2597 (Physical)", -- [6]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6540 (Physical)", -- [7]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18104 (Physical)", -- [8]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3089 (Physical)", -- [9]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7214 (Physical)", -- [10]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [11]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -28007 (Physical)", -- [12]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3158 (Physical)", -- [13]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [14]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6470 (Physical)", -- [15]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2171 (Physical)", -- [16]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20425 (Physical)", -- [17]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16871 (Physical)", -- [18]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [19]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3077 (Physical)", -- [20]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9869 (Physical)", -- [21]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2349 (Physical)", -- [22]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13596 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8069 (Physical)", -- [24]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [25]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [26]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [27]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2942 (Physical)", -- [28]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7175 (Physical)", -- [29]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2256 (Physical)", -- [30]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [31]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -15565 (Physical)", -- [32]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -40787 (Physical)", -- [33]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [34]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -23006 (Physical)", -- [35]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9506 (Physical)", -- [36]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2328 (Physical)", -- [37]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14284 (Physical)", -- [38]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2266 (Physical)", -- [39]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -20715 (Physical)", -- [40]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7361 (Physical)", -- [41]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -9246 (Physical)", -- [42]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18757 (Physical)", -- [43]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2677 (Physical)", -- [44]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -10056 (Physical)", -- [45]
+						"Swooping Plainshawk <Brimtok> dies.", -- [46]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23778 (Physical)", -- [47]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14283 (Physical)", -- [48]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9534 (Physical)", -- [49]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2497 (Physical)", -- [50]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						89.96804089952556, -- [3]
+						89.96804089952556, -- [4]
+						89.96804089952556, -- [5]
+						87.23920587092991, -- [6]
+						87.23920587092991, -- [7]
+						82.6435938376559, -- [8]
+						82.6435938376559, -- [9]
+						80.98344675979398, -- [10]
+						80.98344675979398, -- [11]
+						80.98344675979398, -- [12]
+						79.15220807176709, -- [13]
+						75.52653823795949, -- [14]
+						75.52653823795949, -- [15]
+						75.52653823795949, -- [16]
+						68.69937376409158, -- [17]
+						68.69937376409158, -- [18]
+						68.69937376409158, -- [19]
+						64.4167527624695, -- [20]
+						64.4167527624695, -- [21]
+						64.4167527624695, -- [22]
+						64.4167527624695, -- [23]
+						61.91155528365923, -- [24]
+						58.28588544985163, -- [25]
+						39.49550821062037, -- [26]
+						33.65554740430674, -- [27]
+						33.65554740430674, -- [28]
+						33.65554740430674, -- [29]
+						33.65554740430674, -- [30]
+						33.65554740430674, -- [31]
+						31.83420867591848, -- [32]
+						21.48062780974816, -- [33]
+						19.13357584003696, -- [34]
+						9.342515757435757, -- [35]
+						9.342515757435757, -- [36]
+						9.342515757435757, -- [37]
+						9.342515757435757, -- [38]
+						9.342515757435757, -- [39]
+						9.342515757435757, -- [40]
+						6.929464056800384, -- [41]
+						4.582412087089184, -- [42]
+						2.713858166578244, -- [43]
+						2.713858166578244, -- [44]
+						2.713858166578244, -- [45]
+						0, -- [46]
+						42.24795083527737, -- [47]
+						38.62228100146977, -- [48]
+						32.58635176333512, -- [49]
+						32.58635176333512, -- [50]
+					},
+					["DeathAt"] = 1369455601,
+					["EventNum"] = {
+						2.562820320809461, -- [1]
+						3.451024391977479, -- [2]
+						7.469138779664975, -- [3]
+						2.728835028595653, -- [4]
+						2.3470519697112, -- [5]
+						0, -- [6]
+						1.660147077861913, -- [7]
+						4.595612033274018, -- [8]
+						0, -- [9]
+						1.831238688026887, -- [10]
+						2.3470519697112, -- [11]
+						7.109440246128227, -- [12]
+						0, -- [13]
+						3.625669833807601, -- [14]
+						1.642377919536174, -- [15]
+						0, -- [16]
+						5.18478655433174, -- [17]
+						4.28262100162207, -- [18]
+						2.3470519697112, -- [19]
+						0, -- [20]
+						2.505197478810279, -- [21]
+						0, -- [22]
+						3.451278237096418, -- [23]
+						2.048276264719844, -- [24]
+						3.625669833807601, -- [25]
+						2.3470519697112, -- [26]
+						5.839960806313636, -- [27]
+						0, -- [28]
+						1.821338728388261, -- [29]
+						0, -- [30]
+						2.552666516051896, -- [31]
+						3.951099276287566, -- [32]
+						10.35358086617032, -- [33]
+						2.3470519697112, -- [34]
+						5.839960806313636, -- [35]
+						2.413051700635374, -- [36]
+						0, -- [37]
+						3.62592367892654, -- [38]
+						0, -- [39]
+						5.258401638824088, -- [40]
+						1.868553920510939, -- [41]
+						2.3470519697112, -- [42]
+						4.76137289594127, -- [43]
+						0, -- [44]
+						2.552666516051896, -- [45]
+						0, -- [46]
+						6.035929238134645, -- [47]
+						3.625669833807601, -- [48]
+						2.42015936396567, -- [49]
+						0, -- [50]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"393941 (100%)", -- [2]
+						"354421 (89%)", -- [3]
+						"354421 (89%)", -- [4]
+						"354421 (89%)", -- [5]
+						"343671 (87%)", -- [6]
+						"343671 (87%)", -- [7]
+						"325567 (82%)", -- [8]
+						"325567 (82%)", -- [9]
+						"319027 (80%)", -- [10]
+						"319027 (80%)", -- [11]
+						"319027 (80%)", -- [12]
+						"311813 (79%)", -- [13]
+						"297530 (75%)", -- [14]
+						"297530 (75%)", -- [15]
+						"297530 (75%)", -- [16]
+						"270635 (68%)", -- [17]
+						"270635 (68%)", -- [18]
+						"270635 (68%)", -- [19]
+						"253764 (64%)", -- [20]
+						"253764 (64%)", -- [21]
+						"253764 (64%)", -- [22]
+						"253764 (64%)", -- [23]
+						"243895 (61%)", -- [24]
+						"229612 (58%)", -- [25]
+						"155589 (39%)", -- [26]
+						"132583 (33%)", -- [27]
+						"132583 (33%)", -- [28]
+						"132583 (33%)", -- [29]
+						"132583 (33%)", -- [30]
+						"132583 (33%)", -- [31]
+						"125408 (31%)", -- [32]
+						"84621 (21%)", -- [33]
+						"75375 (19%)", -- [34]
+						"36804 (9%)", -- [35]
+						"36804 (9%)", -- [36]
+						"36804 (9%)", -- [37]
+						"36804 (9%)", -- [38]
+						"36804 (9%)", -- [39]
+						"36804 (9%)", -- [40]
+						"27298 (6%)", -- [41]
+						"18052 (4%)", -- [42]
+						"10691 (2%)", -- [43]
+						"10691 (2%)", -- [44]
+						"10691 (2%)", -- [45]
+						"0 (0%)", -- [46]
+						"166432 (42%)", -- [47]
+						"152149 (38%)", -- [48]
+						"128371 (32%)", -- [49]
+						"128371 (32%)", -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"MISC", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"DAMAGE", -- [50]
+					},
+				}, -- [2]
+				{
+					["MessageTimes"] = {
+						-14.98999999999069, -- [1]
+						-14.5229999999865, -- [2]
+						-14.1589999999851, -- [3]
+						-13.47399999998743, -- [4]
+						-13.14400000002934, -- [5]
+						-12.95900000003167, -- [6]
+						-12.95900000003167, -- [7]
+						-12.09899999998743, -- [8]
+						-11.71199999999953, -- [9]
+						-11.47600000002421, -- [10]
+						-11.08600000001025, -- [11]
+						-11.08600000001025, -- [12]
+						-10.14199999999255, -- [13]
+						-10.14199999999255, -- [14]
+						-9.872000000032131, -- [15]
+						-9.457999999984168, -- [16]
+						-9.097999999998137, -- [17]
+						-9.097999999998137, -- [18]
+						-8.532000000006519, -- [19]
+						-8.142999999981839, -- [20]
+						-7.451000000000931, -- [21]
+						-7.173000000009779, -- [22]
+						-6.864000000001397, -- [23]
+						-6.222000000008848, -- [24]
+						-6.081000000005588, -- [25]
+						-5.722000000008848, -- [26]
+						-5.441999999980908, -- [27]
+						-5.255999999993946, -- [28]
+						-4.838999999978114, -- [29]
+						-4.292000000015833, -- [30]
+						-3.875, -- [31]
+						-3.722000000008848, -- [32]
+						-3.444000000017695, -- [33]
+						-3.444000000017695, -- [34]
+						-2.924999999988359, -- [35]
+						-2.441999999980908, -- [36]
+						-1.715000000025611, -- [37]
+						-1.450000000011642, -- [38]
+						-1.450000000011642, -- [39]
+						-0.8589999999967404, -- [40]
+						-0.4579999999841675, -- [41]
+						0, -- [42]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						false, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						false, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						false, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						false, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						false, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+					},
+					["Messages"] = {
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [1]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> dies.", -- [3]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [4]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [5]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [6]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [7]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7110 (Physical)", -- [8]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20814 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [10]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [11]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7727 (Physical)", -- [12]
+						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -34649 (Physical)", -- [13]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6418 (Physical)", -- [14]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [15]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3263 (Physical)", -- [16]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6911 (Physical)", -- [17]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [18]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [19]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6780 (Physical)", -- [20]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3718 (Physical)", -- [21]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14412 (Physical)", -- [22]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7761 (Physical)", -- [24]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9649 (Physical)", -- [25]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [26]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3240 (Physical)", -- [27]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7410 (Physical)", -- [28]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -33728 (Physical)", -- [29]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -14154 (Physical)", -- [30]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9650 (Physical)", -- [31]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [32]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2827 (Physical)", -- [33]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8287 (Physical)", -- [34]
+						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -12920 (Physical)", -- [35]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6767 (Physical)", -- [36]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8282 (Physical)", -- [37]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3480 (Physical)", -- [38]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8181 (Physical)", -- [39]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [40]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13305 (Physical)", -- [41]
+						"Swooping Plainshawk <Brimtok> dies.", -- [42]
+					},
+					["EventNum"] = {
+						2.44935155264367, -- [1]
+						9.700691220258872, -- [2]
+						0, -- [3]
+						0, -- [4]
+						1.234448813400991, -- [5]
+						1.783261960547392, -- [6]
+						2.449605397762609, -- [7]
+						1.804838795657218, -- [8]
+						5.283532305599062, -- [9]
+						0, -- [10]
+						2.54276655641327, -- [11]
+						1.961461234042661, -- [12]
+						8.795479526121932, -- [13]
+						1.629177973351339, -- [14]
+						2.449605397762609, -- [15]
+						0, -- [16]
+						1.754323616988331, -- [17]
+						1.234194968282052, -- [18]
+						2.449605397762609, -- [19]
+						1.721069906407305, -- [20]
+						0, -- [21]
+						3.658415854150749, -- [22]
+						5.045679429153097, -- [23]
+						1.970091968086592, -- [24]
+						2.44935155264367, -- [25]
+						2.102345275053879, -- [26]
+						0, -- [27]
+						1.880992331338957, -- [28]
+						8.561688171578993, -- [29]
+						3.592923813464453, -- [30]
+						2.449605397762609, -- [31]
+						2.102345275053879, -- [32]
+						0, -- [33]
+						2.103614500648575, -- [34]
+						3.279678936693566, -- [35]
+						1.717769919861096, -- [36]
+						2.102345275053879, -- [37]
+						0, -- [38]
+						2.076706918041027, -- [39]
+						2.44935155264367, -- [40]
+						3.377409307485131, -- [41]
+						0, -- [42]
+					},
+					["DeathAt"] = 1367893447,
+					["HealthNum"] = {
+						8.749787404712889, -- [1]
+						0.0002538451189391305, -- [2]
+						0, -- [3]
+						86.3017558466877, -- [4]
+						85.06730703328671, -- [5]
+						85.06730703328671, -- [6]
+						82.6177016355241, -- [7]
+						80.83443967497671, -- [8]
+						75.55090736937765, -- [9]
+						75.55090736937765, -- [10]
+						71.20330201730717, -- [11]
+						71.20330201730717, -- [12]
+						60.44636125714257, -- [13]
+						60.44636125714257, -- [14]
+						57.99675585937996, -- [15]
+						57.99675585937996, -- [16]
+						56.36757788602862, -- [17]
+						55.13338291774657, -- [18]
+						52.68377751998396, -- [19]
+						50.92945390299563, -- [20]
+						49.20838399658832, -- [21]
+						49.20838399658832, -- [22]
+						44.16270456743523, -- [23]
+						40.50428871328447, -- [24]
+						38.0549371606408, -- [25]
+						35.95259188558693, -- [26]
+						33.98249991750033, -- [27]
+						33.98249991750033, -- [28]
+						23.53981941458239, -- [29]
+						23.53981941458239, -- [30]
+						21.09021401681978, -- [31]
+						18.9878687417659, -- [32]
+						15.39494492830145, -- [33]
+						15.39494492830145, -- [34]
+						10.01165149095931, -- [35]
+						10.01165149095931, -- [36]
+						7.909306215905428, -- [37]
+						6.191536296044331, -- [38]
+						6.191536296044331, -- [39]
+						1.665477825359635, -- [40]
+						1.665477825359635, -- [41]
+						0, -- [42]
+					},
+					["Health"] = {
+						"34469 (8%)", -- [1]
+						"1 (0%)", -- [2]
+						"0 (0%)", -- [3]
+						"339978 (86%)", -- [4]
+						"335115 (85%)", -- [5]
+						"335115 (85%)", -- [6]
+						"325465 (82%)", -- [7]
+						"318440 (80%)", -- [8]
+						"297626 (75%)", -- [9]
+						"297626 (75%)", -- [10]
+						"280499 (71%)", -- [11]
+						"280499 (71%)", -- [12]
+						"238123 (60%)", -- [13]
+						"238123 (60%)", -- [14]
+						"228473 (57%)", -- [15]
+						"228473 (57%)", -- [16]
+						"222055 (56%)", -- [17]
+						"217193 (55%)", -- [18]
+						"207543 (52%)", -- [19]
+						"200632 (50%)", -- [20]
+						"193852 (49%)", -- [21]
+						"193852 (49%)", -- [22]
+						"173975 (44%)", -- [23]
+						"159563 (40%)", -- [24]
+						"149914 (38%)", -- [25]
+						"141632 (35%)", -- [26]
+						"133871 (33%)", -- [27]
+						"133871 (33%)", -- [28]
+						"92733 (23%)", -- [29]
+						"92733 (23%)", -- [30]
+						"83083 (21%)", -- [31]
+						"74801 (18%)", -- [32]
+						"60647 (15%)", -- [33]
+						"60647 (15%)", -- [34]
+						"39440 (10%)", -- [35]
+						"39440 (10%)", -- [36]
+						"31158 (7%)", -- [37]
+						"24391 (6%)", -- [38]
+						"24391 (6%)", -- [39]
+						"6561 (1%)", -- [40]
+						"6561 (1%)", -- [41]
+						"0 (0%)", -- [42]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"MISC", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"MISC", -- [42]
+					},
+				}, -- [3]
+				{
+					["MessageTimes"] = {
+						-9.834000000031665, -- [1]
+						-9.834000000031665, -- [2]
+						-9.290000000037253, -- [3]
+						-9.290000000037253, -- [4]
+						-9.290000000037253, -- [5]
+						-9.119000000006054, -- [6]
+						-8.932000000029802, -- [7]
+						-8.932000000029802, -- [8]
+						-8.932000000029802, -- [9]
+						-8.01300000003539, -- [10]
+						-8.01300000003539, -- [11]
+						-7.315000000002328, -- [12]
+						-7.315000000002328, -- [13]
+						-6.910000000032596, -- [14]
+						-6.910000000032596, -- [15]
+						-6.910000000032596, -- [16]
+						-6.910000000032596, -- [17]
+						-6.817000000039116, -- [18]
+						-6.817000000039116, -- [19]
+						-6.025000000023283, -- [20]
+						-6.025000000023283, -- [21]
+						-5.314000000013039, -- [22]
+						-5.314000000013039, -- [23]
+						-4.909000000043307, -- [24]
+						-4.909000000043307, -- [25]
+						-4.909000000043307, -- [26]
+						-4.441000000049826, -- [27]
+						-3.988000000012107, -- [28]
+						-3.988000000012107, -- [29]
+						-3.833000000042375, -- [30]
+						-3.833000000042375, -- [31]
+						-3.325000000011642, -- [32]
+						-3.325000000011642, -- [33]
+						-3.325000000011642, -- [34]
+						-2.918000000005122, -- [35]
+						-2.918000000005122, -- [36]
+						-2.075000000011642, -- [37]
+						-1.965000000025611, -- [38]
+						-1.573000000033062, -- [39]
+						-1.319000000017695, -- [40]
+						-1.210000000020955, -- [41]
+						-0.9239999999990687, -- [42]
+						-0.9239999999990687, -- [43]
+						-0.8310000000055879, -- [44]
+						-0.364000000001397, -- [45]
+						0, -- [46]
+						0.6849999999976717, -- [47]
+						1.014999999955762, -- [48]
+						1.199999999953434, -- [49]
+						1.199999999953434, -- [50]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						false, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						false, -- [11]
+						false, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						false, -- [20]
+						false, -- [21]
+						false, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						false, -- [28]
+						false, -- [29]
+						true, -- [30]
+						true, -- [31]
+						false, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						false, -- [38]
+						true, -- [39]
+						false, -- [40]
+						true, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+						true, -- [46]
+						false, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13890 (Physical)", -- [1]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2127 (Physical)", -- [3]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [4]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30121 (Physical)", -- [5]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23205 (Physical)", -- [6]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [7]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [8]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2339 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [11]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2293 (Physical)", -- [12]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -18084 (Physical)", -- [13]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [14]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [15]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [16]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [17]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [18]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -19407 (Physical)", -- [19]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2145 (Physical)", -- [20]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2236 (Physical)", -- [21]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -1903 (Physical)", -- [22]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [23]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [24]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [25]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [26]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21051 (Physical)", -- [27]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -4406 (Physical)", -- [28]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2140 (Physical)", -- [29]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -28612 (Physical)", -- [30]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [31]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2682 (Physical)", -- [32]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8778 (Physical)", -- [33]
+						"Swooping Plainshawk <Brimtok> dies.", -- [34]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [35]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [36]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [37]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [38]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [39]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3176 (Physical)", -- [40]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8295 (Physical)", -- [41]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [42]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [43]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [44]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -38215 (Physical)", -- [45]
+						"Swooping Plainshawk <Brimtok> dies.", -- [46]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3207 (Physical)", -- [47]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4863 (Physical)", -- [48]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7025 (Physical)", -- [49]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -9650 (Physical)", -- [50]
+					},
+					["EventNum"] = {
+						3.525908702064522, -- [1]
+						5.270840049652105, -- [2]
+						0, -- [3]
+						2.228506299166627, -- [4]
+						7.646068827565549, -- [5]
+						5.890475984982523, -- [6]
+						1.234194968282052, -- [7]
+						2.542512711294331, -- [8]
+						1.234194968282052, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						4.590535130895236, -- [13]
+						2.542512711294331, -- [14]
+						2.54276655641327, -- [15]
+						1.234194968282052, -- [16]
+						3.525654856945583, -- [17]
+						10.85797111750237, -- [18]
+						4.926372223251705, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						2.228506299166627, -- [23]
+						1.234194968282052, -- [24]
+						1.234194968282052, -- [25]
+						2.542512711294331, -- [26]
+						5.343693598787636, -- [27]
+						0, -- [28]
+						0, -- [29]
+						7.263016543086401, -- [30]
+						10.85822496262131, -- [31]
+						0, -- [32]
+						2.228252454047687, -- [33]
+						0, -- [34]
+						2.542512711294331, -- [35]
+						1.234194968282052, -- [36]
+						1.609885744311965, -- [37]
+						0, -- [38]
+						5.045933274272036, -- [39]
+						0, -- [40]
+						2.105645261600087, -- [41]
+						2.542512711294331, -- [42]
+						1.234194968282052, -- [43]
+						2.44935155264367, -- [44]
+						9.700691220258872, -- [45]
+						0, -- [46]
+						0, -- [47]
+						1.234448813400991, -- [48]
+						1.783261960547392, -- [49]
+						2.449605397762609, -- [50]
+					},
+					["DeathAt"] = 1367893433,
+					["HealthNum"] = {
+						76.12789732472629, -- [1]
+						70.85705727507418, -- [2]
+						70.85705727507418, -- [3]
+						70.85705727507418, -- [4]
+						63.21098844750864, -- [5]
+						63.21098844750864, -- [6]
+						63.21098844750864, -- [7]
+						60.66847573621431, -- [8]
+						60.66847573621431, -- [9]
+						54.77799975123178, -- [10]
+						54.77799975123178, -- [11]
+						54.77799975123178, -- [12]
+						54.77799975123178, -- [13]
+						54.77799975123178, -- [14]
+						54.77799975123178, -- [15]
+						53.54380478294973, -- [16]
+						53.54380478294973, -- [17]
+						42.68583366544736, -- [18]
+						42.68583366544736, -- [19]
+						37.75946144219566, -- [20]
+						37.75946144219566, -- [21]
+						37.75946144219566, -- [22]
+						37.75946144219566, -- [23]
+						36.5252664739136, -- [24]
+						36.5252664739136, -- [25]
+						36.5252664739136, -- [26]
+						36.5252664739136, -- [27]
+						31.18157287512597, -- [28]
+						31.18157287512597, -- [29]
+						31.18157287512597, -- [30]
+						20.32334791250467, -- [31]
+						20.32334791250467, -- [32]
+						20.32334791250467, -- [33]
+						20.32334791250467, -- [34]
+						20.32334791250467, -- [35]
+						19.08915294422261, -- [36]
+						19.08915294422261, -- [37]
+						19.08915294422261, -- [38]
+						12.43333392563861, -- [39]
+						12.43333392563861, -- [40]
+						12.43333392563861, -- [41]
+						12.43333392563861, -- [42]
+						11.19913895735656, -- [43]
+						8.749787404712889, -- [44]
+						0.0002538451189391305, -- [45]
+						0, -- [46]
+						86.3017558466877, -- [47]
+						85.06730703328671, -- [48]
+						85.06730703328671, -- [49]
+						82.6177016355241, -- [50]
+					},
+					["Health"] = {
+						"299899 (76%)", -- [1]
+						"279135 (70%)", -- [2]
+						"279135 (70%)", -- [3]
+						"279135 (70%)", -- [4]
+						"249014 (63%)", -- [5]
+						"249014 (63%)", -- [6]
+						"249014 (63%)", -- [7]
+						"238998 (60%)", -- [8]
+						"238998 (60%)", -- [9]
+						"215793 (54%)", -- [10]
+						"215793 (54%)", -- [11]
+						"215793 (54%)", -- [12]
+						"215793 (54%)", -- [13]
+						"215793 (54%)", -- [14]
+						"215793 (54%)", -- [15]
+						"210931 (53%)", -- [16]
+						"210931 (53%)", -- [17]
+						"168157 (42%)", -- [18]
+						"168157 (42%)", -- [19]
+						"148750 (37%)", -- [20]
+						"148750 (37%)", -- [21]
+						"148750 (37%)", -- [22]
+						"148750 (37%)", -- [23]
+						"143888 (36%)", -- [24]
+						"143888 (36%)", -- [25]
+						"143888 (36%)", -- [26]
+						"143888 (36%)", -- [27]
+						"122837 (31%)", -- [28]
+						"122837 (31%)", -- [29]
+						"122837 (31%)", -- [30]
+						"80062 (20%)", -- [31]
+						"80062 (20%)", -- [32]
+						"80062 (20%)", -- [33]
+						"80062 (20%)", -- [34]
+						"80062 (20%)", -- [35]
+						"75200 (19%)", -- [36]
+						"75200 (19%)", -- [37]
+						"75200 (19%)", -- [38]
+						"48980 (12%)", -- [39]
+						"48980 (12%)", -- [40]
+						"48980 (12%)", -- [41]
+						"48980 (12%)", -- [42]
+						"44118 (11%)", -- [43]
+						"34469 (8%)", -- [44]
+						"1 (0%)", -- [45]
+						"0 (0%)", -- [46]
+						"339978 (86%)", -- [47]
+						"335115 (85%)", -- [48]
+						"335115 (85%)", -- [49]
+						"325465 (82%)", -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"MISC", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"MISC", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"DAMAGE", -- [50]
+					},
+				}, -- [4]
+				{
+					["MessageTimes"] = {
+						-9.103999999992084, -- [1]
+						-8.755000000004657, -- [2]
+						-8.755000000004657, -- [3]
+						-8.149000000033993, -- [4]
+						-8.041000000026543, -- [5]
+						-7.916000000026543, -- [6]
+						-7.589000000036322, -- [7]
+						-7.589000000036322, -- [8]
+						-7.589000000036322, -- [9]
+						-6.679999999993015, -- [10]
+						-6.679999999993015, -- [11]
+						-6.509000000020023, -- [12]
+						-6.509000000020023, -- [13]
+						-5.965000000025611, -- [14]
+						-5.965000000025611, -- [15]
+						-5.965000000025611, -- [16]
+						-5.793999999994412, -- [17]
+						-5.607000000018161, -- [18]
+						-5.607000000018161, -- [19]
+						-5.607000000018161, -- [20]
+						-4.688000000023749, -- [21]
+						-4.688000000023749, -- [22]
+						-3.989999999990687, -- [23]
+						-3.989999999990687, -- [24]
+						-3.585000000020955, -- [25]
+						-3.585000000020955, -- [26]
+						-3.585000000020955, -- [27]
+						-3.585000000020955, -- [28]
+						-3.492000000027474, -- [29]
+						-3.492000000027474, -- [30]
+						-2.700000000011642, -- [31]
+						-2.700000000011642, -- [32]
+						-1.989000000001397, -- [33]
+						-1.989000000001397, -- [34]
+						-1.584000000031665, -- [35]
+						-1.584000000031665, -- [36]
+						-1.584000000031665, -- [37]
+						-1.116000000038184, -- [38]
+						-0.6630000000004657, -- [39]
+						-0.6630000000004657, -- [40]
+						-0.5080000000307336, -- [41]
+						-0.5080000000307336, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0.4070000000065193, -- [46]
+						0.4070000000065193, -- [47]
+						1.25, -- [48]
+						1.35999999998603, -- [49]
+						1.75199999997858, -- [50]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						false, -- [2]
+						false, -- [3]
+						true, -- [4]
+						false, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						false, -- [21]
+						false, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+						false, -- [31]
+						false, -- [32]
+						false, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						false, -- [39]
+						false, -- [40]
+						true, -- [41]
+						true, -- [42]
+						false, -- [43]
+						true, -- [44]
+						true, -- [45]
+						true, -- [46]
+						true, -- [47]
+						true, -- [48]
+						false, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24021 (Physical)", -- [1]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2123 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2538 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9619 (Physical)", -- [4]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2816 (Physical)", -- [5]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [6]
+						"Brimtok Thrash Swooping Plainshawk <Brimtok> Hit -6889 (Physical)", -- [7]
+						"Brimtok Thrash Swooping Plainshawk <Brimtok> Hit -6889 (Physical)", -- [8]
+						"Brimtok Thrash Swooping Plainshawk <Brimtok> Crit -14191 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2769 (Physical)", -- [11]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13890 (Physical)", -- [12]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [13]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2127 (Physical)", -- [14]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [15]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30121 (Physical)", -- [16]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23205 (Physical)", -- [17]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [18]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [19]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [20]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2339 (Physical)", -- [21]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [22]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2293 (Physical)", -- [23]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -18084 (Physical)", -- [24]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [25]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10017 (Physical)", -- [26]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [27]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [28]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [29]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -19407 (Physical)", -- [30]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2145 (Physical)", -- [31]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2236 (Physical)", -- [32]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -1903 (Physical)", -- [33]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8779 (Physical)", -- [34]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [35]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [36]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [37]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21051 (Physical)", -- [38]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -4406 (Physical)", -- [39]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2140 (Physical)", -- [40]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -28612 (Physical)", -- [41]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [42]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2682 (Physical)", -- [43]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -8778 (Physical)", -- [44]
+						"Swooping Plainshawk <Brimtok> dies.", -- [45]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -10016 (Physical)", -- [46]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -4862 (Physical)", -- [47]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6342 (Physical)", -- [48]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [49]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [50]
+					},
+					["EventNum"] = {
+						6.097613602036853, -- [1]
+						0, -- [2]
+						0, -- [3]
+						2.441736199075496, -- [4]
+						0, -- [5]
+						2.228506299166627, -- [6]
+						1.74873902437167, -- [7]
+						1.74873902437167, -- [8]
+						3.602316082865201, -- [9]
+						0, -- [10]
+						0, -- [11]
+						3.525908702064522, -- [12]
+						5.270840049652105, -- [13]
+						0, -- [14]
+						2.228506299166627, -- [15]
+						7.646068827565549, -- [16]
+						5.890475984982523, -- [17]
+						1.234194968282052, -- [18]
+						2.542512711294331, -- [19]
+						1.234194968282052, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						4.590535130895236, -- [24]
+						2.542512711294331, -- [25]
+						2.54276655641327, -- [26]
+						1.234194968282052, -- [27]
+						3.525654856945583, -- [28]
+						10.85797111750237, -- [29]
+						4.926372223251705, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						2.228506299166627, -- [34]
+						1.234194968282052, -- [35]
+						1.234194968282052, -- [36]
+						2.542512711294331, -- [37]
+						5.343693598787636, -- [38]
+						0, -- [39]
+						0, -- [40]
+						7.263016543086401, -- [41]
+						10.85822496262131, -- [42]
+						0, -- [43]
+						2.228252454047687, -- [44]
+						0, -- [45]
+						2.542512711294331, -- [46]
+						1.234194968282052, -- [47]
+						1.609885744311965, -- [48]
+						0, -- [49]
+						5.045933274272036, -- [50]
+					},
+					["DeathAt"] = 1367893429,
+					["HealthNum"] = {
+						86.41598615021032, -- [1]
+						86.41598615021032, -- [2]
+						86.41598615021032, -- [3]
+						80.31837254817346, -- [4]
+						80.31837254817346, -- [5]
+						80.31837254817346, -- [6]
+						76.12789732472629, -- [7]
+						76.12789732472629, -- [8]
+						76.12789732472629, -- [9]
+						76.12789732472629, -- [10]
+						76.12789732472629, -- [11]
+						76.12789732472629, -- [12]
+						70.85705727507418, -- [13]
+						70.85705727507418, -- [14]
+						70.85705727507418, -- [15]
+						63.21098844750864, -- [16]
+						63.21098844750864, -- [17]
+						63.21098844750864, -- [18]
+						60.66847573621431, -- [19]
+						60.66847573621431, -- [20]
+						54.77799975123178, -- [21]
+						54.77799975123178, -- [22]
+						54.77799975123178, -- [23]
+						54.77799975123178, -- [24]
+						54.77799975123178, -- [25]
+						54.77799975123178, -- [26]
+						53.54380478294973, -- [27]
+						53.54380478294973, -- [28]
+						42.68583366544736, -- [29]
+						42.68583366544736, -- [30]
+						37.75946144219566, -- [31]
+						37.75946144219566, -- [32]
+						37.75946144219566, -- [33]
+						37.75946144219566, -- [34]
+						36.5252664739136, -- [35]
+						36.5252664739136, -- [36]
+						36.5252664739136, -- [37]
+						36.5252664739136, -- [38]
+						31.18157287512597, -- [39]
+						31.18157287512597, -- [40]
+						31.18157287512597, -- [41]
+						20.32334791250467, -- [42]
+						20.32334791250467, -- [43]
+						20.32334791250467, -- [44]
+						20.32334791250467, -- [45]
+						20.32334791250467, -- [46]
+						19.08915294422261, -- [47]
+						19.08915294422261, -- [48]
+						19.08915294422261, -- [49]
+						12.43333392563861, -- [50]
+					},
+					["Health"] = {
+						"340428 (86%)", -- [1]
+						"340428 (86%)", -- [2]
+						"340428 (86%)", -- [3]
+						"316407 (80%)", -- [4]
+						"316407 (80%)", -- [5]
+						"316407 (80%)", -- [6]
+						"299899 (76%)", -- [7]
+						"299899 (76%)", -- [8]
+						"299899 (76%)", -- [9]
+						"299899 (76%)", -- [10]
+						"299899 (76%)", -- [11]
+						"299899 (76%)", -- [12]
+						"279135 (70%)", -- [13]
+						"279135 (70%)", -- [14]
+						"279135 (70%)", -- [15]
+						"249014 (63%)", -- [16]
+						"249014 (63%)", -- [17]
+						"249014 (63%)", -- [18]
+						"238998 (60%)", -- [19]
+						"238998 (60%)", -- [20]
+						"215793 (54%)", -- [21]
+						"215793 (54%)", -- [22]
+						"215793 (54%)", -- [23]
+						"215793 (54%)", -- [24]
+						"215793 (54%)", -- [25]
+						"215793 (54%)", -- [26]
+						"210931 (53%)", -- [27]
+						"210931 (53%)", -- [28]
+						"168157 (42%)", -- [29]
+						"168157 (42%)", -- [30]
+						"148750 (37%)", -- [31]
+						"148750 (37%)", -- [32]
+						"148750 (37%)", -- [33]
+						"148750 (37%)", -- [34]
+						"143888 (36%)", -- [35]
+						"143888 (36%)", -- [36]
+						"143888 (36%)", -- [37]
+						"143888 (36%)", -- [38]
+						"122837 (31%)", -- [39]
+						"122837 (31%)", -- [40]
+						"122837 (31%)", -- [41]
+						"80062 (20%)", -- [42]
+						"80062 (20%)", -- [43]
+						"80062 (20%)", -- [44]
+						"80062 (20%)", -- [45]
+						"80062 (20%)", -- [46]
+						"75200 (19%)", -- [47]
+						"75200 (19%)", -- [48]
+						"75200 (19%)", -- [49]
+						"48980 (12%)", -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"MISC", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"DAMAGE", -- [50]
+					},
+				}, -- [5]
+				{
+					["MessageTimes"] = {
+						-8.513000000006286, -- [1]
+						-8.24100000000908, -- [2]
+						-8.12300000002142, -- [3]
+						-7.317999999999302, -- [4]
+						-6.505000000004657, -- [5]
+						-6.505000000004657, -- [6]
+						-6.346000000019558, -- [7]
+						-5.437000000005355, -- [8]
+						-5.320999999996275, -- [9]
+						-5.135999999998603, -- [10]
+						-4.610000000015134, -- [11]
+						-4.437999999994645, -- [12]
+						-3.668999999994412, -- [13]
+						-2.634000000020023, -- [14]
+						-2.634000000020023, -- [15]
+						-2.517000000021653, -- [16]
+						-2.415000000008149, -- [17]
+						-2.157000000006519, -- [18]
+						-1.701000000000931, -- [19]
+						-1.214000000007218, -- [20]
+						-0.8030000000144355, -- [21]
+						-0.5, -- [22]
+						-0.3830000000016298, -- [23]
+						-0.1290000000153668, -- [24]
+						0, -- [25]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						false, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						false, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3969 (Physical)", -- [1]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7245 (Physical)", -- [2]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8069 (Physical)", -- [4]
+						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -74856 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [6]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7744 (Physical)", -- [7]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8070 (Physical)", -- [8]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -20366 (Physical)", -- [9]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -9649 (Physical)", -- [10]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7419 (Physical)", -- [11]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -7224 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12063 (Physical)", -- [13]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10718 (Physical)", -- [14]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -42775 (Physical)", -- [15]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13729 (Physical)", -- [16]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [17]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -42774 (Physical)", -- [18]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11112 (Physical)", -- [19]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -56380 (Physical)", -- [20]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -25889 (Physical)", -- [21]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13729 (Physical)", -- [22]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2991 (Physical)", -- [23]
+						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -97004 (Physical)", -- [24]
+						"Swooping Plainshawk <Brimtok> dies.", -- [25]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						94.95406672572797, -- [3]
+						93.11495883901397, -- [4]
+						72.06485235098657, -- [5]
+						72.06485235098657, -- [6]
+						72.06485235098657, -- [7]
+						70.09907574992194, -- [8]
+						64.92926605760761, -- [9]
+						62.47991450496394, -- [10]
+						60.43138439512516, -- [11]
+						60.43138439512516, -- [12]
+						58.54810745771575, -- [13]
+						55.48597378795302, -- [14]
+						44.62774882533171, -- [15]
+						41.14270918741639, -- [16]
+						38.42199720262679, -- [17]
+						27.56402608512442, -- [18]
+						27.56402608512442, -- [19]
+						10.43151131768463, -- [20]
+						10.43151131768463, -- [21]
+						6.946471679769306, -- [22]
+						6.946471679769306, -- [23]
+						0.0002538451189391305, -- [24]
+						0, -- [25]
+					},
+					["DeathAt"] = 1367784504,
+					["EventNum"] = {
+						0, -- [1]
+						1.839107886714, -- [2]
+						5.045933274272036, -- [3]
+						2.048276264719844, -- [4]
+						19.00183022330755, -- [5]
+						0, -- [6]
+						1.965776601064627, -- [7]
+						2.048530109838783, -- [8]
+						5.169809692314331, -- [9]
+						2.44935155264367, -- [10]
+						1.883276937409409, -- [11]
+						0, -- [12]
+						3.062133669762731, -- [13]
+						2.720711984789601, -- [14]
+						10.85822496262131, -- [15]
+						3.485039637915322, -- [16]
+						0, -- [17]
+						10.85797111750237, -- [18]
+						2.820726961651618, -- [19]
+						14.31178780578818, -- [20]
+						6.571796284215149, -- [21]
+						3.485039637915322, -- [22]
+						0, -- [23]
+						24.62399191757141, -- [24]
+						0, -- [25]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"393941 (100%)", -- [2]
+						"374063 (94%)", -- [3]
+						"366818 (93%)", -- [4]
+						"283893 (72%)", -- [5]
+						"283893 (72%)", -- [6]
+						"283893 (72%)", -- [7]
+						"276149 (70%)", -- [8]
+						"255783 (64%)", -- [9]
+						"246134 (62%)", -- [10]
+						"238064 (60%)", -- [11]
+						"238064 (60%)", -- [12]
+						"230645 (58%)", -- [13]
+						"218582 (55%)", -- [14]
+						"175807 (44%)", -- [15]
+						"162078 (41%)", -- [16]
+						"151360 (38%)", -- [17]
+						"108586 (27%)", -- [18]
+						"108586 (27%)", -- [19]
+						"41094 (10%)", -- [20]
+						"41094 (10%)", -- [21]
+						"27365 (6%)", -- [22]
+						"27365 (6%)", -- [23]
+						"1 (0%)", -- [24]
+						"0 (0%)", -- [25]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"MISC", -- [25]
+					},
+				}, -- [6]
+				{
+					["MessageTimes"] = {
+						830813.694, -- [1]
+						830814.616, -- [2]
+						830814.616, -- [3]
+						830814.616, -- [4]
+						830815.022, -- [5]
+						830815.5850000001, -- [6]
+						830815.991, -- [7]
+						830816.241, -- [8]
+						830816.522, -- [9]
+						830816.522, -- [10]
+						830816.522, -- [11]
+						830817.0380000001, -- [12]
+						830817.444, -- [13]
+						830818.382, -- [14]
+						830818.616, -- [15]
+						830819.0850000001, -- [16]
+						830819.257, -- [17]
+						830819.491, -- [18]
+						830819.8810000001, -- [19]
+						-11.68100000000413, -- [20]
+						-11.68100000000413, -- [21]
+						-11.55900000000111, -- [22]
+						-10.70300000000134, -- [23]
+						-10.36000000000058, -- [24]
+						-9.768000000003667, -- [25]
+						-9.645000000004075, -- [26]
+						-8.88300000000163, -- [27]
+						-8.477000000006228, -- [28]
+						-7.915000000000873, -- [29]
+						-7.666000000004715, -- [30]
+						-7.334000000002561, -- [31]
+						-7.334000000002561, -- [32]
+						-6.976000000002387, -- [33]
+						-6.054000000003725, -- [34]
+						-5.635000000002037, -- [35]
+						-5.120000000002619, -- [36]
+						-4.417000000001281, -- [37]
+						-4.182000000000699, -- [38]
+						-4.044000000001688, -- [39]
+						-3.686000000001513, -- [40]
+						-3.686000000001513, -- [41]
+						-3.226000000002387, -- [42]
+						-2.667000000001281, -- [43]
+						-2.290000000000873, -- [44]
+						-2.010000000002037, -- [45]
+						-1.620000000002619, -- [46]
+						-1.386000000005879, -- [47]
+						-1.386000000005879, -- [48]
+						-0.4220000000059372, -- [49]
+						0, -- [50]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						false, -- [2]
+						false, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						false, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						false, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						false, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						false, -- [41]
+						true, -- [42]
+						true, -- [43]
+						true, -- [44]
+						true, -- [45]
+						false, -- [46]
+						true, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [1]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [4]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [5]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [6]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [7]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [8]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [11]
+						"Swooping Plainshawk <Brimtok> dies.", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [13]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [15]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [16]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21658 (Physical)", -- [17]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -24473 (Physical)", -- [18]
+						"Swooping Plainshawk <Brimtok> dies.", -- [19]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -5897 (Physical)", -- [20]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7656 (Physical)", -- [21]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -16692 (Physical)", -- [22]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -13470 (Physical)", -- [23]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -19877 (Physical)", -- [24]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8356 (Physical)", -- [25]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3556 (Physical)", -- [26]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -18151 (Physical)", -- [27]
+						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Hit -35229 (Physical)", -- [28]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8683 (Physical)", -- [29]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3589 (Physical)", -- [30]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -19878 (Physical)", -- [31]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -13889 (Physical)", -- [32]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9042 (Physical)", -- [33]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7302 (Physical)", -- [34]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3549 (Physical)", -- [35]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8266 (Physical)", -- [36]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -13889 (Physical)", -- [37]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24579 (Physical)", -- [38]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13728 (Physical)", -- [39]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14534 (Physical)", -- [40]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3445 (Physical)", -- [41]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Parry", -- [42]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27623 (Physical)", -- [43]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22910 (Physical)", -- [44]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13728 (Physical)", -- [45]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3269 (Physical)", -- [46]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Parry", -- [47]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -20764 (Physical)", -- [48]
+						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -59119 (Physical)", -- [49]
+						"Swooping Plainshawk <Brimtok> dies.", -- [50]
+					},
+					["EventNum"] = {
+						2.136614366110661, -- [1]
+						0, -- [2]
+						0, -- [3]
+						5.313739874752819, -- [4]
+						3.184233171972453, -- [5]
+						2.675273708499496, -- [6]
+						3.184233171972453, -- [7]
+						4.619981164692175, -- [8]
+						2.297298326399131, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						2.3528904074468, -- [13]
+						2.689742880279026, -- [14]
+						0, -- [15]
+						6.559611718506071, -- [16]
+						5.497777585983688, -- [17]
+						6.21235159579734, -- [18]
+						0, -- [19]
+						0, -- [20]
+						1.943438230597983, -- [21]
+						4.237182725331966, -- [22]
+						3.419293752110088, -- [23]
+						5.045679429153097, -- [24]
+						2.121129813855375, -- [25]
+						0, -- [26]
+						4.607542753864157, -- [27]
+						8.942709695106627, -- [28]
+						2.20413716774847, -- [29]
+						0, -- [30]
+						5.045933274272036, -- [31]
+						3.525654856945583, -- [32]
+						2.295267565447618, -- [33]
+						1.853577058493531, -- [34]
+						0, -- [35]
+						2.098283753150853, -- [36]
+						3.525654856945583, -- [37]
+						6.239259178404888, -- [38]
+						3.484785792796383, -- [39]
+						3.689384958661322, -- [40]
+						0, -- [41]
+						0, -- [42]
+						7.011963720455602, -- [43]
+						5.81559167489548, -- [44]
+						3.484785792796383, -- [45]
+						0, -- [46]
+						0, -- [47]
+						5.270840049652105, -- [48]
+						15.00706958656246, -- [49]
+						0, -- [50]
+					},
+					["DeathAt"] = 1367616154,
+					["HealthNum"] = {
+						24.28434714843086, -- [1]
+						16.20598008331197, -- [2]
+						16.20598008331197, -- [3]
+						16.20598008331197, -- [4]
+						7.708007036586697, -- [5]
+						7.708007036586697, -- [6]
+						7.708007036586697, -- [7]
+						0.4127521633950262, -- [8]
+						0.4127521633950262, -- [9]
+						0.4127521633950262, -- [10]
+						0.4127521633950262, -- [11]
+						18.96349961034774, -- [12]
+						18.96349961034774, -- [13]
+						16.61060920290094, -- [14]
+						16.61060920290094, -- [15]
+						7.361254604115845, -- [16]
+						7.361254604115845, -- [17]
+						1.148903008318505, -- [18]
+						0, -- [19]
+						100, -- [20]
+						100, -- [21]
+						95.76281727466804, -- [22]
+						93.81937904407005, -- [23]
+						88.77369961491695, -- [24]
+						85.35440586280687, -- [25]
+						85.35440586280687, -- [26]
+						83.2332760489515, -- [27]
+						74.29056635384487, -- [28]
+						69.68302359998071, -- [29]
+						67.47888643223224, -- [30]
+						62.4329531579602, -- [31]
+						58.90729830101462, -- [32]
+						58.90729830101462, -- [33]
+						56.612030735567, -- [34]
+						56.612030735567, -- [35]
+						54.75845367707347, -- [36]
+						49.13451506697704, -- [37]
+						49.13451506697704, -- [38]
+						45.64972927418065, -- [39]
+						35.72108513711444, -- [40]
+						35.72108513711444, -- [41]
+						35.72108513711444, -- [42]
+						28.70912141665884, -- [43]
+						28.70912141665884, -- [44]
+						19.40874394896698, -- [45]
+						19.40874394896698, -- [46]
+						19.40874394896698, -- [47]
+						14.13790389931487, -- [48]
+						0.0002538451189391305, -- [49]
+						0, -- [50]
+					},
+					["Health"] = {
+						"95666 (24%)", -- [1]
+						"63842 (16%)", -- [2]
+						"63842 (16%)", -- [3]
+						"63842 (16%)", -- [4]
+						"30365 (7%)", -- [5]
+						"30365 (7%)", -- [6]
+						"30365 (7%)", -- [7]
+						"1626 (0%)", -- [8]
+						"1626 (0%)", -- [9]
+						"1626 (0%)", -- [10]
+						"1626 (0%)", -- [11]
+						"74705 (18%)", -- [12]
+						"74705 (18%)", -- [13]
+						"65436 (16%)", -- [14]
+						"65436 (16%)", -- [15]
+						"28999 (7%)", -- [16]
+						"28999 (7%)", -- [17]
+						"4526 (1%)", -- [18]
+						"0 (0%)", -- [19]
+						"393941 (100%)", -- [20]
+						"393941 (100%)", -- [21]
+						"377249 (95%)", -- [22]
+						"369593 (93%)", -- [23]
+						"349716 (88%)", -- [24]
+						"336246 (85%)", -- [25]
+						"336246 (85%)", -- [26]
+						"327890 (83%)", -- [27]
+						"292661 (74%)", -- [28]
+						"274510 (69%)", -- [29]
+						"265827 (67%)", -- [30]
+						"245949 (62%)", -- [31]
+						"232060 (58%)", -- [32]
+						"232060 (58%)", -- [33]
+						"223018 (56%)", -- [34]
+						"223018 (56%)", -- [35]
+						"215716 (54%)", -- [36]
+						"193561 (49%)", -- [37]
+						"193561 (49%)", -- [38]
+						"179833 (45%)", -- [39]
+						"140720 (35%)", -- [40]
+						"140720 (35%)", -- [41]
+						"140720 (35%)", -- [42]
+						"113097 (28%)", -- [43]
+						"113097 (28%)", -- [44]
+						"76459 (19%)", -- [45]
+						"76459 (19%)", -- [46]
+						"76459 (19%)", -- [47]
+						"55695 (14%)", -- [48]
+						"1 (0%)", -- [49]
+						"0 (0%)", -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"MISC", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"MISC", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [7]
+				{
+					["MessageTimes"] = {
+						-13.68700000003446, -- [1]
+						-13.68700000003446, -- [2]
+						-12.46799999999348, -- [3]
+						-12.46799999999348, -- [4]
+						-11.56200000003446, -- [5]
+						-11.56200000003446, -- [6]
+						-11.26500000001397, -- [7]
+						-11.26500000001397, -- [8]
+						-9.64000000001397, -- [9]
+						-9.64000000001397, -- [10]
+						-7.64000000001397, -- [11]
+						-7.64000000001397, -- [12]
+						-7.217999999993481, -- [13]
+						-6.812000000034459, -- [14]
+						-6.187000000034459, -- [15]
+						-5.26500000001397, -- [16]
+						-5.26500000001397, -- [17]
+						-5.26500000001397, -- [18]
+						-4.859000000054948, -- [19]
+						-4.295999999972992, -- [20]
+						-3.89000000001397, -- [21]
+						-3.64000000001397, -- [22]
+						-3.359000000054948, -- [23]
+						-3.359000000054948, -- [24]
+						-3.359000000054948, -- [25]
+						-2.842999999993481, -- [26]
+						-2.437000000034459, -- [27]
+						-1.499000000068918, -- [28]
+						-1.26500000001397, -- [29]
+						-0.7959999999729917, -- [30]
+						-0.6240000000689179, -- [31]
+						-0.3900000000139698, -- [32]
+						0, -- [33]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						false, -- [2]
+						true, -- [3]
+						true, -- [4]
+						false, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						false, -- [9]
+						false, -- [10]
+						false, -- [11]
+						false, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						false, -- [16]
+						false, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						false, -- [24]
+						false, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						false, -- [29]
+						true, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3459 (Physical)", -- [1]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3041 (Physical)", -- [2]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42208 (Physical)", -- [3]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -19113 (Physical)", -- [4]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2905 (Physical)", -- [6]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -18350 (Physical)", -- [7]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42514 (Physical)", -- [8]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3539 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3099 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2843 (Physical)", -- [11]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3565 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17854 (Physical)", -- [13]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [14]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [15]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [16]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [17]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [18]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [19]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [20]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [21]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [22]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [23]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [24]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [25]
+						"Swooping Plainshawk <Brimtok> dies.", -- [26]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [27]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [28]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [29]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [30]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -21658 (Physical)", -- [31]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -24473 (Physical)", -- [32]
+						"Swooping Plainshawk <Brimtok> dies.", -- [33]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						10.71429478018282, -- [3]
+						4.851741758283601, -- [4]
+						0, -- [5]
+						0, -- [6]
+						4.658057932533044, -- [7]
+						10.79197138657819, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						4.532150753539235, -- [13]
+						3.184233171972453, -- [14]
+						2.136614366110661, -- [15]
+						0, -- [16]
+						0, -- [17]
+						5.313739874752819, -- [18]
+						3.184233171972453, -- [19]
+						2.675273708499496, -- [20]
+						3.184233171972453, -- [21]
+						4.619981164692175, -- [22]
+						2.297298326399131, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						2.3528904074468, -- [27]
+						2.689742880279026, -- [28]
+						0, -- [29]
+						6.559611718506071, -- [30]
+						5.497777585983688, -- [31]
+						6.21235159579734, -- [32]
+						0, -- [33]
+					},
+					["DeathAt"] = 1367359783,
+					["HealthNum"] = {
+						47.64444421880434, -- [1]
+						47.64444421880434, -- [2]
+						47.64444421880434, -- [3]
+						42.79270246052074, -- [4]
+						42.79270246052074, -- [5]
+						42.79270246052074, -- [6]
+						42.79270246052074, -- [7]
+						32.00073107394255, -- [8]
+						32.00073107394255, -- [9]
+						32.00073107394255, -- [10]
+						32.00073107394255, -- [11]
+						32.00073107394255, -- [12]
+						32.00073107394255, -- [13]
+						28.81649790197009, -- [14]
+						24.28434714843086, -- [15]
+						16.20598008331197, -- [16]
+						16.20598008331197, -- [17]
+						16.20598008331197, -- [18]
+						7.708007036586697, -- [19]
+						7.708007036586697, -- [20]
+						7.708007036586697, -- [21]
+						0.4127521633950262, -- [22]
+						0.4127521633950262, -- [23]
+						0.4127521633950262, -- [24]
+						0.4127521633950262, -- [25]
+						18.96349961034774, -- [26]
+						18.96349961034774, -- [27]
+						16.61060920290094, -- [28]
+						16.61060920290094, -- [29]
+						7.361254604115845, -- [30]
+						7.361254604115845, -- [31]
+						1.148903008318505, -- [32]
+						0, -- [33]
+					},
+					["Health"] = {
+						"187691 (47%)", -- [1]
+						"187691 (47%)", -- [2]
+						"187691 (47%)", -- [3]
+						"168578 (42%)", -- [4]
+						"168578 (42%)", -- [5]
+						"168578 (42%)", -- [6]
+						"168578 (42%)", -- [7]
+						"126064 (32%)", -- [8]
+						"126064 (32%)", -- [9]
+						"126064 (32%)", -- [10]
+						"126064 (32%)", -- [11]
+						"126064 (32%)", -- [12]
+						"126064 (32%)", -- [13]
+						"113520 (28%)", -- [14]
+						"95666 (24%)", -- [15]
+						"63842 (16%)", -- [16]
+						"63842 (16%)", -- [17]
+						"63842 (16%)", -- [18]
+						"30365 (7%)", -- [19]
+						"30365 (7%)", -- [20]
+						"30365 (7%)", -- [21]
+						"1626 (0%)", -- [22]
+						"1626 (0%)", -- [23]
+						"1626 (0%)", -- [24]
+						"1626 (0%)", -- [25]
+						"74705 (18%)", -- [26]
+						"74705 (18%)", -- [27]
+						"65436 (16%)", -- [28]
+						"65436 (16%)", -- [29]
+						"28999 (7%)", -- [30]
+						"28999 (7%)", -- [31]
+						"4526 (1%)", -- [32]
+						"0 (0%)", -- [33]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"MISC", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"MISC", -- [33]
+					},
+				}, -- [8]
+				{
+					["MessageTimes"] = {
+						-14.89100000006147, -- [1]
+						-14.89100000006147, -- [2]
+						-14.75, -- [3]
+						-14.75, -- [4]
+						-12.84400000004098, -- [5]
+						-12.84400000004098, -- [6]
+						-10.84400000004098, -- [7]
+						-10.84400000004098, -- [8]
+						-9.625, -- [9]
+						-9.625, -- [10]
+						-8.719000000040978, -- [11]
+						-8.719000000040978, -- [12]
+						-8.422000000020489, -- [13]
+						-8.422000000020489, -- [14]
+						-6.797000000020489, -- [15]
+						-6.797000000020489, -- [16]
+						-4.797000000020489, -- [17]
+						-4.797000000020489, -- [18]
+						-4.375, -- [19]
+						-3.969000000040978, -- [20]
+						-3.344000000040978, -- [21]
+						-2.422000000020489, -- [22]
+						-2.422000000020489, -- [23]
+						-2.422000000020489, -- [24]
+						-2.016000000061467, -- [25]
+						-1.452999999979511, -- [26]
+						-1.047000000020489, -- [27]
+						-0.7970000000204891, -- [28]
+						-0.5160000000614673, -- [29]
+						-0.5160000000614673, -- [30]
+						-0.5160000000614673, -- [31]
+						0, -- [32]
+						0.4059999999590218, -- [33]
+						1.343999999924563, -- [34]
+						1.577999999979511, -- [35]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						false, -- [3]
+						false, -- [4]
+						false, -- [5]
+						false, -- [6]
+						false, -- [7]
+						false, -- [8]
+						true, -- [9]
+						true, -- [10]
+						false, -- [11]
+						false, -- [12]
+						true, -- [13]
+						true, -- [14]
+						false, -- [15]
+						false, -- [16]
+						false, -- [17]
+						false, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						false, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						false, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						false, -- [35]
+					},
+					["Messages"] = {
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -17386 (Physical)", -- [1]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -20692 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2725 (Physical)", -- [3]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3600 (Physical)", -- [4]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2776 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Miss", -- [6]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3459 (Physical)", -- [7]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3041 (Physical)", -- [8]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42208 (Physical)", -- [9]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -19113 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [11]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2905 (Physical)", -- [12]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Hit -18350 (Physical)", -- [13]
+						"Brimtok Swipe Swooping Plainshawk <Brimtok> Crit -42514 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3539 (Physical)", -- [15]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3099 (Physical)", -- [16]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2843 (Physical)", -- [17]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3565 (Physical)", -- [18]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17854 (Physical)", -- [19]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [20]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8417 (Physical)", -- [21]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3616 (Physical)", -- [22]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3313 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20933 (Physical)", -- [24]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [25]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10539 (Physical)", -- [26]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [27]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -18200 (Physical)", -- [28]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9050 (Physical)", -- [29]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3970 (Physical)", -- [30]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2972 (Physical)", -- [31]
+						"Swooping Plainshawk <Brimtok> dies.", -- [32]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9269 (Physical)", -- [33]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10596 (Physical)", -- [34]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8233 (Physical)", -- [35]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						10.71429478018282, -- [9]
+						4.851741758283601, -- [10]
+						0, -- [11]
+						0, -- [12]
+						4.658057932533044, -- [13]
+						10.79197138657819, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						4.532150753539235, -- [19]
+						3.184233171972453, -- [20]
+						2.136614366110661, -- [21]
+						0, -- [22]
+						0, -- [23]
+						5.313739874752819, -- [24]
+						3.184233171972453, -- [25]
+						2.675273708499496, -- [26]
+						3.184233171972453, -- [27]
+						4.619981164692175, -- [28]
+						2.297298326399131, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						2.3528904074468, -- [33]
+						2.689742880279026, -- [34]
+						0, -- [35]
+					},
+					["DeathAt"] = 1367359780,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						47.64444421880434, -- [7]
+						47.64444421880434, -- [8]
+						47.64444421880434, -- [9]
+						42.79270246052074, -- [10]
+						42.79270246052074, -- [11]
+						42.79270246052074, -- [12]
+						42.79270246052074, -- [13]
+						32.00073107394255, -- [14]
+						32.00073107394255, -- [15]
+						32.00073107394255, -- [16]
+						32.00073107394255, -- [17]
+						32.00073107394255, -- [18]
+						32.00073107394255, -- [19]
+						28.81649790197009, -- [20]
+						24.28434714843086, -- [21]
+						16.20598008331197, -- [22]
+						16.20598008331197, -- [23]
+						16.20598008331197, -- [24]
+						7.708007036586697, -- [25]
+						7.708007036586697, -- [26]
+						7.708007036586697, -- [27]
+						0.4127521633950262, -- [28]
+						0.4127521633950262, -- [29]
+						0.4127521633950262, -- [30]
+						0.4127521633950262, -- [31]
+						18.96349961034774, -- [32]
+						18.96349961034774, -- [33]
+						16.61060920290094, -- [34]
+						16.61060920290094, -- [35]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+						"???", -- [6]
+						"187691 (47%)", -- [7]
+						"187691 (47%)", -- [8]
+						"187691 (47%)", -- [9]
+						"168578 (42%)", -- [10]
+						"168578 (42%)", -- [11]
+						"168578 (42%)", -- [12]
+						"168578 (42%)", -- [13]
+						"126064 (32%)", -- [14]
+						"126064 (32%)", -- [15]
+						"126064 (32%)", -- [16]
+						"126064 (32%)", -- [17]
+						"126064 (32%)", -- [18]
+						"126064 (32%)", -- [19]
+						"113520 (28%)", -- [20]
+						"95666 (24%)", -- [21]
+						"63842 (16%)", -- [22]
+						"63842 (16%)", -- [23]
+						"63842 (16%)", -- [24]
+						"30365 (7%)", -- [25]
+						"30365 (7%)", -- [26]
+						"30365 (7%)", -- [27]
+						"1626 (0%)", -- [28]
+						"1626 (0%)", -- [29]
+						"1626 (0%)", -- [30]
+						"1626 (0%)", -- [31]
+						"74705 (18%)", -- [32]
+						"74705 (18%)", -- [33]
+						"65436 (16%)", -- [34]
+						"65436 (16%)", -- [35]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"MISC", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+					},
+				}, -- [9]
+				{
+					["MessageTimes"] = {
+						-14.11000000010245, -- [1]
+						-14.11000000010245, -- [2]
+						-13.06300000008196, -- [3]
+						-12.90700000000652, -- [4]
+						-12.07800000009593, -- [5]
+						-12.07800000009593, -- [6]
+						-11.70300000009593, -- [7]
+						-11.14100000006147, -- [8]
+						-10.5, -- [9]
+						-10.17200000002049, -- [10]
+						-10.01600000006147, -- [11]
+						-9.891000000061467, -- [12]
+						-9.282000000006519, -- [13]
+						-8.235000000102446, -- [14]
+						-8.078000000095926, -- [15]
+						-7.735000000102446, -- [16]
+						-7.266000000061467, -- [17]
+						-6.875, -- [18]
+						-6.735000000102446, -- [19]
+						-6.313000000081956, -- [20]
+						-6.031000000075437, -- [21]
+						-5.360000000102446, -- [22]
+						-4.438000000081956, -- [23]
+						-4, -- [24]
+						-3.875, -- [25]
+						-3.516000000061467, -- [26]
+						-3.219000000040978, -- [27]
+						-2.469000000040978, -- [28]
+						-2.469000000040978, -- [29]
+						-2.031000000075437, -- [30]
+						-1.516000000061467, -- [31]
+						-1.234000000054948, -- [32]
+						-1.234000000054948, -- [33]
+						-0.875, -- [34]
+						-0.625, -- [35]
+						-0.2810000000754371, -- [36]
+						0, -- [37]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						false, -- [21]
+						true, -- [22]
+						true, -- [23]
+						false, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3455 (Physical)", -- [1]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8422 (Physical)", -- [2]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10238 (Physical)", -- [3]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [4]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9430 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2790 (Physical)", -- [6]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -25092 (Physical)", -- [7]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8241 (Physical)", -- [8]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [9]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9047 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3932 (Physical)", -- [11]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6169 (Physical)", -- [13]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9323 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [15]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -12544 (Physical)", -- [16]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8898 (Physical)", -- [17]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [18]
+						"Brimtok Rip Swooping Plainshawk <Brimtok> Parry (Physical)", -- [19]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8569 (Physical)", -- [20]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3423 (Physical)", -- [21]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16857 (Physical)", -- [22]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -16473 (Physical)", -- [23]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [24]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [25]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11395 (Physical)", -- [26]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -31311 (Physical)", -- [27]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -10434 (Physical)", -- [28]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [29]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4068 (Physical)", -- [30]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12151 (Physical)", -- [31]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Crit -31311 (Physical)", -- [32]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27504 (Physical)", -- [33]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14426 (Physical)", -- [34]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11994 (Physical)", -- [35]
+						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Crit -45907 (Physical)", -- [36]
+						"Swooping Plainshawk <Brimtok> dies.", -- [37]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						97.86211640829464, -- [3]
+						94.67788323632219, -- [4]
+						92.07901690862337, -- [5]
+						92.07901690862337, -- [6]
+						83.31577571260671, -- [7]
+						83.31577571260671, -- [8]
+						74.66422636892327, -- [9]
+						74.66422636892327, -- [10]
+						74.66422636892327, -- [11]
+						71.47999319695082, -- [12]
+						69.1834564059085, -- [13]
+						67.617485867173, -- [14]
+						67.617485867173, -- [15]
+						62.06665465133104, -- [16]
+						62.06665465133104, -- [17]
+						58.88242147935858, -- [18]
+						56.6237076110382, -- [19]
+						56.6237076110382, -- [20]
+						54.44850878684879, -- [21]
+						54.44850878684879, -- [22]
+						50.16944161689187, -- [23]
+						45.98785097260758, -- [24]
+						42.80361780063512, -- [25]
+						42.80361780063512, -- [26]
+						34.85547328153201, -- [27]
+						31.96290815122061, -- [28]
+						28.30093846540472, -- [29]
+						25.65231849439383, -- [30]
+						25.65231849439383, -- [31]
+						17.70417397529072, -- [32]
+						10.72241782398887, -- [33]
+						7.060448138172975, -- [34]
+						3.975976097943601, -- [35]
+						0.0002538451189391305, -- [36]
+						0, -- [37]
+					},
+					["DeathAt"] = 1367288597,
+					["EventNum"] = {
+						0, -- [1]
+						2.137883591705357, -- [2]
+						2.598866327698818, -- [3]
+						3.184233171972453, -- [4]
+						2.393759471596, -- [5]
+						0, -- [6]
+						6.369481724420662, -- [7]
+						2.091937625177375, -- [8]
+						6.559611718506071, -- [9]
+						2.296536791042314, -- [10]
+						0, -- [11]
+						3.184233171972453, -- [12]
+						1.565970538735496, -- [13]
+						2.366598043869514, -- [14]
+						0, -- [15]
+						3.184233171972453, -- [16]
+						2.258713868320383, -- [17]
+						3.184233171972453, -- [18]
+						0, -- [19]
+						2.175198824189409, -- [20]
+						0, -- [21]
+						4.279067169956923, -- [22]
+						4.181590644284296, -- [23]
+						0, -- [24]
+						3.184233171972453, -- [25]
+						2.892565130311392, -- [26]
+						7.948144519103114, -- [27]
+						2.648619971010887, -- [28]
+						3.661969685815896, -- [29]
+						0, -- [30]
+						3.084472040229374, -- [31]
+						7.948144519103114, -- [32]
+						6.981756151301845, -- [33]
+						3.661969685815896, -- [34]
+						3.044618356555931, -- [35]
+						11.65326787513866, -- [36]
+						0, -- [37]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"393941 (100%)", -- [2]
+						"385519 (97%)", -- [3]
+						"372975 (94%)", -- [4]
+						"362737 (92%)", -- [5]
+						"362737 (92%)", -- [6]
+						"328215 (83%)", -- [7]
+						"328215 (83%)", -- [8]
+						"294133 (74%)", -- [9]
+						"294133 (74%)", -- [10]
+						"294133 (74%)", -- [11]
+						"281589 (71%)", -- [12]
+						"272542 (69%)", -- [13]
+						"266373 (67%)", -- [14]
+						"266373 (67%)", -- [15]
+						"244506 (62%)", -- [16]
+						"244506 (62%)", -- [17]
+						"231962 (58%)", -- [18]
+						"223064 (56%)", -- [19]
+						"223064 (56%)", -- [20]
+						"214495 (54%)", -- [21]
+						"214495 (54%)", -- [22]
+						"197638 (50%)", -- [23]
+						"181165 (45%)", -- [24]
+						"168621 (42%)", -- [25]
+						"168621 (42%)", -- [26]
+						"137310 (34%)", -- [27]
+						"125915 (31%)", -- [28]
+						"111489 (28%)", -- [29]
+						"101055 (25%)", -- [30]
+						"101055 (25%)", -- [31]
+						"69744 (17%)", -- [32]
+						"42240 (10%)", -- [33]
+						"27814 (7%)", -- [34]
+						"15663 (3%)", -- [35]
+						"1 (0%)", -- [36]
+						"0 (0%)", -- [37]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"MISC", -- [37]
+					},
+				}, -- [10]
+				{
+					["MessageTimes"] = {
+						-14.07900000002701, -- [1]
+						-12.20400000002701, -- [2]
+						-12.06299999996554, -- [3]
+						-10.07900000002701, -- [4]
+						-9.125, -- [5]
+						-8.047000000020489, -- [6]
+						-6.032000000006519, -- [7]
+						-4.015999999945052, -- [8]
+						-2.875, -- [9]
+						-2.875, -- [10]
+						-1.98499999998603, -- [11]
+						-1.98499999998603, -- [12]
+						-0.9529999999795109, -- [13]
+						-0.4220000000204891, -- [14]
+						0, -- [15]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						false, -- [3]
+						false, -- [4]
+						true, -- [5]
+						false, -- [6]
+						false, -- [7]
+						false, -- [8]
+						true, -- [9]
+						true, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2835 (Physical)", -- [1]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Crit -20129 (Physical)", -- [2]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3680 (Physical)", -- [3]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [4]
+						"Brimtok Thrash (DoT) Swooping Plainshawk <Brimtok> Tick -9771 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3404 (Physical)", -- [6]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2962 (Physical)", -- [7]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2759 (Physical)", -- [8]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10780 (Physical)", -- [9]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3073 (Physical)", -- [11]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8692 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8987 (Physical)", -- [13]
+						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -92247 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> dies.", -- [15]
+					},
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						28.45223015629244, -- [9]
+						21.89261843778637, -- [10]
+						19.15616805562254, -- [11]
+						19.15616805562254, -- [12]
+						16.94974628180362, -- [13]
+						0.0002538451189391305, -- [14]
+						0, -- [15]
+					},
+					["DeathAt"] = 1367288572,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						2.736450382163826, -- [9]
+						6.559611718506071, -- [10]
+						0, -- [11]
+						2.206421773818922, -- [12]
+						2.281306083905966, -- [13]
+						23.41645068677797, -- [14]
+						0, -- [15]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+						"???", -- [6]
+						"???", -- [7]
+						"???", -- [8]
+						"112085 (28%)", -- [9]
+						"86244 (21%)", -- [10]
+						"75464 (19%)", -- [11]
+						"75464 (19%)", -- [12]
+						"66772 (16%)", -- [13]
+						"1 (0%)", -- [14]
+						"0 (0%)", -- [15]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"MISC", -- [15]
+					},
+				}, -- [11]
+				{
+					["MessageTimes"] = {
+						-13.89399999997113, -- [1]
+						-11.80999999999767, -- [2]
+						-11.18599999998696, -- [3]
+						-10.79599999997299, -- [4]
+						-10.32399999996414, -- [5]
+						-9.809000000008382, -- [6]
+						-9.729999999981374, -- [7]
+						-9.26500000001397, -- [8]
+						-8.334999999962747, -- [9]
+						-7.848999999987427, -- [10]
+						-7.848999999987427, -- [11]
+						-7.393999999971129, -- [12]
+						-6.456000000005588, -- [13]
+						-6.348999999987427, -- [14]
+						-5.793999999994412, -- [15]
+						-5.452999999979511, -- [16]
+						-5.310999999986962, -- [17]
+						-4.87400000001071, -- [18]
+						-4.453999999968801, -- [19]
+						-4.268999999971129, -- [20]
+						-3.782000000006519, -- [21]
+						-3.550999999977648, -- [22]
+						-2.931999999971595, -- [23]
+						-2.692999999970198, -- [24]
+						-1.820999999996275, -- [25]
+						-1.820999999996275, -- [26]
+						-1.664999999979045, -- [27]
+						-0.6379999999771826, -- [28]
+						0, -- [29]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						false, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						false, -- [21]
+						true, -- [22]
+						true, -- [23]
+						true, -- [24]
+						true, -- [25]
+						false, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3021 (Physical)", -- [1]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3044 (Physical)", -- [2]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24646 (Physical)", -- [3]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -18056 (Physical)", -- [4]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11130 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3476 (Physical)", -- [6]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30031 (Physical)", -- [7]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9748 (Physical)", -- [8]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -9870 (Physical)", -- [9]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -18055 (Physical)", -- [10]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3910 (Physical)", -- [11]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8278 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10075 (Physical)", -- [13]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2784 (Physical)", -- [15]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9672 (Physical)", -- [16]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -31073 (Physical)", -- [17]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -29717 (Physical)", -- [18]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -11914 (Physical)", -- [19]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -60255 (Physical)", -- [20]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Miss", -- [21]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23891 (Physical)", -- [22]
+						"Brimtok Ferocious Bite Swooping Plainshawk <Brimtok> Hit -29642 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12512 (Physical)", -- [24]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14426 (Physical)", -- [25]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Dodge", -- [26]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8593 (Physical)", -- [27]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -11159 (Physical)", -- [28]
+						"Swooping Plainshawk <Brimtok> dies.", -- [29]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						6.25626680137381, -- [3]
+						4.58342746756494, -- [4]
+						2.825296173792522, -- [5]
+						0, -- [6]
+						7.623222766861027, -- [7]
+						2.474482219418644, -- [8]
+						2.505451323929218, -- [9]
+						4.583173622446001, -- [10]
+						0, -- [11]
+						2.101329894578122, -- [12]
+						2.55748957331174, -- [13]
+						3.661969685815896, -- [14]
+						0, -- [15]
+						2.45518999037927, -- [16]
+						7.887729380795602, -- [17]
+						7.54351539951414, -- [18]
+						3.024310747040801, -- [19]
+						15.29543764167731, -- [20]
+						0, -- [21]
+						6.064613736574766, -- [22]
+						7.524477015593706, -- [23]
+						3.176110128166401, -- [24]
+						3.661969685815896, -- [25]
+						0, -- [26]
+						2.181291107043948, -- [27]
+						2.832657682241757, -- [28]
+						0, -- [29]
+					},
+					["DeathAt"] = 1366935433,
+					["HealthNum"] = {
+						0, -- [1]
+						100, -- [2]
+						100, -- [3]
+						95.41657253243506, -- [4]
+						89.16030573106126, -- [5]
+						89.16030573106126, -- [6]
+						78.7117867904077, -- [7]
+						78.7117867904077, -- [8]
+						76.23730457098905, -- [9]
+						71.65413094854306, -- [10]
+						71.65413094854306, -- [11]
+						69.14867962461383, -- [12]
+						67.04734973003572, -- [13]
+						63.38538004421982, -- [14]
+						60.82789047090808, -- [15]
+						60.82789047090808, -- [16]
+						52.94016109011248, -- [17]
+						42.94145570021907, -- [18]
+						42.94145570021907, -- [19]
+						27.64601805854176, -- [20]
+						24.62170731150096, -- [21]
+						24.62170731150096, -- [22]
+						11.03261655933249, -- [23]
+						11.03261655933249, -- [24]
+						4.194536745350192, -- [25]
+						4.194536745350192, -- [26]
+						4.194536745350192, -- [27]
+						2.013245638306244, -- [28]
+						0, -- [29]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"393941 (100%)", -- [2]
+						"393941 (100%)", -- [3]
+						"375885 (95%)", -- [4]
+						"351239 (89%)", -- [5]
+						"351239 (89%)", -- [6]
+						"310078 (78%)", -- [7]
+						"310078 (78%)", -- [8]
+						"300330 (76%)", -- [9]
+						"282275 (71%)", -- [10]
+						"282275 (71%)", -- [11]
+						"272405 (69%)", -- [12]
+						"264127 (67%)", -- [13]
+						"249701 (63%)", -- [14]
+						"239626 (60%)", -- [15]
+						"239626 (60%)", -- [16]
+						"208553 (52%)", -- [17]
+						"169164 (42%)", -- [18]
+						"169164 (42%)", -- [19]
+						"108909 (27%)", -- [20]
+						"96995 (24%)", -- [21]
+						"96995 (24%)", -- [22]
+						"43462 (11%)", -- [23]
+						"43462 (11%)", -- [24]
+						"16524 (4%)", -- [25]
+						"16524 (4%)", -- [26]
+						"16524 (4%)", -- [27]
+						"7931 (2%)", -- [28]
+						"0 (0%)", -- [29]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"MISC", -- [29]
+					},
+				}, -- [12]
+				{
+					["MessageTimes"] = {
+						-11.90599999995902, -- [1]
+						-11.21899999998277, -- [2]
+						-10.82799999997951, -- [3]
+						-10.25, -- [4]
+						-10.01600000000326, -- [5]
+						-10.01600000000326, -- [6]
+						-9.280999999959022, -- [7]
+						-8.780999999959022, -- [8]
+						-8.405999999959022, -- [9]
+						-8, -- [10]
+						-7.593999999982771, -- [11]
+						-7.35899999999674, -- [12]
+						-6.5, -- [13]
+						-6.5, -- [14]
+						-5.968999999982771, -- [15]
+						-5.452999999979511, -- [16]
+						-4.593999999982771, -- [17]
+						-4.48399999999674, -- [18]
+						-3.937999999965541, -- [19]
+						-3.593999999982771, -- [20]
+						-3.14100000000326, -- [21]
+						-2.577999999979511, -- [22]
+						-1.936999999976251, -- [23]
+						-1.577999999979511, -- [24]
+						-1.577999999979511, -- [25]
+						-1.125, -- [26]
+						-0.75, -- [27]
+						-0.6410000000032596, -- [28]
+						0, -- [29]
+						0, -- [30]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						false, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						false, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						false, -- [23]
+						true, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						true, -- [30]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Crit -8149 (Physical)", -- [1]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7495 (Physical)", -- [2]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -19528 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6900 (Physical)", -- [4]
+						"Brimtok Ravage! Swooping Plainshawk <Brimtok> Crit -74222 (Physical)", -- [5]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3888 (Physical)", -- [6]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -7628 (Physical)", -- [7]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Crit -36154 (Physical)", -- [8]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8492 (Physical)", -- [9]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3425 (Physical)", -- [10]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -30060 (Physical)", -- [11]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9230 (Physical)", -- [12]
+						"Brimtok Rip Swooping Plainshawk <Brimtok> Parry (Physical)", -- [13]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9494 (Physical)", -- [14]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3740 (Physical)", -- [15]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Glancing -8831 (Physical)", -- [16]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -30061 (Physical)", -- [17]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -6434 (Physical)", -- [18]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4027 (Physical)", -- [19]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -17276 (Physical)", -- [20]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -14424 (Physical)", -- [21]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10910 (Physical)", -- [22]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3003 (Physical)", -- [23]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12667 (Physical)", -- [24]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -14592 (Physical)", -- [25]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -14424 (Physical)", -- [26]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -21815 (Physical)", -- [27]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -23003 (Physical)", -- [28]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -32024 (Physical)", -- [29]
+						"Swooping Plainshawk <Brimtok> dies.", -- [30]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						100, -- [2]
+						95.04291251735666, -- [3]
+						93.14034335090788, -- [4]
+						74.29945093300773, -- [5]
+						74.29945093300773, -- [6]
+						72.54791961232773, -- [7]
+						61.43407261493472, -- [8]
+						61.43407261493472, -- [9]
+						61.43407261493472, -- [10]
+						53.80348833962446, -- [11]
+						51.64783558959336, -- [12]
+						49.30484514178519, -- [13]
+						49.30484514178519, -- [14]
+						46.89483958257709, -- [15]
+						46.89483958257709, -- [16]
+						37.02229521679642, -- [17]
+						37.02229521679642, -- [18]
+						35.38905572154206, -- [19]
+						35.38905572154206, -- [20]
+						31.72759372596404, -- [21]
+						27.34216545117162, -- [22]
+						24.57271520354571, -- [23]
+						24.57271520354571, -- [24]
+						20.86860722798592, -- [25]
+						17.2071452324079, -- [26]
+						8.454057841148801, -- [27]
+						8.454057841148801, -- [28]
+						0.324921752242087, -- [29]
+						0, -- [30]
+					},
+					["DeathAt"] = 1366844344,
+					["EventNum"] = {
+						0, -- [1]
+						1.902569166448783, -- [2]
+						4.95708748264334, -- [3]
+						1.75153132068, -- [4]
+						18.84089241790014, -- [5]
+						0, -- [6]
+						1.936330567267687, -- [7]
+						9.177516430125323, -- [8]
+						2.155652750031096, -- [9]
+						0, -- [10]
+						7.630584275310262, -- [11]
+						2.342990447808174, -- [12]
+						0, -- [13]
+						2.410005559208105, -- [14]
+						0, -- [15]
+						2.241706245351461, -- [16]
+						7.630838120429202, -- [17]
+						1.633239495254365, -- [18]
+						0, -- [19]
+						4.385428274792418, -- [20]
+						3.661461995578018, -- [21]
+						2.769450247625914, -- [22]
+						0, -- [23]
+						3.215456121601966, -- [24]
+						3.704107975559792, -- [25]
+						3.661461995578018, -- [26]
+						5.537631269657132, -- [27]
+						5.839199270956819, -- [28]
+						8.129136088906714, -- [29]
+						0, -- [30]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"393941 (100%)", -- [2]
+						"374413 (95%)", -- [3]
+						"366918 (93%)", -- [4]
+						"292696 (74%)", -- [5]
+						"292696 (74%)", -- [6]
+						"285796 (72%)", -- [7]
+						"242014 (61%)", -- [8]
+						"242014 (61%)", -- [9]
+						"242014 (61%)", -- [10]
+						"211954 (53%)", -- [11]
+						"203462 (51%)", -- [12]
+						"194232 (49%)", -- [13]
+						"194232 (49%)", -- [14]
+						"184738 (46%)", -- [15]
+						"184738 (46%)", -- [16]
+						"145846 (37%)", -- [17]
+						"145846 (37%)", -- [18]
+						"139412 (35%)", -- [19]
+						"139412 (35%)", -- [20]
+						"124988 (31%)", -- [21]
+						"107712 (27%)", -- [22]
+						"96802 (24%)", -- [23]
+						"96802 (24%)", -- [24]
+						"82210 (20%)", -- [25]
+						"67786 (17%)", -- [26]
+						"33304 (8%)", -- [27]
+						"33304 (8%)", -- [28]
+						"1280 (0%)", -- [29]
+						"0 (0%)", -- [30]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"MISC", -- [30]
+					},
+				}, -- [13]
+				{
+					["MessageTimes"] = {
+						-12.10999999998603, -- [1]
+						-10.46899999998277, -- [2]
+						-10.46899999998277, -- [3]
+						-9.468999999982771, -- [4]
+						-9.25099999998929, -- [5]
+						-8.48499999998603, -- [6]
+						-8.187999999965541, -- [7]
+						-7.547999999951571, -- [8]
+						-6.85999999998603, -- [9]
+						-6.562999999965541, -- [10]
+						-6.265999999945052, -- [11]
+						-5.98499999998603, -- [12]
+						-5.640999999945052, -- [13]
+						-4.843999999982771, -- [14]
+						-4.640999999945052, -- [15]
+						-3.765999999945052, -- [16]
+						-3.23499999998603, -- [17]
+						-2.85999999998603, -- [18]
+						-2.73499999998603, -- [19]
+						-2.437999999965541, -- [20]
+						-2.437999999965541, -- [21]
+						-1.781999999948312, -- [22]
+						-1.60999999998603, -- [23]
+						-0.8289999999688007, -- [24]
+						-0.8289999999688007, -- [25]
+						-0.390999999945052, -- [26]
+						-0.2509999999892898, -- [27]
+						0, -- [28]
+					},
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						false, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						false, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						false, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						true, -- [23]
+						false, -- [24]
+						true, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+					},
+					["Messages"] = {
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3262 (Physical)", -- [1]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27354 (Physical)", -- [2]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10270 (Physical)", -- [3]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -22472 (Physical)", -- [4]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [5]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -20117 (Physical)", -- [6]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -27925 (Physical)", -- [7]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9047 (Physical)", -- [8]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3413 (Physical)", -- [9]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -8750 (Physical)", -- [10]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Tick -12544 (Physical)", -- [11]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Crit -25841 (Physical)", -- [12]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10360 (Physical)", -- [13]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -3575 (Physical)", -- [14]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9552 (Physical)", -- [15]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -9747 (Physical)", -- [16]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -25842 (Physical)", -- [17]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -4088 (Physical)", -- [18]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -10450 (Physical)", -- [19]
+						"Brimtok Mangle Swooping Plainshawk <Brimtok> Hit -30331 (Physical)", -- [20]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13401 (Physical)", -- [21]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Hit -12750 (Physical)", -- [22]
+						"Brimtok Rake Swooping Plainshawk <Brimtok> Hit -14426 (Physical)", -- [23]
+						"Swooping Plainshawk <Brimtok> Melee Brimtok Hit -2878 (Physical)", -- [24]
+						"Brimtok Melee Swooping Plainshawk <Brimtok> Crit -24994 (Physical)", -- [25]
+						"Brimtok Rip (DoT) Swooping Plainshawk <Brimtok> Tick -13401 (Physical)", -- [26]
+						"Brimtok Rake (DoT) Swooping Plainshawk <Brimtok> Crit -29718 (Physical)", -- [27]
+						"Swooping Plainshawk <Brimtok> dies.", -- [28]
+					},
+					["HealthNum"] = {
+						100, -- [1]
+						93.05632061653903, -- [2]
+						93.05632061653903, -- [3]
+						90.44933124503416, -- [4]
+						83.88971952652808, -- [5]
+						78.18531201372794, -- [6]
+						71.09668706735273, -- [7]
+						65.99008480965424, -- [8]
+						65.99008480965424, -- [9]
+						63.69354801861192, -- [10]
+						60.50931484663947, -- [11]
+						51.72855833741601, -- [12]
+						51.72855833741601, -- [13]
+						51.72855833741601, -- [14]
+						49.09872290520661, -- [15]
+						46.67399432910004, -- [16]
+						40.11412876547503, -- [17]
+						37.63990039117533, -- [18]
+						37.63990039117533, -- [19]
+						29.94052408863256, -- [20]
+						23.88606415681536, -- [21]
+						23.88606415681536, -- [22]
+						16.98756920452555, -- [23]
+						16.98756920452555, -- [24]
+						16.98756920452555, -- [25]
+						7.241185862857636, -- [26]
+						0.0002538451189391305, -- [27]
+						0, -- [28]
+					},
+					["DeathAt"] = 1366843609,
+					["EventNum"] = {
+						0, -- [1]
+						6.943679383460975, -- [2]
+						2.60698937150487, -- [3]
+						5.70440751280014, -- [4]
+						6.559611718506071, -- [5]
+						5.106602257698488, -- [6]
+						7.088624946375218, -- [7]
+						2.296536791042314, -- [8]
+						0, -- [9]
+						2.221144790717392, -- [10]
+						3.184233171972453, -- [11]
+						6.559611718506071, -- [12]
+						2.629835432209392, -- [13]
+						0, -- [14]
+						2.424728576106574, -- [15]
+						2.474228374299705, -- [16]
+						6.55986556362501, -- [17]
+						0, -- [18]
+						2.652681492913914, -- [19]
+						7.699376302542767, -- [20]
+						3.401778438903288, -- [21]
+						3.236525266473914, -- [22]
+						3.661969685815896, -- [23]
+						0, -- [24]
+						6.344604902764627, -- [25]
+						3.401778438903288, -- [26]
+						7.543769244633079, -- [27]
+						0, -- [28]
+					},
+					["Health"] = {
+						"393941 (100%)", -- [1]
+						"366587 (93%)", -- [2]
+						"366587 (93%)", -- [3]
+						"356317 (90%)", -- [4]
+						"330476 (83%)", -- [5]
+						"308004 (78%)", -- [6]
+						"280079 (71%)", -- [7]
+						"259962 (65%)", -- [8]
+						"259962 (65%)", -- [9]
+						"250915 (63%)", -- [10]
+						"238371 (60%)", -- [11]
+						"203780 (51%)", -- [12]
+						"203780 (51%)", -- [13]
+						"203780 (51%)", -- [14]
+						"193420 (49%)", -- [15]
+						"183868 (46%)", -- [16]
+						"158026 (40%)", -- [17]
+						"148279 (37%)", -- [18]
+						"148279 (37%)", -- [19]
+						"117948 (29%)", -- [20]
+						"94097 (23%)", -- [21]
+						"94097 (23%)", -- [22]
+						"66921 (16%)", -- [23]
+						"66921 (16%)", -- [24]
+						"66921 (16%)", -- [25]
+						"28526 (7%)", -- [26]
+						"1 (0%)", -- [27]
+						"0 (0%)", -- [28]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"MISC", -- [28]
+					},
+				}, -- [14]
+			},
+			["LastEventTimes"] = {
+				276551.35, -- [1]
+				276551.616, -- [2]
+				276552.333, -- [3]
+				276552.536, -- [4]
+				276552.861, -- [5]
+				276553.276, -- [6]
+				276553.276, -- [7]
+				276554.146, -- [8]
+				276554.524, -- [9]
+				276554.621, -- [10]
+				276554.865, -- [11]
+				276555.223, -- [12]
+				276556.172, -- [13]
+				276556.524, -- [14]
+				276556.872, -- [15]
+				276556.872, -- [16]
+				276542.436, -- [17]
+				276542.567, -- [18]
+				276542.757, -- [19]
+				276542.757, -- [20]
+				276543.227, -- [21]
+				276543.647, -- [22]
+				276544.001, -- [23]
+				276544.454, -- [24]
+				276544.559, -- [25]
+				276544.82, -- [26]
+				276545.182, -- [27]
+				276545.61, -- [28]
+				276545.61, -- [29]
+				276546.039, -- [30]
+				276546.435, -- [31]
+				276546.435, -- [32]
+				276546.572, -- [33]
+				276546.857, -- [34]
+				276546.857, -- [35]
+				276547.557, -- [36]
+				276547.691, -- [37]
+				276548.007, -- [38]
+				276548.111, -- [39]
+				276548.499, -- [40]
+				276548.499, -- [41]
+				276548.627, -- [42]
+				276548.766, -- [43]
+				276548.766, -- [44]
+				276549.467, -- [45]
+				276550.028, -- [46]
+				276550.402, -- [47]
+				276550.495, -- [48]
+				276550.863, -- [49]
+				276550.863, -- [50]
+			},
+			["LastAbility"] = 276575.196,
 		},
 	},
 	["FightNum"] = 8,

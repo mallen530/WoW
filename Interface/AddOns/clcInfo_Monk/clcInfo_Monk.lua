@@ -115,239 +115,34 @@ end
 -- Behavior templates for the monk class as a whole
 function classModule:RegisterBehaviorTemplates()
 	
-	--Munkay: should all the spells be listed?
+	--Munkay: should all the spells be listed? I'ma list them all anyways
+    --generic monk
+	self:AddBehaviorTemplate(self.Spells["Tiger Palm"])
+	self:AddBehaviorTemplate(self.Spells["Blackout Kick"])
+	self:AddBehaviorTemplate(self.Spells["Jab"])
+	self:AddBehaviorTemplate(self.Spells["Touch of Death"])
+	self:AddBehaviorTemplate(self.Spells["Expel Harm"])
 	self:AddBehaviorTemplate(self.Spells["Fortifying Brew"])
-	self:AddBehaviorTemplate(self.Spells["Diffuse Magic"]) 
+	self:AddBehaviorTemplate(self.Spells["Provoke"])
+	self:AddBehaviorTemplate(self.Spells["Tiger Power"])
+	self:AddBehaviorTemplate(self.Spells["Death Note"])
+	self:AddBehaviorTemplate(self.Spells["Crackling Jade Lightning"])
 	self:AddBehaviorTemplate(self.Spells["Zen Meditation"])
+	--talents
 	self:AddBehaviorTemplate(self.Spells["Tiger's Lust"])
-	self:AddBehaviorTemplate(self.Spells["Chi Brew"]) 
-	self:AddBehaviorTemplate(self.Spells["Ring of Peace"]) 
+	self:AddBehaviorTemplate(self.Spells["Chi Wave"])
+	self:AddBehaviorTemplate(self.Spells["Zen Sphere"])
+	self:AddBehaviorTemplate(self.Spells["Chi Burst"])
+	self:AddBehaviorTemplate(self.Spells["Power Strikes"])
+	self:AddBehaviorTemplate(self.Spells["Chi Brew"])
+	self:AddBehaviorTemplate(self.Spells["Ring of Peace"])
 	self:AddBehaviorTemplate(self.Spells["Charging Oxe Wave"])
-	self:AddBehaviorTemplate(self.Spells["Leg Sweep"]) 
+	self:AddBehaviorTemplate(self.Spells["Leg Sweep"])
+	self:AddBehaviorTemplate(self.Spells["Dampen Harm"])
+	self:AddBehaviorTemplate(self.Spells["Diffuse Magic"])
+	self:AddBehaviorTemplate(self.Spells["Rushing Jade Wind"])
 	self:AddBehaviorTemplate(self.Spells["Invoke Xuen, the White Tiger"])
-
-	-- Munkay: the below behavior templates should be moved up the chain (into clcInfo_Options) as these are not class specific
-	-- Munkay: Power texture could be dynamic based on player class
-	--    Rage - red bull icon; Warrior, Druid (bear)
-	--    Focus - Hunter
-	--    Mana - Priest, Shamman, Paladin, Warlock, Druid (no form; tree; moonkin), Mage, Monk
-	--    Energy - Druid (cat), Rogue, Monk, 
-	--    Runic - Death Knight
-	local _, name = UnitPowerType("player")
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local pwr = UnitPower("player")
-			return true, "Interface/ICONS/INV_Sigil_Thorim", 0, UnitPowerMax("player"), pwr, nil, "%s", nil, pwr
-			]], name),
-		"bars")
-
-	name = "Buff Icon Stats"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Legacy of the Emperor", "Mark of the Wild", "Blessing of Kings")
-			end
-			]], name),
-		"bars")
-	
-	name = "Buff Icon Critical Strike"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Legacy of the White Tiger", "Leader of the Pack", "Arcane Brilliance", "Dalaran Brilliance")
-			end
-			]], name),
-		"bars")
-
-	name = "Buff Icon Mastery"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Blessing of Might", "Grace of Air")
-			end
-			]], name),
-		"bars")
-
-	name = "Buff Icon Stamina"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Power Word: Fortitude", "Dark Intent", "Commanding Shout")
-			end
-			]], name),
-		"bars")
-
-	name = "Buff Icon Spell Power"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then
-				return IconMAura("HELPFUL", "player", "Burning Wrath", "Arcane Brilliance", "Dalaran Brilliance", "Dark Intent")
-			end
-			]], name),
-		"bars")
-	
-	name = "Buff Icon Melee Haste"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Swiftblade's Cunning", "Unholy Aura", "Unleashed Rage")
-			end
-			]], name),
-		"bars")
-	
-	name = "Buff Icon Attack Power"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-				return IconMAura("HELPFUL", "player", "Trueshot Aura", "Horn of Winter", "Battle Shout")
-			end
-			]], name),
-		"bars")
-
-	name = "Buff Icon Spell Haste"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			if IsInRaid() then 
-			    return IconMAura("HELPFUL", "player", "Moonkin Aura", "Shadowform", "Elemental Oath") 
-			end
-			]], name),
-		"bars")
-	
-	name = "Buff Text Stats"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Stats"; aGroup = IsInRaid()
-			if aGroup and  not IconMAura("HELPFUL", "player", "Legacy of the Emperor", "Mark of the Wild", "Blessing of Kings") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-
-	name = "Buff Text Mastery"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Mastery"; aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Blessing of Might", "Grace of Air") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-
-	name = "Buff Text Critical Strike"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Critical Strike"; aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Legacy of the White Tiger", "Leader of the Pack", "Arcane Brilliance", "Dalaran Brilliance") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-
-	name = "Buff Text Stamina"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Stam"; local aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Power Word: Fortitude", "Dark Intent") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-	
-	name = "Buff Text Spell Power"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Spell Pwr"; local aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Burning Wrath", "Arcane Brilliance", "Dalaran Brilliance", "Dark Intent") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-	
-	name = "Buff Text Melee Haste"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Melee Haste"; local aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Swiftblade's Cunning", "Unholy Aura", "Unleashed Rage") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-
-	name = "Buff Text Attack Power"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Attack Pwr"; local aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Trueshot Aura", "Horn of Winter", "Battle Shout") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-	
-	name = "Buff Text Spell Haste"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local thisStat = "Spell Haste"; local aGroup = IsInRaid()
-			if aGroup and not IconMAura("HELPFUL", "player", "Moonkin Aura", "Shadowform", "Elemental Oath") then
-				return "Missing "..thisStat,1,.3
-			else
-				if aGroup then return thisStat,1,.3 end
-			end
-			]], name),
-		"texts")
-
-	name = "Item Bar"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local itemSlot = 13; itemBuff = "itemBuff"
-			local visible, texture, start, duration, enable, reversed = IconAura("HELPFUL", "player", itemBuff)
-			    if not visible then return BarItem(GetInventoryItemID("player", itemSlot), 1,1) end
-			return BarAura("HELPFUL", "player", itemBuff, "player", 1, 1, nil)
-			]], name),
-		"bars")
-	
-	name = "Cast Bar"
-	self:AddBehaviorTemplate(
-		name,
-		format([[
-			local spell, _, _, texture, startTime, endTime, _, _, interrupt = UnitChannelInfo("unit")
-			if spell then
-				local finish = floor(((endTime/1000 - GetTime())*10) + .5)/10
-				return true, texture, 0, (endTime - startTime)/1000, finish, _, spell, _, finish
-			end
-			]], name),
-		"bars")
+	self:AddBehaviorTemplate(self.Spells["Chi Torpedo"])
 
 end --behavior templates
 

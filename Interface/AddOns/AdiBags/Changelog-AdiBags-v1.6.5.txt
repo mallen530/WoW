@@ -1,0 +1,31 @@
+tag v1.6.5
+47a74f9ccbc46d83a20435e81e615b1a49c35c3b
+Adirelle <adirelle@gmail.com>
+2013-05-24 17:00:08 +0200
+
+Updated for 5.3.
+
+
+--------------------
+
+Adirelle:
+	- Do not pretend the original BankFrame is open when AdiBags overrides it ; should fix #172.
+	- SplitSectionKey always returns a section name for non-nil values.
+	- Upgrade the profile of FilterOverride without losing the section name.
+	- Manual filtering: assign items by batchs internally.
+	- TOC bump.
+	- Fix item sets detection for 5.3.
+	- Use the section listing API in the filter dropdown menu.
+	- Do not forget to wipe the reused table in containerProto:IterateSections.
+	- The visibility dropdown plugin uses the brand new section iterator.
+	- Added section listing and iterating API to the containerFrame class.
+	- FilterOverride uses the same format as core for section keys.
+	- Moved BuildSectionKey and SplitSectionKey to Utility.lua.
+	- Fixed section filter dropdown.
+	- Section filter dropdown: do not clear cursor until the item has been assigned.
+	- Locales updated.
+	- Alt-clicking on a section header with an item now opens a menu dropdown to quickly configure the filters.
+	- Added an option to disable the automatic updates.
+	In that case, the title of sections that contain more items than what can be shown is prefixed with an asterisk (*).
+	- Locales update.
+	- Added an option to disable auto-opening at NPC's.

@@ -6,7 +6,9 @@ AdiBagsDB = {
 				["Default"] = {
 					["overrides"] = {
 						[95350] = "Miscellaneous#Miscellaneous",
+						[2801] = "Trade Goods#Trade Goods",
 					},
+					["version"] = 1,
 				},
 			},
 		},

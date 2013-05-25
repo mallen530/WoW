@@ -1,6 +1,16 @@
-﻿2.1.4
+﻿2.1.6
 ==========
-Updated libraries
+* Updated TOC for 5.3
+
+2.1.5
+==========
+* Moved non-class specific behavior templates to clcInfoClassModulePlugin
+* Added all spells as behavior templates
+* Removed import strings for Main/Raid grid; added as behavior templates
+
+2.1.4
+==========
+* Updated libraries
 
 2.1.3
 ==========
