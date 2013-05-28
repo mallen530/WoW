@@ -53,8 +53,8 @@ DBM_SavedOptions = {
 	["HideBossEmoteFrame"] = false,
 	["ShowCountdownText"] = false,
 	["ShowBigBrotherOnCombatStart"] = false,
-	["ForumsMessageShown"] = 9413,
-	["ChatFrame"] = "DEFAULT_CHAT_FRAME",
+	["LastRevision"] = 9413,
+	["RangeFrameLocked"] = false,
 	["DontShowRangeFrame"] = false,
 	["ShowEngageMessage"] = true,
 	["InfoFrameShowSelf"] = false,
@@ -62,67 +62,67 @@ DBM_SavedOptions = {
 	["ShowRecoveryMessage"] = true,
 	["WarningColors"] = {
 		{
-			["b"] = 0.94,
-			["g"] = 0.8,
 			["r"] = 0.41,
+			["g"] = 0.8,
+			["b"] = 0.94,
 		}, -- [1]
 		{
-			["b"] = 0,
-			["g"] = 0.95,
 			["r"] = 0.95,
+			["g"] = 0.95,
+			["b"] = 0,
 		}, -- [2]
 		{
-			["b"] = 0,
-			["g"] = 0.5,
 			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
 		}, -- [3]
 		{
-			["b"] = 0.1,
-			["g"] = 0.1,
 			["r"] = 1,
+			["g"] = 0.1,
+			["b"] = 0.1,
 		}, -- [4]
 	},
 	["AutoRespond"] = true,
 	["ShowFakedRaidWarnings"] = false,
 	["LatencyThreshold"] = 250,
 	["ShowLoadMessage"] = true,
-	["DontShowPTCountdownText"] = false,
+	["DontShowInfoFrame"] = false,
 	["DontShowPT"] = true,
 	["HPFrameMaxEntries"] = 5,
 	["SetPlayerRole"] = true,
 	["ShowSpecialWarnings"] = true,
 	["RangeFramePoint"] = "CENTER",
 	["DontSendBossWhispers"] = false,
-	["DontShowBossAnnounces"] = false,
+	["HealthFrameLocked"] = false,
 	["ArrowPosY"] = -150,
 	["RangeFrameFrames"] = "radar",
-	["RangeFrameSound2"] = "none",
+	["BlockVersionUpdateNotice"] = false,
 	["ShowPizzaMessage"] = true,
 	["AdvancedAutologBosses"] = false,
 	["ShowLHFrame"] = true,
+	["RangeFrameRadarY"] = -100,
+	["RangeFrameRadarX"] = 100,
+	["Enabled"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
 	},
-	["RangeFrameRadarX"] = 100,
-	["Enabled"] = true,
-	["RangeFrameRadarY"] = -100,
-	["BlockVersionUpdateNotice"] = false,
+	["RangeFrameSound2"] = "none",
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},
-	["HealthFrameLocked"] = false,
+	["DontShowBossAnnounces"] = false,
 	["ShowWipeMessage"] = true,
 	["LogOnlyRaidBosses"] = false,
 	["StripServerName"] = true,
-	["DontShowInfoFrame"] = false,
+	["DontShowPTCountdownText"] = false,
 	["AlwaysShowHealthFrame"] = false,
 	["HPFrameX"] = -50,
 	["ChallengeBest"] = "Realm",
 	["SpamBlockBossWhispers"] = false,
-	["RangeFrameLocked"] = false,
-	["LastRevision"] = 9413,
+	["ChatFrame"] = "DEFAULT_CHAT_FRAME",
+	["ForumsMessageShown"] = 9413,
 }
 DBT_SavedOptions = {
 	["DBM"] = {

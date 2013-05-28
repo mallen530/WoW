@@ -77,7 +77,7 @@ DBM_SavedOptions = {
 	["RangeFrameFrames"] = "radar",
 	["BlockVersionUpdateNotice"] = false,
 	["ShowPizzaMessage"] = true,
-	["RangeFrameSound2"] = "none",
+	["AdvancedAutologBosses"] = false,
 	["ShowLHFrame"] = true,
 	["RangeFrameRadarX"] = -306.4446411132813,
 	["RangeFrameRadarY"] = 43.88755798339844,
@@ -87,7 +87,7 @@ DBM_SavedOptions = {
 		0, -- [2]
 		1, -- [3]
 	},
-	["AdvancedAutologBosses"] = false,
+	["RangeFrameSound2"] = "none",
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},

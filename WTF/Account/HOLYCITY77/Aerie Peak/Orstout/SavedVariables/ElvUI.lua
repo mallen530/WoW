@@ -1,11 +1,11 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" We could actually use a Lock and Holy Priest", -- [1]
-		" Paladin i mean", -- [2]
-		" YOU!", -- [3]
-		"/tc", -- [4]
-		"/tc setup", -- [5]
+		"/tc", -- [1]
+		"/tc setup", -- [2]
+		" im sorry", -- [3]
+		"/wa", -- [4]
+		"/reload ui", -- [5]
 	},
 	["ChatLog"] = {
 		["1369359369.771"] = {
@@ -25,24 +25,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
-		},
-		["1369358241.135"] = {
-			"Fatality: Grasshoppaa > 143k Shadow |cff71d5ff|Hspell:122768|h[Dread Shadows]|h|r (O: 64.2k) [Tsulong]", -- [1]
-			"Ayr", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ayr", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3661, -- [11]
-			"0x0580000008399391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
 		},
 		["1369358470.542"] = {
 			"ofc", -- [1]
@@ -134,23 +116,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369358338.242"] = {
-			"its on now", -- [1]
-			"Ohreeree", -- [2]
+		["1369363077.385"] = {
+			"(Ghobes): first heroic scenario and i get  |cffa335ee|Hitem:98263:0:0:0:0:0:-365:531499762:90:0:465|h[Immaculate Pandaren Hammer of the Faultline]|h|r", -- [1]
+			"Hamdrew", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Hamdrew", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3702, -- [11]
-			"0x058000000839F535", -- [12]
+			5667, -- [11]
+			"0x05800000083D2A06", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369363055.578"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:6605:05800000083A5981:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Taming Northrend]|h|r!", -- [1]
@@ -206,23 +188,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1369358336.743"] = {
-			"didnt have it on my bar that pull", -- [1]
-			"Ohreeree", -- [2]
+		["1369363047.696"] = {
+			"(Ghobes): OH MY SNAP", -- [1]
+			"Hamdrew", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Hamdrew", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3700, -- [11]
-			"0x058000000839F535", -- [12]
+			5652, -- [11]
+			"0x05800000083D2A06", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369454141.516"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:6763:05800000083A1CAA:1:5:24:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Siege of Niuzao Temple]|h|r!", -- [1]
@@ -296,8 +278,26 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369361031.863"] = {
-			"mmm fancy", -- [1]
+		["1369454491.504"] = {
+			"Night", -- [1]
+			"Duskfox", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Duskfox", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"0x058000000838344C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369358970.565"] = {
+			"Pull in 5 sec", -- [1]
 			"Orstout", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -307,30 +307,12 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4707, -- [11]
+			3947, -- [11]
 			"0x05800000084D1258", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1369361003.523"] = {
-			"A#kazzak##%s has earned the achievement |cffffff00|Hachievement:7276:05800000084D1258:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Fancy Footwork]|h|r!", -- [1]
-			"Orstout", -- [2]
-			"", -- [3]
-			"5. Bazooba", -- [4]
-			"Orstout", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"Bazooba", -- [9]
-			0, -- [10]
-			4693, -- [11]
-			"0x05800000084D1258", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_CHANNEL",
+			[20] = "CHAT_MSG_RAID_WARNING",
 		},
 		["1369454657.132"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:7281:05800000083D158D:1:5:24:13:4294967295:4294967295:4294967295:4294967295|h[Lost and Found]|h|r!", -- [1]
@@ -386,6 +368,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
+		["1369359941.302"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8316:05800000083AF4AE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Blood in the Snow]|h|r!", -- [1]
+			"Pinkfleime", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pinkfleime", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4368, -- [11]
+			"0x05800000083AF4AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
 		["1369358768.117"] = {
 			"Fatality: Orstout > 78.5k Melee (O: 14.3k) [Tsulong]", -- [1]
 			"Ayr", -- [2]
@@ -404,23 +404,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID",
 		},
-		["1369359408.202"] = {
-			" |cffa335ee|Hitem:86329:0:0:0:0:0:0:823675904:90:0:445|h[Sollerets of Instability]|h|r", -- [1]
-			"Quitkrying", -- [2]
+		["1369359314.306"] = {
+			"Nightmares on Ohreeree", -- [1]
+			"Ohreeree", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Quitkrying", -- [5]
+			"Ohreeree", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4115, -- [11]
-			"0x05800000084CF36D", -- [12]
+			4079, -- [11]
+			"0x058000000839F535", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID_LEADER",
+			[20] = "CHAT_MSG_SAY",
 		},
 		["1369359558.918"] = {
 			"muahahaha", -- [1]
@@ -458,24 +458,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369358240.941"] = {
-			"Fatality: Billiepiper > 426k Melee (O: 299k) [Tsulong]", -- [1]
-			"Ayr", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ayr", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3655, -- [11]
-			"0x0580000008399391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
-		},
 		["1369358446.182"] = {
 			"the problem is it can go out during sun breath", -- [1]
 			"Ohreeree", -- [2]
@@ -512,23 +494,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369358807.201"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8099:05800000083B11CB:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Isle of Thunder]|h|r!", -- [1]
-			"Belshnickle", -- [2]
-			"", -- [3]
+		["1369359913.174"] = {
+			"where do you go to get the quest for the barrens?", -- [1]
+			"Flamesizzles", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Belshnickle", -- [5]
+			"Flamesizzles", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3899, -- [11]
-			"0x05800000083B11CB", -- [12]
+			4355, -- [11]
+			"0x05800000083C0DDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369359581.176"] = {
 			"we need a lock over here", -- [1]
@@ -637,6 +619,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		["1369610762.017"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:651:05800000084C8735:1:5:26:13:4294967295:4294967295:4294967295:4294967295|h[Mana-Tombs]|h|r!", -- [1]
+			"Lethamar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lethamar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"0x05800000084C8735", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1369361605.419"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:7994:05800000083CC77B:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Treasure of Pandaria]|h|r!", -- [1]
@@ -782,23 +782,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369359574.682"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8330:0580000008363CDE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Hekima's Heal-Halter]|h|r!", -- [1]
-			"Eldrion", -- [2]
-			"", -- [3]
+		["1369362442.586"] = {
+			"nice!", -- [1]
+			"Kleptik", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Eldrion", -- [5]
+			"Kleptik", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4184, -- [11]
-			"0x0580000008363CDE", -- [12]
+			5297, -- [11]
+			"0x0580000008367136", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369359499.617"] = {
 			"tyvm", -- [1]
@@ -817,6 +817,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID",
+		},
+		["1369358628.853"] = {
+			"Hey guildlies :)", -- [1]
+			"Salmacis", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Salmacis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3822, -- [11]
+			"0x058000000836BCB5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369358512.147"] = {
 			"Pull in 5 sec", -- [1]
@@ -1016,6 +1034,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
+		["1369610838.864"] = {
+			"ty", -- [1]
+			"Lethamar", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Lethamar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			144, -- [11]
+			"0x05800000084C8735", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
+		},
 		["1369361904.816"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:8317:05800000083DED26:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Dark Heart of Pandaria]|h|r!", -- [1]
 			"Talamandus", -- [2]
@@ -1142,6 +1178,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID",
 		},
+		["1369454019.206"] = {
+			"YOU!", -- [1]
+			"|Kf30|k00000000000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			20, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
+		},
 		["1369359604.05"] = {
 			"67", -- [1]
 			"Ohreeree", -- [2]
@@ -1177,6 +1231,24 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369540851.161"] = {
+			"im sorry", -- [1]
+			"|Kf63|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			false, -- [12]
+			63, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1369359588.96"] = {
 			"join ma raid team", -- [1]
@@ -1268,23 +1340,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID_WARNING",
 		},
-		["1369358380.884"] = {
-			"does it happen in both phases?", -- [1]
-			"Ohreeree", -- [2]
-			"Common", -- [3]
+		["1369710295.799"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:7282:05800000083F6334:1:5:27:13:4294967295:4294967295:4294967295:4294967295|h[Finders Keepers]|h|r!", -- [1]
+			"Macmadden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Macmadden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3715, -- [11]
-			"0x058000000839F535", -- [12]
+			1391, -- [11]
+			"0x05800000083F6334", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369540742.814"] = {
+			"im gonna change all the RD ranks", -- [1]
+			"|Kf63|k00000000000|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			36, -- [11]
+			false, -- [12]
+			63, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1369359224.395"] = {
 			"hmm...  looks like my tailor has run out of things to discover", -- [1]
@@ -1322,24 +1412,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369454491.504"] = {
-			"Night", -- [1]
-			"Duskfox", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Duskfox", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			120, -- [11]
-			"0x058000000838344C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
 		["1369359590.454"] = {
 			"do we want to try and find more to keep going?", -- [1]
 			"Quitkrying", -- [2]
@@ -1357,42 +1429,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID_LEADER",
-		},
-		["1369362442.586"] = {
-			"nice!", -- [1]
-			"Kleptik", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kleptik", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5297, -- [11]
-			"0x0580000008367136", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1369358628.853"] = {
-			"Hey guildlies :)", -- [1]
-			"Salmacis", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Salmacis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3822, -- [11]
-			"0x058000000836BCB5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369362477.736"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:7992:05800000083BA1B5:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[I Used To Love Them]|h|r!", -- [1]
@@ -1466,19 +1502,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369359575.504"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8312:0580000008363CDE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Blood in the Snow]|h|r!", -- [1]
-			"Eldrion", -- [2]
+		["1369710291.867"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8306:058000000840A481:1:5:27:13:4294967295:4294967295:4294967295:4294967295|h[Hordebreaker]|h|r!", -- [1]
+			"Draico", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Eldrion", -- [5]
+			"Draico", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4186, -- [11]
-			"0x0580000008363CDE", -- [12]
+			1390, -- [11]
+			"0x058000000840A481", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -1502,23 +1538,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID",
 		},
-		["1369359424.109"] = {
-			"well, time to save cloth for my other tailor... :D", -- [1]
-			"Mindburn", -- [2]
+		["1369359024.616"] = {
+			"Nightmares on Quitkrying!", -- [1]
+			"Quitkrying", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Mindburn", -- [5]
+			"Quitkrying", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4120, -- [11]
-			"0x0580000008474981", -- [12]
+			3975, -- [11]
+			"0x05800000084CF36D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_SAY",
 		},
 		["1369361003.74"] = {
 			"<DBM> Orstout has completed Heroic Scenario - Crypt of Forgotten Kings!", -- [1]
@@ -1556,41 +1592,41 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369360256.096"] = {
-			"upgrade your lowest level item", -- [1]
-			"Blaqsheep", -- [2]
-			"Common", -- [3]
+		["1369359575.504"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8312:0580000008363CDE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Blood in the Snow]|h|r!", -- [1]
+			"Eldrion", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Blaqsheep", -- [5]
+			"Eldrion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4513, -- [11]
-			"0x05800000083CDED2", -- [12]
+			4186, -- [11]
+			"0x0580000008363CDE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369359067.911"] = {
-			"Your welcome", -- [1]
-			"Jardiah", -- [2]
+		["1369358920.085"] = {
+			"need spell power and mastery buffs if we have them", -- [1]
+			"Ohreeree", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Jardiah", -- [5]
+			"Ohreeree", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3991, -- [11]
-			"0x05800000084355A6", -- [12]
+			3935, -- [11]
+			"0x058000000839F535", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_RAID",
 		},
 		["1369359330.104"] = {
 			"Nightmares on Dorfus!", -- [1]
@@ -1610,59 +1646,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369359520.039"] = {
-			" |cffa335ee|Hitem:94762:4429:4637:0:0:0:0:1410143104:90:0:465|h[Mar'li's Bloodstained Sandals]|h|r", -- [1]
-			"Ohreeree", -- [2]
+		["1369359424.109"] = {
+			"well, time to save cloth for my other tailor... :D", -- [1]
+			"Mindburn", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Mindburn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4163, -- [11]
-			"0x058000000839F535", -- [12]
+			4120, -- [11]
+			"0x0580000008474981", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369359337.938"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:6933:05800000084B6099:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Who's Got Two Green Thumbs?]|h|r!", -- [1]
-			"Billiepiper", -- [2]
+		["1369361417.566"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8009:05800000083BA1B5:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Dagger in the Dark]|h|r!", -- [1]
+			"Chasun", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Billiepiper", -- [5]
+			"Chasun", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4085, -- [11]
-			"0x05800000084B6099", -- [12]
+			4860, -- [11]
+			"0x05800000083BA1B5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369358315.17"] = {
-			"have no way of seeing it but can dispel if called for it", -- [1]
-			"Ohreeree", -- [2]
+		["1369360256.096"] = {
+			"upgrade your lowest level item", -- [1]
+			"Blaqsheep", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Blaqsheep", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3688, -- [11]
-			"0x058000000839F535", -- [12]
+			4513, -- [11]
+			"0x05800000083CDED2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369359298.6"] = {
 			"Nightmares on Ohreeree", -- [1]
@@ -1682,59 +1718,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369363077.385"] = {
-			"(Ghobes): first heroic scenario and i get  |cffa335ee|Hitem:98263:0:0:0:0:0:-365:531499762:90:0:465|h[Immaculate Pandaren Hammer of the Faultline]|h|r", -- [1]
-			"Hamdrew", -- [2]
+		["1369360596.712"] = {
+			"did they download another patch today?", -- [1]
+			"Talamandus", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Hamdrew", -- [5]
+			"Talamandus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5667, -- [11]
-			"0x05800000083D2A06", -- [12]
+			4588, -- [11]
+			"0x05800000083DED26", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369359631.018"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8364:05800000084B856D:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Battle on the High Seas]|h|r!", -- [1]
-			"Demonicrick", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Demonicrick", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4216, -- [11]
-			"0x05800000084B856D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1369359073.375"] = {
-			"Nightmares on Billiepiper!", -- [1]
-			"Billiepiper", -- [2]
+		["1369359969.798"] = {
+			"i thought that was scenario stuff :(", -- [1]
+			"Flamesizzles", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Billiepiper", -- [5]
+			"Flamesizzles", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3995, -- [11]
-			"0x05800000084B6099", -- [12]
+			4382, -- [11]
+			"0x05800000083C0DDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD",
+		},
+		["1369359520.039"] = {
+			" |cffa335ee|Hitem:94762:4429:4637:0:0:0:0:1410143104:90:0:465|h[Mar'li's Bloodstained Sandals]|h|r", -- [1]
+			"Ohreeree", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Ohreeree", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4163, -- [11]
+			"0x058000000839F535", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_RAID",
 		},
 		["1369358517.15"] = {
 			"Pull now!", -- [1]
@@ -1754,23 +1790,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID_WARNING",
 		},
-		["1369363047.696"] = {
-			"(Ghobes): OH MY SNAP", -- [1]
-			"Hamdrew", -- [2]
+		["1369359073.375"] = {
+			"Nightmares on Billiepiper!", -- [1]
+			"Billiepiper", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Hamdrew", -- [5]
+			"Billiepiper", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			5652, -- [11]
-			"0x05800000083D2A06", -- [12]
+			3995, -- [11]
+			"0x05800000084B6099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_SAY",
 		},
 		["1369359805.081"] = {
 			"so really when are you coming?", -- [1]
@@ -1790,6 +1826,24 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
+		["1369540974.871"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:6740:058000000836F991:1:5:25:13:4294967295:4294967295:4294967295:4294967295|h[Temple of Kotmogu Victory]|h|r!", -- [1]
+			"Stillup", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Stillup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"0x058000000836F991", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
 		["1369360587.657"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:8316:05800000083C0DDB:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Blood in the Snow]|h|r!", -- [1]
 			"Flamesizzles", -- [2]
@@ -1807,24 +1861,6 @@ ElvCharacterDB = {
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1369359632.205"] = {
-			"when are you going to come to Aerie Peak?", -- [1]
-			"|Kf31|k00000|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4221, -- [11]
-			false, -- [12]
-			31, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
 		["1369358785.842"] = {
 			"Fatality: Dorfus > 45.7k Shadow |cff71d5ff|Hspell:122768|h[Dread Shadows]|h|r (O: 8.2k) [Tsulong]", -- [1]
@@ -1844,24 +1880,6 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID",
 		},
-		["1369359601.718"] = {
-			"i think we'd have only run another 50 min anyway", -- [1]
-			"Quitkrying", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Quitkrying", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4205, -- [11]
-			"0x05800000084CF36D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_RAID_LEADER",
-		},
 		["1369360642.603"] = {
 			"[saliira] lol @ coladin", -- [1]
 			"Tserchi", -- [2]
@@ -1880,9 +1898,27 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369454019.206"] = {
-			"YOU!", -- [1]
-			"|Kf30|k00000000000000000|k", -- [2]
+		["1369359601.718"] = {
+			"i think we'd have only run another 50 min anyway", -- [1]
+			"Quitkrying", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Quitkrying", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4205, -- [11]
+			"0x05800000084CF36D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_RAID_LEADER",
+		},
+		["1369359632.205"] = {
+			"when are you going to come to Aerie Peak?", -- [1]
+			"|Kf31|k00000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1891,9 +1927,9 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			20, -- [11]
+			4221, -- [11]
 			false, -- [12]
-			30, -- [13]
+			31, -- [13]
 			false, -- [14]
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
@@ -1916,8 +1952,8 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER",
 		},
-		["1369358970.565"] = {
-			"Pull in 5 sec", -- [1]
+		["1369361031.863"] = {
+			"mmm fancy", -- [1]
 			"Orstout", -- [2]
 			"Common", -- [3]
 			"", -- [4]
@@ -1927,48 +1963,30 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3947, -- [11]
+			4707, -- [11]
 			"0x05800000084D1258", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID_WARNING",
+			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369358390.131"] = {
-			"kk", -- [1]
-			"Ohreeree", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ohreeree", -- [5]
+		["1369361003.523"] = {
+			"A#kazzak##%s has earned the achievement |cffffff00|Hachievement:7276:05800000084D1258:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Fancy Footwork]|h|r!", -- [1]
+			"Orstout", -- [2]
+			"", -- [3]
+			"5. Bazooba", -- [4]
+			"Orstout", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"Bazooba", -- [9]
 			0, -- [10]
-			3716, -- [11]
-			"0x058000000839F535", -- [12]
+			4693, -- [11]
+			"0x05800000084D1258", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
-		},
-		["1369359024.616"] = {
-			"Nightmares on Quitkrying!", -- [1]
-			"Quitkrying", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Quitkrying", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3975, -- [11]
-			"0x05800000084CF36D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_CHANNEL",
 		},
 		["1369358629.21"] = {
 			"Nightmares on Saintlanie!", -- [1]
@@ -1988,19 +2006,19 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369359941.302"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8316:05800000083AF4AE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Blood in the Snow]|h|r!", -- [1]
-			"Pinkfleime", -- [2]
+		["1369359574.682"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8330:0580000008363CDE:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Hekima's Heal-Halter]|h|r!", -- [1]
+			"Eldrion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pinkfleime", -- [5]
+			"Eldrion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4368, -- [11]
-			"0x05800000083AF4AE", -- [12]
+			4184, -- [11]
+			"0x0580000008363CDE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -2042,23 +2060,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_SAY",
 		},
-		["1369360112.091"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:4496:05800000083DED26:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[It's Over Nine Thousand!]|h|r!", -- [1]
-			"Talamandus", -- [2]
+		["1369540752.063"] = {
+			"i dont wanna be the fun sheriff anymore", -- [1]
+			"|Kf63|k00000000000|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talamandus", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4456, -- [11]
-			"0x05800000083DED26", -- [12]
-			0, -- [13]
+			37, -- [11]
+			false, -- [12]
+			63, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_BN_WHISPER",
 		},
 		["1369360164.436"] = {
 			"%s has earned the achievement |cffffff00|Hachievement:1182:05800000083D415A:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[The Bread Winner]|h|r!", -- [1]
@@ -2073,60 +2091,6 @@ ElvCharacterDB = {
 			0, -- [10]
 			4478, -- [11]
 			"0x05800000083D415A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		},
-		["1369360596.712"] = {
-			"did they download another patch today?", -- [1]
-			"Talamandus", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Talamandus", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4588, -- [11]
-			"0x05800000083DED26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1369358340.711"] = {
-			"Well I think it is time the alliance took the crossroads for good", -- [1]
-			"Jardiah", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jardiah", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3703, -- [11]
-			"0x05800000084355A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
-		},
-		["1369361417.566"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8009:05800000083BA1B5:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Dagger in the Dark]|h|r!", -- [1]
-			"Chasun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chasun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4860, -- [11]
-			"0x05800000083BA1B5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
@@ -2150,23 +2114,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_BN_WHISPER_INFORM",
 		},
-		["1369359314.306"] = {
-			"Nightmares on Ohreeree", -- [1]
-			"Ohreeree", -- [2]
-			"Common", -- [3]
+		["1369359631.018"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8364:05800000084B856D:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Heroic: Battle on the High Seas]|h|r!", -- [1]
+			"Demonicrick", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Demonicrick", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4079, -- [11]
-			"0x058000000839F535", -- [12]
+			4216, -- [11]
+			"0x05800000084B856D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_SAY",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369360112.091"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:4496:05800000083DED26:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[It's Over Nine Thousand!]|h|r!", -- [1]
+			"Talamandus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talamandus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4456, -- [11]
+			"0x05800000083DED26", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		["1369359067.911"] = {
+			"Your welcome", -- [1]
+			"Jardiah", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Jardiah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3991, -- [11]
+			"0x05800000084355A6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_GUILD",
 		},
 		["1369359379.654"] = {
 			" |cffa335ee|Hitem:89842:0:0:0:0:0:0:823675904:90:0:445|h[Gauntlets of the Shadow's Caress]|h|r |cffa335ee|Hitem:86329:0:0:0:0:0:0:823675904:90:0:445|h[Sollerets of Instability]|h|r", -- [1]
@@ -2186,59 +2186,59 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_RAID_LEADER",
 		},
-		["1369359969.798"] = {
-			"i thought that was scenario stuff :(", -- [1]
-			"Flamesizzles", -- [2]
-			"Common", -- [3]
+		["1369358807.201"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8099:05800000083B11CB:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Isle of Thunder]|h|r!", -- [1]
+			"Belshnickle", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Flamesizzles", -- [5]
+			"Belshnickle", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4382, -- [11]
-			"0x05800000083C0DDB", -- [12]
+			3899, -- [11]
+			"0x05800000083B11CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369359913.174"] = {
-			"where do you go to get the quest for the barrens?", -- [1]
-			"Flamesizzles", -- [2]
-			"Common", -- [3]
+		["1369359337.938"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:6933:05800000084B6099:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Who's Got Two Green Thumbs?]|h|r!", -- [1]
+			"Billiepiper", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Flamesizzles", -- [5]
+			"Billiepiper", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4355, -- [11]
-			"0x05800000083C0DDB", -- [12]
+			4085, -- [11]
+			"0x05800000084B6099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
-		["1369358920.085"] = {
-			"need spell power and mastery buffs if we have them", -- [1]
-			"Ohreeree", -- [2]
-			"Common", -- [3]
+		["1369359014.133"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:8037:05800000083A04A4:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Genetically Unmodified Organism]|h|r!", -- [1]
+			"Qel", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ohreeree", -- [5]
+			"Qel", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3935, -- [11]
-			"0x058000000839F535", -- [12]
+			3957, -- [11]
+			"0x05800000083A04A4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_RAID",
+			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		},
 		["1369359746.868"] = {
 			"Barrens chat is the original version of what Trade chat is now", -- [1]
@@ -2258,23 +2258,23 @@ ElvCharacterDB = {
 			false, -- [15]
 			[20] = "CHAT_MSG_GUILD",
 		},
-		["1369359014.133"] = {
-			"%s has earned the achievement |cffffff00|Hachievement:8037:05800000083A04A4:1:5:23:13:4294967295:4294967295:4294967295:4294967295|h[Genetically Unmodified Organism]|h|r!", -- [1]
-			"Qel", -- [2]
-			"", -- [3]
+		["1369359408.202"] = {
+			" |cffa335ee|Hitem:86329:0:0:0:0:0:0:823675904:90:0:445|h[Sollerets of Instability]|h|r", -- [1]
+			"Quitkrying", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Qel", -- [5]
+			"Quitkrying", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3957, -- [11]
-			"0x05800000083A04A4", -- [12]
+			4115, -- [11]
+			"0x05800000084CF36D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
-			[20] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[20] = "CHAT_MSG_RAID_LEADER",
 		},
 		["1369359555.493"] = {
 			"lol 2.14 million greater heal", -- [1]
