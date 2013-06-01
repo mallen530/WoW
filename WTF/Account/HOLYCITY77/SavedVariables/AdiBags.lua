@@ -6,7 +6,12 @@ AdiBagsDB = {
 				["Default"] = {
 					["overrides"] = {
 						[95350] = "Miscellaneous#Miscellaneous",
+						[47832] = "Equipment#ToC XMog",
 						[2801] = "Trade Goods#Trade Goods",
+						[90347] = "Equipment#ToC XMog",
+						[95567] = "Miscellaneous#Miscellaneous",
+						[47719] = "Equipment#ToC XMog",
+						[47746] = "Equipment#ToC XMog",
 					},
 					["version"] = 1,
 				},
@@ -16,11 +21,11 @@ AdiBagsDB = {
 			["profiles"] = {
 				["Default"] = {
 					["splitBySubclass"] = {
-						["Recipe"] = false,
-						["Consumable"] = false,
-						["Gem"] = false,
+						["Recipe"] = true,
+						["Consumable"] = true,
+						["Gem"] = true,
+						["Glyph"] = true,
 						["Trade Goods"] = false,
-						["Glyph"] = false,
 						["Miscellaneous"] = false,
 					},
 				},
@@ -35,16 +40,20 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["Equipment"] = {
+		["DataSource"] = {
+		},
+		["Junk"] = {
 			["profiles"] = {
 				["Default"] = {
-					["armorTypes"] = true,
+					["exclude"] = {
+						[95567] = true,
+						[95568] = true,
+						[94288] = true,
+						[87903] = true,
+						[95491] = true,
+					},
 				},
 			},
-		},
-		["TidyBags"] = {
-		},
-		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -54,8 +63,8 @@ AdiBagsDB = {
 						["Ironpaw Token"] = false,
 						["Justice Points"] = false,
 						["Honor Points"] = false,
-						["Conquest Points"] = false,
 						["Mote of Darkness"] = false,
+						["Conquest Points"] = false,
 					},
 					["text"] = {
 						["name"] = "SSPro - Semibold",
@@ -63,19 +72,21 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["Junk"] = {
+		["ItemSets"] = {
+		},
+		["TidyBags"] = {
 			["profiles"] = {
 				["Default"] = {
-					["exclude"] = {
-						[87903] = true,
-						[94288] = true,
-						[95568] = true,
-						[95491] = true,
-					},
+					["autoTidy"] = true,
 				},
 			},
 		},
-		["DataSource"] = {
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["armorTypes"] = true,
+				},
+			},
 		},
 	},
 	["profileKeys"] = {
@@ -87,31 +98,35 @@ AdiBagsDB = {
 		["Jains - Thrall"] = "Default",
 		["Orranstout - Aerie Peak"] = "Default",
 		["Orsun - Aerie Peak"] = "Default",
-		["Orlight - Aerie Peak"] = "Default",
-		["Cajamarca - Thrall"] = "Default",
+		["Orazzle - Thrall"] = "Default",
+		["Orstout - Aerie Peak"] = "Default",
 		["Orstout - Thrall"] = "Default",
 		["Eammiran - Thrall"] = "Default",
-		["Orstout - Aerie Peak"] = "Default",
-		["Orazzle - Thrall"] = "Default",
+		["Cajamarca - Thrall"] = "Default",
+		["Orlight - Aerie Peak"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["virtualStacks"] = {
 				["stackable"] = true,
 			},
+			["skin"] = {
+				["background"] = "Blizzard Dialog Background",
+			},
 			["bagFont"] = {
 				["name"] = "SSPro - Regular",
 			},
 			["positions"] = {
 				["anchor"] = {
-					["xOffset"] = -31.9998779296875,
-					["yOffset"] = 199.9999542236328,
+					["xOffset"] = -32.0001220703125,
+					["yOffset"] = 199.9999694824219,
 				},
 			},
 			["filterPriorities"] = {
 				["ItemCategory"] = 20,
 			},
 			["rightClickConfig"] = false,
+			["automaticLayout"] = 2,
 			["sectionFont"] = {
 				["name"] = "SSPro - Bold",
 				["r"] = 0.2352941176470588,

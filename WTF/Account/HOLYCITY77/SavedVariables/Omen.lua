@@ -11,9 +11,9 @@ Omen3DB = {
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
-		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
-		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Orstout - Thrall"] = "Orstout - Thrall",
+		["Eammiran - Thrall"] = "Eammiran - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Orazzle - Thrall"] = "Orazzle - Thrall",
 	},
 	["profiles"] = {
@@ -168,8 +168,9 @@ Omen3DB = {
 			},
 			["PositionH"] = 82.00001525878906,
 		},
-		["Orstout - Aerie Peak"] = {
+		["Orstout - Thrall"] = {
 			["PositionY"] = 623.5714721679688,
+			["PositionX"] = 744.6429443359375,
 			["Locked"] = true,
 			["Background"] = {
 				["EdgeSize"] = 1,
@@ -179,7 +180,6 @@ Omen3DB = {
 			["MinimapIcon"] = {
 				["hide"] = true,
 			},
-			["PositionX"] = 744.6429443359375,
 			["Bar"] = {
 				["Spacing"] = 1,
 			},
@@ -201,9 +201,8 @@ Omen3DB = {
 				["Spacing"] = 1,
 			},
 		},
-		["Orstout - Thrall"] = {
+		["Orstout - Aerie Peak"] = {
 			["PositionY"] = 623.5714721679688,
-			["PositionX"] = 744.6429443359375,
 			["Locked"] = true,
 			["Background"] = {
 				["EdgeSize"] = 1,
@@ -213,6 +212,7 @@ Omen3DB = {
 			["MinimapIcon"] = {
 				["hide"] = true,
 			},
+			["PositionX"] = 744.6429443359375,
 			["Bar"] = {
 				["Spacing"] = 1,
 			},

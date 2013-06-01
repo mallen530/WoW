@@ -9,12 +9,12 @@ RecountDB = {
 		["Jains - Thrall"] = "Jains - Thrall",
 		["Orranstout - Aerie Peak"] = "Orranstout - Aerie Peak",
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
-		["Orazzle - Thrall"] = "Orazzle - Thrall",
-		["Orstout - Thrall"] = "Orstout - Thrall",
-		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
-		["Eammiran - Thrall"] = "Eammiran - Thrall",
-		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
+		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
+		["Orstout - Thrall"] = "Orstout - Thrall",
+		["Eammiran - Thrall"] = "Eammiran - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
+		["Orazzle - Thrall"] = "Orazzle - Thrall",
 	},
 	["profiles"] = {
 		["Orran - Thrall"] = {
@@ -39,9 +39,9 @@ RecountDB = {
 			},
 			["DetailWindowY"] = 0,
 			["LastInstanceName"] = "Throne of Thunder",
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 		["Khanen - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -62,10 +62,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
-			["CurDataSet"] = "OverallData",
-			["MainWindowVis"] = false,
 			["DetailWindowX"] = 0,
+			["MainWindowVis"] = false,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
 		},
 		["Quitor - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
@@ -88,9 +88,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 		["Wrimtok - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
@@ -113,8 +113,8 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
 			["MainWindowVis"] = false,
+			["GraphWindowX"] = 0,
 		},
 		["Brimtok - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -137,9 +137,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
 		},
 		["Jains - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -151,6 +151,9 @@ RecountDB = {
 					["x"] = -689.0866012573242,
 				},
 			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Dire Maul",
+			["CurDataSet"] = "CurrentFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -162,11 +165,8 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
 			["MainWindowVis"] = false,
-			["LastInstanceName"] = "Razorfen Downs",
-			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 340.0936889648438,
 			["MainWindowHeight"] = 164.0281829833984,
 		},
@@ -191,9 +191,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 		["Orsun - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
@@ -216,18 +216,18 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
-		["Orazzle - Thrall"] = {
+		["Orlight - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 451.89697265625,
-					["h"] = 200.0001373291016,
+					["y"] = 438.4075622558594,
+					["h"] = 200.0000305175781,
 					["w"] = 139.9999847412109,
-					["x"] = -786.8852233886719,
+					["x"] = -780.1405487060547,
 				},
 			},
 			["Colors"] = {
@@ -241,86 +241,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Shadowfang Keep",
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
-			["DetailWindowX"] = 0,
-		},
-		["Orstout - Thrall"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -440.1426887512207,
-					["x"] = 714.5716552734375,
-					["w"] = 270.7140808105469,
-					["h"] = 159.1428375244141,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Gate of the Setting Sun",
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
-			["CurDataSet"] = "LastFightData",
-		},
-		["Orstout - Aerie Peak"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -250.7755737304688,
-					["x"] = 576.3011474609375,
-					["w"] = 139.9999694824219,
-					["h"] = 199.9999847412109,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Terrace of Endless Spring",
-			["CurDataSet"] = "LastFightData",
-			["GraphWindowX"] = 0,
-			["DetailWindowX"] = 0,
-		},
-		["Eammiran - Thrall"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = 382.2015686035156,
-					["h"] = 200.0001220703125,
-					["w"] = 139.9999847412109,
-					["x"] = -746.4168701171875,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["CurDataSet"] = "OverallData",
-			["GraphWindowX"] = 0,
-			["DetailWindowX"] = 0,
 		},
 		["Cajamarca - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -346,18 +270,18 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 310.8664245605469,
 			["MainWindowHeight"] = 193.2554168701172,
+			["MainWindowWidth"] = 310.8664245605469,
+			["GraphWindowX"] = 0,
 		},
-		["Orlight - Aerie Peak"] = {
+		["Orstout - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 438.4075622558594,
-					["h"] = 200.0000305175781,
-					["w"] = 139.9999847412109,
-					["x"] = -780.1405487060547,
+					["y"] = -440.1426887512207,
+					["x"] = 714.5716552734375,
+					["w"] = 270.7140808105469,
+					["h"] = 159.1428375244141,
 				},
 			},
 			["Colors"] = {
@@ -371,10 +295,86 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Shadowfang Keep",
-			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "Gate of the Setting Sun",
+			["CurDataSet"] = "LastFightData",
 			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+		},
+		["Eammiran - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 382.2015686035156,
+					["h"] = 200.0001220703125,
+					["w"] = 139.9999847412109,
+					["x"] = -746.4168701171875,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+		["Orstout - Aerie Peak"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -250.7755737304688,
+					["x"] = 576.3011474609375,
+					["w"] = 139.9999694824219,
+					["h"] = 199.9999847412109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["LastInstanceName"] = "Trial of the Crusader",
+			["CurDataSet"] = "LastFightData",
+		},
+		["Orazzle - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 451.89697265625,
+					["h"] = 200.0001373291016,
+					["w"] = 139.9999847412109,
+					["x"] = -786.8852233886719,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
 		},
 	},
 }

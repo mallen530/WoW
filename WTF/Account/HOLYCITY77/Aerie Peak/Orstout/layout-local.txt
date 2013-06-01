@@ -6,6 +6,13 @@ X: 0
 Y: 0
 W: 365
 H: 240
+Frame: AdiBagsAnchor1
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: -32
+Y: 200
+W: 80
+H: 80
 Frame: DBMMinimapButton
 FrameLevel: 3
 Anchor: TOPRIGHT
@@ -27,6 +34,13 @@ X: 91
 Y: 201
 W: 32
 H: 32
+Frame: TopReady
+FrameLevel: 1
+Anchor: TOP
+X: 30
+Y: 0
+W: 60
+H: 20
 Frame: TopFlare
 FrameLevel: 1
 Anchor: BOTTOM
