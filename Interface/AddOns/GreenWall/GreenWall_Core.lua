@@ -1,8 +1,8 @@
 --[[-----------------------------------------------------------------------
 
-    $Id: GreenWall_Core.lua 165 2012-09-01 03:48:29Z stigg $
+    $Id: GreenWall_Core.lua 178 2013-06-09 06:57:19Z stigg $
 
-    $HeadURL: http://svn.aie-guild.org/addon/GreenWall/tags/release-1.2.7/GreenWall_Core.lua $
+    $HeadURL: http://svn.aie-guild.org/addon/GreenWall/tags/release-1.3.0/GreenWall_Core.lua $
 
     Copyright (c) 2010-2012; Mark Rogaski.
 
@@ -233,8 +233,8 @@ end
 -- @return The CRC hash.
 local function GwStringHash(str)
 
-    if text == nil then
-        text = '';
+    if str == nil then
+        str = '';
     end
     
     local crc = 0xffff;
@@ -323,6 +323,7 @@ local function GwNewChannelTable(name, password)
         owner = false,
         handoff = false,
         queue = {},
+        tx_hash = 0,
         stats = {
             sconn = 0,
             fconn = 0,
@@ -515,9 +516,15 @@ local function GwSendConfederationMsg(chan, type, message, sync)
         message = '';
     end
     
+    -- Format the message.
     local payload = strsub(strjoin('#', opcode, gwContainerId, '', message), 1, 255);
+    
+    -- Send the message.
     GwDebug(3, format('Tx<%d, %s>: %s', chan.number, gwPlayerName, payload));
     SendChatMessage(payload , "CHANNEL", nil, chan.number); 
+
+    -- Record the hash of the outbound message.
+    chan.tx_hash = GwStringHash(payload);
 
 end
 
@@ -590,6 +597,22 @@ local function GwLeaveChannel(chan)
 
 end
 
+
+--- Leave a shared confederation channel and clear current configuration.
+-- @param chan The channel control table.
+local function GwAbandonChannel(chan)
+
+    local id, name = GetChannelName(chan.number);
+    if name then
+        GwDebug(1, format('chan_abandon: name=<<%04X>>, number=%d', GwStringHash(name), chan.number));
+        chan.name = '';
+        chan.password = '';
+        LeaveChannelByName(name);
+        chan.number = 0;
+        chan.stats.leave = chan.stats.leave + 1;
+    end
+
+end 
 
 --- Join the shared confederation channel.
 -- @param chan the channel control block.
@@ -702,7 +725,8 @@ local function GwGetGuildInfoConfig(chan)
 
     GwDebug(2, 'guild_info: parsing guild information.');
 
-    local info = GetGuildInfoText();
+    local info = GetGuildInfoText();    -- Guild information text.
+    local xlat = {};                    -- Translation table for string substitution.
     
     if info == '' then
 
@@ -724,8 +748,9 @@ local function GwGetGuildInfoConfig(chan)
     
         -- We will rebuild the list of peer container guilds
         wipe(gwPeerTable);
+        wipe(xlat);
 
-        for buffer in gmatch(info, 'GW:([^\n]+)') do
+        for buffer in gmatch(info, 'GW:?(%l:[^\n]*)') do
         
             if buffer ~= nil then
                         
@@ -734,6 +759,9 @@ local function GwGetGuildInfoConfig(chan)
             
                 if vector[1] == 'c' then
                 
+                    -- Common Channel:
+                    -- This specifies the custom chat channel to use for all general confederation bridging.
+                    
                     if chan.name ~= vector[2] then
                         chan.name = vector[2];
                         chan.dirty = true;
@@ -747,7 +775,76 @@ local function GwGetGuildInfoConfig(chan)
                     GwDebug(2, format('guild_info: channel=<<%04X>>, password=<<%04X>>', 
                             GwStringHash(chan.name), GwStringHash(chan.password)));
 
+                elseif vector[1] == 'p' then
+        
+                    -- Peer Co-Guild:
+                    -- You must specify one of these directives for each co-guild in the confederation, including the co-guild you are configuring.
+                    
+                    local cog_name, cog_id, count;
+                    
+                    cog_name, count = string.gsub(vector[2], '%$(%a)', function(a) return xlat[a] end);
+                    if count > 0 then
+                        GwDebug(4, format('guild_info: parser co-guild name substitution "%s" => "%s"', vector[2], cog_name));
+                    end
+                    
+                    cog_id, count   = string.gsub(vector[3], '%$(%a)', function(a) return xlat[a] end);
+                    if count > 0 then
+                        GwDebug(4, format('guild_info: parser co-guild ID substitution "%s" => "%s"', vector[3], cog_id));
+                    end
+                    
+                    if cog_name == gwGuildName then
+                        gwContainerId = cog_id;
+                        GwDebug(2, format('guild_info: container=%s (%s)', gwGuildName, gwContainerId));
+                    else 
+                        gwPeerTable[cog_id] = cog_name;
+                        GwDebug(2, format('guild_info: peer=%s (%s)', cog_name, cog_id));
+                    end
+                    
+                elseif vector[1] == 's' then
+                
+                    -- Substitution Variable:
+                    -- This specifies a variable that will can be used in the peer co-guild directives to reduce the size of the configuration.
+                           
+                    local key = vector[3];
+                    local val = vector[2];            
+                    if string.len(key) == 1 then
+                        if key ~= nil then
+                            xlat[key] = val;
+                            GwDebug(4, format('guild_info: parser substitution rule added, "$%s" := "%s"', key, val));
+                        end
+                    else
+                        GwDebug(4, format('guild_info: invalid parser substitution variable name, "$%s"', key))
+                    end
+                                        
+                elseif vector[1] == 'v' then
+                
+                    -- Minimum Version:
+                    -- The minimum version of GreenWall that the guild management wishes to allow members to use.
+                    
+                    if strmatch(vector[2], '^%d+%.%d+%.%d+%w*$') then
+                        gwOptMinVersion = vector[2];
+                        GwDebug(2, format('guild_info: minimum version is %s', gwOptMinVersion));
+                    end
+                    
+                elseif vector[1] == 'd' then
+                
+                    -- Channel Defense:
+                    -- This option specifies the type of channel defense hat should be employed. This feature is currently unimplemented.
+                    
+                    if vector[2] == 'k' then
+                        gwOptChanKick = true;
+                        GwDebug(2, 'guild_info: channel defense mode is kick.');
+                    elseif vector[2] == 'kb' then
+                        gwOptChanBan = true;
+                        GwDebug(2, 'guild_info: channel defense mode is kick/ban.');
+                    else
+                        GwDebug(2, 'guild_info: channel defense mode is disabled.');
+                    end
+                                                                     
                 elseif vector[1] == 'o' then
+                
+                    -- Option List:
+                    -- This is the old, deprecated, format for specifying configuration options.
                 
                     local optlist = { strsplit(',', gsub(vector[2], '%s+', '')) };
                 
@@ -771,22 +868,12 @@ local function GwGetGuildInfoConfig(chan)
                                 gwOptChanBan = true;
                                 GwDebug(2, 'guild_info: channel defense mode is kick/ban.');
                             else
-                                GwDebug(2, 'guild_info: channel defense mode is none.');
+                                GwDebug(2, 'guild_info: channel defense mode is disabled.');
                             end
                         end
                         
                     end
                                     
-                elseif vector[1] == 'p' then
-        
-                    if vector[2] == gwGuildName then
-                        gwContainerId = vector[3];
-                        GwDebug(2, format('guild_info: container=%s (%s)', gwGuildName, gwContainerId));
-                    else 
-                        gwPeerTable[vector[3]] = vector[2];
-                        GwDebug(2, format('guild_info: peer=%s (%s)', vector[2], vector[3]));
-                    end
-                    
                 end
         
             end
@@ -1143,87 +1230,110 @@ function GreenWall_OnEvent(self, event, ...)
     
         local payload, sender, language, _, _, flags, _, 
                 chanNum, _, _, counter, guid = select(1, ...);
+        
+        GwDebug(3, format('Rx<%d, %d, %s>: %s', chanNum, counter, sender, payload));
+        
+        if chanNum == gwCommonChannel.number or chanNum == gwOfficerChannel.number then
+        
+            local opcode, container, _, message = strsplit('#', payload, 4);
+            
+            if opcode == nil or container == nil or message == nil then
+            
+                GwDebug(3, 'rx_validation: invalid message format.');
                 
-        if chanNum == gwCommonChannel.number then
-        
-            GwDebug(3, format('Rx<%d, %d, %s>: %s', chanNum, counter, sender, payload));
+            else
             
-            local opcode, container, _, message = payload:match('^(%a)#(%w+)#([^#]*)#(.*)');
-            
-            if opcode == 'C' and sender ~= gwPlayerName and container ~= gwContainerId then
-
-                GwReplicateMessage('GUILD', sender, container, language, flags,
-                        message, counter, guid);
-        
-            elseif opcode == 'A' and sender ~= gwPlayerName and container ~= gwContainerId then
-
-                if GreenWall.achievements then
-                    GwReplicateMessage('GUILD_ACHIEVEMENT', sender, container, language, flags, message, counter, guid);
-                end
-
-            elseif opcode == 'B' and sender ~= gwPlayerName and container ~= gwContainerId then
-            
-                local action, target, arg = GwDecodeBroadcast(message);
+                if opcode == 'R' then
                 
-                if action == 'join' then
-                    if GreenWall.roster then
-                        GwReplicateMessage('SYSTEM', sender, container, language, flags, 
-                                format(ERR_GUILD_JOIN_S, sender), counter, guid);
+                    --
+                    -- Incoming request
+                    --
+                    if message:match('^reload(%w.*)?$') then 
+                        local diff = time() - gwReloadHoldTime;
+                        GwWrite(format('Received configuration reload request from %s.', sender));
+                        if diff >= gwReloadHoldInt then
+                            GwDebug(2, 'on_event: initiating reload.');
+                            gwReloadHoldTime = time();
+                            gwCommonChannel.configured = false;
+                            gwOfficerChannel.configured = false;
+                            GuildRoster();
+                        end
                     end
-                elseif action == 'leave' then
-                    if GreenWall.roster then
-                        GwReplicateMessage('SYSTEM', sender, container, language, flags, 
-                                format(ERR_GUILD_LEAVE_S, sender), counter, guid);
+        
+                elseif sender ~= gwPlayerName and container ~= gwContainerId then
+                
+                    if opcode == 'C' then
+        
+                        if chanNum == gwCommonChannel.number then
+                            GwReplicateMessage('GUILD', sender, container, language, flags, message, counter, guid);
+                        elseif chanNum == gwOfficerChannel.number then
+                            GwReplicateMessage('OFFICER', sender, container, language, flags, message, counter, guid);
+                        end
+                        
+                    elseif opcode == 'A' then
+        
+                        if GreenWall.achievements then
+                            GwReplicateMessage('GUILD_ACHIEVEMENT', sender, container, language, flags, message, counter, guid);
+                        end
+        
+                    elseif opcode == 'B' then
+                
+                        local action, target, arg = GwDecodeBroadcast(message);
+                    
+                        if action == 'join' then
+                            if GreenWall.roster then
+                                GwReplicateMessage('SYSTEM', sender, container, language, flags, 
+                                        format(ERR_GUILD_JOIN_S, sender), counter, guid);
+                            end
+                        elseif action == 'leave' then
+                            if GreenWall.roster then
+                                GwReplicateMessage('SYSTEM', sender, container, language, flags, 
+                                        format(ERR_GUILD_LEAVE_S, sender), counter, guid);
+                            end
+                        elseif action == 'remove' then
+                            if GreenWall.rank then
+                                GwReplicateMessage('SYSTEM', sender, container, language, flags, 
+                                        format(ERR_GUILD_REMOVE_SS, target, sender), counter, guid);
+                            end
+                        elseif action == 'promote' then
+                            if GreenWall.rank then
+                                GwReplicateMessage('SYSTEM', sender, container, language, flags, 
+                                        format(ERR_GUILD_PROMOTE_SSS, sender, target, arg), counter, guid);
+                            end
+                        elseif action == 'demote' then
+                            if GreenWall.rank then
+                                GwReplicateMessage('SYSTEM', sender, container, language, flags, 
+                                        format(ERR_GUILD_DEMOTE_SSS, sender, target, arg), counter, guid);
+                            end
+                        end                                
+                
                     end
-                elseif action == 'remove' then
-                    if GreenWall.rank then
-                        GwReplicateMessage('SYSTEM', sender, container, language, flags, 
-                                format(ERR_GUILD_REMOVE_SS, target, sender), counter, guid);
-                    end
-                elseif action == 'promote' then
-                    if GreenWall.rank then
-                        GwReplicateMessage('SYSTEM', sender, container, language, flags, 
-                                format(ERR_GUILD_PROMOTE_SSS, sender, target, arg), counter, guid);
-                    end
-                elseif action == 'demote' then
-                    if GreenWall.rank then
-                        GwReplicateMessage('SYSTEM', sender, container, language, flags, 
-                                format(ERR_GUILD_DEMOTE_SSS, sender, target, arg), counter, guid);
-                    end
-                end                    
-            
-            elseif opcode == 'R' then
-            
-                --
-                -- Incoming request
-                --
-                if message:match('^reload(%w.*)?$') then 
-                    local diff = time() - gwReloadHoldTime;
-                    GwWrite(format('Received configuration reload request from %s.', sender));
-                    if diff >= gwReloadHoldInt then
-                        GwDebug(2, 'on_event: initiating reload.');
-                        gwReloadHoldTime = time();
-                        gwCommonChannel.configured = false;
-                        gwOfficerChannel.configured = false;
-                        GuildRoster();
-                    end
+                    
                 end
-            
+                
             end
-        
-        elseif chanNum == gwOfficerChannel.number then
-        
-            GwDebug(3, format('Rx<%d, %d, %s>: %s', chanNum, counter, sender, payload));
             
-            local opcode, container, _, message = payload:match('^(%a)#(%w+)#([^#]*)#(.*)');
+            --
+            -- Check for corruption of outbound messages on the shared channels (e.g. modification by Identity).
+            --
+            if sender == gwPlayerName then                
             
-            if opcode == 'C' and sender ~= gwPlayerName and container ~= gwContainerId then
-
-                GwReplicateMessage('OFFICER', sender, container, language, flags,
-                        message, counter, guid);
-        
+                local tx_hash = 0;
+                if chanNum == gwCommonChannel.number then
+                    tx_hash = gwCommonChannel.tx_hash;
+                elseif chanNum == gwOfficerChannel.number then
+                    tx_hash = gwOfficerChannel.tx_hash;
+                end
+                
+                rx_hash = GwStringHash(payload);
+                
+                GwDebug(4, format('rx_validate: tx_hash = 0x%04X, rx_hash = 0x%04X', tx_hash, rx_hash));
+                if tx_hash ~= rx_hash then
+                    GwError(format('Message failed due to channel corruption. Please disable add-ons that might modify messages on channel %d.', chanNum));
+                end
+    
             end
-        
+             
         end
         
     elseif event == 'CHAT_MSG_GUILD' then
@@ -1331,7 +1441,8 @@ function GreenWall_OnEvent(self, event, ...)
         GwDebug(5, format('on_event: system message: %s', message));
         
         local jpat = format(ERR_GUILD_JOIN_S, gwPlayerName);
-        local lpat = format(ERR_GUILD_LEAVE_S, gwPlayerName);
+        local qpat = format(ERR_GUILD_LEAVE_RESULT);
+        local kpat = format(ERR_GUILD_REMOVE_SS, gwPlayerName, '(.+)');
         local rpat = format(ERR_GUILD_REMOVE_SS, '(.+)', gwPlayerName);
         local ppat = format(ERR_GUILD_PROMOTE_SSS, gwPlayerName, '(.+)', '(.+)'); 
         local dpat = format(ERR_GUILD_DEMOTE_SSS, gwPlayerName, '(.+)', '(.+)'); 
@@ -1342,17 +1453,17 @@ function GreenWall_OnEvent(self, event, ...)
             GwDebug(1, 'on_event: guild join detected.');
             GwSendConfederationMsg(gwCommonChannel, 'broadcast', GwEncodeBroadcast('join'));
 
-        elseif message:match(lpat) then
+        elseif message:match(qpat) or message:match(kpat) then
         
             -- We have left the guild.
             GwDebug(1, 'on_event: guild quit detected.');
             GwSendConfederationMsg(gwCommonChannel, 'broadcast', GwEncodeBroadcast('leave'));
             if GwIsConnected(gwCommonChannel) then
-                GwLeaveChannel(gwCommonChannel);
+                GwAbandonChannel(gwCommonChannel);
                 gwCommonChannel = GwNewChannelTable();
             end
             if GwIsConnected(gwOfficerChannel) then
-                GwLeaveChannel(gwOfficerChannel);
+                GwAbandonChannel(gwOfficerChannel);
                 gwOfficerChannel = GwNewChannelTable();
             end
 

@@ -1,6 +1,7 @@
 
 DBM_SavedOptions = {
 	["SpecialWarningFontSize"] = 50,
+	["CountdownVoice2"] = "Kolt",
 	["ArrowPosX"] = 0,
 	["HPFramePoint"] = "CENTER",
 	["UseMasterVolume"] = true,
@@ -96,9 +97,9 @@ DBM_SavedOptions = {
 	["DontShowBossAnnounces"] = false,
 	["ArrowPosY"] = -150,
 	["RangeFrameFrames"] = "radar",
-	["AdvancedAutologBosses"] = false,
-	["ShowPizzaMessage"] = true,
 	["RangeFrameSound2"] = "none",
+	["ShowPizzaMessage"] = true,
+	["AdvancedAutologBosses"] = false,
 	["ShowLHFrame"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]

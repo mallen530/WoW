@@ -5,15 +5,21 @@ AdiBagsDB = {
 			["profiles"] = {
 				["Default"] = {
 					["overrides"] = {
-						[95350] = "Miscellaneous#Miscellaneous",
+						[89562] = "Equipment#Red Set",
+						[98175] = "Equipment#Red Set",
+						[47746] = "Equipment#ToC XMog",
+						[95567] = "Miscellaneous#Miscellaneous",
+						[86763] = "Equipment#Red Set",
+						[14560] = "Equipment#Red Set",
+						[86136] = "Equipment#Red Set",
+						[47719] = "Equipment#ToC XMog",
 						[47832] = "Equipment#ToC XMog",
+						[15312] = "Equipment#Red Set",
+						[95350] = "Miscellaneous#Miscellaneous",
 						[2801] = "Trade Goods#Trade Goods",
 						[90347] = "Equipment#ToC XMog",
-						[95567] = "Miscellaneous#Miscellaneous",
-						[47719] = "Equipment#ToC XMog",
-						[47746] = "Equipment#ToC XMog",
 					},
-					["version"] = 1,
+					["version"] = 2,
 				},
 			},
 		},
@@ -40,21 +46,6 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["DataSource"] = {
-		},
-		["Junk"] = {
-			["profiles"] = {
-				["Default"] = {
-					["exclude"] = {
-						[95567] = true,
-						[95568] = true,
-						[94288] = true,
-						[87903] = true,
-						[95491] = true,
-					},
-				},
-			},
-		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -71,6 +62,21 @@ AdiBagsDB = {
 					},
 				},
 			},
+		},
+		["Junk"] = {
+			["profiles"] = {
+				["Default"] = {
+					["exclude"] = {
+						[95567] = true,
+						[95568] = true,
+						[94288] = true,
+						[87903] = true,
+						[95491] = true,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
 		},
 		["ItemSets"] = {
 		},
@@ -99,8 +105,8 @@ AdiBagsDB = {
 		["Orranstout - Aerie Peak"] = "Default",
 		["Orsun - Aerie Peak"] = "Default",
 		["Orazzle - Thrall"] = "Default",
-		["Orstout - Aerie Peak"] = "Default",
 		["Orstout - Thrall"] = "Default",
+		["Orstout - Aerie Peak"] = "Default",
 		["Eammiran - Thrall"] = "Default",
 		["Cajamarca - Thrall"] = "Default",
 		["Orlight - Aerie Peak"] = "Default",
@@ -125,8 +131,8 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemCategory"] = 20,
 			},
-			["rightClickConfig"] = false,
 			["automaticLayout"] = 2,
+			["rightClickConfig"] = false,
 			["sectionFont"] = {
 				["name"] = "SSPro - Bold",
 				["r"] = 0.2352941176470588,

@@ -3,3 +3,4 @@ AskMrRobot: disabled
 Omen: disabled
 TargetCharms: disabled
 WeakAurasTutorials: disabled
+renewing-mist-tracker: disabled

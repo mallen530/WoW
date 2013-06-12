@@ -48,3 +48,17 @@ X: -115
 Y: 197
 W: 32
 H: 32
+Frame: ReMTracker
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 204
+H: 20
+Frame: ReMTrackerCompact
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 96
+H: 46

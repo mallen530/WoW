@@ -11,9 +11,9 @@ RecountDB = {
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
-		["Orstout - Thrall"] = "Orstout - Thrall",
-		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
+		["Eammiran - Thrall"] = "Eammiran - Thrall",
+		["Orstout - Thrall"] = "Orstout - Thrall",
 		["Orazzle - Thrall"] = "Orazzle - Thrall",
 	},
 	["profiles"] = {
@@ -39,9 +39,9 @@ RecountDB = {
 			},
 			["DetailWindowY"] = 0,
 			["LastInstanceName"] = "Throne of Thunder",
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
 		},
 		["Khanen - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -145,15 +145,15 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 402.4357604980469,
-					["h"] = 164.0281982421875,
-					["w"] = 340.0937194824219,
-					["x"] = -689.0866012573242,
+					["y"] = -471.5262222290039,
+					["h"] = 163.9999694824219,
+					["w"] = 339.9998779296875,
+					["x"] = 698.488037109375,
 				},
 			},
 			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Dire Maul",
-			["CurDataSet"] = "CurrentFightData",
+			["LastInstanceName"] = "Utgarde Keep",
+			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -165,10 +165,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
-			["MainWindowVis"] = false,
-			["MainWindowWidth"] = 340.0936889648438,
 			["MainWindowHeight"] = 164.0281829833984,
+			["MainWindowWidth"] = 340.0936889648438,
+			["GraphWindowX"] = 0,
 		},
 		["Orranstout - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
@@ -274,6 +273,57 @@ RecountDB = {
 			["MainWindowWidth"] = 310.8664245605469,
 			["GraphWindowX"] = 0,
 		},
+		["Orstout - Aerie Peak"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -250.7755737304688,
+					["x"] = 576.3011474609375,
+					["w"] = 139.9999694824219,
+					["h"] = 199.9999847412109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["LastInstanceName"] = "Blood in the Snow",
+			["CurDataSet"] = "LastFightData",
+		},
+		["Eammiran - Thrall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 382.2015075683594,
+					["h"] = 200.0001220703125,
+					["w"] = 139.9999847412109,
+					["x"] = -746.4168701171875,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
+		},
 		["Orstout - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
@@ -299,57 +349,6 @@ RecountDB = {
 			["CurDataSet"] = "LastFightData",
 			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
-		},
-		["Eammiran - Thrall"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = 382.2015686035156,
-					["h"] = 200.0001220703125,
-					["w"] = 139.9999847412109,
-					["x"] = -746.4168701171875,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
-			["CurDataSet"] = "OverallData",
-		},
-		["Orstout - Aerie Peak"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -250.7755737304688,
-					["x"] = 576.3011474609375,
-					["w"] = 139.9999694824219,
-					["h"] = 199.9999847412109,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
-			["LastInstanceName"] = "Trial of the Crusader",
-			["CurDataSet"] = "LastFightData",
 		},
 		["Orazzle - Thrall"] = {
 			["GraphWindowY"] = 0,
