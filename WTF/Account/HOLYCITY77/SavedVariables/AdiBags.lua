@@ -10,14 +10,14 @@ AdiBagsDB = {
 						[47746] = "Equipment#ToC XMog",
 						[95567] = "Miscellaneous#Miscellaneous",
 						[86763] = "Equipment#Red Set",
-						[14560] = "Equipment#Red Set",
+						[90347] = "Equipment#ToC XMog",
 						[86136] = "Equipment#Red Set",
 						[47719] = "Equipment#ToC XMog",
 						[47832] = "Equipment#ToC XMog",
-						[15312] = "Equipment#Red Set",
-						[95350] = "Miscellaneous#Miscellaneous",
 						[2801] = "Trade Goods#Trade Goods",
-						[90347] = "Equipment#ToC XMog",
+						[95350] = "Miscellaneous#Miscellaneous",
+						[15312] = "Equipment#Red Set",
+						[14560] = "Equipment#Red Set",
 					},
 					["version"] = 2,
 				},
@@ -30,8 +30,8 @@ AdiBagsDB = {
 						["Recipe"] = true,
 						["Consumable"] = true,
 						["Gem"] = true,
-						["Glyph"] = true,
 						["Trade Goods"] = false,
+						["Glyph"] = true,
 						["Miscellaneous"] = false,
 					},
 				},
@@ -46,39 +46,12 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["CurrencyFrame"] = {
+		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
-					["shown"] = {
-						["Essence of Corrupted Deathwing"] = false,
-						["Ironpaw Token"] = false,
-						["Justice Points"] = false,
-						["Honor Points"] = false,
-						["Mote of Darkness"] = false,
-						["Conquest Points"] = false,
-					},
-					["text"] = {
-						["name"] = "SSPro - Semibold",
-					},
+					["armorTypes"] = true,
 				},
 			},
-		},
-		["Junk"] = {
-			["profiles"] = {
-				["Default"] = {
-					["exclude"] = {
-						[95567] = true,
-						[95568] = true,
-						[94288] = true,
-						[87903] = true,
-						[95491] = true,
-					},
-				},
-			},
-		},
-		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["TidyBags"] = {
 			["profiles"] = {
@@ -87,10 +60,37 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["Equipment"] = {
+		["ItemSets"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
 			["profiles"] = {
 				["Default"] = {
-					["armorTypes"] = true,
+					["exclude"] = {
+						[95567] = true,
+						[95568] = true,
+						[94288] = true,
+						[95491] = true,
+						[87903] = true,
+					},
+				},
+			},
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Essence of Corrupted Deathwing"] = false,
+						["Ironpaw Token"] = false,
+						["Justice Points"] = false,
+						["Honor Points"] = false,
+						["Conquest Points"] = false,
+						["Mote of Darkness"] = false,
+					},
+					["text"] = {
+						["name"] = "SSPro - Semibold",
+					},
 				},
 			},
 		},
@@ -104,12 +104,12 @@ AdiBagsDB = {
 		["Jains - Thrall"] = "Default",
 		["Orranstout - Aerie Peak"] = "Default",
 		["Orsun - Aerie Peak"] = "Default",
-		["Orazzle - Thrall"] = "Default",
-		["Orstout - Thrall"] = "Default",
+		["Orlight - Aerie Peak"] = "Default",
+		["Cajamarca - Thrall"] = "Default",
 		["Orstout - Aerie Peak"] = "Default",
 		["Eammiran - Thrall"] = "Default",
-		["Cajamarca - Thrall"] = "Default",
-		["Orlight - Aerie Peak"] = "Default",
+		["Orstout - Thrall"] = "Default",
+		["Orazzle - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

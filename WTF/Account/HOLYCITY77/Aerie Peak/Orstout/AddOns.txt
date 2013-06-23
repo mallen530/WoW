@@ -9,5 +9,5 @@ clcInfo_Monk: enabled
 clcInfo_Options: enabled
 Omen: enabled
 TargetCharms: enabled
-renewing-mist-tracker: enabled
+renewing-mist-tracker: disabled
 Recount: enabled
