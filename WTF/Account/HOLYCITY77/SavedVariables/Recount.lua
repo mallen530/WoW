@@ -10,8 +10,8 @@ RecountDB = {
 		["Orranstout - Aerie Peak"] = "Orranstout - Aerie Peak",
 		["Orsun - Aerie Peak"] = "Orsun - Aerie Peak",
 		["Orazzle - Thrall"] = "Orazzle - Thrall",
-		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Orstout - Thrall"] = "Orstout - Thrall",
+		["Orstout - Aerie Peak"] = "Orstout - Aerie Peak",
 		["Eammiran - Thrall"] = "Eammiran - Thrall",
 		["Cajamarca - Thrall"] = "Cajamarca - Thrall",
 		["Orlight - Aerie Peak"] = "Orlight - Aerie Peak",
@@ -38,7 +38,7 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Throne of Thunder",
+			["LastInstanceName"] = "Scholomance",
 			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
@@ -47,8 +47,8 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["w"] = 139.9999694824219,
 					["h"] = 200.0000305175781,
+					["w"] = 139.9999694824219,
 				},
 			},
 			["Colors"] = {
@@ -62,10 +62,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
-			["CurDataSet"] = "OverallData",
-			["MainWindowVis"] = false,
 			["DetailWindowX"] = 0,
+			["MainWindowVis"] = false,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
 		},
 		["Quitor - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
@@ -230,48 +230,22 @@ RecountDB = {
 				},
 			},
 			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Temple of the Jade Serpent",
-			["CurDataSet"] = "OverallData",
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["MainWindowHeight"] = 156.5964202880859,
-			["MainWindowWidth"] = 246.0972747802734,
-			["GraphWindowX"] = 0,
-		},
-		["Orstout - Aerie Peak"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -250.7755737304688,
-					["x"] = 576.3011474609375,
-					["w"] = 139.9999694824219,
-					["h"] = 199.9999847412109,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["DetailWindowX"] = 0,
-			["GraphWindowX"] = 0,
-			["LastInstanceName"] = "Terrace of Endless Spring",
+			["LastInstanceName"] = "Stormstout Brewery",
 			["CurDataSet"] = "LastFightData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 246.0972747802734,
+			["MainWindowHeight"] = 156.5964202880859,
 		},
 		["Orstout - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -298,6 +272,32 @@ RecountDB = {
 			["DetailWindowX"] = 0,
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "LastFightData",
+		},
+		["Orstout - Aerie Peak"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -250.7755737304688,
+					["x"] = 576.3011474609375,
+					["w"] = 139.9999694824219,
+					["h"] = 199.9999847412109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Throne of Thunder",
+			["CurDataSet"] = "CurrentFightData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
 		},
 		["Eammiran - Thrall"] = {
 			["GraphWindowY"] = 0,
@@ -336,7 +336,7 @@ RecountDB = {
 			},
 			["DetailWindowX"] = 0,
 			["LastInstanceName"] = "Scarlet Monastery",
-			["CurDataSet"] = "Fight1",
+			["CurDataSet"] = "OverallData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -348,9 +348,9 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 310.8664245605469,
 			["MainWindowHeight"] = 193.2554168701172,
+			["MainWindowWidth"] = 310.8664245605469,
+			["GraphWindowX"] = 0,
 		},
 		["Orlight - Aerie Peak"] = {
 			["GraphWindowY"] = 0,
