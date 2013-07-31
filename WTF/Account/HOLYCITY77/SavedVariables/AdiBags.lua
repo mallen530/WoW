@@ -10,6 +10,7 @@ AdiBagsDB = {
 						[47746] = "Equipment#ToC XMog",
 						[95567] = "Miscellaneous#Miscellaneous",
 						[86763] = "Equipment#Red Set",
+						[95449] = "Miscellaneous#Miscellaneous",
 						[90347] = "Equipment#ToC XMog",
 						[86136] = "Equipment#Red Set",
 						[47719] = "Equipment#ToC XMog",

@@ -11,3 +11,8 @@ Omen: enabled
 TargetCharms: enabled
 renewing-mist-tracker: disabled
 Recount: enabled
+Elementarist: disabled
+DBM-Brawlers: disabled
+DBM-HeartofFear: disabled
+DBM-MogushanVaults: disabled
+DBM-TerraceofEndlessSpring: disabled

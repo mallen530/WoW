@@ -21,10 +21,9 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 310.2578430175781,
-					["h"] = 200.0000305175781,
-					["w"] = 139.9999694824219,
-					["x"] = -134.8945007324219,
+					["y"] = 310.2578125,
+					["x"] = -134.89453125,
+					["w"] = 140.0000152587891,
 				},
 			},
 			["Colors"] = {
@@ -38,17 +37,17 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Scholomance",
-			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Gate of the Setting Sun",
+			["CurDataSet"] = "CurrentFightData",
 			["GraphWindowX"] = 0,
-			["CurDataSet"] = "OverallData",
+			["DetailWindowX"] = 0,
 		},
 		["Khanen - Thrall"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["h"] = 200.0000305175781,
 					["w"] = 139.9999694824219,
+					["h"] = 200.0000305175781,
 				},
 			},
 			["Colors"] = {
@@ -277,12 +276,13 @@ RecountDB = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -250.7755737304688,
-					["x"] = 576.3011474609375,
-					["w"] = 139.9999694824219,
-					["h"] = 199.9999847412109,
+					["y"] = -481.7905731201172,
+					["x"] = 907.8632202148438,
+					["w"] = 271.31640625,
+					["h"] = 159.0683441162109,
 				},
 			},
+			["ReportLines"] = 5,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -294,10 +294,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Throne of Thunder",
-			["CurDataSet"] = "CurrentFightData",
-			["GraphWindowX"] = 0,
 			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "A Brewing Storm",
+			["CurDataSet"] = "LastFightData",
+			["GraphWindowX"] = 0,
 		},
 		["Eammiran - Thrall"] = {
 			["GraphWindowY"] = 0,

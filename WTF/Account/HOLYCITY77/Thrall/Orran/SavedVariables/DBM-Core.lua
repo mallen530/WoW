@@ -55,28 +55,28 @@ DBM_SavedOptions = {
 	["HideBossEmoteFrame"] = false,
 	["ShowCountdownText"] = false,
 	["ShowBigBrotherOnCombatStart"] = false,
-	["RangeFrameRadarY"] = -23.5598030090332,
-	["ShowSpecialWarnings"] = true,
+	["ForumsMessageShown"] = 9413,
+	["ShowEngageMessage"] = true,
 	["WarningColors"] = {
 		{
-			["r"] = 0.41,
-			["g"] = 0.8,
 			["b"] = 0.94,
+			["g"] = 0.8,
+			["r"] = 0.41,
 		}, -- [1]
 		{
-			["r"] = 0.95,
-			["g"] = 0.95,
 			["b"] = 0,
+			["g"] = 0.95,
+			["r"] = 0.95,
 		}, -- [2]
 		{
-			["r"] = 1,
-			["g"] = 0.5,
 			["b"] = 0,
+			["g"] = 0.5,
+			["r"] = 1,
 		}, -- [3]
 		{
-			["r"] = 1,
-			["g"] = 0.1,
 			["b"] = 0.1,
+			["g"] = 0.1,
+			["r"] = 1,
 		}, -- [4]
 	},
 	["ChatFrame"] = "DEFAULT_CHAT_FRAME",
@@ -85,7 +85,7 @@ DBM_SavedOptions = {
 	["InfoFrameShowSelf"] = false,
 	["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
 	["DontShowPTCountdownText"] = false,
-	["ShowRecoveryMessage"] = true,
+	["DontShowInfoFrame"] = false,
 	["RangeFrameLocked"] = false,
 	["ShowFakedRaidWarnings"] = false,
 	["LatencyThreshold"] = 250,
@@ -94,15 +94,15 @@ DBM_SavedOptions = {
 	["UseMasterVolume"] = true,
 	["HPFrameMaxEntries"] = 5,
 	["SetPlayerRole"] = true,
-	["DontSendBossWhispers"] = false,
+	["HealthFrameLocked"] = false,
 	["RangeFramePoint"] = "CENTER",
 	["WarningIconChat"] = true,
 	["DontShowBossAnnounces"] = false,
 	["ArrowPosY"] = -150,
-	["RangeFrameFrames"] = "radar",
-	["RangeFrameSound2"] = "none",
+	["BlockVersionUpdateNotice"] = false,
+	["RangeFrameRadarX"] = -209.7706451416016,
 	["ShowPizzaMessage"] = true,
-	["AdvancedAutologBosses"] = false,
+	["RangeFrameSound2"] = "none",
 	["ShowLHFrame"] = true,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
@@ -111,22 +111,22 @@ DBM_SavedOptions = {
 	},
 	["DontShowPTText"] = false,
 	["Enabled"] = true,
-	["RangeFrameRadarX"] = -209.7706451416016,
-	["BlockVersionUpdateNotice"] = false,
+	["AdvancedAutologBosses"] = false,
+	["RangeFrameFrames"] = "radar",
 	["DisableCinematics"] = false,
 	["MovieFilters"] = {
 	},
-	["HealthFrameLocked"] = false,
+	["DontSendBossWhispers"] = false,
 	["ShowWipeMessage"] = true,
 	["LogOnlyRaidBosses"] = false,
 	["StripServerName"] = true,
-	["DontShowInfoFrame"] = false,
+	["ShowRecoveryMessage"] = true,
 	["AlwaysShowHealthFrame"] = false,
 	["HPFrameX"] = -198.4366302490234,
 	["ChallengeBest"] = "Realm",
 	["SpamBlockBossWhispers"] = false,
-	["ShowEngageMessage"] = true,
-	["ForumsMessageShown"] = 9413,
+	["ShowSpecialWarnings"] = true,
+	["RangeFrameRadarY"] = -23.5598030090332,
 }
 DBT_SavedOptions = {
 	["DBM"] = {

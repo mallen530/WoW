@@ -48,12 +48,12 @@ Postal3DB = {
 		},
 		["Khanen - Thrall"] = {
 			["BlackBook"] = {
-				["AutoCompleteGuild"] = false,
 				["recent"] = {
 					"Eammiran|Thrall|Horde", -- [1]
 					"Duelist|Thrall|Horde", -- [2]
 					"Orran|Thrall|Horde", -- [3]
 				},
+				["AutoCompleteGuild"] = false,
 			},
 		},
 		["Quitor - Aerie Peak"] = {
@@ -85,6 +85,7 @@ Postal3DB = {
 		},
 		["Orstout - Aerie Peak"] = {
 			["BlackBook"] = {
+				["AutoCompleteGuild"] = false,
 				["recent"] = {
 					"Kloros|Aerie Peak|Alliance", -- [1]
 					"Quitkrying|Aerie Peak|Alliance", -- [2]
@@ -92,7 +93,6 @@ Postal3DB = {
 					"Wrimtok|Aerie Peak|Alliance", -- [4]
 					"Azuba|Aerie Peak|Alliance", -- [5]
 				},
-				["AutoCompleteGuild"] = false,
 			},
 		},
 		["Orstout - Thrall"] = {
